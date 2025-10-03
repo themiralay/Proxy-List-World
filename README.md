@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|18|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|18|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|181.209.111.84|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
