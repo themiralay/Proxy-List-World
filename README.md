@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|2|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|7|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|8|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|35.243.0.249|10096|United States|Los Angeles|Google LLC|
-|12|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|201.159.111.121|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
-|15|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
-|16|67.211.221.112|3128|United States|Secaucus|Interserver, Inc|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|35.243.0.249|10096|United States|Los Angeles|Google LLC|
+|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|157.66.221.103|39099|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|176.117.104.69|8080|Turkey|Istanbul|Highspeed ISP|
+|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
