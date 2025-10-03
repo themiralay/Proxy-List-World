@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|202.181.16.173|3325|Bangladesh|Gaurnadi|Level3 Carrier Limited|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|15|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|171.231.57.182|10005|Vietnam|Pleiku|Viettel Corporation|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|117.7.195.193|11991|Vietnam|Hanoi|Viettel Group|
+|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|13|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|103.36.11.21|8080|Indonesia|Gunungjulang|PT Awinet Global Mandiri|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|103.81.194.161|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 
 
 
