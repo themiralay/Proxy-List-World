@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|15|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|124.83.43.145|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|18|103.126.174.187|8080|Indonesia|Kedaton|MEGARAP|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
