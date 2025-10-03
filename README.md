@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|19|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|20|115.74.10.144|10001|Vietnam|Vũng Tàu|VIETELxdsl|
 
 
 
