@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|103.48.71.2|84|India|Hyderabad|Country Online Services PVT LTD|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|17|103.14.231.214|3188|Indonesia|Menggala|PT Internet Corp Ltd|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
