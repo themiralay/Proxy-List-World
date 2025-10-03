@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |10|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|13|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
 
 
 
