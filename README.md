@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|11|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|20|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|202.5.54.70|2727|Bangladesh|Barishal|BBTS-NEW|
 
 
 
