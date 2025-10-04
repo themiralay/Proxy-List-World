@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|749|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|749|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|749|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|785|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|785|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|785|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|222.253.19.1|20499|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
