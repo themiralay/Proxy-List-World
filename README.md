@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|970|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|970|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|970|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|890|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|890|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|890|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
 |12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
 |14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
