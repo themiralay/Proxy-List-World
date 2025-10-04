@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|719|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|719|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|719|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
 |10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|119.93.81.143|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
