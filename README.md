@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|839|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|839|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|839|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|795|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|795|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|795|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|20.103.12.177|3128|Netherlands|Amsterdam|Microsoft Corporation|
 |16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|19|103.124.227.161|12454|Bangladesh|Habiganj|Level3|
-|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
