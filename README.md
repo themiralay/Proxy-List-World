@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|745|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|745|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|745|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|789|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|789|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|789|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|171.7.22.92|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|19|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
