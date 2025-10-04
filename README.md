@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
+|8|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|14|35.243.0.214|10028|United States|Los Angeles|Google LLC|
-|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|16|35.243.0.213|80|United States|Los Angeles|Google LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|35.243.0.214|10028|United States|Los Angeles|Google LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
