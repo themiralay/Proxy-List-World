@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|35.243.0.213|80|United States|Los Angeles|Google LLC|
-|11|35.243.0.214|10028|United States|Los Angeles|Google LLC|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|69.164.194.19|3128|United States|Richardson|Akamai Technologies, Inc.|
-|20|185.49.243.130|3128|Russia|Matveyev Kurgan|INNOVATIVE|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|4.239.94.226|3128|Canada|Québec|Microsoft Corporation|
+|12|35.243.0.213|80|United States|Los Angeles|Google LLC|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|35.243.0.214|10028|United States|Los Angeles|Google LLC|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
