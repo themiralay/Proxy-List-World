@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|35.243.0.249|10001|United States|Los Angeles|Google LLC|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|27.79.252.101|4002|Vietnam|Hanoi|Viettel Corporation|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|12|35.243.0.249|10015|United States|Los Angeles|Google LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|203.96.226.154|8080|Bangladesh|Dhaka|House# 06|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
