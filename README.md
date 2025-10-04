@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|762|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|796|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|796|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|796|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|123.200.9.49|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|20|103.198.120.226|3128|Indonesia|Jakarta|ROKA|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|12|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|14|113.11.64.18|43969|Bangladesh|Dhaka|BDCOM Online Limited|
+|15|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|112.198.128.159|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
