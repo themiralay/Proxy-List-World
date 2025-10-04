@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|3|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
-|7|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|10|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|202.5.40.57|2727|Bangladesh|Chittagong|BBTS-NEW|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|19|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|20|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|47.250.45.174|3128|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|7|163.223.172.27|1080|Indonesia|Pelaihari|PT FAFI UIFI NETWORK|
+|8|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|38.194.246.34|999|Mexico|León|Cogent Communications|
+|11|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|12|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|38.41.12.89|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|15|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|17|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
+|18|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|19|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
