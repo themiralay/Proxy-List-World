@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|113.11.32.102|43969|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|145.223.117.178|3128|Germany|Frankfurt am Main|HOSTINGER DE|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|202.5.60.201|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|19|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|157.66.251.228|8097|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
+|14|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|202.5.60.211|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
