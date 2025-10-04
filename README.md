@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|930|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|930|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|930|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|903|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|903|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|903|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.198.120.226|3128|Indonesia|Jakarta|ROKA|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|202.5.60.199|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|103.167.168.62|8097|Indonesia|Welahan|PT Argon Internet Amariqindo|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|113.11.64.18|43969|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|117.7.195.193|11991|Vietnam|Hanoi|Viettel Group|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
