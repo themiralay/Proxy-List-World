@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|12|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|43.224.118.130|2525|Bangladesh|Dhaka|Next Online|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|14|49.49.60.162|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|103.245.205.226|1515|Bangladesh|Bhātāra|Next Online Limited|
+|18|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|19|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
