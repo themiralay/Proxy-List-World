@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|12|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
-|13|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|79.127.54.89|3130|Iran|Tehran|Asiatech Data Transmission company|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|103.245.205.226|1515|Bangladesh|Bhātāra|Next Online Limited|
-|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|202.5.40.57|2727|Bangladesh|Chittagong|BBTS-NEW|
+|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|49.49.60.162|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|15|160.20.128.7|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
+|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|17|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|119.18.151.226|2626|Bangladesh|Comilla|BBTS Network|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
 
 
 
