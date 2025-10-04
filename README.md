@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78433** proxies at the latest update. Usable proxies are below.
+> Scraper found **78330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37368|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37265|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39722|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|154.12.231.32|80|United States|St Louis|Contabo Inc.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|14|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|15|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
