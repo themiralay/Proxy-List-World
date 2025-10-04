@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|113.11.32.102|43969|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
+|10|103.129.148.237|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|11|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|115.74.10.144|10001|Vietnam|Vũng Tàu|VIETELxdsl|
-|16|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|17|103.173.164.10|7777|Indonesia|Pati|PT Pusat Net Media|
-|18|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|124.158.186.254|8080|Indonesia|Jakarta|PT Jala Lintas Media|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|202.5.60.211|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|20|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
 
 
 
