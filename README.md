@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|18|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 
 
 
