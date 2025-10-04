@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|662|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|662|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|662|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|103.4.164.109|8080|Indonesia|Jakarta|FIBERNET|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|119.18.144.131|2727|Bangladesh|Chittagong|BBTS Network|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 |16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|115.74.10.144|10001|Vietnam|Vũng Tàu|VIETELxdsl|
 |18|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|19|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|20|202.5.60.76|2314|Bangladesh|Sonargaon|BBTS-NEW|
+|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|20|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
