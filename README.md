@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|35.243.0.213|80|United States|Los Angeles|Google LLC|
+|14|35.243.0.214|10028|United States|Los Angeles|Google LLC|
+|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|16|35.243.0.245|10101|United States|Los Angeles|Google LLC|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+
 
 
 ## Contributing
