@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|612|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|612|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|612|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|163.223.172.27|1080|Indonesia|Pelaihari|PT FAFI UIFI NETWORK|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|202.5.40.57|2727|Bangladesh|Chittagong|BBTS-NEW|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
-|12|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|202.5.57.37|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|19|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|49.49.60.162|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|202.5.40.57|2727|Bangladesh|Chittagong|BBTS-NEW|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|119.18.146.215|2727|Bangladesh|Nowlamary|BBTS Network|
+|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
+|18|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
+|19|122.53.64.156|8081|Philippines|San Fernando City|Philippine Long Distance Telephone Co.|
+|20|189.229.141.58|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
 
 
 
