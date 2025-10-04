@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|117.7.195.193|11991|Vietnam|Hanoi|Viettel Group|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
