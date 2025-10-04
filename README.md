@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1081|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1081|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1081|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|6|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|18|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
