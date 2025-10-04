@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78741** proxies at the latest update. Usable proxies are below.
+> Scraper found **78894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|682|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|682|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|682|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|731|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|731|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|731|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37520|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37673|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39878|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|108.61.250.163|5555|Japan|Minamishinagawa|Choopa|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|223.206.52.27|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|14|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|18|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|19|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|8|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|223.206.52.27|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 
 
 
