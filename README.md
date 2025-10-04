@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|15|35.243.0.249|10074|United States|Los Angeles|Google LLC|
-|16|35.243.0.249|10074|United States|Los Angeles|Google LLC|
-|17|35.243.0.249|10074|United States|Los Angeles|Google LLC|
-|18|35.243.0.249|10074|United States|Los Angeles|Google LLC|
-|19|103.124.227.161|12454|Bangladesh|Habiganj|Level3|
-|20|35.243.0.249|10074|United States|Los Angeles|Google LLC|
+|4|115.74.10.144|10001|Vietnam|Vũng Tàu|VIETELxdsl|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|27.79.252.101|4002|Vietnam|Hanoi|Viettel Corporation|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|103.124.227.161|12454|Bangladesh|Habiganj|Level3|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|103.250.70.190|2525|Bangladesh|Gaibandha|Next Online Ltd|
 
 
 
