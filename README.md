@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|103.198.120.226|3128|Indonesia|Jakarta|ROKA|
-|9|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|10|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|11|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|202.5.60.199|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|15|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|103.171.255.188|8080|Indonesia|Godean|ZKI|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|14|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|17|91.196.77.190|8080|Uzbekistan|Tashkent|Iplus LLC|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
