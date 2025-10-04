@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|103.124.227.161|12454|Bangladesh|Habiganj|Level3|
-|17|31.97.136.54|3128|United States|Boston|Hostinger International Limited|
-|18|202.5.56.137|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|202.5.32.137|2727|Bangladesh|Bāndarban|BBTS-NEW|
+|4|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.79.252.101|4002|Vietnam|Hanoi|Viettel Corporation|
+|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|15|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|17|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
