@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|727|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|727|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|727|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|10|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|142.171.127.232|7890|United States|Los Angeles|Multacom Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
