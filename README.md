@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|798|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|798|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|798|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|812|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|812|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|812|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|5|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
 |6|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|27.147.134.70|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 |14|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
-|15|160.19.18.209|8080|Indonesia|Singosari|PT Indo Telemedia Solusi|
-|16|103.167.168.62|8097|Indonesia|Welahan|PT Argon Internet Amariqindo|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
-|19|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|20|79.127.54.89|3130|Iran|Tehran|Asiatech Data Transmission company|
+|15|123.200.9.50|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|77.37.41.135|3128|Brazil|São Paulo|Hostinger International Limited|
+|20|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
