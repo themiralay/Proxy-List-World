@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|803|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|803|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|803|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|843|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|843|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|843|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|3|211.175.140.8|8000|South Korea|Gwangmyeong|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|103.198.120.226|3128|Indonesia|Jakarta|ROKA|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|202.181.16.173|3325|Bangladesh|Gaurnadi|Level3 Carrier Limited|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.22.99.138|3125|Indonesia|Ponorogo|KHALISTAGROUP|
 
 
 
