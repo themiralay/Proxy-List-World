@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|633|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|633|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|633|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|10|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|14|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|18|178.17.62.152|8833|Germany|Frankfurt am Main|Partner Hosting LTD|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
