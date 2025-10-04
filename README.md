@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|14|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|27.79.252.101|4002|Vietnam|Hanoi|Viettel Corporation|
+|9|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
+|10|103.115.243.41|6212|Bangladesh|Gazipur|Digi Jadoo Broadband Limited|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.171.255.60|8080|Indonesia|Sleman|ZKI|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|16|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
 
 
 
