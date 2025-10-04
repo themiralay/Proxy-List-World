@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|960|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|960|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|960|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|914|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|914|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|914|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|14|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|139.5.155.245|57412|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
-|16|45.224.97.227|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|8|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|9|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|118.179.5.177|6248|Bangladesh|Dhaka|Alo Communications limited|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
