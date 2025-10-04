@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|35.243.0.213|80|United States|Los Angeles|Google LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
 |14|35.243.0.214|10028|United States|Los Angeles|Google LLC|
-|15|35.243.0.243|10030|United States|Los Angeles|Google LLC|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|15|35.243.0.213|80|United States|Los Angeles|Google LLC|
+|16|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|19|35.243.0.243|10094|United States|Los Angeles|Google LLC|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
