@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|589|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|589|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|589|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
