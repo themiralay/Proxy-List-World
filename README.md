@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|103.184.54.163|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
