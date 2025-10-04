@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|756|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|756|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|756|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|35.243.0.213|80|United States|Los Angeles|Google LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|35.243.0.214|10028|United States|Los Angeles|Google LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|35.243.0.243|10094|United States|Los Angeles|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
+|12|35.243.0.213|80|United States|Los Angeles|Google LLC|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|35.243.0.214|10028|United States|Los Angeles|Google LLC|
+|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|35.243.0.243|10051|United States|Los Angeles|Google LLC|
+|18|200.0.183.33|8080|Argentina|Mar del Plata|Universidad Nacional de Mar del Plata|
+|19|45.77.99.40|8990|United States|Piscataway|The Constant Company|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
