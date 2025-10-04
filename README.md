@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|14|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|103.126.86.122|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|18|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|20|163.223.230.92|39089|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|119.18.144.131|2727|Bangladesh|Chittagong|BBTS Network|
+|13|113.11.32.102|43969|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|18|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|19|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|20|103.162.141.85|8888|Indonesia|Sekupang|PT Filltech Antar Nusa|
 
 
 
