@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|157.66.2.153|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
-|12|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|202.5.40.57|2727|Bangladesh|Chittagong|BBTS-NEW|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|79.127.54.89|3130|Iran|Tehran|Asiatech Data Transmission company|
-|18|103.175.237.234|3128|Indonesia|Selorok|PT Marva Global Telekomunikasi|
-|19|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|163.223.172.27|1080|Indonesia|Pelaihari|PT FAFI UIFI NETWORK|
+|17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 
 
 
