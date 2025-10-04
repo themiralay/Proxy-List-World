@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
-|11|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
-|12|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|87.106.144.63|3128|Germany|Berlin|IONOS SE ber.de|
+|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|10|116.96.250.131|9000|Vietnam|Bắc Ninh|Viettel Corporation|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|18|49.13.122.153|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|222.253.19.1|20499|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
