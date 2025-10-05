@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|11|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
-|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.124.197.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
 
 
 
