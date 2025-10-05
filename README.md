@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|12|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|146.196.98.50|37777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|14|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|103.150.185.216|8080|Hong Kong|Mong Kok|HK TESUCH GLOBAL CO., LIMITED|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|20|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
 
 
 
