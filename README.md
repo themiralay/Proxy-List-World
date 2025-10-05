@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 |8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|10|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|15|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|20|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
