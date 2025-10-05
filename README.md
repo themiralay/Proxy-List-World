@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|732|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|732|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|732|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|763|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|763|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|763|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|17|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|18|171.7.22.92|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|14|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
