@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|792|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|792|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|792|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|826|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|826|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|826|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|10|35.243.1.4|443|United States|Los Angeles|Google LLC|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|5|35.243.1.4|443|United States|Los Angeles|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|14|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|15|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
