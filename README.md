@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78760** proxies at the latest update. Usable proxies are below.
+> Scraper found **78718** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|768|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|768|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|768|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|714|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|714|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|714|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37453|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37411|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|243|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39864|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|35.243.1.4|443|United States|Los Angeles|Google LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|223.205.117.97|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|35.243.1.4|443|United States|Los Angeles|Google LLC|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
 
 
 
