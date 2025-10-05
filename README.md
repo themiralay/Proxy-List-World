@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|700|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|700|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|700|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |12|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|123.200.7.194|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|15|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 |19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
