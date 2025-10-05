@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|8|137.59.49.248|2525|Bangladesh|Azimpur|Bijoy Online Ltd|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|14|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|15|137.59.49.205|2525|Bangladesh|Azimpur|Bijoy Online Ltd|
-|16|210.16.85.42|8080|India|Kumarapalayam|Sri Vari Network Private Limited|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
-|20|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
+|4|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
+|9|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
+|13|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
+|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
