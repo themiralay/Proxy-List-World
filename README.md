@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|16|36.89.158.93|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|137.59.49.205|2525|Bangladesh|Azimpur|Bijoy Online Ltd|
-|18|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|19|216.238.75.89|999|Mexico|Querétaro City|The Constant Company|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|8|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
+|17|186.96.68.180|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|14.171.112.6|8080|Vietnam|Ha Long|VNPT-VNNIC|
+|19|103.215.187.112|1080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|20|103.185.43.242|8080|Indonesia|Madiun|PT Awinet Global Mandiri|
 
 
 
