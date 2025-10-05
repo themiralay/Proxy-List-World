@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|9|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|17|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
