@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.156.249.34|8080|Indonesia|Krian|Trans Media Telekomunikasi|
-|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|20|59.153.18.93|8080|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|7|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|103.156.249.34|8080|Indonesia|Krian|Trans Media Telekomunikasi|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|147.185.221.19|14365|United States|Carson City|Developed Methods LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
