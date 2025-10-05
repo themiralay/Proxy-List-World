@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78661** proxies at the latest update. Usable proxies are below.
+> Scraper found **78961** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39765|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40065|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|9|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |11|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|12|109.248.59.70|1080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
-|13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|14|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|15|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|58.147.186.218|8081|Indonesia|Kota Sambas|PT. Transhybrid Communication|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.87.85.198|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
 
 
 
