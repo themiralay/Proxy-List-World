@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|769|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|769|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|769|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
+|4|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|11|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
