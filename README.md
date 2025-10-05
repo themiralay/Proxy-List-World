@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
 |5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|17|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|18|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|17|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
