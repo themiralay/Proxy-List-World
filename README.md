@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|802|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|802|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|802|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|853|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|853|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|853|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|18|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
