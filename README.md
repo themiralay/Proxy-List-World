@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|5|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|7|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|3|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|6|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 |12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 |13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|15|103.145.34.147|8099|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|202.136.89.228|8080|Bangladesh|Savar Upazila|Circle Network|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
