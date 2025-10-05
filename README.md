@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|180.191.16.233|8082|Philippines|Cabanatuan City|Globe Telecom|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
-|17|103.124.197.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|18|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|124.217.66.122|8082|Philippines|Mexico|Philippine Long Distance Telephone Co.|
-|20|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|10|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|103.35.108.250|2024|Bangladesh|Sirajganj|Ranks ITT|
+|15|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
+|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|17|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.76.107.3|8085|Indonesia|Patuk|PT Geka Solusi Utama|
 
 
 
