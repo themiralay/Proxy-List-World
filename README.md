@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|14|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|140.174.52.105|7897|United States|Los Angeles|NTT DATA|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|12|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
+|17|43.209.8.12|9028|Thailand|Bangkok|Amazon.com, Inc.|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
