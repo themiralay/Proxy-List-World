@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|14|163.223.230.92|39089|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|123.200.7.194|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
