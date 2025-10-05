@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|764|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|764|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|764|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|732|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|732|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|732|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|35.243.1.4|443|United States|Los Angeles|Google LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|35.243.1.4|443|United States|Los Angeles|Google LLC|
+|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|15|27.79.252.101|4001|Vietnam|Hanoi|Viettel Corporation|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 
 
 
