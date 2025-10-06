@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|160.22.65.16|202|Indonesia|Merakurak|Lintas Data Prima, PT|
 |8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|206.81.27.105|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|185.130.226.55|1080|The Netherlands|Amsterdam|Hostkey BV direct|
+|18|109.248.59.70|1080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
