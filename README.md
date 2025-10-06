@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|891|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|891|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|891|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|894|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|894|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|894|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|164.70.92.241|3172|Japan|Chiyoda City|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|116.101.76.130|2058|Vietnam|Nam Định|Viettel Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 |12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|16|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|17|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|18|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|13|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|19|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
