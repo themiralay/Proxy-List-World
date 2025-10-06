@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
+|16|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
+|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|18|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
