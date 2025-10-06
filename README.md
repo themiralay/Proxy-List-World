@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|223.205.73.218|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|18|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|15|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|223.205.73.218|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|101.255.210.1|1111|Indonesia|Cileungsir|PT Remala Abadi|
+|19|14.241.133.207|8080|Vietnam|Tam Kỳ|VNPT|
+|20|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
