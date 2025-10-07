@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|866|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|866|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|866|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|870|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|870|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|870|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|182.253.109.212|8080|Indonesia|Semarang|Biznet Metronet|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|13|182.253.109.212|8080|Indonesia|Semarang|Biznet Metronet|
+|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 |15|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|180.149.232.153|61245|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
