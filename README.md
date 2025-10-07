@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|11|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|151.80.147.171|3128|France|Roubaix|OVH SAS|
-|15|185.203.238.120|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|103.166.158.33|8080|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|17|35.243.0.245|10093|United States|Los Angeles|Google LLC|
-|18|46.161.194.74|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|19|35.243.0.243|10000|United States|Los Angeles|Google LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|35.243.0.245|10093|United States|Los Angeles|Google LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
