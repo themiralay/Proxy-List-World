@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|929|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|929|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|929|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|883|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|883|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|883|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
-|4|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|15.168.235.57|10061|Japan|Osaka|Amazon Technologies Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|2|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|14|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.247.23.239|8080|Indonesia|Wonosobo|PT wifian Solution|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|89.107.10.73|3128|Germany|Frankfurt| Miglovets Egor Andreevich|
 
 
 
