@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|938|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|938|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|938|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|928|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|928|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|928|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.118.82|3172|Japan|Chiyoda City|InfoSphere|
 |3|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|14|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|19|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|19|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
