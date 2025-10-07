@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|930|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|930|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|930|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1014|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1014|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1014|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
-|4|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|143.198.147.156|2626|United States|Santa Clara|DigitalOcean, LLC|
-|12|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|103.199.117.162|771|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|5|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
+|6|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|19|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|20|103.159.96.183|1080|Indonesia|Caruban|PT Jinde Grup Indonesia|
 
 
 
