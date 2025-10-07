@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|193.46.217.79|3128|United States|Fremont|ZhouyiSat Communications|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|14|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
