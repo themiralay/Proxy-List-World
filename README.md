@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1303|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|116.101.76.139|2075|Vietnam|Nam Định|Viettel Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.229.254.221|8181|Indonesia|Jakarta|PT. Media Antar Nusa|
-|6|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.199.117.162|771|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
+|10|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|35.243.0.245|10014|United States|Los Angeles|Google LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|14|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|15|143.189.6.174|8080|Japan|Honchō|Sony Network Communications Inc|
+|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
