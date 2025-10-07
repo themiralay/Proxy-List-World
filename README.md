@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|35.243.0.245|10089|United States|Los Angeles|Google LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|103.193.144.16|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
-|17|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|20|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|16|38.183.146.143|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|13.247.64.55|10397|South Africa|Johannesburg|Amazon Technologies Inc.|
+|19|35.243.0.243|10074|United States|Los Angeles|Google LLC|
+|20|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 
 
 
