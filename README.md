@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|852|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|852|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|852|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|855|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|855|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|855|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|15.235.162.226|3128|Singapore|Singapore|OVH SAS|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |12|135.125.97.184|46107|France|Wattrelos|OVH SAS|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|103.175.240.87|8090|Indonesia|Sleman|LDP|
-|20|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|64.176.6.165|13920|Chile|Santiago|The Constant Company|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|19|35.243.0.243|10066|United States|Los Angeles|Google LLC|
+|20|35.243.0.245|10042|United States|Los Angeles|Google LLC|
 
 
 
