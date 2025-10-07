@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|745|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|745|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|745|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|771|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|771|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|771|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|12|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|177.234.192.14|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|14|103.189.197.83|8181|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|135.125.97.184|46107|France|Wattrelos|OVH SAS|
+|20|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
 
 
 
