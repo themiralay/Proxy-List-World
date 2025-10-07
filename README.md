@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|857|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|857|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|857|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|842|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|842|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|842|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.118.82|3172|Japan|Chiyoda City|InfoSphere|
-|2|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|164.70.118.82|3172|Japan|Chiyoda City|InfoSphere|
+|3|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|103.171.255.246|8080|Indonesia|Sleman|ZKI|
 |13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|20|79.175.133.162|3128|Iran|Tehran|AFranet Co|
+|14|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
 
 
 
