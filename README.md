@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|907|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|907|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|907|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|887|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|887|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|887|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
 |7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|3.234.200.164|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|14.143.130.210|1111|India|Bengaluru|Tata Communications Limited|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|19|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
