@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|1|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|17|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|18|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|17|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|19|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|20|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
