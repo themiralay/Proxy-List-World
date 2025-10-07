@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|17|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|18|36.255.87.222|84|India|Bengaluru|Gatik Business Solutions|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|14|103.133.26.100|8181|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|15|191.96.96.223|8080|The Netherlands|Ede|Triple Interactive B.V.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
