@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|923|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|923|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|923|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|951|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|951|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|951|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|6|103.171.255.89|8080|Indonesia|Sleman|ZKI|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|18|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|4|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
