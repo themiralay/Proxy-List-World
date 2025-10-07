@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|788|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|788|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|788|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|752|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|752|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|752|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|13|35.243.0.245|10026|United States|Los Angeles|Google LLC|
-|14|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|35.243.0.245|10026|United States|Los Angeles|Google LLC|
-|18|35.243.0.245|10026|United States|Los Angeles|Google LLC|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|35.243.0.245|10026|United States|Los Angeles|Google LLC|
+|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|35.243.0.245|10115|United States|Los Angeles|Google LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|35.243.0.249|10061|United States|Los Angeles|Google LLC|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
