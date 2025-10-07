@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|810|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|810|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|810|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|841|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|841|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|841|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|11|15.235.162.226|3128|Singapore|Singapore|OVH SAS|
-|12|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|16|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|12|163.223.79.35|8080|Indonesia|Ngantru|PT Big Network Indonesia|
+|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|135.125.97.184|46107|France|Wattrelos|OVH SAS|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|20|103.191.196.205|1111|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
 
 
 
