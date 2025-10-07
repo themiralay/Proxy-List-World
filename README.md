@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78461** proxies at the latest update. Usable proxies are below.
+> Scraper found **78761** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|935|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|935|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|935|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|992|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|992|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|992|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37391|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|272|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|27.74.215.131|30509|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|19|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 
 
 
