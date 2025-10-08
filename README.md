@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|38.211.24.146|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|147.135.222.208|3128|France|Strasbourg|OVH SAS|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
