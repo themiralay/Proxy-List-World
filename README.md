@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1287|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 |4|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
-|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |20|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
