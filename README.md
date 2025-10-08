@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|19|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|16|46.101.92.46|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|19|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
 
 
 
