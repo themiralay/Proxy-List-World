@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|17|118.179.5.177|6248|Bangladesh|Dhaka|Alo Communications limited|
-|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|69.75.140.157|8080|United States|Bellflower|Spectrum|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
