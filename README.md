@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|202.5.36.241|1628|Bangladesh|Comilla|BBTS-NEW|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|19|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
+|17|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|18|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|19|103.187.227.102|8082|Indonesia|Jujur|PT Arsya Bintang Nusantara|
+|20|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
 
 
 
