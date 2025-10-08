@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.184.50.101|8989|Indonesia|Sragen|PT Aktech Digital Solutions|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|102.164.252.150|8080|Equatorial Guinea|Bata|Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial|
-|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|8|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|54.199.199.66|15415|Japan|Tokyo|Amazon.com, Inc.|
+|15|124.217.99.91|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|16|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
