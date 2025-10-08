@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|11|182.253.109.183|8080|Indonesia|Semarang|Biznet Metronet|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|103.87.185.39|8080|Indonesia|Jakarta|FIBERSTAR|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|182.253.109.183|8080|Indonesia|Semarang|Biznet Metronet|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|121.101.132.181|7777|Indonesia|Godean|PT SELARAS CITRA TERABIT|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 |20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
