@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|16|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|202.181.16.173|3325|Bangladesh|Gaurnadi|Level3 Carrier Limited|
+|19|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
