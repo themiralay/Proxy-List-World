@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|182.253.109.183|8080|Indonesia|Semarang|Biznet Metronet|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|182.253.109.183|8080|Indonesia|Semarang|Biznet Metronet|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
