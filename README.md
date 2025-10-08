@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |17|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
