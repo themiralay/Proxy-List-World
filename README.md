@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|977|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|977|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|977|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|954|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|954|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|954|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 |4|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
 |15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|20|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|17|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
 
 
 
