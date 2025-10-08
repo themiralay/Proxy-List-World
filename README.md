@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|629|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|629|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|629|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.172.42.175|8085|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|10|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
