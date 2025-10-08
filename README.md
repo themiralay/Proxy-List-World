@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|6|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
