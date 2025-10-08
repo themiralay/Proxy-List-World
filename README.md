@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|17|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
-|18|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|19|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|160.22.134.39|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
+|17|103.72.89.27|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|181.78.97.112|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
