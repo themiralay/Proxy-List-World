@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1025|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1025|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1025|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1043|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1043|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1043|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|12|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 |13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|68.13.98.191|8888|United States|Omaha|Cox Communications Inc.|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
