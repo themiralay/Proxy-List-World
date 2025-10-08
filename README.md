@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|16|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|13.247.64.55|10397|South Africa|Johannesburg|Amazon Technologies Inc.|
-|20|35.243.0.243|10121|United States|Los Angeles|Google LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|45.123.142.83|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
+|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
 
 
 
