@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|103.82.93.219|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|20|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
 
 
 
