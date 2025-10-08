@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41310** proxies at the latest update. Usable proxies are below.
+> Scraper found **78532** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37222|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40007|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|3|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|20|103.159.96.183|1080|Indonesia|Caruban|PT Jinde Grup Indonesia|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|42.98.208.100|8080|Hong Kong|Hang Hau|PCCW IMS Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|180.191.32.212|8082|Philippines|Cabanatuan City|Globe Telecom|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|19|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
