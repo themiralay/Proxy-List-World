@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|103.189.254.71|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |12|182.253.109.183|8080|Indonesia|Semarang|Biznet Metronet|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
