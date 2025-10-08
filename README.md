@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|54.199.199.66|15415|Japan|Tokyo|Amazon.com, Inc.|
+|15|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|16|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
 |17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|203.190.46.131|8080|Indonesia|Pandak|PT Jaring Lintas Utara|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|173.249.48.227|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
