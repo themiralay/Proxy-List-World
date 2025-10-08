@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|973|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|973|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|973|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1017|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1017|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1017|
 
 ## Sources
 
@@ -39,7 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
@@ -47,18 +47,18 @@ Click the file format that you want and copy the URL.
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.178.21.93|3125|Indonesia|Malang|PT Trisna Mega Abadi|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|157.66.221.103|39099|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
+|10|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|11|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|207.141.78.26|8080|United States|Vero Beach|PDM NET, INC. - VERO BEACH|
+|15|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|24.173.217.114|55443|United States|Mesquite|Spectrum|
 |18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|103.144.103.155|8080|Indonesia|Bantarpanjang|PANDAWANET|
-|20|177.93.39.73|999|Colombia|Yaguará|TV AZTECA SUCURSAL COLOMBIA|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
