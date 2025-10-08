@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|16|173.249.48.227|3128|France|Lauterbourg|Contabo GmbH|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|12|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|13|103.109.96.250|2024|Bangladesh|Joypur Hāt|Digi Jadoo Broadband Ltd|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|19|54.199.199.66|15415|Japan|Tokyo|Amazon.com, Inc.|
+|20|95.140.17.150|3128|Russia|Moscow|Sputnik LLC|
 
 
 
