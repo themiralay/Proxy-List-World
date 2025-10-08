@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|190.60.57.42|3128|Colombia|San Diego|IFX NETWORKS COLOMBIA|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|20|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
