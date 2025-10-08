@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1159|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
-|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
 |8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
