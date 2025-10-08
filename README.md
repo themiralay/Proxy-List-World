@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|647|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|647|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|647|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|639|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|639|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|639|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|118.179.5.177|6248|Bangladesh|Dhaka|Alo Communications limited|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|19|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|147.135.222.208|3128|France|Strasbourg|OVH SAS|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|54.199.199.66|15415|Japan|Tokyo|Amazon.com, Inc.|
+|20|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
 
 
 
