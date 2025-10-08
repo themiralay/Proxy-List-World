@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|176.88.175.146|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|19|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|19|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|20|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
