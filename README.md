@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|7|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|8|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|103.159.96.183|1080|Indonesia|Caruban|PT Jinde Grup Indonesia|
-|14|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|103.165.157.107|8080|Indonesia|Banyumas|MEGADATA-ISP|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|157.10.3.10|8080|Indonesia|Semarang|PT Parsaoran Global Datatrans|
+|16|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|17|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
