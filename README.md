@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |11|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|16|46.101.92.46|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|18|162.0.234.251|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
