@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.159.96.75|8081|Indonesia|Caruban|PT Jinde Grup Indonesia|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|204.157.185.4|999|Peru|Nazca|Signal Peru S.A.C|
-|20|103.4.164.109|8080|Indonesia|Jakarta|FIBERNET|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|202.162.213.181|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
+|19|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 
 
 
