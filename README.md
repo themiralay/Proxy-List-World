@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|180.193.214.202|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
