@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|6|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|9|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|10|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|20|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 
 
 
