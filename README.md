@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77301** proxies at the latest update. Usable proxies are below.
+> Scraper found **77520** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37069|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38981|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39200|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|19|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
