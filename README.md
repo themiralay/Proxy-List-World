@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.4.164.109|8080|Indonesia|Jakarta|FIBERNET|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|181.78.75.13|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|3|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|18|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|19|157.20.252.97|8097|Indonesia|Kediri|PT.Global Media Data Prima|
+|20|180.193.214.201|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
