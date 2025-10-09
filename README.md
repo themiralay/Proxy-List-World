@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|135.236.76.155|3128|Netherlands|Amsterdam|MICROSOFT|
-|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|10|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|135.125.97.184|46107|France|Wattrelos|OVH SAS|
+|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
