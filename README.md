@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|38.183.146.143|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|16|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|17|103.46.11.92|8080|Indonesia|Bakalan|Lintas Data Prima, PT|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|20|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
