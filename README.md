@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
-|13|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|14|1.10.141.115|8080|Thailand|Thoen|TOT Public Company Limited|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|8|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|179.42.6.24|3128|Brazil|Barra Mansa|SN TELECON LTDA|
+|15|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|172.104.55.36|3128|Singapore|Singapore|Akamai Technologies|
+|17|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |19|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|20|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|20|77.37.244.119|8080|Russia|Moscow|NCNET|
 
 
 
