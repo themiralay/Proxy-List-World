@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
-|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|157.245.154.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|66.96.235.141|8080|Indonesia|Jakarta|MYREPUBLIC|
-|12|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|157.245.154.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
