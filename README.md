@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|8|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|103.115.243.237|2214|Bangladesh|Sātkhira|Digi Jadoo Broadband Limited|
-|11|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|12|38.52.208.49|999|Guatemala|Quetzaltenango|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|13|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
