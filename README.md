@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.118.82|3172|Japan|Chiyoda City|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
-|5|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|103.178.20.73|8070|Indonesia|Malang|PT Trisna Mega Abadi|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|8|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
