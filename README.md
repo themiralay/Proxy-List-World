@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|103.109.213.249|3278|Bangladesh|Dhaka|Bismillah Telecom Service|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|47.237.127.143|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|18|223.25.110.205|7777|Indonesia|Purbalingga|SinergiNet|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
