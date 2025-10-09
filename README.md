@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|20|34.16.129.212|3128|United States|Las Vegas|Google LLC|
 
 
 
