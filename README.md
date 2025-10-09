@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|13|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
