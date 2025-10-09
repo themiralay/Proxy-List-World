@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|2|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
 |7|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|103.170.64.200|80|India|Pune|Dream Cables|
-|14|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|188.132.150.198|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|27.147.241.134|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|202.5.40.22|5720|Bangladesh|Chittagong|BBTS-NEW|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|10|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|13|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|14|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|16|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|17|67.43.236.20|16303|Canada|Montreal|GloboTech Communications|
+|18|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
+|19|72.10.160.170|21871|Canada|Montreal|GloboTech Communications|
+|20|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
