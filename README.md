@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|157.245.154.238|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|19|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|10|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|16|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|171.234.51.117|5102|Vietnam|Hanoi|Viettel Group|
+|20|178.17.62.152|8833|Switzerland|Bern|Partner Hosting LTD|
 
 
 
