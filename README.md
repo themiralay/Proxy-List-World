@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|15|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|91.214.31.234|8080|Ukraine|Kyiv|TOV "Telza"|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|45.189.252.57|999|Mexico|Alvarado|Tracered SA De CV|
 
 
 
