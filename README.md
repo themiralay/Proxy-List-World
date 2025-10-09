@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|101.255.125.10|8080|Indonesia|Jakarta|PT Remala Abadi|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
-|13|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|103.125.160.178|83|India|Hyderabad|CtrlS|
 |15|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|16|124.121.2.194|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|35.153.92.76|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|102.213.219.238|8080|Kenya|Wajir|Celcom Networks Ltd|
+|20|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
