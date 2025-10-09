@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|27.74.215.131|30533|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|17|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|18|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
 
 
 
