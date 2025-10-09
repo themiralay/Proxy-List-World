@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|117.58.242.231|36514|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|12|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|157.20.252.97|8097|Indonesia|Kediri|PT.Global Media Data Prima|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|157.20.252.97|8097|Indonesia|Kediri|PT.Global Media Data Prima|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|103.159.96.75|8081|Indonesia|Caruban|PT Jinde Grup Indonesia|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
