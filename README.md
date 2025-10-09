@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|7|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|8|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|103.247.23.28|9223|Indonesia|Wonosobo|PT wifian Solution|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|223.25.110.205|7777|Indonesia|Purbalingga|SinergiNet|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|182.253.162.82|8080|Indonesia|Surabaya|BIZNET|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|20|103.109.213.249|3278|Bangladesh|Dhaka|Bismillah Telecom Service|
 
 
 
