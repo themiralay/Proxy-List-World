@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77405** proxies at the latest update. Usable proxies are below.
+> Scraper found **77137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37059|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37091|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39073|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|152.32.67.243|10101|Philippines|Makati City|Converge ICT Solution Inc|
-|14|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|103.136.171.165|8080|Indonesia|Jakarta|PT UNZA VITALI|
-|17|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|20|213.142.152.126|3128|United States|Wilmington|ADEOX|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|103.134.246.71|1111|Indonesia|Banjar Soka Kaja|Wisuandha Network Globalindo|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|19|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|20|34.48.171.130|33080|United States|Washington|Google LLC|
 
 
 
