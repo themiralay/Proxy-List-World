@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|10|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|101.255.211.41|1111|Indonesia|Cileungsir|PT Remala Abadi|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|20|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
 
 
 
