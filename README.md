@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|102.212.45.34|12354|South Africa|Johannesburg|OM-SN-45/24|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|72.10.160.172|4371|Canada|Montreal|GloboTech Communications|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|188.132.150.75|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|119.40.98.26|20|Mongolia|Ulan Bator|Topica Co., Ltd|
-|17|72.10.160.91|1513|Canada|Montreal|GloboTech Communications|
-|18|41.139.220.125|8080|Kenya|Nairobi|Converged services Western|
-|19|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|9|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
