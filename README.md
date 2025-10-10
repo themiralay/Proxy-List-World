@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|202.175.246.181|8080|Philippines|Makati City|Eastern Telecoms Philippines, Inc|
-|16|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
-|17|181.209.81.82|999|Argentina|La Banda|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|31.25.92.114|8080|Iran|Ţorqabeh|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|78.12.220.164|9174|Mexico|Querétaro City|Amazon.com|
+|14|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
+|15|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|176.31.69.137|56789|France|Paris|OVH ISP|
 
 
 
