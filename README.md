@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|182.253.109.108|8080|Indonesia|Semarang|Biznet Metronet|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|182.253.109.108|8080|Indonesia|Semarang|Biznet Metronet|
+|9|163.61.55.11|8085|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|103.180.123.227|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
 |19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 |20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
