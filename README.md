@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
 |9|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|49.145.56.106|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|157.20.98.63|1111|Indonesia|Cikampek|PT. KONNEK JAYA BERSAMA|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
