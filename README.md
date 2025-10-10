@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|103.133.26.119|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
