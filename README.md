@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.247.23.118|8080|Indonesia|Cileungsir|PT wifian Solution|
-|17|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|14|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|19|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
+|20|103.169.188.122|8080|Indonesia|Magetan|Sarana Media Cemerlang|
 
 
 
