@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|198.98.59.90|31280|United States|New York|FranTech Solutions|
 |11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|14|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|15|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|36.95.245.7|8090|Indonesia|Batam|PT. Telekomunikasi Indonesia|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|18|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
 
 
 
