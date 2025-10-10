@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.19.78.70|3128|Vietnam|Bo|VNPT Corp|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|12|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|13|198.98.59.90|31280|United States|New York|FranTech Solutions|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|15|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|111.111.108.141|3128|Japan|Sugao|Kddi Corporation|
+|18|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
