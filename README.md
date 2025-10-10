@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
-|18|185.14.68.68|8118|Russia|Irkutsk|IESV|
-|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|20|41.190.232.195|8080|DR Congo|Gandajika|Orioncom SPRL|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|18.143.165.238|9090|Singapore|Singapore|Amazon Technologies Inc.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|20|58.147.171.38|1122|Bangladesh|Dhaka|Aftab IT Limited|
 
 
 
