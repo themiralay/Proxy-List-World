@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|182.253.109.108|8080|Indonesia|Semarang|Biznet Metronet|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.142.14.88|8081|Indonesia|Jombang|Pemerintah Kabupaten Jombang|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|36.50.112.174|8070|Indonesia|Bekasi|MYREPUBLIC|
+|17|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|18|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|19|170.78.208.236|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|20|43.224.118.42|8442|Bangladesh|Dhaka|Next Online|
 
 
 
