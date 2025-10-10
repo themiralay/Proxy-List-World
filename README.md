@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|81.90.149.188|3128|Iran|Tehran|Afranet|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|18|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|20|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
