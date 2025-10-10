@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|9|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
-|13|119.18.148.69|2314|Bangladesh|Chittagong|BBTS Network|
-|14|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|15|103.245.205.227|1515|Bangladesh|Bhātāra|Next Online Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|113.192.1.122|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|8|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|121.101.132.30|8999|Indonesia|Godean|PT SELARAS CITRA TERABIT|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|17|72.10.160.170|27741|Canada|Montreal|GloboTech Communications|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
