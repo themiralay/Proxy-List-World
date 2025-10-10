@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |15|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
