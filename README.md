@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|20|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
 
 
 
