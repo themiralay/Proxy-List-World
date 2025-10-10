@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77437** proxies at the latest update. Usable proxies are below.
+> Scraper found **77362** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36904|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36829|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39287|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
-|16|72.10.160.170|2081|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3885|Canada|Montreal|GloboTech Communications|
-|18|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|19|27.147.131.110|46|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|102.212.45.34|12354|South Africa|Johannesburg|OM-SN-45/24|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.160.172|4371|Canada|Montreal|GloboTech Communications|
+|14|38.194.246.34|999|Mexico|León|Cogent Communications|
+|15|188.132.150.75|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|119.40.98.26|20|Mongolia|Ulan Bator|Topica Co., Ltd|
+|17|72.10.160.91|1513|Canada|Montreal|GloboTech Communications|
+|18|41.139.220.125|8080|Kenya|Nairobi|Converged services Western|
+|19|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
