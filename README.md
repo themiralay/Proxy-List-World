@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|103.148.131.87|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|16|103.165.155.196|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|17|103.157.78.122|8097|Indonesia|Jakarta|PT Super Media Indonesia|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|193.46.217.79|3128|United States|Fremont|ZhouyiSat Communications|
+|12|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
