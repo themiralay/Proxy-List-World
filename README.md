@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
-|16|103.172.35.40|8080|Indonesia|Ketanggungan|PT Lintas Jaringan Nusantara|
-|17|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|18|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|67.43.236.20|1437|Canada|Montreal|GloboTech Communications|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|16|52.47.164.226|9304|France|Paris|Amazon Technologies Inc.|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
+|19|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|20|103.191.196.205|1111|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
 
 
 
