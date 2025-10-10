@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|9|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
-|10|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|18.143.165.238|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|13|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|17|103.188.173.153|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|18|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
-|19|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|7|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|89.39.106.61|8080|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|16|103.151.221.114|8080|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|17|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
 |20|47.76.169.110|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
