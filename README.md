@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
-|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|18|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|12|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|13|78.12.220.164|9174|Mexico|Querétaro City|Amazon.com|
+|14|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |19|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|20|78.12.223.246|1720|Mexico|Querétaro City|Amazon.com|
+|20|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
