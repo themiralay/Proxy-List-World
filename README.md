@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.79.99.237|4601|Canada|Montreal|OVH SAS|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|18|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|8|51.79.99.237|4601|Canada|Montreal|OVH SAS|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|198.98.59.90|31280|United States|New York|FranTech Solutions|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|20|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
 
 
 
