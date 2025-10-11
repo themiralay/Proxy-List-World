@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|103.171.183.245|8097|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
+|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
