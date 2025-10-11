@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|8|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|16|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|17|102.213.248.38|8080|Kenya|Imara Daima Estate|Optinode Group LLP|
-|18|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|19|190.2.210.115|999|Colombia|Barbacoas|TV AZTECA SUCURSAL COLOMBIA|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|52.47.164.226|9304|France|Paris|Amazon Technologies Inc.|
+|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|18|103.147.77.204|8080|Indonesia|Madiun|TRIDATA|
+|19|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
+|20|34.16.129.212|3128|United States|Las Vegas|Google LLC|
 
 
 
