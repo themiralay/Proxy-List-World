@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|4|171.228.169.61|1001|Vietnam|Hanoi|Viettel Corporation|
+|5|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|14|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
