@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|18|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
