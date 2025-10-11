@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|17|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|72.10.160.171|13705|Canada|Montreal|GloboTech Communications|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|103.162.16.47|8585|Indonesia|Parenggan|PT Mega Data Perkasa|
 
 
 
