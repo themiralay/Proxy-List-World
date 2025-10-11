@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|10|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|143.189.6.174|8080|Japan|Honchō|Sony Network Communications Inc|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|16|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|17|72.10.164.178|11971|Canada|Montreal|GloboTech Communications|
 |18|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|19|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
+|20|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
 
 
 
