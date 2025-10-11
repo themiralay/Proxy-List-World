@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 |20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
