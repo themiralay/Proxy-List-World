@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|18|119.18.149.9|5720|Bangladesh|Chittagong|BBTS Network|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|3|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.47.164.226|9304|France|Paris|Amazon Technologies Inc.|
+|14|43.209.130.76|8713|Thailand|Bangkok|Amazon.com, Inc.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
