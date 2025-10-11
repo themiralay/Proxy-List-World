@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|182.253.102.202|8080|Indonesia|Cikampek|BIZNET|
-|18|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.68.213.51|1111|Indonesia|Singosari|PT Mars Data Telekomunikasi|
+|15|203.150.113.212|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
 
 
 
