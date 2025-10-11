@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|14|43.224.118.91|19201|Bangladesh|Dhaka|Next Online|
-|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|18|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|19|18.143.165.238|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|203.190.46.131|8080|Indonesia|Baturaden|PT Jaring Lintas Utara|
+|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
 
 
 
