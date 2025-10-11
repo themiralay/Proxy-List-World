@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|9|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|10|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|12|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|13|84.22.42.41|8080|Kosovo|Orahovac|Artmotion Sh.P.K.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|16|117.161.170.163|9093|China|Guangzhou|China Mobile communications corporation|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|72.10.160.90|15627|Canada|Montreal|GloboTech Communications|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|11|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|72.10.160.171|22037|Canada|Montreal|GloboTech Communications|
+|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
