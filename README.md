@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|103.176.96.178|1111|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|24.152.58.22|999|Colombia|Bucaramanga|Atenea Telecomunicaciones S.A.S|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|19|45.123.142.84|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
