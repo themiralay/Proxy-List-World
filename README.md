@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|103.227.243.73|8080|Indonesia|Jakarta|NIDS|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|27.124.81.146|8080|Indonesia|Bangsal Aceh|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|72.10.160.91|6787|Canada|Montreal|GloboTech Communications|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|72.10.160.90|24169|Canada|Montreal|GloboTech Communications|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|58.147.171.12|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|45.186.208.34|8080|Venezuela|Maracaibo||
-|19|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|67.43.228.254|4149|Canada|Montreal|GloboTech Communications|
+|10|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|14|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
+|15|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|72.10.160.91|6787|Canada|Montreal|GloboTech Communications|
+|18|36.67.99.31|7023|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
+|19|72.10.160.90|24169|Canada|Montreal|GloboTech Communications|
+|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 
 
 
