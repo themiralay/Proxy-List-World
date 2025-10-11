@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77387** proxies at the latest update. Usable proxies are below.
+> Scraper found **40405** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36982|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39156|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|103.31.235.197|1111|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|8|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
 |9|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|10|67.43.236.18|31767|Canada|Montreal|GloboTech Communications|
-|11|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|17|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|72.10.160.171|22037|Canada|Montreal|GloboTech Communications|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|15|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|16|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|181.57.131.122|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|19|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
 
 
 
