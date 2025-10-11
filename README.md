@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.189.6.174|8080|Japan|Honchō|Sony Network Communications Inc|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|72.10.160.170|25897|Canada|Montreal|GloboTech Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|17|119.18.147.67|63636|Bangladesh|Chittagong|BBTS Network|
+|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|19|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
+|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 
 
 
