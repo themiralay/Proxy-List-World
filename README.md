@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|8|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|9|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|15|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|16|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|181.57.131.122|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|19|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
+|16|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
 
 
 
