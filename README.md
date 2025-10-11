@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|103.154.230.105|8090|Indonesia|Bilo|DIGITNET|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|173.249.48.227|3128|France|Lauterbourg|Contabo GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
 
 
 
