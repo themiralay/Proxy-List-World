@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
 |9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|12|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|171.228.166.129|1001|Vietnam|Hanoi|Viettel Corporation|
+|17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
