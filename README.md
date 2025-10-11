@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|14|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
 
 
 
