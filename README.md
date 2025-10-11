@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
-|19|103.154.230.105|8090|Indonesia|Bilo|DIGITNET|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|7|49.49.60.162|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|13|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|20|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
 
 
 
