@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
 |10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|18.143.165.238|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|14|18.143.167.190|9947|Singapore|Singapore|Amazon Technologies Inc.|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|175.158.63.166|1111|Indonesia|Jakarta|CBNNAP|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|38.191.211.253|999|Colombia|Arauquita|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|203.143.24.17|8080|Sri Lanka|Kalutara|Lanka Communication Services (Pvt) Ltd.|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|67.43.228.250|6561|Canada|Montreal|GloboTech Communications|
+|20|103.68.213.51|1111|Indonesia|Singosari|PT Mars Data Telekomunikasi|
 
 
 
