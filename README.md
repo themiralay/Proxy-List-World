@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
-|14|67.43.236.20|26959|Canada|Montreal|GloboTech Communications|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|17|181.209.72.174|999|Argentina|Empedrado|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|14|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
+|17|36.95.245.7|8090|Indonesia|Batam|PT. Telekomunikasi Indonesia|
+|18|119.18.151.226|2626|Bangladesh|Chittagong|BBTS Network|
 |19|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
 
 
 
