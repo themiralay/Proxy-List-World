@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|159.89.25.162|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|5|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|6|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|9|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|12|93.118.139.60|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|13|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
