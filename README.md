@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |12|72.10.160.172|19357|Canada|Montreal|GloboTech Communications|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|20.87.21.241|8084|South Africa|Johannesburg|Microsoft Corporation|
 |14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|72.10.160.171|22233|Canada|Montreal|GloboTech Communications|
-|16|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|103.172.157.217|58980|India|Mumbai|Juweriyah Networks Private Limited|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|72.10.160.91|32023|Canada|Montreal|GloboTech Communications|
+|15|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|16|72.10.160.171|22233|Canada|Montreal|GloboTech Communications|
+|17|119.18.149.106|8448|Bangladesh|Chittagong|BBTS Network|
+|18|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.230.62.102|19201|Bangladesh|Chittagong|Next Online Ltd|
+|20|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
 
 
 
