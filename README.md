@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|200.24.153.151|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|8|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|9|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|10|103.155.64.47|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|41.128.77.77|1976|Egypt|Cairo|LINKdotNET AS number|
-|13|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|14|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|15|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|16|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|17|103.124.251.12|8081|Bangladesh|Jessore|Earth Telecommunication|
-|18|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|19|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|20|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|2|103.127.220.78|1111|Indonesia|Jakarta|PT Multi Guna Sinergi|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.247.23.53|4317|Indonesia|Cileungsir|PT wifian Solution|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
+|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
+|20|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
 
 
 
