@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|181.78.97.112|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |9|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|10|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
-|13|27.147.131.110|46|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|182.160.97.150|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|160.22.221.2|8080|Indonesia|Tegal|PT Tomihonk Network Nusantara|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|19|43.224.116.222|19201|Bangladesh|Dhaka|Next Online Limited|
-|20|157.66.84.24|1983|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
+|12|125.135.163.211|3040|South Korea|Changwon|KORNET|
+|13|102.38.7.120|1981|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|14|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|185.200.37.123|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|18|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
 
 
 
