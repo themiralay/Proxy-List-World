@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77692** proxies at the latest update. Usable proxies are below.
+> Scraper found **77781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37083|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37172|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39636|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|5|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|6|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|17|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
-|18|103.178.88.81|3128|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
-|19|94.141.118.130|1080|Russia|Moscow|Klick Ltd|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|43.129.234.168|1081|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|160.19.19.56|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|19|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
 
 
 
