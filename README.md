@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.243.163.126|3128|Colombia|Bello|CTL Colombia|
+|6|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
 |7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
-|10|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|11|178.17.62.152|8802|Switzerland|Bern|Partner Hosting LTD|
-|12|178.17.62.152|8802|Switzerland|Bern|Partner Hosting LTD|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|41.254.48.188|1970|Libya|Tripoli|LTT Network Backbone and POPs|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|72.10.164.178|23491|Canada|Montreal|GloboTech Communications|
-|18|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|19|103.66.74.32|4343|India|Bāzpur|RailTel Corporation of India Ltd.|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|103.247.23.28|9223|Indonesia|Cileungsir|PT wifian Solution|
+|10|113.192.12.33|9898|Indonesia|Prumpung|PT Parsaoran Global Datatrans|
+|11|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
+|12|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|13|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|14|178.17.62.152|8802|Switzerland|Bern|Partner Hosting LTD|
+|15|81.201.56.208|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|141.253.101.47|3169|France|Paris|Oracle Corporation|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
