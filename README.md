@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
-|18|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
-|19|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|20|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
 
 
 
