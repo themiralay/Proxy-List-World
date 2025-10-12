@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|6|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|72.10.160.90|27105|Canada|Montreal|GloboTech Communications|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|20.87.21.241|8084|South Africa|Johannesburg|Microsoft Corporation|
-|13|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|14|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|95.84.164.92|8998|Russia|Moscow|NCNET|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
+|8|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|9|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.189.123.110|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|72.10.160.90|27105|Canada|Montreal|GloboTech Communications|
+|17|186.0.144.81|9797|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
+|18|141.145.197.171|3132|France|Paris|Oracle Corporation|
+|19|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|20|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
 
 
 
