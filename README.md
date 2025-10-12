@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|103.159.96.146|3128|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|11|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|12|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|16|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|19|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|190.2.213.169|999|Colombia|Bucaramanga|TV AZTECA SUCURSAL COLOMBIA|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
+|19|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
