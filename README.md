@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.172.42.28|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.247.23.53|4317|Indonesia|Cileungsir|PT wifian Solution|
-|6|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|72.10.160.91|32023|Canada|Montreal|GloboTech Communications|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|222.180.188.204|8000|China|Chongqing|Chinanet|
-|11|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|46.166.83.132|8081|Russia|Krasnoyarsk|SIBTTK|
-|13|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
-|14|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|163.223.78.97|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|103.10.52.222|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|20|67.43.236.20|26959|Canada|Montreal|GloboTech Communications|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|10|141.253.118.12|3232|France|Paris|Oracle Corporation|
+|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|12|103.238.232.198|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|72.10.160.90|27105|Canada|Montreal|GloboTech Communications|
+|19|119.18.147.76|63636|Bangladesh|Chittagong|BBTS Network|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
