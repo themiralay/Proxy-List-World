@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|5|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
+|7|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
+|8|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
+|14|123.200.4.70|2314|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|103.172.157.217|58980|India|Mumbai|Juweriyah Networks Private Limited|
+|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
 
 
 
