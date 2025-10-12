@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|16|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
-|17|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|103.126.87.155|8081|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|15|177.234.217.94|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
