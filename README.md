@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
-|20|103.171.83.95|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|116.105.27.106|10025|Vietnam|Hanoi|Viettel Corporation|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
+|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|20|178.22.126.2|3128|Iran|Tehran|Asiatech Data Transmission company|
 
 
 
