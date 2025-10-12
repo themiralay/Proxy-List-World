@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|18|202.5.33.229|5720|Bangladesh|Chittagong|BBTS-NEW|
-|19|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|8|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|18|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
