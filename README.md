@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|14.103.144.65|8888|China|Beijing|BITNET|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|72.10.160.173|20429|Canada|Montreal|GloboTech Communications|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
+|6|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|72.10.160.91|32023|Canada|Montreal|GloboTech Communications|
+|16|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|38.194.253.228|999|Mexico|San Andrés Tuxtla|Cogent Communications|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|72.10.160.170|22233|Canada|Montreal|GloboTech Communications|
 
 
 
