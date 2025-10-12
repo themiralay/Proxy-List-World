@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|8|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
-|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|125.135.163.211|3096|South Korea|Changwon|KORNET|
+|4|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|12|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|19|123.200.6.253|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
 
 
 
