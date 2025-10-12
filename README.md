@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77343** proxies at the latest update. Usable proxies are below.
+> Scraper found **77447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36832|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36936|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39542|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|6|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|7|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|72.10.160.91|32023|Canada|Montreal|GloboTech Communications|
-|16|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
-|17|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|38.194.253.228|999|Mexico|San Andrés Tuxtla|Cogent Communications|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|72.10.160.170|22233|Canada|Montreal|GloboTech Communications|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|200.24.153.7|999|Ecuador|Portoviejo|Negocios Y Telefonia Nedetel S.A|
+|8|38.191.219.107|999|Colombia|Santiago de Cali|TV&MÁS S.A.S|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
+|11|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|119.100.148.2|7890|China|Shizishan|Chinanet|
+|14|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|154.127.78.16|44444|Libya|Waddān|Aljeel Aljadeed For Technology|
+|19|186.96.96.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
 
 
 
