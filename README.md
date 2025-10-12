@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 |14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
-|17|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|49.48.70.247|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
+|18|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
