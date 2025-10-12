@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|10|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|12|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 |14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|20|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|17|103.102.85.1|8080|India|Acharapākkam|Amigos Broadband Pvt Ltd|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
