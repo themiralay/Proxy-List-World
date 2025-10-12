@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77717** proxies at the latest update. Usable proxies are below.
+> Scraper found **77757** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37063|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37103|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39636|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
 |12|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
-|17|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.193.145.80|8080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|19|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|20|93.118.139.60|3128|Iran|Tehran|Iran Telecommunication Company PJS|
 
 
 
