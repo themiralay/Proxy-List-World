@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|7|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 |8|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|35.247.159.60|3128|Singapore|Singapore|Google LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|13|103.175.238.138|1080|Indonesia|West Java|PT Uliz Netmedia Solusindo|
-|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|201.139.115.38|8081|Mexico|Puebla City|Kiwi Networks S A P I de CV|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|13|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|135.125.97.184|46107|France|Wattrelos|OVH SAS|
+|16|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|103.193.145.80|8080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
 
 
 
