@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|5|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|6|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|12|43.129.234.168|1081|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |13|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|160.19.19.56|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|19|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
+|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|15|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|16|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|17|36.74.126.119|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.144.234.129|52056|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|94.156.236.87|1080|Estonia|Tallin|Baykov Ilya Sergeevich|
 
 
 
