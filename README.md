@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|11|36.147.78.166|80|China|Guangzhou|China Mobile|
-|12|72.10.160.172|19357|Canada|Montreal|GloboTech Communications|
-|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|15|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|157.66.251.228|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|18|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|103.230.62.102|19201|Bangladesh|Chittagong|Next Online Ltd|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.127.220.78|1111|Indonesia|Jakarta|PT Multi Guna Sinergi|
+|5|103.247.23.53|4317|Indonesia|Cileungsir|PT wifian Solution|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|11|103.172.42.28|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|16|103.109.213.249|3278|Bangladesh|Dhaka|Bismillah Telecom Service|
+|17|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|18|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
