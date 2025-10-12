@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77447** proxies at the latest update. Usable proxies are below.
+> Scraper found **40511** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36936|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39542|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|200.24.153.7|999|Ecuador|Portoviejo|Negocios Y Telefonia Nedetel S.A|
-|8|38.191.219.107|999|Colombia|Santiago de Cali|TV&MÁS S.A.S|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
 |10|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|11|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|13|119.100.148.2|7890|China|Shizishan|Chinanet|
-|14|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|106.117.208.101|10811|China|Shijiazhuang|Chinanet|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|154.127.78.16|44444|Libya|Waddān|Aljeel Aljadeed For Technology|
-|19|186.96.96.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
 
 
 
