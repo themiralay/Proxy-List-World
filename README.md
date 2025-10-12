@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
-|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
 |18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
