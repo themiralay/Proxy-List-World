@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77423** proxies at the latest update. Usable proxies are below.
+> Scraper found **77489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36958|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37024|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39489|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|36.95.39.18|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|90.156.197.13|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|116.105.27.106|10029|Vietnam|Hanoi|Viettel Corporation|
-|19|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
-|20|180.165.7.106|7890|China|Shanghai|China Telecom (Group)|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|9|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|10|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|18|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|103.99.27.188|8282|Indonesia|Tangerang|PT Lintas Network Solusi|
 
 
 
