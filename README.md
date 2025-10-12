@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
-|19|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|103.109.212.14|2254|Bangladesh|Dhaka|Bismillah Telecom Service|
+|10|185.65.247.133|48049|Ukraine|Kyiv|Hosting Ukraine LTD|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|34.216.224.9|12542|United States|Portland|Amazon.com, Inc.|
+|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|36.67.114.94|8187|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
