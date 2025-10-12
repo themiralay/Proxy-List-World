@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
 |6|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|16|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
