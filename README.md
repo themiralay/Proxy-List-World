@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|67.206.213.202|3120|Puerto Rico|Bayamón|Liberty Mobile Puerto Rico Inc.|
-|10|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|126.209.50.252|1234|Philippines|Manila|Infinivan Incoporated|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|19|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|180.149.232.153|61245|Bangladesh|Gafargaon|Digi Jadoo Broadband Ltd|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|177.234.217.94|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
 
 
 
