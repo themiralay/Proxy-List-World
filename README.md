@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|11|119.100.148.2|7890|China|Shizishan|Chinanet|
-|12|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|43.134.177.187|20201|Singapore|Singapore|Aceville Pte.ltd|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|103.172.157.217|58980|India|Mumbai|Juweriyah Networks Private Limited|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|190.119.90.114|8080|Peru|Lima|America Movil Peru S.A.C.|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|103.151.221.114|8080|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|12|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|120.133.63.253|7890|China|Chaowai|IDC, China Telecommunications Corporation|
+|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
