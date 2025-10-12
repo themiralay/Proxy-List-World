@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|2|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
-|3|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|4|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 |5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|11|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|12|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|16|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|9|136.49.33.252|8888|United States|Austin|Google Fiber Inc.|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
