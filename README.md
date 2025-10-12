@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|11|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|17|38.183.146.91|609|Indonesia|Kajen|PT Ikhlas Cipta Teknologi|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
