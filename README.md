@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|102.209.78.43|8080|Kenya|Nairobi|Safhome Fibre Limited|
-|12|177.234.217.91|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|14|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|16|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|17|190.185.112.58|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|18|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
-|19|185.208.102.155|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|190.60.60.219|8080|Colombia|Cereté|IFX NETWORKS COLOMBIA|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|202.5.33.129|2626|Bangladesh|Chittagong|BBTS-NEW|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|41.254.48.188|1970|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|20|200.10.31.202|999|Colombia|Pereira|Super Redes S.A.S|
 
 
 
