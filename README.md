@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|6|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|14|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
-|15|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|19|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|11|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|14|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|15|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|16|220.158.197.113|8888|United Kingdom|Worthing|Briant Broadband Limited|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|93.118.139.60|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|19|31.162.53.69|1080|Russia|Perm|OJSC uralsvyazinform|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
