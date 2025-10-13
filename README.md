@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|7|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|42.119.41.227|3128|Vietnam|Hanoi|FPT Telecom Company|
-|18|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|3|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|171.233.240.146|1007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|171.240.73.254|5101|Vietnam|Hanoi|Viettel Corporation|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|116.108.254.57|4002|Vietnam|Hanoi|Viettel Corporation|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
