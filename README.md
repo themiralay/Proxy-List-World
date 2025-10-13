@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|116.108.254.57|4002|Vietnam|Hanoi|Viettel Corporation|
-|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|10|171.224.83.54|5101|Vietnam|Hanoi|Viettel Corporation|
-|11|27.74.158.122|5101|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|171.224.58.129|1007|Vietnam|Thái Bình|Viettel Corporation|
+|6|116.108.254.57|4002|Vietnam|Hanoi|Viettel Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|171.234.250.64|5101|Vietnam|Hanoi|Viettel Group|
+|10|171.228.119.30|1001|Vietnam|Hòa Bình|Viettel Corporation|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|171.247.232.16|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|116.100.69.140|5101|Vietnam|Hanoi|Viettel Corporation|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|171.250.59.9|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|20|27.74.158.122|5101|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
