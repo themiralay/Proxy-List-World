@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|13|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.250|1201|Canada|Montreal|GloboTech Communications|
-|16|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
-|17|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
-|18|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|19|103.159.194.121|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|20|72.10.164.178|16583|Canada|Montreal|GloboTech Communications|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.89.25.162|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
+|13|67.43.228.250|1201|Canada|Montreal|GloboTech Communications|
+|14|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|15|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
+|16|188.132.150.75|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|72.10.164.178|1867|Canada|Montreal|GloboTech Communications|
+|18|181.119.86.177|999|Colombia|Ciénaga de Oro|IFX Networks Argentina S.R.L|
+|19|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|20|157.20.207.162|8083|Indonesia|Kudus|PT Erajaya Telco Indonesia|
 
 
 
