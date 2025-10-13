@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.78.200|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|1|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|11|168.138.15.93|1080|Australia|Melbourne|Oracle Corporation|
+|12|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|19|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|20|159.192.133.250|8088|Thailand|Changwat Sara Buri|CAT Telecom Public Company Limited|
 
 
 
