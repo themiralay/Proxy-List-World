@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|14|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
