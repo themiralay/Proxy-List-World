@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
