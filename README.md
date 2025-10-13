@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
-|20|45.149.115.145|8888|The Netherlands|Amsterdam|Fast GEO Hosting S.R.L.|
+|8|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|13|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|14|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|15|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
