@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
