@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|4|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|5|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
 |6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|160.20.128.9|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|113.183.43.123|8080|Vietnam|Hanoi|VNPT|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|16|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
