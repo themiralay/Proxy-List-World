@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|103.141.152.108|8989|Indonesia|Bandung|PRIMACOM|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|157.66.84.1|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|18|18.188.141.177|28080|United States|Dublin|Amazon.com, Inc.|
+|19|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|78.12.249.123|8026|Mexico|Querétaro City|Amazon.com|
 
 
 
