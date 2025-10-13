@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|202.5.62.55|8080|Bangladesh|Rajshahi|Broad Band Telecom Services Ltd|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|19|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|13|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|14|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|159.89.25.162|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.199.109.154|19201|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 
 
 
