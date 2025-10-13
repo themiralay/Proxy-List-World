@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
 |6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|14|159.89.25.162|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.189.252.245|999|Mexico|Alvarado|Tracered SA De CV|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|14.175.56.159|20124|Vietnam|Haiphong|VNPT-VNNIC|
-|19|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|20|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|72.10.160.90|29485|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|19287|Canada|Montreal|GloboTech Communications|
 
 
 
