@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
 |11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|14|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|14|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|102.211.145.161|8081|Kenya|Nairobi|Unwired Communications Ltd|
 |17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|19|103.124.197.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|20|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|179.57.215.99|999|Chile|Paillaco|Telefonica del Sur S.A.|
+|20|67.43.236.18|7089|Canada|Montreal|GloboTech Communications|
 
 
 
