@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |6|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
