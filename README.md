@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|13|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|119.100.148.2|7890|China|Shizishan|Chinanet|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|159.89.25.162|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|15|119.100.148.2|7890|China|Shizishan|Chinanet|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
