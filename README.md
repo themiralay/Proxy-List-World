@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|52.47.164.226|9304|France|Paris|Amazon Technologies Inc.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|168.195.214.41|8800|Brazil|Arapiraca|UP TECNOLOGIA LTDA|
+|17|129.226.207.13|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|19|92.242.184.2|4153|United States|New York|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|20|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
 
 
 
