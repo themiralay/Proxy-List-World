@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|89.251.9.11|3128|Canada|Toronto|BitCommand LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|13|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|138.59.151.162|8080|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
-|19|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|20|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|3|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|12|89.251.9.11|3128|Canada|Toronto|BitCommand LLC|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
