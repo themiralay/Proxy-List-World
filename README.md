@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 |10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.230.63.86|10521|Bangladesh|Chittagong|Next Online Ltd|
-|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|16|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
+|17|103.247.14.38|9285|Indonesia|Magelang|TERABIT|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|103.230.63.86|10521|Bangladesh|Chittagong|Next Online Ltd|
 
 
 
