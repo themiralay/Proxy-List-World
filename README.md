@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|59.153.16.167|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|216.252.238.18|80|The Netherlands|Amsterdam|Psychz Networks|
 |13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|216.252.238.18|591|The Netherlands|Amsterdam|Psychz Networks|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|59.153.18.14|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|14|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|59.153.18.14|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|59.153.16.167|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
