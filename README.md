@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|1|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|148.230.195.165|6969|Mexico|Álvaro Obregón|Total Play Telecomunicaciones SA De CV|
-|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|103.124.136.207|8080|Indonesia|Tigaraksa|Global Media Data Prima|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
