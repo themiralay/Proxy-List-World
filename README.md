@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|59.153.16.214|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|19|103.245.206.70|10521|Bangladesh|Dhaka|Next Online Limited|
-|20|45.167.125.193|999|Colombia|Piendamó|Sepcom Comunicaciones SAS|
+|10|59.153.18.14|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|20|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
