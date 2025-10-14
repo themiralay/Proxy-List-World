@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77681** proxies at the latest update. Usable proxies are below.
+> Scraper found **77658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37032|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|141|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39282|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|4|89.251.9.11|3128|Canada|Toronto|BitCommand LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|1|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|89.251.9.11|3128|Canada|Toronto|BitCommand LLC|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|20|45.233.170.61|999|Colombia|Morales|Simect Group Redes E Internet S.A.S|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|13|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|138.59.151.162|8080|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
+|19|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|20|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
