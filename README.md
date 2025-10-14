@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|16|188.40.96.177|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|18|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
 
 
 
