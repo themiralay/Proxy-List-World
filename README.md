@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
