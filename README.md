@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 |19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|171.232.181.2|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
