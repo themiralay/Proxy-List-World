@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|41.155.4.130|8082|Ghana|Accra|Fixed Broadband dynamic|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|36.64.105.58|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|103.171.255.89|8080|Indonesia|Sleman|ZKI|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
