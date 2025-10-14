@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|59.153.16.167|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|17|119.18.145.241|10521|Bangladesh|Chittagong|BBTS Network|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|20|180.211.179.126|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|216.252.238.18|591|The Netherlands|Amsterdam|Psychz Networks|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
