@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|3.249.212.91|31280|Ireland|Dublin|Amazon Technologies Inc.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|200.76.136.194|2222|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|11|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
-|12|72.10.160.90|30947|Canada|Montreal|GloboTech Communications|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|85.175.144.214|8080|Russia|Krasnodar|PJSC Rostelecom|
-|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|16|72.10.160.173|16783|Canada|Montreal|GloboTech Communications|
-|17|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|20|103.230.62.197|10521|Bangladesh|Chittagong|Next Online Ltd|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|11|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
