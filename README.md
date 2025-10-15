@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|3.249.212.91|31280|Ireland|Dublin|Amazon Technologies Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|16|201.159.111.73|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|14|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|179.27.158.78|80|Uruguay|Aires Puros|Administracion Nacional de Telecomunicaciones|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|181.78.27.38|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
