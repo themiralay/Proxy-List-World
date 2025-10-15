@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
