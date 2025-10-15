@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|18|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
+|2|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
 |19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|72.10.160.93|3207|Canada|Montreal|GloboTech Communications|
+|20|178.17.62.152|8801|Switzerland|Bern|Partner Hosting LTD|
 
 
 
