@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
