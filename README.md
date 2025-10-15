@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |5|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|17|89.169.160.181|3128|Russia|Moscow|Yandex.Cloud LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|9|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|10|89.169.160.181|3128|Russia|Moscow|Yandex.Cloud LLC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
