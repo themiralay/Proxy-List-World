@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|171.240.8.192|5101|Vietnam|Hanoi|Viettel Corporation|
-|13|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
