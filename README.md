@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|183.91.80.194|8089|Indonesia|Kuningan Barat|PT Aplikanusa Lintasarta|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|16|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|181.115.65.194|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|18|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|3|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|18|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|180.149.232.33|8080|Bangladesh|Gafargaon|Digi Jadoo Broadband Ltd|
 
 
 
