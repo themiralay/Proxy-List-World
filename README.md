@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 |14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|16|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|103.19.79.234|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
 
 
 
