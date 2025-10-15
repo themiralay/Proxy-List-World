@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
-|14|83.212.82.185|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
-|15|43.224.118.206|10521|Bangladesh|Dhaka|Next Online|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|20|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|18|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
