@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
