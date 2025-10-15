@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|103.165.231.43|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|18|103.68.213.51|1111|Indonesia|Singosari|PT Mars Data Telekomunikasi|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|17|14.234.140.187|20399|Vietnam|Ho Chi Minh City|VNPT|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
