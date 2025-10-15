@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|9|217.76.245.24|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.48.69.54|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|72.10.160.90|13263|Canada|Montreal|GloboTech Communications|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|15|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|183.87.160.62|83|India|Mumbai|JPR Digital Pvt Ltd|
-|19|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|20|43.248.128.209|7890|China|Zhenjiang|Chinanet Jiangsu|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|17|72.10.160.90|13263|Canada|Montreal|GloboTech Communications|
+|18|154.159.247.119|8080|Kenya|Maragua|Airtel KE Mobile & Fixed Internet|
+|19|179.1.192.236|9991|Colombia|Ibagué|Internexa S.a. E.S.P|
+|20|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 
 
 
