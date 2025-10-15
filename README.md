@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|185.122.164.210|3128|United States|New York|Massivegrid LTD|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|19|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|12|185.122.164.210|3128|United States|New York|Massivegrid LTD|
+|13|59.153.18.174|10521|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
