@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
-|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|97.79.251.186|80|United States|Dallas|Spectrum|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|43.208.25.125|19201|Thailand|Bangkok|Amazon.com, Inc.|
+|8|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|9|178.17.62.152|8846|Switzerland|Bern|Partner Hosting LTD|
+|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|19|178.17.62.152|8846|Switzerland|Bern|Partner Hosting LTD|
+|20|49.205.160.115|8080|India|Nellore|ACT Fibernet|
 
 
 
