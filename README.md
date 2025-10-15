@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|179.1.128.57|999|Colombia|Rivera|Internexa S.a. E.S.P|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|10|103.230.62.197|10521|Bangladesh|Chittagong|Next Online Ltd|
+|11|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
+|16|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|18|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
