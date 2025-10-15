@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|2|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|18|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
 
 
 
