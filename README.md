@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
-|17|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|103.76.109.123|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|18|190.145.216.195|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
