@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|18|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.109.96.250|2024|Bangladesh|Sarishābāri|Digi Jadoo Broadband Ltd|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|17|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|186.167.112.91|999|Venezuela|Valencia|Corporacion Digitel C.A|
+|20|193.46.217.79|3128|United States|Fremont|ZhouyiSat Communications|
 
 
 
