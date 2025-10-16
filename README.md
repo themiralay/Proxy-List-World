@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|103.144.90.72|8082|Indonesia|Krajan Tengah|BEAT|
-|13|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|16|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|17|43.208.25.125|19201|Thailand|Bangkok|Amazon.com, Inc.|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
+|3|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|7|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|190.12.150.219|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|11|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|13.61.18.44|9032|Sweden|Stockholm|Amazon.com, Inc.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
+|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
