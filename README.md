@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|3|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
-|18|181.57.229.2|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|19|27.124.86.245|8080|Indonesia|Siak Sri Indrapura|PT. Indonesia Comnet Plus|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|157.20.244.242|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|195.211.45.87|5050|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
