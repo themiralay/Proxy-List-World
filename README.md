@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
