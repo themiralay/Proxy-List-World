@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|46.151.27.7|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|217.160.224.54|8118|Germany|Berlin|IONOS SE|
 
 
 
