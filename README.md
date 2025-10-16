@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|82.65.98.35|3128|France|Santeny|Proxad / Free SAS|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|97.79.251.186|80|United States|Dallas|Spectrum|
+|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|15|82.65.98.35|3128|France|Santeny|Proxad / Free SAS|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|18|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|19|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
