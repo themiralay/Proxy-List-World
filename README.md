@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|103.132.54.150|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|103.164.229.149|8080|Indonesia|Pecangaan|PT Muria Data Utama|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
