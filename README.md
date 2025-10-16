@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|101.109.122.174|8180|Thailand|Kathu|TOT Public Company Limited|
+|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|20|45.238.56.129|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
 
 
 
