@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
