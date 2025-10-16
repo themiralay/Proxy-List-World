@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|16|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|12|103.215.187.112|1080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|18|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
 |19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|188.132.222.36|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|43.208.25.125|19201|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
