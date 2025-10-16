@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|202.152.44.21|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
