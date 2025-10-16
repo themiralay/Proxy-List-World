@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|138.0.140.51|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|209.14.117.210|999|Colombia|Granada|AGIS|
+|16|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|17|194.48.198.135|7070|Iran|Zarrīn Shahr|Pars Parva System LLC|
+|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
 |20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
