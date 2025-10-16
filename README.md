@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|202.152.44.21|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|94.143.137.77|3128|Spain|Madrid|IONOS SE|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|19|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|94.143.137.77|3128|Spain|Madrid|IONOS SE|
+|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
