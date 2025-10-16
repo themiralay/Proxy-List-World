@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|6|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
