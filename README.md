@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |4|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|16|89.46.249.254|60729|United Kingdom|City of London|Hydra Communications Ltd|
-|17|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
-|19|103.155.198.142|1080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|20|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|135.125.97.184|46107|France|Wattrelos|OVH SAS|
+|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|19|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|20|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
 
 
 
