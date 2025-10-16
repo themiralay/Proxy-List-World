@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|13|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|20|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
 
 
 
