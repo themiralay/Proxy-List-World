@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|15|43.208.25.125|19201|Thailand|Bangkok|Amazon.com, Inc.|
-|16|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|51.48.124.225|41|Spain|Zaragoza|Amazon.com, Inc.|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|103.182.79.137|8085|Indonesia|Sudangan|PT Cybernet Data Multimedia|
 
 
 
