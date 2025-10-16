@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|5|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|202.152.44.21|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|3|202.152.44.18|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|202.152.44.19|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|202.152.44.20|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|202.152.44.21|8081|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|12|78.12.249.123|10443|Mexico|Querétaro City|Amazon.com|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|196.251.221.33|8103|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
