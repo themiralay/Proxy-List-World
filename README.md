@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 
 
 
