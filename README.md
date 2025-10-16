@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|13.212.76.113|8763|Singapore|Singapore|Amazon Technologies Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|171.234.249.200|5101|Vietnam|Hanoi|Viettel Corporation|
-|14|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|151.80.199.88|3128|France|Roubaix|OVH SAS|
+|16|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|143.0.243.78|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
 |20|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
 
 
