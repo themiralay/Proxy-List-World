@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|15|210.87.125.58|1080|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|16|45.144.234.129|52056|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|13.212.76.113|8763|Singapore|Singapore|Amazon Technologies Inc.|
-|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|20|40.176.96.235|8037|Canada|Calgary|Amazon.com, Inc.|
+|13|103.154.230.94|8090|Indonesia|Bilo|DIGITNET|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|20|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
 
 
 
