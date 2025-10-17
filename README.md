@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|101.255.107.118|8090|Indonesia|Jakarta|PT Remala Abadi|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|103.18.77.97|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|101.255.211.54|8082|Indonesia|Cileungsir|PT Remala Abadi|
+|19|103.18.77.97|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
