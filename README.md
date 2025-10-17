@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|113.165.105.254|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
