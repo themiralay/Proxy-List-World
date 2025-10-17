@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.124.136.207|8080|Indonesia|Tigaraksa|Global Media Data Prima|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|38.183.146.21|8085|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|171.241.224.97|1004|Vietnam|Thanh Hóa|Viettel Corporation|
+|6|103.82.20.126|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|115.72.172.193|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|17|88.216.98.200|53983|United States|Chicago|AT&T Enterprises, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
