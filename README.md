@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|171.245.59.154|2005|Vietnam|Hanoi|Viettel Corporation|
 |6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|195.62.50.21|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|103.68.213.51|1111|Indonesia|Singosari|PT Mars Data Telekomunikasi|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|202.62.67.209|53281|India|Hyderabad|CityOnline Services|
-|18|85.117.62.78|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|19|112.198.133.246|8181|Philippines|Nasugbu|Globe Telecom|
-|20|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|166.249.54.64|7234|United States|New York|Verizon Business|
+|20|46.166.83.132|8081|Russia|Krasnoyarsk|SIBTTK|
 
 
 
