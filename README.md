@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|103.155.64.7|8181|Indonesia|Ciamis|PT Media Access Telematika|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
