@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|14|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|85.117.62.78|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|157.20.253.208|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|13.212.76.113|8763|Singapore|Singapore|Amazon Technologies Inc.|
-|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
