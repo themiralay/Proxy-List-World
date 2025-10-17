@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|94.143.137.77|3128|Spain|Madrid|IONOS SE|
+|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
