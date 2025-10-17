@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|17|186.182.104.177|8080|Paraguay|Asunción|Techtel LMDS Comunicaciones Interactivas S.A.|
-|18|41.128.72.131|1976|Egypt|Cairo|LINKdotNET AS number|
-|19|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|103.249.19.13|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
