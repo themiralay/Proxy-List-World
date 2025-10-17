@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|171.241.224.97|1004|Vietnam|Thanh Hóa|Viettel Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|103.122.1.130|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
+|12|63.250.36.18|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|67.248.224.36|8888|United States|Schenectady|Charter Communications|
-|18|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|17|63.250.36.18|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
