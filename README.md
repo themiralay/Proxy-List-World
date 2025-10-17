@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.107.142.39|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|15|103.249.19.13|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|187.216.229.150|8080|Mexico|Puebla City|UNINET|
-|19|194.0.114.239|18080|Russia|Moscow|PJSC Rostelecom|
-|20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
