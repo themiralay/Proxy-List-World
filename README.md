@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|17|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|13.115.193.75|1210|Japan|Tokyo|Amazon Technologies Inc|
+|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
