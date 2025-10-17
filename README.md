@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|103.93.93.95|8181|Indonesia|Sempu|MYRISE|
-|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|19|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.96.155.107|3128|Hong Kong|Hong Kong|Google LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
+|17|103.249.19.13|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
+|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|114.9.27.246|8080|Indonesia|Kenali Asam|PT. INDOSAT Tbk|
 
 
 
