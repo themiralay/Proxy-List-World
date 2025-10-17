@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|191.97.20.75|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|18|13.212.76.113|8763|Singapore|Singapore|Amazon Technologies Inc.|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
