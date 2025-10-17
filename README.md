@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|49.0.27.169|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|177.10.145.24|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|20|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.141.150.139|8080|Indonesia|Margahayukencana|PRIMACOM|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|18|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
