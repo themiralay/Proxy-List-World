@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
+|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
