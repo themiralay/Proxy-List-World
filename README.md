@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|12|113.11.126.18|36909|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
-|19|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|113.11.126.18|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
