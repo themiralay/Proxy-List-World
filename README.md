@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|10|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|113.165.105.254|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|15|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|16|38.183.146.77|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|19|178.17.62.152|8802|Switzerland|Bern|Partner Hosting LTD|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|202.5.53.145|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|15|103.151.119.41|8080|Bangladesh|Khulna|Cogent Broadband|
+|16|113.165.105.254|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|19|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
