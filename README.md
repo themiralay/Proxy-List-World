@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|5|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|38.183.146.77|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|8|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|14.29.187.232|8081|China|Shenzhen|Chinanet|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|14.29.187.232|8081|China|Shenzhen|Chinanet|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|103.165.64.74|83|India|Daundi Lohara|Deepnet|
+|20|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
