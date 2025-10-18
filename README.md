@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|103.238.232.70|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|102.222.231.25|2333|Democratic Republic of the Congo|Kinshasa|Orioncom SPRL|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
 
 
 
