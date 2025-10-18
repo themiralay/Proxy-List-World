@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |16|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
+|18|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.238.232.70|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
 
 
 
