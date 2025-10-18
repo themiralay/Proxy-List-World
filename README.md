@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|2|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|14|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|15|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|72.10.160.171|15969|Canada|Montreal|GloboTech Communications|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|20|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
 
 
 
