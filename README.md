@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|16|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|17|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|13|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
