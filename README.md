@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|17|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|103.191.165.219|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|20|49.49.92.41|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
