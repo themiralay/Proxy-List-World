@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|171.241.224.165|1005|Vietnam|Thanh Hóa|Viettel Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.154.230.94|8090|Indonesia|Bilo|DIGITNET|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|180.191.34.229|8081|Philippines|Cabanatuan City|Globe Telecom|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|103.82.20.126|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|51.161.50.166|3128|Canada|Vaughan|OVH Hosting|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.129.172.141|8080|Indonesia|Krajan Lor Balung Kulon|PT. Eka Mas Republik|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|13.212.76.113|8763|Singapore|Singapore|Amazon Technologies Inc.|
+|20|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
