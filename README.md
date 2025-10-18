@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
 |6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
-|11|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|11|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
