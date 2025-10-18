@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|17|103.203.234.75|8080|Indonesia|Banyumas|PT Nesta Indo Media|
-|18|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|1|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|12|157.20.252.30|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|95.84.164.92|8998|Russia|Moscow|NCNET|
+|20|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
 
 
 
