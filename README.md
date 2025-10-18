@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|12|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|15|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|18|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|19|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
 
 
 
