@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|103.134.246.42|3172|Indonesia|Banjar Soka Kaja|Wisuandha Network Globalindo|
+|5|95.81.117.156|8888|United States|Dallas|Scalaxy B.V.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|85.214.114.206|3128|Germany|Berlin|Strato AG|
 
 
 
