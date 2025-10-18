@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
-|10|202.5.53.145|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|18|185.200.37.114|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|202.137.122.4|8082|Philippines|Davao City|DC Tech Micro Services Inc.|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.82.20.126|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|11|202.5.53.145|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
