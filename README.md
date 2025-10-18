@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|15|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|103.156.17.233|8080|Indonesia|Jatibarang|RSTNET|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|18|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
 
 
 
