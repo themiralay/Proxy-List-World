@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 |6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|179.189.236.201|20183|Brazil|São Paulo|Vero S.A|
+|20|103.198.120.226|3128|Indonesia|Jakarta|ROKA|
 
 
 
