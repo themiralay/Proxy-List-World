@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|220.118.176.9|3128|South Korea|Gangseo-gu|Korea Telecom|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|124.156.200.216|20002|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|12|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
