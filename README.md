@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 |15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|207.230.8.69|999|Colombia|Bogotá|TV&MÁS S.A.S|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|16|49.49.92.41|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 
 
 
