@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
-|14|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 |16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|18|8.242.212.220|999|Colombia|Carmen de Apicalá|Level 3 Communications, Inc.|
-|19|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|19|116.80.93.113|3172|Japan|Yokohama|InfoSphere|
 |20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
