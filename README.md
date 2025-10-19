@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|138.219.250.24|3128|Argentina|Virrey del Pino|Coop de Prov.Serv.Telef.Obras y Serv Púb y Soc Virrey del Pino Ltda|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|62.72.30.185|8899|India|Mumbai|Hostinger International Limited|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|16|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|20|38.147.75.254|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|18|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|103.171.255.178|8080|Indonesia|Godean|ZKI|
 
 
 
