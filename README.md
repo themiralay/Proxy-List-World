@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|18|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|91.236.156.30|8282|Ukraine|Yares'ki|Limited Liability Company AVATOR ISP|
+|10|152.231.25.155|999|Colombia|Toribío|Colombiatel Telecomunicaciones|
+|11|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
+|16|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|18|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|19|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
+|20|77.221.134.220|3128|The Netherlands|Amsterdam|ML Cloud Ltd|
 
 
 
