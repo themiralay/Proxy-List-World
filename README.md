@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|3|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|8|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|9|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|40.172.232.213|320|United Arab Emirates|Dubai|Amazon.com|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|14|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
