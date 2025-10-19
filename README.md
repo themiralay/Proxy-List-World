@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|14|43.225.151.14|10882|Bangladesh|Dhaka|Next Online|
-|15|173.249.38.205|3128|France|Lauterbourg|Contabo GmbH|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|157.175.196.63|57245|Bahrain|Manama|Amazon.com, Inc.|
-|19|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|17|173.249.38.205|3128|France|Lauterbourg|Contabo GmbH|
+|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|43.225.151.14|10882|Bangladesh|Dhaka|Next Online|
 
 
 
