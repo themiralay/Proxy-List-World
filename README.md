@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|190.110.97.62|999|Chile|Temuco|Silica Networks Argentina S.A.|
-|16|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|14|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|15|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|19|45.115.113.133|6565|Bangladesh|Farīdpur|Drik ICT Ltd|
+|20|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
 
 
 
