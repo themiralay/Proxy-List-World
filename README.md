@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|117.54.230.230|8080|Indonesia|Jakarta|PT IndoInternet|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 |15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|177.53.215.119|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|18|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|91.236.156.30|8282|Ukraine|Yares'ki|Limited Liability Company AVATOR ISP|
 
 
 
