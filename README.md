@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77783** proxies at the latest update. Usable proxies are below.
+> Scraper found **77887** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36976|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39504|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39608|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|18|157.10.97.119|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|212.252.73.29|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|17|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
