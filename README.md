@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|110.76.145.6|8080|Indonesia|Krajan|PT Pika Media Komunika|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|12|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|94.143.137.77|3128|Spain|Madrid|IONOS SE|
-|17|160.25.119.116|8080|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
-|18|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|19|103.156.57.85|1111|Indonesia|Tembilahan|PT Filltech Antar Nusa|
-|20|103.141.150.139|8080|Indonesia|Margahayukencana|PRIMACOM|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|94.143.137.77|3128|Spain|Madrid|IONOS SE|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|19|125.163.140.103|8080|Indonesia|Ngawi|PT. Telekomunikasi Indonesia|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
