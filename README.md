@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
