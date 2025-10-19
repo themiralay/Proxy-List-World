@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|94.143.137.77|3128|Spain|Madrid|IONOS SE|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|19|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|20|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
 
 
 
