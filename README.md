@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|154.19.38.113|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|16|103.93.93.95|8181|Indonesia|Sempu|MYRISE|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
 
 
 
