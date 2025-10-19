@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.153.149.45|8035|Indonesia|Gianyar|JARINGANKU|
-|20|103.83.97.11|8090|Indonesia|Pugeran Maguwoharjo|PT. Foxline Mediadata Indonusa|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|12|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
 
 
 
