@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|6|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
-|18|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|36.50.112.174|8070|Indonesia|Bekasi|MYREPUBLIC|
+|20|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
 
 
 
