@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|6|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
-|13|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|16|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
-|17|103.123.235.42|8080|India|Mumbai|Esto Broadband|
-|18|103.130.82.212|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|19|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
+|18|103.156.221.229|8080|Indonesia|Cirebon|PT Gading Bhakti Utama|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
 
 
 
