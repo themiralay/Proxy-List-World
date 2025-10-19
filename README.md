@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|212.56.40.135|3128|United States|St Louis|Contabo Inc.|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|94.143.137.77|3128|Spain|Madrid|IONOS SE|
 |19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|94.143.137.77|3128|Spain|Madrid|IONOS SE|
+|20|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 
 
 
