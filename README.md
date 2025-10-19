@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
