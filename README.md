@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|45.161.70.73|8090|Brazil|Luis Eduardo Magalhães|MASS TELECOMUNICAÇÃO LTDA ME|
 
 
 
