@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|193.233.100.170|63130|Russia|Moscow|AkhaliNet LLC|
-|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|45.115.112.206|6565|Bangladesh|Rangpur City|Drik ICT Ltd|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|157.20.207.162|8083|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|220.118.176.9|3128|South Korea|Gangseo-gu|Korea Telecom|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|36.50.112.174|8070|Indonesia|Bekasi|MYREPUBLIC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|103.193.144.99|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
 
 
 
