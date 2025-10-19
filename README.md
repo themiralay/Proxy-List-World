@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|54.90.159.174|9501|United States|Ashburn|Amazon.com, Inc.|
-|18|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|103.141.174.16|8080|Bangladesh|Dohār|ICC Communication Ltd|
+|16|103.247.240.12|7777|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
 
 
 
