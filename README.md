@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|177.93.39.249|999|Colombia|Puerto Rico|TV AZTECA SUCURSAL COLOMBIA|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|45.238.58.33|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|9|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|14|138.121.15.230|999|Colombia|Cartagena|Liberty Networks De Colombia|
+|15|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|18|186.5.94.216|999|Ecuador|Guayaquil|Telconet S.A|
+|19|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|20|67.43.228.252|1359|Canada|Montreal|GloboTech Communications|
 
 
 
