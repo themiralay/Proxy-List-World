@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|15|190.225.182.14|999|Argentina|Paso de los Libres|Telecom Argentina S.A.|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|177.93.59.70|999|Colombia|Aguadas|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.147.246.184|3127|Indonesia|Sekarjalak|PLBNET|
+|19|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
