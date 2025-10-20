@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|14|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|10|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|14|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|16|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|19|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
