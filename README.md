@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41066** proxies at the latest update. Usable proxies are below.
+> Scraper found **77891** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|26|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39751|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|9|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
-|10|49.150.49.93|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|190.97.231.0|999|Venezuela|Porlamar|Viginet C.A|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|19|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|20|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|12|177.93.36.178|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|14|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|36.95.155.74|3126|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
 
 
 
