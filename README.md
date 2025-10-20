@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |9|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|118.113.245.158|2324|China|Chengdu|Chinanet|
-|19|67.43.228.250|15223|Canada|Montreal|GloboTech Communications|
-|20|201.76.9.115|8080|Brazil|Araranguá|Contato Internet EIRELI|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|103.132.52.196|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|178.17.62.152|8837|Switzerland|Bern|Partner Hosting LTD|
+|18|103.157.78.90|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|19|72.10.164.178|1729|Canada|Montreal|GloboTech Communications|
+|20|103.157.117.122|8097|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
 
 
 
