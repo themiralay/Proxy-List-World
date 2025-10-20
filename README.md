@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|178.17.62.152|8808|Switzerland|Bern|Partner Hosting LTD|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|124.158.153.218|8180|Indonesia|Sedatiagung|PT iForte Global Internet|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |17|72.10.160.173|4965|Canada|Montreal|GloboTech Communications|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|20|103.175.240.87|8090|Indonesia|Sleman|LDP|
+|18|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|19|178.17.62.152|8809|Switzerland|Bern|Partner Hosting LTD|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
