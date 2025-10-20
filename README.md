@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
+|10|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|103.9.190.130|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|15|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|163.61.112.248|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|19|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|16|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|19|103.172.196.221|8080|Indonesia|Kalibaru|PT Cahaya Solusindo Internusa|
+|20|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
 
 
 
