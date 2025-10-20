@@ -15,7 +15,7 @@ Click the file format that you want and copy the URL.
 |----|-------|-----|
 |[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
 |[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|109.238.181.53|8083|Iran|Bushehr|KOL IP|
-|13|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|14|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|15|103.132.52.196|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|16|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|177.93.59.150|999|Colombia|Aguadas|TV AZTECA SUCURSAL COLOMBIA|
-|19|178.17.62.152|8809|Switzerland|Bern|Partner Hosting LTD|
-|20|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
