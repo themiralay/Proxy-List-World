@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|164.163.42.28|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|17|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|7|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 |18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
