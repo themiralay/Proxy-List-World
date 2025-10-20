@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|124.83.43.145|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
 |11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|204.199.139.75|999|Chile|Isla de Maipo|Ingbell Chile SPA|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|17|188.19.15.242|8080|Russia|Khanty-Mansiysk|OJSC uralsvyazinform|
-|18|203.172.136.211|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|19|14.182.132.99|8080|Vietnam|Hanoi|VNPT|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|15|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|16|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|19|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|20|103.247.23.239|8080|Indonesia|Cileungsir|PT wifian Solution|
 
 
 
