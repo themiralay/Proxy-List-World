@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.132.52.42|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|18|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|19|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|111.68.26.237|8080|Indonesia|Mertoyudan|GMEDIA|
+|14|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|19|124.83.43.145|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
