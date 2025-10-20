@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|9|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|181.209.71.222|8080|Argentina|Libertador San Martín|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|178.17.62.152|8809|Switzerland|Bern|Partner Hosting LTD|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.164.178|5183|Canada|Montreal|GloboTech Communications|
-|19|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|20|72.10.164.178|5183|Canada|Montreal|GloboTech Communications|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
+|13|103.76.151.202|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.132.52.196|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|177.93.59.150|999|Colombia|Aguadas|TV AZTECA SUCURSAL COLOMBIA|
+|18|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|178.17.62.152|8808|Switzerland|Bern|Partner Hosting LTD|
 
 
 
