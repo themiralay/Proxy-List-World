@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|164.163.42.28|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|14|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|103.48.68.126|84|India|Hyderabad|Country Online Services PVT LTD|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
