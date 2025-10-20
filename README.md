@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|16|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|17|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|38.194.246.34|999|Mexico|León|Cogent Communications|
+|18|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
+|19|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|20|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
