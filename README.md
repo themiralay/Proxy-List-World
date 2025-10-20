@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|16|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|20|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
