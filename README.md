@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.144.18.70|3128|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|16|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|103.191.196.205|1111|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|20|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|2|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|103.203.234.20|7777|Indonesia|Banyumas|PT Nesta Indo Media|
+|11|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.136.170.55|8080|Indonesia|Palembang|PT UNZA VITALI|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
