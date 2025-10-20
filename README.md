@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77673** proxies at the latest update. Usable proxies are below.
+> Scraper found **77942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37140|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39229|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39498|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|14|121.101.132.39|8080|Indonesia|Godean|PT SELARAS CITRA TERABIT|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|17|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|18|27.147.235.238|58080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|19|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|36.50.92.109|1111|Indonesia|Kutoarjo|PT Ring Media Nusantara|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|97.79.251.186|80|United States|Dallas|Spectrum|
+|13|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|164.163.42.28|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
