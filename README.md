@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|203.111.253.146|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|16|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|17|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|18|119.148.9.238|8443|Bangladesh|Dhaka|Agni Systems Limited|
+|19|202.5.53.93|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
