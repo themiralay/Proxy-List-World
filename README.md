@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|7|177.93.35.74|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|8|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|9|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
 |10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|12|177.93.36.178|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|36.95.155.74|3126|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|178.17.62.152|8809|Switzerland|Bern|Partner Hosting LTD|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
 
 
 
