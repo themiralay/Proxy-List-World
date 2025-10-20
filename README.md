@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|103.237.134.242|7777|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|38.191.204.79|999|Colombia|Granada|Hola Telecomunicacines Colombia S.A.S|
+|19|182.253.69.95|8080|Indonesia|Denpasar|BIZNET|
+|20|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
