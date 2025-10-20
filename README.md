@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|5|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|6|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|186.5.94.216|999|Ecuador|Guayaquil|Telconet S.A|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|45.123.142.83|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|103.169.254.45|6080|Indonesia|Bondowoso|PT Master Star Network|
-|18|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|19|103.130.158.242|8080|Pakistan|Lahore|Master Communication Pvt. Ltd.|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|186.5.94.216|999|Ecuador|Guayaquil|Telconet S.A|
+|13|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|67.43.228.250|4903|Canada|Montreal|GloboTech Communications|
+|16|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|17|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|18|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|19|103.16.118.12|8070|Indonesia|Madiun|CV Trustnet Media|
+|20|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
 
 
 
