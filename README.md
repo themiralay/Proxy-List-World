@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|163.223.78.97|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|102.213.216.98|8080|Kenya|Garissa|Celcom Networks Limited|
-|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|20|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|14|103.167.170.244|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|38.49.149.138|999|Mexico|Pahuatlán de Valle|Ientc S De RL De CV|
+|17|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
