@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|12|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|18|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|19|143.208.57.165|999|Guatemala|Patzicía|Comunicaciones Metropolitanas Cablecolor|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|202.5.53.93|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
