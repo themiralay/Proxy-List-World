@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.187.28.126|8080|United States|Phoenix|Web-hosting.com|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|168.228.44.66|999|Honduras|Yoro|CABLE NACIONAL, S.A|
-|17|103.9.190.130|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|18|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
-|19|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|103.148.184.82|8080|Timor Leste|Dom Aleixo|METROLINK, LDA.|
+|14|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|18|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|19|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|20|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
