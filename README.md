@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|161.97.181.217|8118|France|Lauterbourg|Contabo GmbH|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|9|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|103.171.241.9|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
 |13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|17|178.17.62.152|8809|Switzerland|Bern|Partner Hosting LTD|
-|18|38.194.246.34|999|Mexico|León|Cogent Communications|
-|19|72.10.160.91|18999|Canada|Montreal|GloboTech Communications|
-|20|149.86.146.231|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|213.74.255.14|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|17|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|20|178.17.62.152|8808|Switzerland|Bern|Partner Hosting LTD|
 
 
 
