@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|3|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|152.231.25.155|999|Colombia|Toribío|Colombiatel Telecomunicaciones|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|4|139.59.144.214|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
+|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|9|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|13|201.186.41.170|999|Chile|Los Ángeles|Telefonica del Sur S.A.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|38.95.88.124|999|Dominican Republic|Santo Domingo Este|TELECABLE DOMINICANO, S.A.|
+|18|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
