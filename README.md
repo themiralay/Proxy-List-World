@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|14|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|120.28.216.23|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
-|20|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
+|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|14|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|17|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
+|19|144.48.115.20|8080|Bangladesh|Azimpur|Virgo Communication Ltd|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
