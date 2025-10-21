@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|12|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|185.41.152.110|3128|France|Valenciennes|global|
 
 
 
