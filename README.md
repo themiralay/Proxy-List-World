@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|14|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|15|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|16|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.156.15.111|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|38.191.42.202|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|9|157.66.16.67|8758|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|103.152.238.29|1080|Indonesia|Cikarang|APRIN|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
