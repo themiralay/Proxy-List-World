@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
-|7|103.169.238.65|8090|Indonesia|Pakuan Agung|PT INDONESIA TRANS NETWORK|
-|8|36.72.223.251|7777|Indonesia|Magelang|PT. Telekomunikasi Indonesia|
-|9|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|11|103.125.117.118|7777|Indonesia|Cileunyi|PT Baraya Telematika Nusantara|
-|12|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
-|13|103.112.162.163|7777|Indonesia|Jakarta|24AS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|18|203.190.55.134|8090|Indonesia|Jakarta|PT POWER TELECOM|
-|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|20|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
+|11|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|13|103.109.96.250|2024|Bangladesh|Sarishābāri|Digi Jadoo Broadband Ltd|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|201.234.96.50|999|Mexico|Jiquipilco|Level 3 Communications, Inc.|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|19|103.125.117.118|7777|Indonesia|Cileunyi|PT Baraya Telematika Nusantara|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
