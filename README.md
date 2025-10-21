@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
 |8|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |16|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|17|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|18|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 |19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|103.203.233.227|8085|Indonesia|Kedok|PT Inti Data Guna|
 
 
 
