@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|6|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|171.7.118.174|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|192.145.173.101|8080|Somalia|Mogadishu|Hormuud Telecom Somalia INC|
-|14|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|202.58.77.194|8031|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
