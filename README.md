@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|16|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
-|17|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
-|18|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
-|19|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|20|38.159.229.92|999|Ecuador|Vinces|Turbonet S.A.|
+|2|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|16|103.159.96.146|3128|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|199.188.207.31|8080|United States|Phoenix|Namecheap, Inc.|
+|20|199.188.207.30|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
