@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|103.166.158.101|3125|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|202.47.188.186|2010|Indonesia|Magetan|Lintas Data Prima, PT|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|20|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|16|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|103.176.97.223|3127|Indonesia|Gombong|PT Global Sarana Elektronika|
+|19|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|20|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
 
 
 
