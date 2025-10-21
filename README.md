@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|190.185.112.58|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|11|200.205.60.2|8080|Brazil|São Paulo|Vivo|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|15|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|16|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|17|49.48.65.146|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
-|18|103.125.17.98|8080|Indonesia|Jakarta|JAVAMEDIA|
-|19|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|20|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
+|7|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
+|8|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|157.20.252.203|8080|Indonesia|Pati|PT.Global Media Data Prima|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|18|131.255.56.43|8085|Brazil|Votuporanga|Link Brasil Telecomunicacoes Ltda|
+|19|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|20|202.77.112.245|8080|Indonesia|Tangerang|LINKNET|
 
 
 
