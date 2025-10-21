@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|186.96.74.82|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
