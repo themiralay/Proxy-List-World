@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|122.54.226.216|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|14|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|15|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
-|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|103.20.88.6|8080|Indonesia|Trucuk|PT Indo Teknologi Konstruksi|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.133.27.143|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|15|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|16|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
 |17|27.124.81.146|8080|Indonesia|Bangsal Aceh|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|18|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|19|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|19|103.214.82.79|8080|Bangladesh|Mymensingh|Jhongkar IT|
+|20|119.18.149.75|5720|Bangladesh|Chittagong|BBTS Network|
 
 
 
