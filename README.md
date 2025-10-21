@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|41.139.226.11|8080|Kenya|Nairobi|Safaricom Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|12|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|13|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|80.254.126.24|8080|Russia|Rostov-on-Don|PJSC Rostelecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|9|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|17|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
 |18|67.43.236.20|1485|Canada|Montreal|GloboTech Communications|
-|19|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|170.39.194.14|867|United States|Ashburn|Rackdog, LLC|
 
 
 
