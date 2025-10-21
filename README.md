@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|103.130.82.212|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|201.148.42.22|999|Mexico|Loreto|Operbes|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |15|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|16|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
