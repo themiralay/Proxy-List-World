@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|12|156.233.232.143|3128|United States|Los Angeles|High Family Technology Co Limited|
-|13|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|156.233.232.143|3128|United States|Los Angeles|High Family Technology Co Limited|
+|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|17|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
