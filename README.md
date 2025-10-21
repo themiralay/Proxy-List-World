@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|12|202.58.77.19|3127|Indonesia|Pasuruan|PT Data Buana Nusantara|
-|13|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
-|14|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|15|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
-|16|43.225.151.174|2828|Bangladesh|Dhaka|Next Online|
-|17|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
 
 
 
