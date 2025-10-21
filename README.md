@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|14.29.187.232|8081|China|Shenzhen|Chinanet|
-|20|43.252.237.122|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|5|101.255.211.41|1111|Indonesia|Cileungsir|PT Remala Abadi|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|12|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|16|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|20|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
