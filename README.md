@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.133.26.45|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|103.133.26.45|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|202.58.77.19|3127|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|18|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
