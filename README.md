@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|7|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|8|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|11|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|12|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|13|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|14|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
-|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|16|78.26.146.16|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
-|17|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|19|103.165.155.163|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|7|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|8|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|9|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|13|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|212.56.205.202|8080|Moldova|Chisinau|Telemedia Group SA|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|103.217.216.30|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|19|191.242.111.26|8080|Brazil|Rio de Janeiro|V W INTERNET|
+|20|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
