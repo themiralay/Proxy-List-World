@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80139** proxies at the latest update. Usable proxies are below.
+> Scraper found **80127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38329|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38317|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40480|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
-|12|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|10|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
+|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|14|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|120.28.216.23|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 |18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|19|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
+|20|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
