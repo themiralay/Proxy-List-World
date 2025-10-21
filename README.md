@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|3|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|4|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
-|10|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|12|94.102.198.90|8080|Ireland|Enniscorthy|Regional Broadband Ireland Ltd|
-|13|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|14|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|18|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|19|190.52.100.211|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|103.130.82.212|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|3|103.171.182.229|8080|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|7|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|45.167.93.24|999|Mexico|Mérida|Lantointernet SA De CV|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
+|19|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|20|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
