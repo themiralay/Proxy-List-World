@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|185.200.38.200|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |16|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
 
 
 
