@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |6|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
 |7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|139.59.144.214|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|14|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|113.11.64.177|8446|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|13|138.219.250.24|3128|Argentina|Virrey del Pino|Coop de Prov.Serv.Telef.Obras y Serv Púb y Soc Virrey del Pino Ltda|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.10.52.150|6565|Bangladesh|Gafargaon|Drik ICT Ltd|
+|20|171.7.118.174|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
