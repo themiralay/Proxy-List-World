@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|16|177.234.199.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|19|154.57.15.155|8080|Greece|Athens|Novelcomm LP|
-|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|80.78.75.80|8080|Albania|Tirana|ABCom|
+|19|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
+|20|119.93.201.156|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
