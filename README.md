@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|11|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
-|12|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|19|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|20|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|103.247.23.10|8549|Indonesia|Cileungsir|PT wifian Solution|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|103.171.182.229|8080|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
 
 
 
