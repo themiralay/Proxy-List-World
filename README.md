@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|5|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|139.59.144.214|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|113.11.64.177|8446|Bangladesh|Dhaka|BDCOM Online Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|191.97.20.84|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
 |11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 |12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
+|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|15|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
 |16|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
-|18|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
