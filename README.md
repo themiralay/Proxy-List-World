@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|124.156.200.216|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|43.156.15.111|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|14|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|15|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|16|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|10|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|11|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|12|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|135.125.97.184|43163|France|Wattrelos|OVH SAS|
+|14|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|15|103.247.23.28|9223|Indonesia|Cileungsir|PT wifian Solution|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
