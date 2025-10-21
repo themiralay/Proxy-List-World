@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|103.138.71.133|8085|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|14|43.252.106.5|8090|Indonesia|Temanggung|PT Lintas Data Prima|
-|15|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|6|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|13|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|16|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|17|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|18|185.198.3.1|11223|Poland|Gmina Sędziejowice|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 |20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
