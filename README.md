@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|8|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|13|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|14|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|103.124.136.207|8080|Indonesia|Tigaraksa|Global Media Data Prima|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|10|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|13|152.0.60.117|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|14|43.163.107.82|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|187.45.105.25|8080|Brazil|Toledo|Mhnet Telecom|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|191.15.65.4|8080|Brazil|Salvador|Vivo|
 
 
 
