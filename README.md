@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|156.233.232.143|3128|United States|Los Angeles|High Family Technology Co Limited|
-|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
