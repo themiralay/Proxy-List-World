@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|7|103.39.70.222|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|36.72.223.251|7777|Indonesia|Magelang|PT. Telekomunikasi Indonesia|
-|10|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|13|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|14|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|11|103.109.96.250|2024|Bangladesh|Sarishābāri|Digi Jadoo Broadband Ltd|
+|12|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
+|13|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|103.85.157.13|8080|Bangladesh|Hāthazāri|EarthTelecommunication|
+|15|103.125.117.118|7777|Indonesia|Cileunyi|PT Baraya Telematika Nusantara|
+|16|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|17|103.134.245.127|8090|Indonesia|Banjar Tengah|Wisuandha Network Globalindo|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|20|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
 
 
 
