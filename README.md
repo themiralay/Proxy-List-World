@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|14|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|15|112.209.19.103|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|178.17.62.152|8837|Switzerland|Bern|Partner Hosting LTD|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|1.20.169.235|8080|Thailand|Pattaya|TOT Public Company Limited|
+|20|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
