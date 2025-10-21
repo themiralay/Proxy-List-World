@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|113.11.64.177|8446|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|1|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|103.113.117.46|1111|Indonesia|Malang|Indonesia Network Information Center|
+|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|8|103.10.52.150|6565|Bangladesh|Gafargaon|Drik ICT Ltd|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|11|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|123.200.7.194|2828|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|113.11.64.177|8446|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|123.200.9.66|2828|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|177.234.198.33|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
