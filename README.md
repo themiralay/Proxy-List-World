@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|10|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|11|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|20|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|14|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|15|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|16|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|17|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|122.3.103.17|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
