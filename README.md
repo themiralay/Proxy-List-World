@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|191.15.65.4|8080|Brazil|Salvador|Vivo|
+|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 |14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|16|103.101.216.42|8090|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|156.233.232.143|3128|United States|Los Angeles|High Family Technology Co Limited|
-|19|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
