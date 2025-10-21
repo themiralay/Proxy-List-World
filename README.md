@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|15|27.147.134.70|2828|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|129.226.150.86|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
