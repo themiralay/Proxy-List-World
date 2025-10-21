@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|16|49.150.49.93|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|20|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
 
 
 
