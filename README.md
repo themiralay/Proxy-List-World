@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|13|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|38.51.207.98|999|Venezuela|Maracaibo|Tecnoven Services C.A|
-|17|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|194.124.36.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
+|15|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|16|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|17|80.254.126.24|8080|Russia|Rostov-on-Don|PJSC Rostelecom|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
