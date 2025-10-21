@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|103.165.155.163|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|8|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|9|163.223.150.38|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|10|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|11|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|14|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|15|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|16|177.44.223.113|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
-|17|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|6|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|7|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|8|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|14|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
