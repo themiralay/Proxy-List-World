@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|152.0.60.117|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|8|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|11|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
+|7|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|8|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|152.0.60.117|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|16|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|17|212.112.121.130|8080|Kyrgyzstan|Bishkek|AKNET Ltd|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
