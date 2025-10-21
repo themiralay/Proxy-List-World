@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|3|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|4|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|5|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|153.132.209.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|164.163.73.141|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
-|19|222.124.132.179|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|15|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|203.167.14.15|3128|Vietnam|Quận Bốn|MAXDATA|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|45.167.125.252|2021|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
