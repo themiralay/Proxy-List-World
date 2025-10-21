@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.144.214|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
+|1|103.147.246.140|8080|Indonesia|Curug|PLBNET|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.144.214|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|113.11.64.177|8446|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|16|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|45.186.208.34|8080|Venezuela|Maracaibo||
-|20|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
