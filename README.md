@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|8|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|103.238.232.158|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|203.150.128.186|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
