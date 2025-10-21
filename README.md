@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|120.28.212.79|8082|Philippines|Davao City|Globe Telecom|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|4|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|5|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|12|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|1.20.169.235|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|17|157.15.63.86|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|18|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|19|202.176.1.77|5555|India|Mirzāpur|RailTel Corporation|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|7|138.0.143.119|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|8|138.117.13.129|999|Argentina|San Juan|Tamayo Magda Judith|
+|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|10|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|41.139.226.11|8080|Kenya|Nairobi|Safaricom Limited|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|216.122.181.210|999|Dominican Republic|Santiago de los Caballeros|Internet Utilities NA LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
