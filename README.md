@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|9|186.190.224.82|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|43.163.107.82|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|178.17.62.152|8830|Switzerland|Bern|Partner Hosting LTD|
 
 
 
