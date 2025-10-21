@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|80.254.126.24|8080|Russia|Rostov-on-Don|PJSC Rostelecom|
-|15|138.0.143.119|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|16|181.209.71.222|8080|Argentina|Libertador San Martín|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|9|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|41.139.226.11|8080|Kenya|Nairobi|Safaricom Limited|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|77.242.21.133|8080|Albania|Tirana|Business Custommers|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|19|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
