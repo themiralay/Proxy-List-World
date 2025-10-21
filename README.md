@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|15|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|10|103.188.252.28|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|11|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|12|95.164.1.87|3128|Austria|Vienna|PQ HOSTING PLUS S.R.L.|
+|13|103.162.61.221|8081|Indonesia|Pundong|PT Indo Prima Akses|
+|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|15|124.156.200.216|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|18|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|19|178.17.62.152|8849|Switzerland|Bern|Partner Hosting LTD|
-|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
