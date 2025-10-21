@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|154.73.28.79|8080|Libya|Tripoli|Rawafed|
-|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|9|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|10|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|11|113.11.47.21|1122|Bangladesh|Dhaka|BDCOM Online Limited|
+|12|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|15|209.14.113.2|999|Colombia|Quebradanegra|AGIS|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
