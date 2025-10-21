@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|101.109.122.174|8180|Thailand|Kathu|TOT Public Company Limited|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|6|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|11|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|190.185.112.58|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|125.18.28.54|8080|India|New Delhi|Bharti Airtel Limited|
-|20|103.157.117.122|8097|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|8|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|9|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
+|14|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
+|15|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|45.234.101.123|8989|Brazil|Recife|Fortlink Internet Corporativa|
+|19|90.156.197.13|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
