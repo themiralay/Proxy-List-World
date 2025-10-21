@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|49.0.27.167|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|36.88.111.98|55443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|119.93.201.156|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|15|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.156.248.241|8080|Indonesia|Batam|Trans Media Telekomunikasi|
 
 
 
