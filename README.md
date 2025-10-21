@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|7|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|8|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|11|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|12|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|38.180.18.103|3128|Belgium|Zaventem|M247 Europe SRL|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
