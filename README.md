@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.189.254.28|2222|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
-|14|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|17|103.193.145.155|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
-|18|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|19|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|119.18.149.75|5720|Bangladesh|Chittagong|BBTS Network|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|58.147.171.12|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|15|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|16|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|43.225.151.174|2828|Bangladesh|Dhaka|Next Online|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
 
 
 
