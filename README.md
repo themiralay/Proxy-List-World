@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
-|16|37.230.57.112|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|17|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|18|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|12|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|20|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
 
 
 
