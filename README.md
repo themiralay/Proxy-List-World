@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|103.110.85.107|3128|Vietnam|Hòa An|Representative office of AZDIGI Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|36.91.148.36|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|19|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|103.141.150.139|8080|Indonesia|Margahayukencana|PRIMACOM|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|20|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
 
 
 
