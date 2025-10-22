@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|6|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
-|9|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|103.48.71.62|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|11|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
