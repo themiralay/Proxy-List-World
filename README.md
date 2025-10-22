@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80025** proxies at the latest update. Usable proxies are below.
+> Scraper found **79987** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38321|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38283|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40408|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|7|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|8|103.166.32.224|8080|Indonesia|Wonosobo|PT Daniswara Citra Informatika|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|11|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|45.81.144.238|8085|Iraq|Sumayl|Fact LTD|
-|15|186.96.67.42|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|12|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|15|121.28.4.58|3083|China|Chengde|CNC Group CHINA169 Hebei Province Network|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|157.66.20.96|8090|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
+|18|179.57.215.99|999|Chile|Temuco|Telefonica del Sur S.A.|
+|19|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
+|20|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
 
 
 
