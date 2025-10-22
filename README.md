@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|103.146.185.140|1111|Indonesia|Wonogiri|YAMNET|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|103.161.69.217|8469|Bangladesh|Chittagong|MiME|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
-|19|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|175.101.26.73|83|India|Hyderabad|ExcellMedia Pvt Ltd|
 
 
 
