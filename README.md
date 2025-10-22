@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.54.123.134|8080|United States|Phoenix|Namecheap, Inc.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|10|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|10|77.221.134.220|3128|The Netherlands|Amsterdam|ML Cloud Ltd|
+|11|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|13|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|14|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
+|15|200.125.170.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|103.133.26.100|8181|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
