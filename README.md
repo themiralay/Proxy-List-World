@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79915** proxies at the latest update. Usable proxies are below.
+> Scraper found **79949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38212|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38246|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40425|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|10|77.221.134.220|3128|The Netherlands|Amsterdam|ML Cloud Ltd|
-|11|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|13|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|14|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
-|15|200.125.170.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|16|103.133.26.100|8181|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|8|77.221.134.220|3128|The Netherlands|Amsterdam|ML Cloud Ltd|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|13|103.191.165.219|8181|Indonesia|Subang|PT Sakti Wijaya Network|
+|14|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|15|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|18|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|19|202.58.65.0|8080|Indonesia|Jakarta|PT Mamura Inter Media|
+|20|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
