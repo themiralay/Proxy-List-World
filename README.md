@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
-|5|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.175.236.18|8080|Indonesia|Wonosari|PT Marva Global Telekomunikasi|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
