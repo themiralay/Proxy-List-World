@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|10|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|11|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|12|45.167.125.44|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|113.192.12.33|9898|Indonesia|Prumpung|PT Parsaoran Global Datatrans|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|18|72.10.164.178|24217|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|16765|Canada|Montreal|GloboTech Communications|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|202.146.230.102|8080|Indonesia|Bandung|PT Centrin Utama|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|103.167.68.254|3125|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|20|34.16.129.212|3128|United States|Las Vegas|Google LLC|
 
 
 
