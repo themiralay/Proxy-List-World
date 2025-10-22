@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
-|12|36.93.73.154|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|18|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|19|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|20|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|157.10.3.10|8080|Indonesia|Semarang|PT Parsaoran Global Datatrans|
+|10|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|60.54.38.160|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|15|202.58.73.246|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|103.174.236.88|8080|Indonesia|Balapulang|PT Global Erasiber Teknologi|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
