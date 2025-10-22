@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|116.68.250.46|8080|Indonesia|Labansari|PT. Cross Network Indonesia|
-|6|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
-|15|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|17|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|20|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|103.160.136.50|8089|Indonesia|Sepatan|PT Natakarya Mediatama|
+|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|19|191.97.20.85|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|20|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
