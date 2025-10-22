@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|103.125.117.118|7777|Indonesia|Cileunyi|PT Baraya Telematika Nusantara|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|122.252.182.201|8080|Cambodia|Phnom Penh|Phnom Penh Cable TV|
-|19|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
-|20|103.134.245.127|8090|Indonesia|Banjar Tengah|Wisuandha Network Globalindo|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.188.169.11|8080|Indonesia|Cimahi|PT Lintas Jaringan Nusantara|
+|6|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|18|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
