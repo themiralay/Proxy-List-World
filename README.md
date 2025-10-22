@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
 |6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|10|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|19|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.115.74.222|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
