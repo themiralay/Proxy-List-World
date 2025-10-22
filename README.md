@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|8|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|12|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|5|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|103.48.68.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|14|43.156.15.111|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|19|67.43.228.252|3377|Canada|Montreal|GloboTech Communications|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
