@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
 |7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|103.172.121.52|8083|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|17|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
-|18|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|19|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.156.15.111|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|114.9.27.246|8080|Indonesia|Kenali Asam|PT. INDOSAT Tbk|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|200.24.148.235|999|Ecuador|El Guabo|Negocios Y Telefonia Nedetel S.A|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
