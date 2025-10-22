@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|88.216.98.251|53983|United States|Chicago|AT&T Enterprises, LLC|
-|11|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|15|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|17|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|103.147.85.28|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
