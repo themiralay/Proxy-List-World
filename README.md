@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|1|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|6|103.238.232.18|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|95.214.123.197|8080|Hungary|Kecskemét|Deltakon Kft.|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|186.96.67.42|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
