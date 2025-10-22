@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|4|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|103.130.129.249|8080|Indonesia|Cibinong|PT. Eka Mas Republik|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|45.179.246.65|999|Colombia|Acevedo|Genionet Telecomunicaciones S.A.S|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|36.89.251.14|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|4|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|18|177.93.39.249|999|Colombia|Puerto Rico|TV AZTECA SUCURSAL COLOMBIA|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
