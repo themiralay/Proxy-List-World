@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.155.167.62|8080|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|14|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|17|119.18.146.202|5720|Bangladesh|Nowlamary|BBTS Network|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|181.204.81.179|999|Colombia|Pereira|Colombia Móvil|
-|20|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|11|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|67.43.236.19|2357|Canada|Montreal|GloboTech Communications|
+|20|177.93.36.181|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
