@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|103.155.64.55|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|11|119.148.35.126|8446|Bangladesh|Dhaka|Agni Systems Limited|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|18|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|6|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|7|103.249.19.13|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
+|8|81.90.149.188|3128|Iran|Tehran|Afranet|
+|9|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|13|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
+|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|17|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
