@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|11|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|191.97.20.80|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+
 
 
 ## Contributing
