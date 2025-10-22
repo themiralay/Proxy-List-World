@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|12|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|18|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|19|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
-|20|43.156.15.111|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|103.174.236.88|8080|Indonesia|Balapulang|PT Global Erasiber Teknologi|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|20|89.26.83.25|8080|Austria|Rauris|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
 
 
 
