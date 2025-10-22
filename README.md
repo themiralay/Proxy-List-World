@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|1.0.170.50|8080|Thailand|Phuket|TOT Public Company Limited|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|103.130.70.233|83|India|Darjeeling|Siliguri Meghrekha Net Services Pvt. Ltd|
 |7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|10|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|88.216.98.209|53983|United States|Chicago|AT&T Enterprises, LLC|
-|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
