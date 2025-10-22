@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|13|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
 |14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
