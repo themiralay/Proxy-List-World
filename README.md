@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|177.93.35.75|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
-|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|43.163.107.82|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|15|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.192.158.115|46|Bangladesh|Tongi|City Online Ltd.|
+|12|14.143.130.210|80|India|New Delhi|Tata Communications Limited|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
