@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|58.136.173.43|8080|Thailand|Bangkok|AIS-Fibre|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|10|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 |17|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|18|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
-|19|119.18.151.113|8444|Bangladesh|Chittagong|BBTS Network|
-|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|103.68.214.129|1111|Indonesia|Sepatan|PT Media Grasi Internet|
+|20|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
 
 
 
