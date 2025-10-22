@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|3|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|17|72.10.164.178|1239|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|20|72.10.160.171|15969|Canada|Montreal|GloboTech Communications|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|5|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|13|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
