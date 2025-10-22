@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|10|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|6|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|13|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|15|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|13|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|103.148.131.87|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
