@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|13|43.156.27.59|20202|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
 |18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|177.93.36.178|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|19|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
