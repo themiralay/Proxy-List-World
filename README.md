@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|7|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|103.188.173.33|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|14|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|15|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|16|103.179.182.185|8181|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
-|17|194.190.221.46|8080|Russia|St Petersburg|LLC G&G-Telecom|
-|18|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|19|72.10.164.178|10993|Canada|Montreal|GloboTech Communications|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|14|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|37.187.92.9|1026|France|Roubaix|OVH SAS|
 
 
 
