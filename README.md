@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|3|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|9|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|18|160.22.134.3|1111|Indonesia|Rejanegara|PT GALAXY SINERGI NETWORK|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|117.7.105.28|1007|Vietnam|Hanoi|VIETTEL|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|5|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|6|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|13|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
+|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|16|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
