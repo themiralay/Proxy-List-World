@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|7|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 |8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.16.118.12|8070|Indonesia|Madiun|CV Trustnet Media|
+|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|13|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|18|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|19|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|20|119.2.45.53|8090|Indonesia|Cilandak|PT. Laxo Global Akses|
 
 
 
