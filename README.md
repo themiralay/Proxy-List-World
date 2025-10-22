@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|119.18.151.198|63636|Bangladesh|Chittagong|BBTS Network|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|157.10.3.10|8080|Indonesia|Semarang|PT Parsaoran Global Datatrans|
-|9|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|13|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|14|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|103.109.173.11|8080|Indonesia|Jakarta|PT Cyberindo Aditama|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|176.88.175.151|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|54.154.27.41|357|Ireland|Dublin|Amazon.com, Inc.|
+|15|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|202.5.53.93|21323|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
