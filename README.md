@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|103.120.175.243|9191|Indonesia|Sepatan|PT. Eka Mas Republik|
-|15|103.190.225.214|8080|Indonesia|Soreang|LINTASARTA|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
-|18|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|19|191.97.20.85|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
-|20|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|191.97.20.73|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|18|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|20|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
