@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|6|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|103.17.182.130|8585|Indonesia|Kedungwuluh|PT Tinelo Digital Network|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |14|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|15|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
-|16|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|17|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
-|18|102.0.9.114|8080|Kenya|Nairobi|Airtel KE Mobile Broadband|
-|19|67.43.228.253|8287|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|18|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|19|143.208.57.165|999|Guatemala|Patzicía|Comunicaciones Metropolitanas Cablecolor|
+|20|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
