@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|117.7.105.28|1007|Vietnam|Hanoi|VIETTEL|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|8|103.155.64.55|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.28|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.41.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|5|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|8|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|163.61.55.11|8085|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|11|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
