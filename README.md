@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40425|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|11|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.181.35.151|8118|Sweden|Stockholm|PVDataNet AB|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|19|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|20|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
 
 
 
