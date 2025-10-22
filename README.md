@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|179.49.162.97|999|Colombia|Bogotá|Integra Multisolutions|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|222.127.171.128|8082|Philippines|Iloilo City|Globe Telecom Inc.|
+|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
