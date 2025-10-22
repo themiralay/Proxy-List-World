@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |7|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|8|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|163.223.172.29|1080|Indonesia|Pelaihari|PT FAFI UIFI NETWORK|
-|11|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|103.181.254.105|8080|Indonesia|Sedan|PT Giga Digital Nusantara|
-|14|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|15|203.192.217.6|8080|India|Pune|Entire In2Cable|
-|16|103.172.121.52|8083|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|17|122.3.77.27|8082|Philippines|Cabanatuan City|Philippine Long Distance Telephone Co.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|182.253.215.158|8080|Indonesia|Jakarta|BIZNET|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|17|103.59.44.33|8181|Indonesia|Sidorejo|PT INDONESIA TRANS NETWORK|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
