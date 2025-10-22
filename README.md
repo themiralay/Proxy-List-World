@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80469** proxies at the latest update. Usable proxies are below.
+> Scraper found **80434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38362|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38327|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40773|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|10|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|16|203.150.172.151|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|18|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|19|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|3|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|4|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|9|103.130.129.249|8080|Indonesia|Cibinong|PT. Eka Mas Republik|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.179.246.65|999|Colombia|Acevedo|Genionet Telecomunicaciones S.A.S|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|36.89.251.14|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
