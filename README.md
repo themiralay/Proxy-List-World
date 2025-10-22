@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 |11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|12|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
-|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|16|129.226.150.86|20002|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|14|191.97.20.85|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|19|103.112.131.14|8080|Bangladesh|Dukuria|Sayem Online Communication|
+|20|103.160.136.50|8089|Indonesia|Sepatan|PT Natakarya Mediatama|
 
 
 
