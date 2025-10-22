@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|38.183.146.159|8181|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|177.93.59.150|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|179.1.95.208|999|Colombia|Facatativá|Internexa S.a. E.S.P|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|19|38.183.146.159|8181|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
