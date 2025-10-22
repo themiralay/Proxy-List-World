@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|103.156.75.38|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|18.60.222.217|16825|India|Hyderabad|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|15|103.227.142.47|8080|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|45.238.58.33|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|18|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|207.177.122.144|8080|United States|Burlington|Aureon Network Services|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|16|203.150.172.151|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|17|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|18|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
+|19|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
