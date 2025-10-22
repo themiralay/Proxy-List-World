@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|6|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|13|40.176.96.235|9119|Canada|Calgary|Amazon.com, Inc.|
-|14|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|19|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|20|67.43.236.20|26465|Canada|Montreal|GloboTech Communications|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
