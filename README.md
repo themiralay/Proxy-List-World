@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80728** proxies at the latest update. Usable proxies are below.
+> Scraper found **80737** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38469|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38478|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40963|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|117.7.105.28|1007|Vietnam|Hanoi|VIETTEL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|5|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|103.97.140.159|3125|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|9|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
 |15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
