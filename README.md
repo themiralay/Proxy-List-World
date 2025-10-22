@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
 |9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|17|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |18|72.10.160.170|31047|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
