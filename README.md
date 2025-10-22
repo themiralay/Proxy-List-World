@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80434** proxies at the latest update. Usable proxies are below.
+> Scraper found **80446** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38327|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40773|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
-|3|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|4|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
 |5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|12|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|162.0.234.25|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|177.93.39.249|999|Colombia|Puerto Rico|TV AZTECA SUCURSAL COLOMBIA|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|20|49.144.18.11|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
 
 
 
