@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
 |8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 |10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
-|16|176.117.105.86|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|67.43.236.20|14161|Canada|Montreal|GloboTech Communications|
+|11|178.17.62.152|8805|Switzerland|Bern|Partner Hosting LTD|
+|12|38.253.95.62|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
+|13|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
+|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|17|116.80.44.57|3172|Japan|Yokohama|InfoSphere|
 |18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|38.95.89.204|999|Dominican Republic|San José de Ocoa|TELECABLE DOMINICANO, S.A.|
-|20|147.45.232.203|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
