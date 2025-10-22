@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|3|138.59.151.162|8080|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
 |4|200.174.198.158|8888|Brazil|Estácio|Claro S.A.|
-|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
 |14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|103.17.182.130|8585|Indonesia|Kedungwuluh|PT Tinelo Digital Network|
-|17|176.117.104.56|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|179.60.219.38|999|Argentina|Rosario|WNet Internet y Hosting|
+|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|43.225.151.174|2828|Bangladesh|Dhaka|Next Online|
 
 
 
