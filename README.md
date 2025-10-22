@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|117.7.105.28|1007|Vietnam|Hanoi|VIETTEL|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|115.72.13.186|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|185.252.24.213|3128|Ukraine|Boyarka|TheHost LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|119.148.35.126|8446|Bangladesh|Dhaka|Agni Systems Limited|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|119.148.35.126|8446|Bangladesh|Dhaka|Agni Systems Limited|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|217.219.149.145|8080|Iran|Urmia|Telecommunication Infrastructure Company|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|14|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|15|202.5.52.112|2727|Bangladesh|Chittagong|BBTS-NEW|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
