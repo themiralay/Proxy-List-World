@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|17|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|13|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|165.22.120.28|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
