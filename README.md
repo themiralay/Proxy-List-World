@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|211.143.79.108|3128|China|Shijiazhuang|China Mobile communications corporation|
-|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|41.65.236.39|1981|Egypt|Giza|Nile Online|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|49.148.156.240|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|15|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|182.253.109.161|8080|Indonesia|Semarang|Biznet Metronet|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|78.26.146.16|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
 
 
 
