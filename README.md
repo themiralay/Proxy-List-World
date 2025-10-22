@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|12|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|15|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|19|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|113.176.118.255|7654|Vietnam|Điện Bàn|VNPT|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|103.174.238.67|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|15|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|103.148.62.1|8080|India|Thāne|Rae Internet Service Provider Private Limited|
+|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|191.53.112.170|45619|Brazil|Betim|Rede Brasileira de Comunicacao S/A|
 
 
 
