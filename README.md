@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|14|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|18|203.207.56.175|1452|Indonesia|Paseh|STARNET|
-|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|20|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
