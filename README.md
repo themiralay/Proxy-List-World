@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|5|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|51.20.192.194|15311|Sweden|Stockholm|Amazon.com, Inc.|
-|7|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|13|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|17|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
