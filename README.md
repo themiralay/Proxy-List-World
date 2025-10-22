@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|12|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|10|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|15|121.28.4.58|3083|China|Chengde|CNC Group CHINA169 Hebei Province Network|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|157.66.20.96|8090|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
-|18|179.57.215.99|999|Chile|Temuco|Telefonica del Sur S.A.|
-|19|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
-|20|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
+|14|178.17.62.152|8830|Switzerland|Bern|Partner Hosting LTD|
+|15|124.156.200.216|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|18|111.72.196.152|2324|China|Taohua|Chinanet|
+|19|178.17.62.152|8830|Switzerland|Bern|Partner Hosting LTD|
+|20|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
 
 
 
