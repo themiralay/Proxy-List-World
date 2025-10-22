@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|4|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|41.189.171.186|8080|Ghana|Jirapa|Scancom Ltd.|
-|7|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|10|67.43.236.18|27869|Canada|Montreal|GloboTech Communications|
-|11|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
-|12|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|189.48.37.164|8999|Brazil|Natal|V tal|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
-|20|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|8|15.168.235.57|407|Japan|Osaka|Amazon Technologies Inc.|
+|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|11|157.175.42.134|20201|Bahrain|Manama|Amazon.com, Inc.|
+|12|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|15|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|18|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|160.25.119.116|8080|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
 
 
 
