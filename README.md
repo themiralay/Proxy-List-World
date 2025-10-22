@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.147.183.208|3128|South Korea|Seongnam-si|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|119.18.147.67|19201|Bangladesh|Chittagong|BBTS Network|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|13|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|19|43.134.120.6|20002|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
