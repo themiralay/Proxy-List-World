@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
-|15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|183.130.216.22|7890|China|Wenzhou|Chinanet|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|20|163.61.112.248|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|1|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|2|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|3|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|17|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|18|112.203.51.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|183.130.216.22|7890|China|Wenzhou|Chinanet|
 
 
 
