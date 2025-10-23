@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|11|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|67.43.228.254|21151|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|19949|Canada|Montreal|GloboTech Communications|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|129.226.150.86|20201|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|20|72.10.160.171|3287|Canada|Montreal|GloboTech Communications|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|67.43.228.254|21151|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|19949|Canada|Montreal|GloboTech Communications|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|202.58.65.0|8080|Indonesia|Jakarta|PT Mamura Inter Media|
+|18|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 
 
 
