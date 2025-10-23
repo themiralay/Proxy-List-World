@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|12|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|13|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|18|50.200.166.130|8080|United States|Houston|Comcast Cable Communications|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|181.119.97.19|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|16|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|18|124.156.200.216|20002|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|43.156.15.111|20202|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |20|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
 
 
