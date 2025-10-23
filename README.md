@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|201.159.97.109|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|38.52.222.245|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|19|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|198.187.28.220|8080|United States|Phoenix|Namecheap, Inc.|
+|4|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|36.95.155.74|3126|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|96.9.211.97|20002|Singapore|Singapore|Nexeon Technologies|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
