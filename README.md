@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|181.78.200.125|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|189.48.37.164|8999|Brazil|Natal|V tal|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|103.178.194.227|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|18|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|8|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|9|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|193.43.149.72|8080|Syria|Al Ḩajar al Aswad|Syrian Telecom|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|189.48.37.164|8999|Brazil|Natal|V tal|
 
 
 
