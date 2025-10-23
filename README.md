@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|11|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|4|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|7|119.148.25.89|8446|Bangladesh|Dhaka|Agni Systems Ltd.|
+|8|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|9|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|12|43.252.107.119|1111|Indonesia|Pepe|PT Lintas Data Prima|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|15|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|20|157.10.97.119|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|19|103.247.22.139|8446|Indonesia|Bekasi|PT wifian Solution|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
