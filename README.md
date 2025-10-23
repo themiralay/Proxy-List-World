@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|12|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|202.58.77.173|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|209.14.98.6|8080|Colombia|Repelón|AGIS|
 
 
 
