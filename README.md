@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|202.137.122.4|8082|Philippines|Davao City|DC Tech Micro Services Inc.|
+|3|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
 |4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|97.79.251.186|80|United States|Dallas|Spectrum|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|119.100.148.2|7890|China|Shizishan|Chinanet|
-|17|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|117.4.244.249|8080|Vietnam|Hanoi|VIETTEL|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|157.175.196.122|31740|Bahrain|Manama|Amazon.com, Inc.|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
