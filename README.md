@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|1|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|45.170.128.120|999|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
-|13|103.166.158.227|8080|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|177.93.36.178|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|16|179.1.115.25|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|17|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.178.88.81|3128|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|16|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
+|17|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
