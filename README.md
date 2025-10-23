@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
+|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 |8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|13|204.199.139.72|999|Chile|Isla de Maipo|Ingbell Chile SPA|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|103.248.9.131|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|16|67.43.236.18|3081|Canada|Montreal|GloboTech Communications|
-|17|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|72.10.160.93|10017|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|28791|Canada|Montreal|GloboTech Communications|
+|9|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|129.226.150.86|20035|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|177.93.36.181|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|72.10.160.93|10017|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|28791|Canada|Montreal|GloboTech Communications|
+|15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
