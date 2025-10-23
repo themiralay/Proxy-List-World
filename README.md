@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|45.171.64.21|999|Guatemala|Guatemala City|Cablecolor S.A.|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|14|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|109.127.82.4|8085|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
