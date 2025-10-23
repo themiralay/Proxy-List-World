@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|2|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|11|81.90.149.188|3128|Iran|Tehran|Afranet|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|15|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|19|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|16|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|36.147.78.166|443|China|Guangzhou|China Mobile|
+|18|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
