@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |3|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|103.120.76.182|8080|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.91.222|3172|Japan|Yokohama|InfoSphere|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|116.80.44.124|3172|Japan|Yokohama|InfoSphere|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|4|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|5|157.20.100.10|1111|Indonesia|Baekrajan|PT Muria Global Network|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|103.17.182.130|8585|Indonesia|Kedungwuluh|PT Tinelo Digital Network|
+|11|103.190.60.33|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|12|116.80.58.222|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.44.124|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.91.222|3172|Japan|Yokohama|InfoSphere|
+|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|45.167.125.252|2021|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
