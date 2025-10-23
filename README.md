@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|43.156.27.59|20201|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.23|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|18|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|19|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|17|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |20|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
