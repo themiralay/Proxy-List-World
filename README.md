@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|7|96.9.211.97|20002|Singapore|Singapore|Nexeon Technologies|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|196.15.149.177|8080|South Africa|Knysna|SHISAS|
+|5|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|67.43.236.20|24521|Canada|Montreal|GloboTech Communications|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|49.146.137.0|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|72.10.160.171|21953|Canada|Montreal|GloboTech Communications|
+|12|122.54.226.216|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|72.10.164.178|20507|Canada|Montreal|GloboTech Communications|
+|14|160.19.18.169|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|15|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|119.100.148.2|7890|China|Shizishan|Chinanet|
+|18|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
+|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|20|67.43.236.19|2357|Canada|Montreal|GloboTech Communications|
 
 
 
