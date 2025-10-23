@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|9|171.244.129.3|3128|Vietnam|Hanoi|Viettel Corporation|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|38.194.246.34|999|Mexico|León|Cogent Communications|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|15|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|18|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|5|171.244.129.3|3128|Vietnam|Hanoi|Viettel Corporation|
+|6|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|103.189.116.138|1220|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|14|194.147.149.234|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
