@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
-|17|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|18|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|5|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|49.150.49.93|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
+|17|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|18|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|20|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
 
 
 
