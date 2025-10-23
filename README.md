@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|74.48.194.144|1080|United States|Los Angeles|Multacom Corporation|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|74.48.194.144|1080|United States|Los Angeles|Multacom Corporation|
+|2|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|3|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|10|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|12|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 |17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
