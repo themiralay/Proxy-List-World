@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.125.117.118|7777|Indonesia|Bandung|PT Baraya Telematika Nusantara|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|8|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|16|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|38.172.131.203|999|Peru|Lima|Conex TV E.I.R.L.|
-|19|103.76.201.109|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|20|201.230.121.126|999|Peru|Lima|Telefonica Del Peru|
+|10|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.14.231.214|3188|Indonesia|Menggala|PT Internet Corp Ltd|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
+|20|119.148.25.89|8446|Bangladesh|Dhaka|Agni Systems Ltd.|
 
 
 
