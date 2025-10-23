@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.155.107|3128|Hong Kong|Hong Kong|Google LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|8|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
+|9|190.61.112.125|999|El Salvador|San Salvador|Ufinet El Salvador|
 |10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
-|12|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|11|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|50.200.166.130|8080|United States|Houston|Comcast Cable Communications|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|103.18.79.181|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|19|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
+|20|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
 
 
 
