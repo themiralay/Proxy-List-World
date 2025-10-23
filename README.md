@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|72.10.160.93|10017|Canada|Montreal|GloboTech Communications|
-|18|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|13|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|193.43.140.82|8080|Syria|Ḩarastā|Syrian Telecom|
+|18|185.200.37.114|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 
 
 
