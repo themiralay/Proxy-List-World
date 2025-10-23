@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|3|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|178.17.62.152|8831|Switzerland|Bern|Partner Hosting LTD|
-|13|181.204.81.179|999|Colombia|Pereira|Colombia Móvil|
-|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|112.198.128.159|8082|Philippines|Nasugbu|Globe Telecom|
-|16|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
+|8|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|9|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|12|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
+|15|190.185.112.58|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|16|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
 |17|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
-|18|177.93.36.183|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|19|67.43.236.18|30235|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8575|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|30235|Canada|Montreal|GloboTech Communications|
+|19|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
