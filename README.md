@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|38.191.204.83|999|Colombia|Granada|Hola Telecomunicacines Colombia S.A.S|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|72.10.164.178|8575|Canada|Montreal|GloboTech Communications|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|119.148.25.89|8446|Bangladesh|Dhaka|Agni Systems Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|18|38.191.204.83|999|Colombia|Granada|Hola Telecomunicacines Colombia S.A.S|
+|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|20|72.10.164.178|8575|Canada|Montreal|GloboTech Communications|
 
 
 
