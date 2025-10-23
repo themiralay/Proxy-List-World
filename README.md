@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
-|3|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|20|103.168.254.81|1111|Indonesia|Gemiring|PT Fahasa Tri Data|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
