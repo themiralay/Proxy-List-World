@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|38.194.254.30|999|Mexico|San Miguel Caltepantla|Cogent Communications|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|17|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|18|186.96.67.58|999|Venezuela|Caracas|Gold Data C.A|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
