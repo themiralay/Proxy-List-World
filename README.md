@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
 |11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|12|168.138.15.93|1080|Australia|Melbourne|Oracle Corporation|
-|13|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
-|18|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|19|120.28.193.165|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|13.125.7.17|52688|South Korea|Seoul|Amazon Technologies Inc.|
+|15|181.204.81.178|999|Colombia|Pereira|Colombia Móvil|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
