@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|16|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|13|14.182.132.99|8080|Vietnam|Hanoi|VNPT|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|186.96.67.58|999|Venezuela|Caracas|Gold Data C.A|
+|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|102.214.106.20|44444|Libya|Ajdabiya|LTT Autonomous System, Tripoli Libya|
 
 
 
