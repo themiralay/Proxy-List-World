@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|7|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|11|196.15.149.177|8080|South Africa|Knysna|SHISAS|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|18|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
-|19|38.188.178.4|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|20|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|17|103.139.98.69|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|20|209.14.98.5|8080|Colombia|Repelón|AGIS|
 
 
 
