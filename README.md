@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
-|15|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|16|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|19|72.10.160.173|13595|Canada|Montreal|GloboTech Communications|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|20|112.203.51.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
