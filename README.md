@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|12|157.175.196.122|31740|Bahrain|Manama|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|113.11.32.198|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|20|178.17.62.152|8804|Switzerland|Bern|Partner Hosting LTD|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|157.175.196.122|31740|Bahrain|Manama|Amazon.com, Inc.|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 
 
 
