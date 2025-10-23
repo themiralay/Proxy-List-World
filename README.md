@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|3|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|72.10.160.170|27747|Canada|Montreal|GloboTech Communications|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|165.154.152.162|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|113.192.12.33|9898|Indonesia|Prumpung|PT Parsaoran Global Datatrans|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|15|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
+|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|160.25.119.116|8080|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
+|18|114.9.24.54|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|188.119.98.126|9999|Czechia|Zborovice|O2 Czech Republic, a.s.|
+|20|72.10.160.170|27747|Canada|Montreal|GloboTech Communications|
 
 
 
