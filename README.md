@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
+|4|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|103.193.145.137|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|18|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|13.125.7.17|52688|South Korea|Seoul|Amazon Technologies Inc.|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|103.97.140.76|8080|Indonesia|Ngamprah|PT Jembatan Data Pangrango|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|164.163.42.23|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
