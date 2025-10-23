@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|3|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|12|171.244.129.3|3128|Vietnam|Hanoi|Viettel Corporation|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|194.147.149.234|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
-|20|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|9|117.7.105.28|1007|Vietnam|Hanoi|VIETTEL|
+|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|13|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|194.147.149.234|3128|The Netherlands|Dronten|MIRhosting B.V.|
 
 
 
