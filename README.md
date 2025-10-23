@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.144|1080|United States|Los Angeles|Multacom Corporation|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|157.175.196.122|31740|Bahrain|Manama|Amazon.com, Inc.|
-|11|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|81.90.149.188|3128|Iran|Tehran|Afranet|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|74.48.194.144|1080|United States|Los Angeles|Multacom Corporation|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
