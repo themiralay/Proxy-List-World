@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|5|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|6|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|7|202.58.65.0|8080|Indonesia|Jakarta|PT Mamura Inter Media|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|202.179.16.2|443|Mongolia|Ulan Bator|Mongolia Telecom|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|190.217.19.183|999|Colombia|Santiago de Cali|Level 3 Colombia S.A|
-|20|202.5.40.85|8443|Bangladesh|Chittagong|BBTS-NEW|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|103.156.141.113|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|17|90.156.197.13|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|20|58.136.173.43|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
