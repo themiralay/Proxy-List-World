@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|8|85.159.230.88|3128|Germany|Frankfurt am Main|ZTV CORP LLC|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|38.180.2.107|3128|Bulgaria|Sofia|M247 Europe SRL|
-|11|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|15|191.97.20.79|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
-|16|221.120.248.85|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|12|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|13|38.180.2.107|3128|Bulgaria|Sofia|M247 Europe SRL|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|177.93.36.178|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
