@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|74.48.194.144|1080|United States|Los Angeles|Multacom Corporation|
-|6|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|17|202.137.122.4|8082|Philippines|Davao City|DC Tech Micro Services Inc.|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|102.39.233.4|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
 
 
 
