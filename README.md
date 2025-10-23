@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|6|103.178.88.81|3128|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
-|7|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|103.249.19.248|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.171|3287|Canada|Montreal|GloboTech Communications|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|191.36.128.62|8080|Brazil|São Paulo|Netfi serviços de comunicações ltda epp|
+|17|72.10.160.171|3287|Canada|Montreal|GloboTech Communications|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
