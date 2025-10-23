@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|5|119.148.25.89|8446|Bangladesh|Dhaka|Agni Systems Ltd.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|12|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|40.172.232.213|8989|United Arab Emirates|Dubai|Amazon.com|
-|15|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|16|119.148.4.170|8446|Bangladesh|Dhaka|Agni Systems Ltd. SUB|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|54.180.143.12|38337|South Korea|Seoul|Amazon Technologies Inc.|
-|19|45.225.181.254|8085|Brazil|Andradina|Telnet Sistemas e Comunicações|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|10|203.175.103.218|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|11|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
+|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|14|157.175.43.137|9390|Bahrain|Manama|Amazon.com, Inc.|
+|15|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
+|16|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|177.234.217.45|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|181.119.97.19|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|49.150.49.93|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
 
 
 
