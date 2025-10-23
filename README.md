@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.152.130.48|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|5|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|17|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
