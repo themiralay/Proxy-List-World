@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
 |7|113.163.5.253|8080|Vietnam|Lấp Vò|VietNam Post and Telecom Corporation|
-|8|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|9|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|15|203.175.103.218|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|10|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
+|18|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|19|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
