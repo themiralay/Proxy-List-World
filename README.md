@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|9|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|19|43.224.116.222|19201|Bangladesh|Dhaka|Next Online Limited|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+
 
 
 ## Contributing
