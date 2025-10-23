@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|78.12.193.250|16010|Mexico|Querétaro City|Amazon.com|
-|18|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
-|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|13|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|16|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|17|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|18|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
