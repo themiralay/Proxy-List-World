@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|10|96.227.245.221|999|United States|Philadelphia|Verizon Business|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
-|13|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|12|113.23.200.85|8081|Malaysia|Klang|Extreme Broadband|
+|13|181.104.70.198|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|15|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
