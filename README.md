@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
-|11|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|79.106.108.132|8079|Albania|Gjirokastër|ONE ALBANIA SH.A.|
-|19|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|20|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
 
 
 
