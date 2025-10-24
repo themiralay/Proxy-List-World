@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
