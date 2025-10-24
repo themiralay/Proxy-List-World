@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|124.217.77.90|8082|Philippines|Mexico|Philippine Long Distance Telephone Co.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|113.53.188.217|8080|Thailand|Tak Bai|TOT Public Company Limited|
-|15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|157.175.170.170|621|Bahrain|Manama|Amazon.com, Inc.|
+|17|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
