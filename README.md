@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|18|202.165.92.206|8080|Myanmar|Hlegu|Telecom International Myanmar Company Limited|
-|19|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|13|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
