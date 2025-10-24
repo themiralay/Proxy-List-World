@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|116.254.115.129|1080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|12|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.24.148.235|999|Ecuador|El Guabo|Negocios Y Telefonia Nedetel S.A|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
-|17|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|18|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|178.17.62.152|8846|Switzerland|Bern|Partner Hosting LTD|
+|15|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|16|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|38.188.186.47|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
 
 
 
