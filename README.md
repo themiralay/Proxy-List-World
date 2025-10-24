@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|14|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|19|103.188.174.243|6060|Indonesia|Semarang|PT. Fiber Networks Indonesia|
-|20|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|20|49.147.5.46|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
