@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|124.158.153.218|8180|Indonesia|Sedatiagung|PT iForte Global Internet|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|16|103.46.11.196|8090|Indonesia|Bakalan|Lintas Data Prima, PT|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
+|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
