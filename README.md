@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|103.172.196.221|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|27.73.5.5|6615|Vietnam|Hanoi|Viettel Group|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|2|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|27.73.5.5|6615|Vietnam|Hanoi|Viettel Group|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|18|112.199.40.53|8080|Philippines|Makati City|Eastern Telecommunications Philippines|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|177.43.213.80|8090|Brazil|Araraquara|TELEFÔNICA BRASIL S.A|
 
 
 
