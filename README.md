@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|195.110.39.30|5050|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|17|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
+|17|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|18|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 
 
 
