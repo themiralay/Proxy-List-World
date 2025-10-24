@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|188.132.222.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|18|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|103.160.41.65|8080|Indonesia|Kadugadung|WISTEL|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
