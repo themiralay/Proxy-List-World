@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
-|10|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|15|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|170.80.78.211|8088|Brazil|Salvador|R7R - ME|
-|20|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|14|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|15|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|168.121.220.68|999|Peru|Surco|WIN EMPRESAS S.A.C|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
