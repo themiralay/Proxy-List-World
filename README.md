@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|7|27.73.5.5|6615|Vietnam|Hanoi|Viettel Group|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|157.175.152.104|10013|Bahrain|Manama|Amazon.com, Inc.|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|27.73.5.5|6615|Vietnam|Hanoi|Viettel Group|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
 
 
 
