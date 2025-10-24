@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|121.165.169.220|8728|South Korea|Songpa-gu|Korea Telecom|
-|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|165.154.110.152|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 |18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|36.147.78.166|443|China|Guangzhou|China Mobile|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
