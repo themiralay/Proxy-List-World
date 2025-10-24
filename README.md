@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
-|16|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
-|17|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|18|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|20|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|80.75.213.22|3138|Iran|Tehran|Mobin Arvand Infrastructure Company LTD|
 
 
 
