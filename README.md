@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|18|110.171.40.132|8080|Thailand|Bang Kruai|True Internet Corporation CO. Ltd.|
-|19|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|17|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|19|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|20|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
 
 
 
