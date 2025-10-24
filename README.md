@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|103.181.254.105|8080|Indonesia|Sedan|PT Giga Digital Nusantara|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|103.219.73.51|8097|Indonesia|Serang|Bitech Networks|
-|12|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|16|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|19|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|2|103.125.17.98|8080|Indonesia|Jakarta|JAVAMEDIA|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|103.66.47.9|8080|Indonesia|Parung|PT Iconmedia Lintas Nusantara|
+|7|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|138.117.85.217|999|Colombia|Garzón|Sinergy Soluciones Integrales|
+|12|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|13|45.163.238.254|8080|Brazil|Itaipava do Grajaú|Intercol Serv de Aux a Internet eireli Me|
+|14|192.64.112.150|8080|United States|Phoenix|Namecheap, Inc.|
+|15|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|16|185.103.134.4|8080|Russia|Moscow|Address AS 57191|
+|17|27.124.81.146|8080|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|103.36.11.21|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|20|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
 
 
 
