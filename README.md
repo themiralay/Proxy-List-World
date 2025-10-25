@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|103.132.52.42|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
+|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
+|19|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
