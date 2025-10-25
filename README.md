@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|15|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|15|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
+|20|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
