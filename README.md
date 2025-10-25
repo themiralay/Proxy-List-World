@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|10|38.188.186.47|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|45.189.116.145|999|Peru|Lima|Conex TV E.I.R.L|
-|12|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
-|19|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|36.147.78.166|443|China|Guangzhou|China Mobile|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
