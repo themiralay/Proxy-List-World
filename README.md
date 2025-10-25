@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|19|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|14|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|20|154.73.28.79|8080|Libya|Tripoli|Rawafed|
 
 
 
