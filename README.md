@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|103.142.14.88|8081|Indonesia|Jombang|Pemerintah Kabupaten Jombang|
-|15|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|19|49.49.77.136|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|190.119.160.26|59842|Peru|Trujillo|America Movil Peru S.A.C.|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|16|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|49.49.77.136|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
