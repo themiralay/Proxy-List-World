@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|17|78.12.249.123|8499|Mexico|Querétaro City|Amazon.com|
+|18|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
