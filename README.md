@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|5|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|154.73.28.79|8080|Libya|Tripoli|Rawafed|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|93.174.180.151|8080|Slovakia|Hrubá Borša|RADIOLAN|
-|16|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|17|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|94.155.175.135|8080|Bulgaria|Kazanlak|Bulgarian Telecommunication Group EOOD|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 
 
 
