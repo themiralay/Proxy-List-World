@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|17|103.202.223.2|8070|Bangladesh|Dhaka|Brisksys|
-|18|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|17|157.175.196.63|9457|Bahrain|Manama|Amazon.com, Inc.|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
