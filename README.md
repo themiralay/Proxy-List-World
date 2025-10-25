@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|9|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
 |12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
