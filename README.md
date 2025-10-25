@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|18.183.141.82|49920|Japan|Tokyo|Amazon Technologies Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|40.192.27.104|41|India|Hyderabad|Amazon.com, Inc.|
-|15|15.160.181.77|8331|Italy|Milan|Amazon Technologies Inc|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|14|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|45.189.252.226|999|Mexico|Alvarado|Tracered SA De CV|
 
 
 
