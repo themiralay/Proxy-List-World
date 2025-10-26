@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|7|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|103.155.198.253|8006|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|10|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|11|177.93.35.77|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|12|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|38.194.246.34|999|Mexico|León|Cogent Communications|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
 
 
 
