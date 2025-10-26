@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
 |4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 |11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|14|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|18|101.255.119.25|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|113.161.93.174|6008|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|15|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|16|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|20|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
 
 
 
