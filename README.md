@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|4|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|43.198.185.30|9990|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|18|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
-|19|103.171.255.124|8080|Indonesia|Sleman|ZKI|
-|20|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|43.198.185.30|9990|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.189.11.63|3838|Bangladesh|Chāndpur|Digicon Telecommunication Ltd|
+|15|38.51.243.189|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|16|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
+|17|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|124.16.111.13|7897|China|Haidian|CNIC-CAS|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
