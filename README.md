@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|16|103.176.227.197|8009|Indonesia|Bandung|PT Pass Internet Indonesia|
-|17|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|16|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
