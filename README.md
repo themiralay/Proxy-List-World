@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|9|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|12|94.23.19.184|2912|France|Roubaix|OVH ISP|
-|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|14|38.191.161.187|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|34.124.190.108|8090|Singapore|Singapore|Google LLC|
 |15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|20|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|18|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
