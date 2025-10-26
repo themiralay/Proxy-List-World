@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|103.155.168.167|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|15|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|20|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
 
 
 
