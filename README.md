@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|101.255.166.185|8080|Indonesia|Tangerang|PT Remala Abadi|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|103.163.244.108|82|India|Panipat|Infolink System|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
