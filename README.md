@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.113|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|190.122.88.116|6969|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
-|13|196.251.205.5|8084|South Africa|Brits|Info-Gro (PTY) Ltd|
-|14|103.123.235.42|8080|India|Mumbai|Esto Broadband|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
-|17|14.224.183.185|8080|Vietnam|Ho Chi Minh City|VNPT|
-|18|186.96.70.14|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
+|15|14.224.183.185|8080|Vietnam|Ho Chi Minh City|VNPT|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|192.145.228.209|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|20|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
