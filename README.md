@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|184.82.38.108|8080|Thailand|Phaya Thai|AIS-Fibre|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|107.152.47.85|9797|United States|Los Angeles|Cloudfanatic.NET|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|20|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|119.148.50.106|8446|Bangladesh|Dhaka|Agni Systems Limited|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|16|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
+|17|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|18|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
 
 
 
