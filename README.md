@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|13|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|17|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|18|116.254.115.129|1080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|171.5.117.235|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|13|119.18.151.198|63636|Bangladesh|Chittagong|BBTS Network|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
