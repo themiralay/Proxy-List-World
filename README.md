@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|171.5.117.235|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
-|16|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|17|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|18|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|101.255.107.181|8090|Indonesia|Jakarta|PT Remala Abadi|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|129.153.107.221|80|United States|Phoenix|Oracle Corporation|
+|12|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|13|177.93.36.182|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|14|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|16|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|103.237.134.242|7777|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|18|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|19|181.104.70.198|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
