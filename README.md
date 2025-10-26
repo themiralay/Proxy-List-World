@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 |19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
