@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81012** proxies at the latest update. Usable proxies are below.
+> Scraper found **80941** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38400|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|194|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41121|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.54.124.88|8080|United States|Phoenix|Namecheap, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|18|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|184.82.38.108|8080|Thailand|Phaya Thai|AIS-Fibre|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
 
 
 
