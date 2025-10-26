@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|20|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|13.231.159.110|9264|Japan|Tokyo|Amazon Technologies Inc.|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
