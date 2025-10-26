@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|101.255.166.185|8080|Indonesia|Tangerang|PT Remala Abadi|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|17|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
