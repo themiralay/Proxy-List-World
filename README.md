@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|19|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|182.253.40.149|8080|Indonesia|Mojokerto|BIZNET|
+|17|103.189.123.110|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
