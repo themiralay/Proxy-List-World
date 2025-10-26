@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|168.121.220.68|999|Peru|Surco|WIN EMPRESAS S.A.C|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
