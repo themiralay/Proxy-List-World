@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.184.56.240|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|15|103.242.105.65|7200|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
 |16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|179.1.126.77|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|34.48.171.130|33080|United States|Washington|Google LLC|
 
 
 
