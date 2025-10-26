@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.113|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|103.20.88.6|8080|Indonesia|Trucuk|PT Indo Teknologi Konstruksi|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
