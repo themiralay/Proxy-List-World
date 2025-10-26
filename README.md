@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|119.18.151.198|63636|Bangladesh|Chittagong|BBTS Network|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
+|8|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|14|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|20|189.201.153.89|999|Mexico|Naolinco de Victoria|IP Matrix, S.A. de C.V.|
+|12|160.19.18.55|7777|Indonesia|Subang|PT Indo Telemedia Solusi|
+|13|177.93.35.77|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|14|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|16|45.87.208.37|8080|United Kingdom|Edinburgh|WiFi Scotland LLP|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|119.18.151.198|63636|Bangladesh|Chittagong|BBTS Network|
+|19|171.5.117.235|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
