@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|10|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|14|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
-|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|17|103.125.17.98|8080|Indonesia|Jakarta|JAVAMEDIA|
-|18|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|16|177.93.35.77|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|17|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
