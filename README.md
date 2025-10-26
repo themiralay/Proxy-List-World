@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|34.16.129.212|3128|United States|Las Vegas|Google LLC|
+|12|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|13|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|14|49.49.24.86|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|17|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
-|18|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|49.49.77.136|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|202.191.124.141|26265|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
