@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.113|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|13|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
-|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|160.25.119.116|8080|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|20|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|34.222.65.100|1976|United States|Portland|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|18|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
