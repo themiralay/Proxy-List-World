@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
-|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|18|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|185.88.154.247|8585|Iran|Tehran|Parsian High Tech Company PJSC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
 
 
 
