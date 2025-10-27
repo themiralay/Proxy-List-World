@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|13|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|72.10.160.170|32617|Canada|Montreal|GloboTech Communications|
-|16|158.255.212.55|7839|Austria|Vienna|EDIS GmbH|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
