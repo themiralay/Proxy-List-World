@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|41.216.186.90|8080|Indonesia|Jakarta|FASTHOSTING|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 
 
 
