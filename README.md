@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|103.247.14.25|9285|Indonesia|Magelang|TERABIT|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|13|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|14|179.1.113.40|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|17|190.102.233.100|999|Chile|Lampa|Pacifico Cable SPA.|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|13|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|18|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
