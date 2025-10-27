@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|36.88.189.66|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
 |5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|115.178.49.47|8080|Indonesia|Margabakti|NOC SIMAYA|
-|18|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
+|8|103.157.78.122|8097|Indonesia|Jakarta|PT Super Media Indonesia|
+|9|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|15|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|16|103.165.157.121|3125|Indonesia|Mojokerto|MEGADATA-ISP|
+|17|103.68.214.32|8181|Indonesia|Sepatan|PT Media Grasi Internet|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
