@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|18|108.181.4.95|5432|United States|Los Angeles|Psychz Networks|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|31.145.27.160|8890|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 
 
 
