@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|45.189.252.240|999|Mexico|Alvarado|Tracered SA De CV|
-|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|182.253.143.141|8080|Indonesia|Semarang|Biznet Networks|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|210.87.125.58|1080|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|14|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|18|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
 
 
 
