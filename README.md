@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 |16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|18|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|103.68.214.159|8787|Indonesia|Sepatan|PT Media Grasi Internet|
 |19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
