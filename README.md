@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|218.152.130.48|3128|South Korea|Seoul|Korea Telecom|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|5|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|14|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|20|190.9.109.130|999|Mexico|Juárez|Megabit Telecomunicaciones SA De CV|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|14|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|15|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 
 
 
