@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|103.226.232.202|3128|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
-|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|160.20.128.7|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|188.132.150.197|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|20|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
 
 
 
