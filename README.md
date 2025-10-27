@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|18|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|43.225.151.238|25254|Bangladesh|Dhaka|Next Online|
+|19|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
