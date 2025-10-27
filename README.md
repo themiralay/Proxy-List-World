@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|182.253.143.141|8080|Indonesia|Semarang|Biznet Networks|
-|7|201.76.9.115|8080|Brazil|Araranguá|Contato Internet EIRELI|
-|8|103.147.134.59|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
-|9|103.158.121.248|8080|Indonesia|Indramayu|CDN|
-|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|11|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|12|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|13|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|14|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|103.156.14.15|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|5|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|103.169.132.70|8080|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|7|103.126.87.220|8086|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|8|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|10|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|173.212.215.22|3128|France|Lauterbourg|Contabo GmbH|
+|13|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|14|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
 |15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|16|193.43.140.255|8080|Syria|Ḩarastā|Syrian Telecom|
+|17|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
