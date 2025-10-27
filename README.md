@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|103.126.87.220|8086|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|103.169.8.94|7777|Indonesia|Magetan|PT Bumi Manusia Network|
-|17|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|182.253.143.141|8080|Indonesia|Semarang|Biznet Networks|
+|16|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
+|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
 
 
 
