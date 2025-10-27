@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|218.152.130.48|3128|South Korea|Seoul|Korea Telecom|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|20|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
