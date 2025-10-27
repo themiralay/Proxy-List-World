@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|2|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
-|8|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|158.220.127.137|3128|France|Lauterbourg|Contabo GmbH|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|19|157.10.97.119|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|20|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|15|38.49.138.198|999|Mexico|Estación de Apulco|Ientc S De RL De CV|
+|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|17|180.180.175.11|8080|Thailand|Suphan Buri|TOT Public Company Limited|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
