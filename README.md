@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|103.203.234.103|8080|Indonesia|Banyumas|PT Nesta Indo Media|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|196.251.11.160|8080|South Africa|Bloubergstrand|HERO TELECOMS (PTY) LTD|
+|20|116.80.93.161|3172|Japan|Yokohama|InfoSphere|
 
 
 
