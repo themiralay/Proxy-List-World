@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|5|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|11|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|12|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|46.146.239.193|8080|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.125.17.98|8080|Indonesia|Jakarta|JAVAMEDIA|
-|17|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
-|18|103.193.145.137|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
-|19|121.101.132.99|1080|Indonesia|Godean|PT SELARAS CITRA TERABIT|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.70.120.10|8080|Brazil|Antas|Aajm Informatica E Comunicacao Ltda - ME|
+|15|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|103.165.155.163|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|18|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 
 
 
