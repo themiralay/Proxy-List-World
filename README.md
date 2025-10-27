@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|14.239.102.60|1001|Vietnam|Haiphong|VNPT|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|13|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
-|20|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 
 
 
