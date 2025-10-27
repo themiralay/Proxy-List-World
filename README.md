@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|103.133.26.119|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|15|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
-|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|17|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|20|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|5|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|103.144.18.70|3128|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|15|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|17|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|18|210.79.141.226|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
