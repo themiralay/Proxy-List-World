@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|9|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 |12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|13|103.247.14.25|9285|Indonesia|Magelang|TERABIT|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
-|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|103.144.146.5|8080|Indonesia|Tulungagung|Lexxa Data|
+|13|14.234.140.166|20399|Vietnam|Ho Chi Minh City|VNPT|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|114.141.50.211|8080|Indonesia|Bandung|PT Cyberplus Media Pratama|
+|20|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
 
 
 
