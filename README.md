@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80227** proxies at the latest update. Usable proxies are below.
+> Scraper found **80231** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38291|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40640|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|3|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|103.154.52.5|1111|Indonesia|Tanjungsari|WIFIKITA|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|103.18.232.85|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|12|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
-|13|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|176.236.227.98|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|1|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|2|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|5|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|185.196.213.108|3128|Uzbekistan|Tashkent|UZSCINET|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|103.171.255.124|8080|Indonesia|Sleman|ZKI|
 |17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
-|19|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
-|20|177.93.59.150|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|18|45.4.58.223|8080|Brazil|Recife|VN TELECOM PROVEDORES A.R.C EIRELI|
+|19|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|20|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
 
 
 
