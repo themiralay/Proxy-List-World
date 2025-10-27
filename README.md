@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|8|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
