@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
+|15|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
+|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|20|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
 
 
 
