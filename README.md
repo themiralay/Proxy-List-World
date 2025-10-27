@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
+|15|176.236.227.98|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|183.87.160.62|83|India|Mumbai|JPR Digital Pvt Ltd|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
