@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|163.61.55.11|8085|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.80.87.70|3128|Ukraine|Kyiv|Individual Entrepreneur Anton Levin|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
