@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
 |13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|17|38.156.72.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|177.93.36.182|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|19|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|20|185.172.212.233|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
 
 
 
