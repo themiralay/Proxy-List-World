@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|157.20.244.242|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|20|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
+|20|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
 
 
 
