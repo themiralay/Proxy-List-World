@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|15|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
+|16|212.175.61.31|8080|Turkey|Izmir|Turk Telekomunikasyon Anonim Sirketi|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|149.40.26.240|8080|Brazil|São Paulo|VIPRede Telecomunicações Ltda|
+|19|223.25.110.41|8080|Indonesia|Purbalingga|SinergiNet|
+|20|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
 
 
 
