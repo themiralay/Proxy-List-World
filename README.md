@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|3|218.152.130.48|3128|South Korea|Seoul|Korea Telecom|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|36.91.62.47|52978|Indonesia|Utan|PT Telekomunikasi Indonesia|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|8|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 |12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|36.94.149.149|8090|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.238.58.161|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|201.234.186.194|8081|Colombia|Bogotá|Level 3 Colombia S.A|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|36.94.149.149|8090|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|122.54.105.109|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|20|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
