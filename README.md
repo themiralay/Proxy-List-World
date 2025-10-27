@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|4|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|103.155.167.62|8080|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|202.154.18.56|8080|Indonesia|Made|DIGITNET|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|210.79.141.226|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
-|17|103.226.232.202|3128|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
-|18|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|12|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|103.189.197.57|8181|Indonesia|Pekijing|PT Graha Sumber Teknologi|
+|17|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|19|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |20|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 
 
