@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
 |3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|138.68.153.144|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|15|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|152.231.25.155|999|Colombia|Toribío|Colombiatel Telecomunicaciones|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|193.43.145.124|8080|Syria|Tallbīsah|Syrian Telecom|
+|13|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|14|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|18|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 
 
 
