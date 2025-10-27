@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
-|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|181.10.138.226|8083|Argentina|Rosario|Telecom Argentina S.A.|
-|14|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|15|103.125.179.6|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
-|20|62.193.118.53|1981|Egypt|Giza|Etisalat|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|9|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|10|103.54.80.194|8082|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|11|103.133.26.119|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|12|114.9.54.34|8085|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
+|15|27.124.81.146|8080|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|18|103.189.116.138|1220|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
