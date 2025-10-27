@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|183.87.160.62|83|India|Mumbai|JPR Digital Pvt Ltd|
-|19|154.159.247.119|8080|Kenya|Maragua|Airtel KE Mobile & Fixed Internet|
-|20|72.10.160.90|21681|Canada|Montreal|GloboTech Communications|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.80.87.70|3128|Ukraine|Kyiv|Individual Entrepreneur Anton Levin|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|45.174.79.65|999|Mexico|Camargo Municipality|Raul Duarte Urita|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
 
 
 
