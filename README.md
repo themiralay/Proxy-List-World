@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80041** proxies at the latest update. Usable proxies are below.
+> Scraper found **80093** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|81|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38285|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38337|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40681|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|182.253.143.141|8080|Indonesia|Semarang|Biznet Networks|
-|16|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
+|20|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
 
 
 
