@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|177.93.36.182|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|17|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
 
 
 
