@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|103.18.232.85|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|38.191.90.65|999|Dominican Republic|Santiago de los Caballeros|LAUAM MEGARED TELECOM, S.R.L.|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|5|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|103.231.47.75|8080|India|Indore|Auspice Infratel Pvt. Ltd.|
+|14|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|15|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|19|103.132.52.42|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|20|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
+|20|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
