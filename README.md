@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
-|13|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|11|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
+|12|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|20|38.194.251.180|999|Mexico|Amealco|Cogent Communications|
 
 
 
