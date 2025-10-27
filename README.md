@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42056** proxies at the latest update. Usable proxies are below.
+> Scraper found **80795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38439|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41068|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.156.17.237|8818|Indonesia|Ngamprah|RSTNET|
-|9|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|10|38.7.18.149|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|13|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
 |14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|17|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|18|41.33.142.182|8081|Egypt|Cairo|TE Data|
+|19|43.252.106.5|8090|Indonesia|Temanggung|PT Lintas Data Prima|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
