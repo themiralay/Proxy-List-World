@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.231.236.227|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|186.31.197.103|8080|Colombia|Bogotá|ETB - Colombia|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|43.225.151.238|25254|Bangladesh|Dhaka|Next Online|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|20|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
 
 
 
