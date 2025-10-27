@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|62.193.118.53|1981|Egypt|Giza|Etisalat|
-|12|103.155.167.62|8080|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
-|16|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|20|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|190.128.253.218|999|Paraguay|Asunción|Telecel S.A.|
+|9|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|15|103.153.62.242|8181|Indonesia|Wonoharjo|PT Ikhlas Cipta Teknologi|
+|16|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|103.125.179.6|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|20|103.189.116.138|1220|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
 
 
 
