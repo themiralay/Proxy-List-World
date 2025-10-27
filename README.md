@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|36.147.78.166|80|China|Guangzhou|China Mobile|
+|18|43.225.151.140|25254|Bangladesh|Dhaka|Next Online|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
