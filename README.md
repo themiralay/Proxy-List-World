@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|103.54.80.194|8082|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|8|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|10|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|14|124.105.36.193|8082|Philippines|Bantog|Philippine Long Distance Telephone Co.|
-|15|45.70.120.10|8080|Brazil|Antas|Aajm Informatica E Comunicacao Ltda - ME|
-|16|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|17|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|8|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
+|9|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|15|115.178.49.47|8080|Indonesia|Margabakti|NOC SIMAYA|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|36.50.11.196|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
+|20|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
 
 
 
