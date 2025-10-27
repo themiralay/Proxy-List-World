@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|13|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
+|15|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
+|19|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|20|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
 
 
 
