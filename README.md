@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|15|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|119.93.201.156|8082|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|17|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
