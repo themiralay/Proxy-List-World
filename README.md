@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 |11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
-|17|103.68.214.159|8787|Indonesia|Sepatan|PT Media Grasi Internet|
-|18|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
