@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|38.194.246.34|999|Mexico|León|Cogent Communications|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|8|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.188.252.163|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|81.90.149.188|3128|Iran|Tehran|Afranet|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
