@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|177.93.39.73|999|Colombia|Yaguará|TV AZTECA SUCURSAL COLOMBIA|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|72.10.164.178|8761|Canada|Montreal|GloboTech Communications|
 
 
 
