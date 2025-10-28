@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|15|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|16|62.193.108.132|1981|Egypt|Giza|Etisalat|
-|17|41.189.171.186|8080|Ghana|Jirapa|Scancom Ltd.|
-|18|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
-|19|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|20|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|103.82.36.237|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|172.105.118.164|3128|Singapore|Singapore|Akamai Technologies|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 
 
 
