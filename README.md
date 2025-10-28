@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.167.151.244|1080|Singapore|Singapore|HostHatch|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|196.15.149.177|8080|South Africa|Knysna|SHISAS|
-|12|36.147.78.166|80|China|Guangzhou|China Mobile|
-|13|119.39.68.26|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|154.38.180.176|8080|United States|Orangeburg|Contabo Inc.|
+|11|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
 
 
 
