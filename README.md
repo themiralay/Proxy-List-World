@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|81.90.149.188|3128|Iran|Tehran|Afranet|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|19|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|20|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
 
 
 
