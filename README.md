@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
 |8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|202.191.122.106|10521|Bangladesh|Dhaka|Bijoy Online Ltd|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
-|18|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|15|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
 
 
 
