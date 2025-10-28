@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
-|12|46.166.83.132|8081|Russia|Krasnoyarsk|SIBTTK|
-|13|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.153.63.146|8080|Indonesia|Muntilan|PT Ikhlas Cipta Teknologi|
+|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
+|13|103.121.22.246|1080|Indonesia|Singosari|PT. Eka Mas Republik|
+|14|46.166.83.132|8081|Russia|Krasnoyarsk|SIBTTK|
+|15|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|16|45.167.126.105|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|198.12.37.6|8080|Argentina|Resistencia|Servicios y Telecomunicaciones S.A|
+|19|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|176.32.2.193|8080|Ukraine|Kamianets-Podilskyi|Lanet Network|
 
 
 
