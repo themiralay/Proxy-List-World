@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|103.180.119.182|8082|Indonesia|Kemendung|PT Persada Data Multimedia|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|15|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|16|103.169.189.174|3125|Indonesia|Ponorogo|Sarana Media Cemerlang|
-|17|94.102.198.90|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
-|18|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.93.113|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.93.161|3172|Japan|Yokohama|InfoSphere|
+|1|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|17|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
