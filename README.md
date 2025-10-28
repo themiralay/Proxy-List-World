@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|103.171.245.184|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|4|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|103.230.62.197|10521|Bangladesh|Chittagong|Next Online Ltd|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|14|202.191.122.106|10521|Bangladesh|Dhaka|Bijoy Online Ltd|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|14.234.140.187|20399|Vietnam|Ho Chi Minh City|VNPT|
 |17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
