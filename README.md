@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|97.79.251.186|80|United States|Dallas|Spectrum|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|97.79.251.186|80|United States|Dallas|Spectrum|
+|6|103.36.11.21|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|36.93.8.34|11000|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|16|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|67.73.240.1|8081|Colombia|Bogotá|Cirion Technologies Solutions|
+|15|110.141.237.221|5200|Australia|Melbourne|Telstra Internet|
+|16|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|17|195.110.39.30|5050|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|18|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|125.18.28.54|8080|India|New Delhi|Bharti Airtel Limited|
 
 
 
