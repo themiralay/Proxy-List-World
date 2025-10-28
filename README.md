@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|4|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|38.183.146.77|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|16|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|19|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|92.39.141.246|65056|Russia|Ryazan|InterTelecom ISP|
+|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|19|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|20|180.193.214.203|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
