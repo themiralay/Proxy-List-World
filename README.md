@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |9|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|15|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|16|94.102.198.90|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
-|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|18|45.173.7.10|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|13|147.45.226.230|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|103.134.85.145|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
 
 
 
