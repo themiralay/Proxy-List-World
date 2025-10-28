@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|195.62.50.38|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|119.148.8.54|8443|Bangladesh|Dhaka|Agni Systems Limited|
+|12|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|185.236.182.114|999|Colombia|Mocoa|Hydra Soluciones Empresariales Ingeniería SAS|
 
 
 
