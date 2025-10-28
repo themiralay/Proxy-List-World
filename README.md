@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|103.90.225.161|3128|Vietnam|Quận Phú Nhuận|VNXCLOUD|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|157.175.170.170|9068|Bahrain|Manama|Amazon.com, Inc.|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|17|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
+|18|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
 
 
 
