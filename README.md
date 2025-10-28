@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|91.211.212.6|32650|Greece|Athens|ISP Inalan|
-|7|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|12|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|16|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|103.160.136.50|8089|Indonesia|Sepatan|PT Natakarya Mediatama|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|5|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|6|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|114.9.24.54|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
