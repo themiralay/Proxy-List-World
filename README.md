@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|103.156.221.229|8080|Indonesia|Cirebon|PT Gading Bhakti Utama|
+|17|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|18|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|19|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
