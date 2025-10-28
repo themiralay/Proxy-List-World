@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|103.121.22.246|1080|Indonesia|Singosari|PT. Eka Mas Republik|
-|13|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|14|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|17|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
-|18|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|158.178.214.173|3204|France|Paris|Oracle Corporation|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|8|103.155.198.253|8006|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|9|103.121.22.246|1080|Indonesia|Singosari|PT. Eka Mas Republik|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|97.79.251.186|80|United States|Dallas|Spectrum|
+|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|14|172.105.118.164|3128|Singapore|Singapore|Akamai Technologies|
+|15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|16|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|217.219.149.145|8080|Iran|Urmia|Telecommunication Infrastructure Company|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|186.97.138.69|999|Colombia|Medellín|Colombia Móvil|
+|20|103.26.177.35|1080|Indonesia|Ngamba|PT Lintas Jaringan Nusantara|
 
 
 
