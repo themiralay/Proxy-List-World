@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80631** proxies at the latest update. Usable proxies are below.
+> Scraper found **80658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38331|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38358|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41009|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|2|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|14.224.181.172|8080|Vietnam|Ho Chi Minh City|VNPT|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|14|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|103.153.149.45|8035|Indonesia|Gianyar|JARINGANKU|
-|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|19|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|15|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 
 
 
