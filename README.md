@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|103.167.151.244|1080|Singapore|Singapore|HostHatch|
-|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|141.253.100.34|3223|France|Paris|Oracle Corporation|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|103.125.154.1|8080|India|Tirupur|Live Fibernet|
-|20|188.132.249.166|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|119.39.68.26|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
+|19|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
