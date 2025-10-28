@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|188.166.217.1|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|20|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|9|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|43.224.116.218|10521|Bangladesh|Dhaka|Next Online Limited|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|193.43.140.228|8080|Syria|Ḩarastā|Syrian Telecom|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
