@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |7|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|13|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|45.173.7.10|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
+|13|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|194.238.27.113|3128|United States|St Louis|Contabo Inc.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|194.238.27.113|3128|United States|St Louis|Contabo Inc.|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
