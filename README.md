@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|16|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
-|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
