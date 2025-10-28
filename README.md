@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|113.192.1.18|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|16|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|19|157.175.170.170|9068|Bahrain|Manama|Amazon.com, Inc.|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|58.136.170.147|8080|Thailand|Bangkok|AIS-Fibre|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|11|103.156.57.85|1111|Indonesia|Tembilahan|PT Filltech Antar Nusa|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|124.217.72.69|8082|Philippines|Mexico|Philippine Long Distance Telephone Co.|
+|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|103.156.75.215|9980|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
