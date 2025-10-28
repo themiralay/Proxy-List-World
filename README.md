@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|88.216.98.194|53983|United States|Chicago|AT&T Enterprises, LLC|
-|14|38.7.16.194|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|5|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|6|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|9|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|10|102.38.13.9|19000|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|11|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|12|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|157.15.144.254|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
 |15|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|177.11.67.160|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
-|19|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.167.169.103|3125|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|14.224.181.172|8080|Vietnam|Ho Chi Minh City|VNPT|
+|19|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|20|154.73.28.145|8080|Libya|Tripoli|Rawafed|
 
 
 
