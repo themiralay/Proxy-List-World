@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|187.190.114.57|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|3|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|119.18.151.113|8444|Bangladesh|Chittagong|BBTS Network|
+|8|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|176.88.65.189|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|11|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|13|18.143.165.238|9743|Singapore|Singapore|Amazon Technologies Inc.|
+|14|103.162.61.221|8081|Indonesia|Pundong|PT Indo Prima Akses|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
