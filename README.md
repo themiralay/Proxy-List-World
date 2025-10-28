@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|12|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
 |13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|36.95.24.221|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|20|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|14|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|38.194.246.34|999|Mexico|León|Cogent Communications|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|204.199.140.14|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|18|177.101.86.13|3128|Brazil|Colatina|Intercol Serviços de Internet Ltda|
+|19|157.100.56.13|8080|Ecuador|Los Lojas|Ufinet Panama S.A.|
+|20|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
 
 
 
