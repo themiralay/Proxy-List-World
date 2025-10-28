@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|12|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|8|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 |13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|38.194.246.34|999|Mexico|León|Cogent Communications|
-|17|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|18|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|19|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|20|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
