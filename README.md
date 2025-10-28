@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|11|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|12|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|38.194.251.180|999|Mexico|Amealco|Cogent Communications|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
 
 
 
