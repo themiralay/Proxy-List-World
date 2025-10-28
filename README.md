@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|72.10.160.93|19937|Canada|Montreal|GloboTech Communications|
+|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|12|103.145.34.141|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|45.170.128.120|999|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|18|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|19|200.121.48.195|999|Peru|La Esperanza|Telefonica del Peru|
+|20|43.225.151.238|25254|Bangladesh|Dhaka|Next Online|
 
 
 
