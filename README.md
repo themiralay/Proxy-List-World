@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|3|103.171.255.204|8080|Indonesia|Godean|ZKI|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|17|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
