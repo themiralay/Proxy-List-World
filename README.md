@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|119.148.35.37|39043|Bangladesh|Dhaka|Agni Systems Limited|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|38.194.246.34|999|Mexico|León|Cogent Communications|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|12|178.57.118.48|65056|Russia|Veliky Novgorod|SEVER-TELECOM|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|103.133.27.229|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|119.148.35.37|39043|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
