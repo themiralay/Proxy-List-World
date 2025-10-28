@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.161|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
