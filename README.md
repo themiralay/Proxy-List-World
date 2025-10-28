@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|120.28.212.240|5050|Philippines|Davao City|Globe Telecom|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
