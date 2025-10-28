@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
-|4|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|5|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|6|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|208.67.28.19|58090|United States|Eagle River|SonicNet Inc.|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|16|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|20|93.125.3.22|8080|Belarus|Minsk|Unitary enterprise A1|
 
 
 
