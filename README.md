@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|8|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|20|38.52.208.49|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|8|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
