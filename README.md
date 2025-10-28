@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|124.83.96.37|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
