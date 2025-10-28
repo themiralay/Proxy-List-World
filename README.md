@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
