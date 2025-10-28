@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|103.148.131.97|8080|Indonesia|Jatiwangi|PT Anugerah Cimanuk Raya|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|111.125.242.34|1111|India|Mumbai|NIXI|
-|19|38.183.146.181|8090|Indonesia|Comal|PT Ikhlas Cipta Teknologi|
-|20|103.180.119.182|8082|Indonesia|Kemendung|PT Persada Data Multimedia|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.148.131.97|8080|Indonesia|Jatiwangi|PT Anugerah Cimanuk Raya|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|111.125.242.34|1111|India|Mumbai|NIXI|
+|13|103.226.232.164|8099|Indonesia|Kepuh Wetan|PT Jaringan Multimedia Indonesia|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|67.43.228.251|30919|Canada|Montreal|GloboTech Communications|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|20|139.5.155.29|57413|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
 
 
 
