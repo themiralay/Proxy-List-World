@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|15|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
