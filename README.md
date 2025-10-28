@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|177.93.39.73|999|Colombia|Yaguará|TV AZTECA SUCURSAL COLOMBIA|
-|19|88.216.98.189|53983|United States|Chicago|AT&T Enterprises, LLC|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
 
 
 
