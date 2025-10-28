@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|103.144.103.155|8080|Indonesia|Bantarpanjang|PANDAWANET|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|14|119.93.33.130|8082|Philippines|San Fernando City|Philippine Long Distance Telephone Co.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|157.66.2.153|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
-|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|18|103.171.245.101|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|19|195.62.50.38|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|10|119.93.33.130|8082|Philippines|San Fernando City|Philippine Long Distance Telephone Co.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|157.100.52.170|999|Ecuador|Sigsig|Ufinet Panama S.A.|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|16|103.80.88.77|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|59.152.96.176|8080|Bangladesh|Mātuail|Earth Telecommunication ( pvt ) Limited|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
