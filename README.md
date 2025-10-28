@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|18.163.49.218|496|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|15|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|163.223.230.230|39227|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
 
 
 
