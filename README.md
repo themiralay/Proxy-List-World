@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.93.161|3172|Japan|Yokohama|InfoSphere|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 |10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|81.90.149.188|3128|Iran|Tehran|Afranet|
-|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|19|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|20|157.175.170.170|9068|Bahrain|Manama|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|14|177.93.45.90|999|Colombia|Miraflores|TV AZTECA SUCURSAL COLOMBIA|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|222.127.206.145|8085|Philippines|Makati City|GLBB|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|188.132.222.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|119.18.147.67|19201|Bangladesh|Chittagong|BBTS Network|
 
 
 
