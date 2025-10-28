@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|14|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
+|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.141.150.194|8080|Indonesia|Margahayukencana|PRIMACOM|
+|17|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|18|157.20.128.186|8080|Indonesia|Sagaranten|PT Citra Meta Data|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
