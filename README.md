@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|157.175.170.170|9068|Bahrain|Manama|Amazon.com, Inc.|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|182.52.165.147|8080|Thailand|Khwaeng Thung Song Hong|Ministry of Education - EMISC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|81.90.149.188|3128|Iran|Tehran|Afranet|
+|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
