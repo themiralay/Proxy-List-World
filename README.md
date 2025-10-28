@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.134.85.145|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|37.221.208.142|3128|Hungary|Budapest|ATW Internet Kft.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|20|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|15.160.186.74|521|Italy|Milan|Amazon Technologies Inc|
 
 
 
