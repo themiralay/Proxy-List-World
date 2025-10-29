@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|19|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|103.72.89.2|8080|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
