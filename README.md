@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|7|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 |11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|17|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
-|18|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|67.43.236.18|8051|Canada|Montreal|GloboTech Communications|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|14|163.223.231.155|39152|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
