@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|203.192.199.158|53|India|Pune|Entire In2Cable|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
