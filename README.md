@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|217.160.224.54|8118|Germany|Berlin|IONOS SE|
 |7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
-|9|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|10|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|103.222.255.161|8055|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|17|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|101.255.208.62|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|11|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|191.103.219.225|48612|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|108.181.4.95|5432|United States|Los Angeles|Psychz Networks|
+|20|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
