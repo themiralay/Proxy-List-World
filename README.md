@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|8|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|17|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|18|103.158.13.234|8080|Indonesia|Bojonegoro|PT.Global Media Data Prima|
-|19|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|20|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
+|7|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
 
 
 
