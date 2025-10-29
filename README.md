@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|103.22.99.138|3125|Indonesia|Ponorogo|KHALISTAGROUP|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|170.80.50.66|8080|Brazil|Cabo de Santo Agostinho|Ponte Digital|
-|20|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|8|113.192.1.98|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|12|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|13|204.199.139.75|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|14|95.140.17.150|3128|Russia|Moscow|Sputnik LLC|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
+|20|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 
 
 
