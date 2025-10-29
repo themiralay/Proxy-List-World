@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |8|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|101.109.245.157|3128|Thailand|Bangkok|TOT Public Company Limited|
-|12|185.41.152.110|3128|France|Valenciennes|global|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|15|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|11|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|201.139.183.67|10102|Mexico|Tepeaca|Computadoras y Servicios Especiales SA de CV|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
 
 
 
