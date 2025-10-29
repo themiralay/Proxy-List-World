@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
 |2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|6|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 |15|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|16|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
-|17|118.27.111.97|80|Japan|Chiyoda City|GMO Internet, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
