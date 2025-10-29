@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|6|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|9|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|16|204.199.139.120|999|Chile|Isla de Maipo|Ingbell Chile SPA|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|19|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|20|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|103.22.99.138|3125|Indonesia|Ponorogo|KHALISTAGROUP|
+|5|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|9|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|10|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|204.199.139.75|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|119.18.147.67|19201|Bangladesh|Chittagong|BBTS Network|
 
 
 
