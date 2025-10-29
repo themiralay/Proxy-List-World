@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|13|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|97.79.251.186|80|United States|Dallas|Spectrum|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|11|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|12|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
