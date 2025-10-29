@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80533** proxies at the latest update. Usable proxies are below.
+> Scraper found **80556** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38367|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38390|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40863|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|3|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|14|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|15|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|16|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|6|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|9|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|16|204.199.139.120|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|19|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|20|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
