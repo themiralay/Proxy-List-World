@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|11|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|12|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|13|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|38.224.223.246|9991|Mexico|Pichucalco|Javier Tamayo Garcia|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|115.147.16.205|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|9|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|11|182.253.228.20|3128|Indonesia|Jakarta|BIZNET|
+|12|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|13|103.247.23.201|8080|Indonesia|Ngawi|PT wifian Solution|
+|14|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
 
 
 
