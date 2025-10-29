@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|3|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|4|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|5|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|119.18.147.67|19201|Bangladesh|Chittagong|BBTS Network|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|116.80.93.161|3172|Japan|Yokohama|InfoSphere|
 
 
 
