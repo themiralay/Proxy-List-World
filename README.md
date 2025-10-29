@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|13|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|14|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
-|15|103.217.216.30|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 |16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
-|19|157.66.138.79|1080|Indonesia|Bogor|PT Neo Fiber Teknologi|
-|20|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|17|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
+|20|157.66.138.79|1080|Indonesia|Bogor|PT Neo Fiber Teknologi|
 
 
 
