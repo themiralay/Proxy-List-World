@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|3|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|4|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
+|12|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
 |13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|17|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|18|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|14|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|15|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
 |19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
