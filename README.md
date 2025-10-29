@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|9|103.35.108.250|2024|Bangladesh|Sirajganj|Ranks ITT|
-|10|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|11|113.192.1.98|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|36.88.111.98|55443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|17|119.93.64.216|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|15|200.189.216.154|8080|Brazil|Taboão da Serra|Level 3 Communications, Inc.|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
