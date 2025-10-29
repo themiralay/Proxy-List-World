@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|103.248.9.202|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|6|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|7|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
 |8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|16|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.180.123.47|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|15|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|19|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|20|144.48.115.20|8080|Bangladesh|Azimpur|Virgo Communication Ltd|
 
 
 
