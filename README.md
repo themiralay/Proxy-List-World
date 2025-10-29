@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|121.37.215.97|8888|China|Guangzhou|Huawei Cloud Service data center|
-|19|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|210.75.240.135|10044|China|Haidian|CNIC-CAS|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|58.69.124.137|5052|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
