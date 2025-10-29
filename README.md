@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|1|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|9|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|14|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
