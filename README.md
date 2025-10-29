@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|103.18.232.85|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|47.251.11.225|30001|United States|Santa Clara|Alibaba Cloud LLC|
-|15|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|19|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|119.92.142.172|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|6|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|8|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|94.102.193.91|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|19|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|20|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
 
 
 
