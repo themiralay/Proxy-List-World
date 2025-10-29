@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80518** proxies at the latest update. Usable proxies are below.
+> Scraper found **42237** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38281|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40931|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|10|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|10|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
