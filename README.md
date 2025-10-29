@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|14.224.183.185|8080|Vietnam|Ho Chi Minh City|VNPT|
+|6|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
