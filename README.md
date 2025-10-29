@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|5|103.110.34.133|8085|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|103.190.225.214|8080|Indonesia|Soreang|LINTASARTA|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|165.16.92.193|8103|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|18|103.161.130.208|8181|Indonesia|Sepatan|PT Jaringan Internet Nusantara|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|10|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|12|163.61.55.11|8085|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|103.222.255.161|8055|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
 |20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
