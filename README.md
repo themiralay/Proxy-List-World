@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|1|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
+|3|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
-|11|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|179.1.149.71|999|Peru|Paucartambo|Internexa Peru S.A|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|8|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|9|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|20|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
 
 
 
