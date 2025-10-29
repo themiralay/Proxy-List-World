@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
 |8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
-|11|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|12|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
