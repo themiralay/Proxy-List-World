@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|10|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|15|190.12.150.219|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|16|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|17|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|19|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|10|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|89.108.73.200|3129|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
+|18|103.18.232.85|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|101.109.122.174|8180|Thailand|Rayong|TOT Public Company Limited|
 
 
 
