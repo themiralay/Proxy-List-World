@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|6|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|107.189.30.151|7890|Luxembourg|Bissen|BuyVM|
-|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|19|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|3|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|6|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|9|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|170.78.208.244|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|12|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|72.10.160.90|30371|Canada|Montreal|GloboTech Communications|
 
 
 
