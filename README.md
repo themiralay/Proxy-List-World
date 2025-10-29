@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|42.98.208.100|8080|Hong Kong|Kowloon City|PCCW IMS Limited|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|8|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
 |16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|212.68.38.172|8080|Turkey|Karahallı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
