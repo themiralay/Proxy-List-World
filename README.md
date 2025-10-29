@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|11|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
