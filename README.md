@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
 |12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|102.135.195.90|8082|Nigeria|Lagos|VDT COMMUNICATIONS LIMITED|
+|20|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
 
 
 
