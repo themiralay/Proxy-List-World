@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|4|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|5|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|18|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|1|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|10|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|11|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.154.118.245|8080|Indonesia|Jakarta|MORATELINDONAP|
+|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|19|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
