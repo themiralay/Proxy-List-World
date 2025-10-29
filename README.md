@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|210.75.240.135|10044|China|Haidian|CNIC-CAS|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|16|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
