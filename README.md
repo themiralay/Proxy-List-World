@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|144.48.163.126|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
