@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|9|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|10|157.175.196.122|8864|Bahrain|Manama|Amazon.com, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|45.189.252.226|999|Mexico|Alvarado|Tracered SA De CV|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|11|103.54.80.194|8082|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|185.88.174.247|3310|Türkiye|Istanbul|Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|16|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
