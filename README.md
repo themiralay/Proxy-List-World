@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80555** proxies at the latest update. Usable proxies are below.
+> Scraper found **80495** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38260|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40991|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40931|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.129.175.43|8080|Indonesia|Soreang|PT. Eka Mas Republik|
-|20|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|36.37.147.34|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|188.211.233.101|3128|Ireland|Dublin|Interkvm Host SRL|
+|17|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|210.87.74.65|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
