@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|124.107.71.252|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|9|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|10|103.81.64.89|8080|Indonesia|Bandar Lampung|QIUNET|
-|11|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|17|54.221.235.245|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|202.58.77.131|8081|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|124.107.71.252|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
