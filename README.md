@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 |16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
-|20|103.126.86.199|3127|Indonesia|Sukoharjo|PT. Rasi Bintang Perkasa|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
+|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|20|176.117.105.86|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
