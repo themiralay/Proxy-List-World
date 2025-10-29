@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|6|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|7|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|8|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|31.56.78.144|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|15|5.129.238.213|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|62.193.108.132|1981|Egypt|Giza|Etisalat|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|5|5.129.238.213|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|9|193.34.237.41|3128|Czechia|Varnsdorf|Vybezek.NET s.r.o.|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|181.39.24.153|999|Ecuador|Guayaquil|Telconet S.A|
+|13|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
