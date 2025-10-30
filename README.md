@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80189** proxies at the latest update. Usable proxies are below.
+> Scraper found **80167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38310|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38288|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40579|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|8|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|103.82.246.17|6080|Indonesia|Wedoro|PT Master Star Network|
-|13|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|18|161.97.181.217|8118|France|Lauterbourg|Contabo GmbH|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|45.189.116.144|999|Peru|Lima|Conex TV E.I.R.L|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|16|115.72.0.142|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|17|190.97.243.140|999|Venezuela|Mérida|Viginet C.A|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
 
 
 
