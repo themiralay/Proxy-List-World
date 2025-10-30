@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|167.160.187.136|8080|United States|Los Angeles|HostPapa|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
