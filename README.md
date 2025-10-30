@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80324** proxies at the latest update. Usable proxies are below.
+> Scraper found **80407** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38330|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38413|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|110|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40658|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|167.160.187.136|8080|United States|Los Angeles|HostPapa|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|4|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
 |11|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|17|119.18.147.216|63636|Bangladesh|Chittagong|BBTS Network|
-|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|20|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|12|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|15|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|124.105.36.193|8082|Philippines|Bantog|Philippine Long Distance Telephone Co.|
+|18|154.27.196.153|999|Mexico|Colima|Cogent Communications|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
