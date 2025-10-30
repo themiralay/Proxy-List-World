@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42100** proxies at the latest update. Usable proxies are below.
+> Scraper found **80480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38357|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40810|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|103.160.182.33|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|103.166.254.220|3124|Indonesia|Teluk Kuantan|PT Instanet Media Nusantara|
-|14|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|38.194.231.66|999|Mexico|Pañhé|Cogent Communications|
 |17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.247.23.177|8080|Indonesia|Cileungsir|PT wifian Solution|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
