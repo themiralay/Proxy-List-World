@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|45.189.116.144|999|Peru|Lima|Conex TV E.I.R.L|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.189.116.144|999|Peru|Lima|Conex TV E.I.R.L|
+|7|45.189.116.149|999|Peru|Lima|Conex TV E.I.R.L|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
 |15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|115.72.0.142|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|190.97.243.140|999|Venezuela|Mérida|Viginet C.A|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
