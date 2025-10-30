@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|124.121.2.174|8080|Thailand|Bangkok|TRUEBB|
-|18|114.141.50.211|8080|Indonesia|Bandung|PT Cyberplus Media Pratama|
-|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|11|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
