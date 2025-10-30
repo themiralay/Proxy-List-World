@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|15|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
