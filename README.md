@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|189.203.180.244|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
-|20|103.39.51.48|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|124.106.116.34|1337|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|103.55.22.252|8080|Indonesia|Kisaran|PT General Media Network|
 
 
 
