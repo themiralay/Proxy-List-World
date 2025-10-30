@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.180.119.182|8082|Indonesia|Kemendung|PT Persada Data Multimedia|
-|2|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
-|3|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|4|114.9.27.246|8080|Indonesia|Kenali Asam|PT. INDOSAT Tbk|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|6|1.1.220.100|8080|Thailand|Wiang Chiang Rung|TOT Public Company Limited|
 |7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|11|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|119.18.146.114|2314|Bangladesh|Nowlamary|BBTS Network|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|119.18.147.216|63636|Bangladesh|Chittagong|BBTS Network|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|103.181.255.139|1080|Indonesia|Sumenep|PT Giga Digital Nusantara|
-|19|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|14|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.36.11.21|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
