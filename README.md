@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|182.160.114.211|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.182.79.137|8085|Indonesia|Sudangan|PT Cybernet Data Multimedia|
-|14|163.61.112.244|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|2|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|163.61.55.113|7777|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|10|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|20|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
