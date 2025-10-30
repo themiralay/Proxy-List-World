@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|103.238.232.18|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|17|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|4|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|7|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|12|212.175.61.31|8080|Turkey|Izmir|Turk Telekomunikasyon Anonim Sirketi|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|103.238.232.18|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|190.97.230.198|999|Venezuela|Caracas|Viginet C.A|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
