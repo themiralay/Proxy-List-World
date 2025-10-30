@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|9|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|38.159.229.139|999|Ecuador|Vinces|Turbonet S.A.|
-|12|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.184.56.122|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
+|6|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|7|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|8|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|135.125.97.184|42991|France|Wattrelos|OVH SAS|
+|14|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
 
 
 
