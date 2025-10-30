@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.106.78.195|7070|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|12|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|8|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|9|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 |14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|177.101.86.13|3128|Brazil|Colatina|Intercol Serviços de Internet Ltda|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
+|17|103.106.219.171|8081|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
