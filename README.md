@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|9|201.139.183.67|10102|Mexico|Tepeaca|Computadoras y Servicios Especiales SA de CV|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.126.1.204|3128|United States|St Louis|Contabo Inc.|
 |10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.156.249.127|8080|Indonesia|Krian|Trans Media Telekomunikasi|
-|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|16|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
