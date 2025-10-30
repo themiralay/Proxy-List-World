@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|94.102.199.60|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|103.182.79.137|8085|Indonesia|Sudangan|PT Cybernet Data Multimedia|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|163.223.78.161|8181|Indonesia|Soko|PT Big Network Indonesia|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|156.155.50.93|8080|South Africa|Botha’s Hill|AxxessNetworks|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|103.188.169.153|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|194.44.177.225|8080|Ukraine|Lviv|LLC EKSINTECH|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|20|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
