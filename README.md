@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|38.194.246.34|999|Mexico|León|Cogent Communications|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|88.216.98.220|53983|United States|Chicago|AT&T Enterprises, LLC|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
+|16|163.223.119.6|8085|Indonesia|Tanjung Palas|PT Dra Net Solution|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
