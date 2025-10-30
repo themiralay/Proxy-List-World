@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80492** proxies at the latest update. Usable proxies are below.
+> Scraper found **80153** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38373|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38337|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40813|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40810|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
-|11|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
-|12|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
+|2|113.192.1.18|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|3|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |13|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|14|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|81.90.149.188|3128|Iran|Tehran|Afranet|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
+|16|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|20|119.155.143.218|8080|Pakistan|Karachi|Pakistan Telecommuication company limited|
 
 
 
