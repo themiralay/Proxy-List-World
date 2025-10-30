@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|103.247.23.11|8549|Indonesia|Cileungsir|PT wifian Solution|
-|14|159.224.213.97|8470|Ukraine|Odesa|Triolan|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
 
 
 
