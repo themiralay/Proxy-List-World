@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|2|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|188.132.221.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 |13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|15|168.243.92.49|999|El Salvador|San Salvador|Telenetwork de El Salvador|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|18|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|19|41.70.10.14|8080|Malawi|Zomba|Malawi Research and Education Network - MAREN|
+|20|152.200.189.70|999|Colombia|Florencia|Colombia Telecomunicaciones S.a. ESP BIC|
 
 
 
