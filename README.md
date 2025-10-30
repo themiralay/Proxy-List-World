@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41976** proxies at the latest update. Usable proxies are below.
+> Scraper found **80389** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38413|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40658|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|167.160.187.136|8080|United States|Los Angeles|HostPapa|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|6|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|12|57.128.188.167|9298|United Kingdom|Erith|OVH SAS|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|18|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|112.203.34.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|119.18.147.216|63636|Bangladesh|Chittagong|BBTS Network|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|18|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
