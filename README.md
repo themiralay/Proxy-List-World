@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |9|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|3.107.252.199|4433|Australia|Sydney|Amazon Technologies Inc.|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|102.219.209.86|3346|Kenya|Nairobi|Vijiji Connect LTD|
+|10|103.247.23.11|8549|Indonesia|Cileungsir|PT wifian Solution|
+|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.152.238.89|1080|Indonesia|Cikarang|APRIN|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
+|16|103.171.233.72|8080|Bangladesh|Chittagong|TS Network|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
