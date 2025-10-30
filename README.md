@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |3|154.18.255.50|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|103.174.236.72|8080|Indonesia|Balapulang|PT Global Erasiber Teknologi|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.178.86.93|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|14|160.19.18.209|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|12|101.109.6.114|8080|Thailand|Pattaya|TOT Public Company Limited|
+|13|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|102.209.18.68|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|19|168.196.227.203|999|Argentina|Mariano Moreno|Vanet Telecomunicaciones S.R.L.|
+|20|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
