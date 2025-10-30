@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|181.233.50.233|8787|Ecuador|Loja|Optilink CIA Ltda|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
 
 
 
