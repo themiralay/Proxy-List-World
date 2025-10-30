@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|103.227.186.209|6080|Indonesia|Siderejo|PT Master Star Network|
-|12|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
-|16|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
-|17|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|20|72.10.160.170|28231|Canada|Montreal|GloboTech Communications|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
