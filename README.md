@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|10|103.16.118.78|8070|Indonesia|Madiun|CV Trustnet Media|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|17|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|11|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|194.124.36.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|17|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
+|18|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
 
 
 
