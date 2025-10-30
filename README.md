@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80245** proxies at the latest update. Usable proxies are below.
+> Scraper found **41876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38369|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40575|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|149.86.140.162|8080|Turkey|Reyhanlı|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
-|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.41.5.110|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|72.10.164.178|23657|Canada|Montreal|GloboTech Communications|
+|20|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 
 
 
