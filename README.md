@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
-|9|103.191.254.2|8080|Indonesia|Rembangan|PT Ayodya Data Internusa|
-|10|177.101.86.13|3128|Brazil|Colatina|Intercol Serviços de Internet Ltda|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|15|103.54.80.152|8085|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|16|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.72.89.27|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
+|11|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|12|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
+|13|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|14|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|81.90.149.188|3128|Iran|Tehran|Afranet|
+|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|18|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
