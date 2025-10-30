@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80466** proxies at the latest update. Usable proxies are below.
+> Scraper found **80386** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38408|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38337|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|105|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40718|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |6|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|185.200.37.37|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
