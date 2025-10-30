@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
-|14|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
-|15|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|19|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|69.75.140.157|8080|United States|Bellflower|Spectrum|
+|7|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|119.18.147.118|26265|Bangladesh|Chittagong|BBTS Network|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.167.219.82|8080|Indonesia|Bekasi|PT iForte Global Internet|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|18|190.60.36.26|999|Colombia|Calamar|IFX NETWORKS COLOMBIA|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
