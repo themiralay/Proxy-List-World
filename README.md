@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|103.82.246.17|6080|Indonesia|Wedoro|PT Master Star Network|
 |8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|103.125.154.176|8080|India|Tirupur|Live Fibernet|
-|11|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|13|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|89.26.83.25|8080|Austria|Rauris|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|103.133.26.100|8181|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
 
 
 
