@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|15|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|103.155.199.21|8080|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|11|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|17|119.18.147.216|63636|Bangladesh|Chittagong|BBTS Network|
+|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|20|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
 
 
 
