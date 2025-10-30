@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|9|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|6|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
+|7|119.18.147.118|26265|Bangladesh|Chittagong|BBTS Network|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|19|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|163.223.230.230|39227|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|179.57.215.99|999|Chile|Temuco|Telefonica del Sur S.A.|
+|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|103.155.198.253|8006|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
