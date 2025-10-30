@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|113.192.1.18|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|10|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
-|11|200.69.78.90|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|13|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|85.117.61.70|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|16|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|17|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
+|18|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
