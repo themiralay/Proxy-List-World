@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|12|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
-|13|45.189.116.243|999|Peru|Lima|Conex TV E.I.R.L|
-|14|176.117.104.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|16|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|17|182.253.73.13|443|Indonesia|Labansari|BIZNET|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|45.4.202.144|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
