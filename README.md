@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|6|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|9|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|14|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|113.192.1.18|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|14|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|103.72.89.27|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
