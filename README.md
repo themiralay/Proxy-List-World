@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|6|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
+|6|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|103.155.199.21|8080|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|19|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|8|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
