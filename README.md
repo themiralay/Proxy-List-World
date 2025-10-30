@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|10|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|15|175.158.63.166|1111|Indonesia|Gunung|CBNNAP|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
-|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|115.72.0.142|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|51.159.66.158|3128|France|Paris|SCALEWAY|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
