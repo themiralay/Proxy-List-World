@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|154.18.255.50|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|14|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|15|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|16|102.207.191.68|8080|Kenya|Nairobi|Avitech Solutions LTD|
-|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|6|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|115.72.15.25|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|160.250.133.198|10003|Vietnam|Vãn Phú|VPS4U|
+|15|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
