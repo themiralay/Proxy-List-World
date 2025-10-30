@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|20|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|1|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|9|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|57.128.188.167|9298|United Kingdom|Erith|OVH SAS|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|16|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
