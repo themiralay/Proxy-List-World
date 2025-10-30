@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|38.159.229.86|999|Ecuador|Vinces|Turbonet S.A.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|149.86.140.162|8080|Turkey|Reyhanlı|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 |12|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
-|18|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|19|202.191.123.195|25251|Bangladesh|Dhaka|Bijoy Online Limited|
-|20|202.191.123.195|25251|Bangladesh|Dhaka|Bijoy Online Limited|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|18|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
+|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
 
 
 
