@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|67.43.228.253|3881|Canada|Montreal|GloboTech Communications|
-|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|182.253.143.253|8080|Indonesia|Semarang|Biznet Networks|
+|4|163.61.55.113|7777|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|5|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|6|182.253.143.253|8080|Indonesia|Semarang|Biznet Networks|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |10|194.44.177.225|8080|Ukraine|Lviv|LLC EKSINTECH|
-|11|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|209.126.1.204|3128|United States|St Louis|Contabo Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|209.126.1.204|3128|United States|St Louis|Contabo Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|103.18.79.175|8080|Indonesia|Cibinong|PT Usaha Adi Sanggoro|
+|13|163.223.78.161|8181|Indonesia|Soko|PT Big Network Indonesia|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|45.167.125.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
