@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|177.130.104.86|33333|Brazil|Santo Anastácio|Vero S.A|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|12|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
