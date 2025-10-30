@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|1.1.220.100|8080|Thailand|Wiang Chiang Rung|TOT Public Company Limited|
+|5|167.160.187.136|8080|United States|Los Angeles|HostPapa|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|167.160.187.136|8080|United States|Los Angeles|HostPapa|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|17|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
-|18|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|195.248.240.25|4443|Germany|Nuremberg|BitCommand LLC|
+|7|176.108.245.247|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|114.9.27.246|8080|Indonesia|Kenali Asam|PT. INDOSAT Tbk|
+|14|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|15|119.18.147.216|63636|Bangladesh|Chittagong|BBTS Network|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|18|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|103.169.254.75|6080|Indonesia|Ambian|PT Master Star Network|
 
 
 
