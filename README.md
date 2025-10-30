@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|12|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|16|201.158.20.164|8080|Brazil|Teresópolis|Agatangelo Telecom E Informatica Ltda|
+|17|95.214.123.93|8080|Hungary|Kecskemét|Deltakon Kft.|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
