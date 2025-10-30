@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|45.77.99.40|8990|United States|Piscataway|The Constant Company|
-|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|14|103.55.22.252|8080|Indonesia|Kisaran|PT General Media Network|
-|15|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|16|203.96.226.154|8080|Bangladesh|Dhaka|House# 06|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|15|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
 
 
 
