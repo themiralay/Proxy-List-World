@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|11|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|17|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
-|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|19|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|20|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|13|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|14|181.209.82.202|999|Argentina|Villa San Agustín|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
