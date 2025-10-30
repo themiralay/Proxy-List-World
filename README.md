@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|202.191.122.106|10521|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
+|11|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|163.223.230.111|39108|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
 
 
 
