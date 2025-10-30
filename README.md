@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|200.174.198.158|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|14|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|178.34.190.6|8080|Russia|Moscow|Miranda-Media Ltd|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|164.163.134.226|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
