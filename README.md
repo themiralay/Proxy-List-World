@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|8.243.68.10|8080|Colombia|El Colegio|CTL Colombia|
 |9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|43.205.124.165|8405|India|Mumbai|Amazon.com, Inc.|
-|11|103.238.232.18|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|12|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|13|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|203.190.46.99|8080|Indonesia|Baturaden|PT Jaring Lintas Utara|
-|19|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|43.208.25.125|8004|Thailand|Bangkok|Amazon.com, Inc.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
+|13|103.247.23.177|8080|Indonesia|Cileungsir|PT wifian Solution|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|190.97.226.134|999|Venezuela|Caracas|Viginet C.A|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|199.188.207.170|8080|United States|Phoenix|Namecheap, Inc.|
 
 
 
