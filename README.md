@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|12|115.72.8.249|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|223.205.88.214|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|103.156.17.237|8818|Indonesia|Ngamprah|RSTNET|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|81.90.149.188|3128|Iran|Tehran|Afranet|
+|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|139.5.155.29|57413|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|12|103.166.158.101|3125|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|16|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|17|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
