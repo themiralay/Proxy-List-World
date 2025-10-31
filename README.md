@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.174.238.67|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|5|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|12|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|13|38.224.223.246|9991|Mexico|Pichucalco|Javier Tamayo Garcia|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|18|103.166.158.101|3125|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|3|45.189.252.240|999|Mexico|Alvarado|Tracered SA De CV|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|8|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.70.120.10|8080|Brazil|Antas|Aajm Informatica E Comunicacao Ltda - ME|
+|13|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|15|103.171.83.49|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|17|193.43.140.255|8080|Syria|Ḩarastā|Syrian Telecom|
+|18|38.224.223.246|9991|Mexico|Pichucalco|Javier Tamayo Garcia|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|81.90.149.188|3128|Iran|Tehran|Afranet|
 
 
 
