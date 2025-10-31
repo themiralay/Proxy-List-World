@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|160.250.133.198|10003|Vietnam|Vãn Phú|VPS4U|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|176.124.220.172|3128|Finland|Helsinki|xorek.cloud International LTD|
+|5|87.106.218.89|7777|Germany|Berlin|IONOS SE|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|15|43.209.130.76|109|Thailand|Bangkok|Amazon.com, Inc.|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|160.250.133.198|10003|Vietnam|Vãn Phú|VPS4U|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
