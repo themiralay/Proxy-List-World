@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|103.158.121.248|8080|Indonesia|Indramayu|CDN|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|115.72.8.249|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
-|18|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|202.57.26.150|8888|Indonesia|Bandung|WANET|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|15|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|190.85.214.14|999|Colombia|Piedecuesta|Telmex Colombia S.A.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
