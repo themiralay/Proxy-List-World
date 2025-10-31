@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|103.85.53.62|8080|Indonesia|Guyangan|PT Binerkahan Digital Telco|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|103.59.44.33|8181|Indonesia|Sidorejo|PT INDONESIA TRANS NETWORK|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|103.85.53.62|8080|Indonesia|Guyangan|PT Binerkahan Digital Telco|
+|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|141.253.127.218|3143|France|Paris|Oracle Corporation|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|157.10.97.129|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|16|36.50.112.174|8070|Indonesia|Jakarta|MYREPUBLIC|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|19|186.190.224.82|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|20|14.241.130.94|1452|Vietnam|Da Nang|VNPT|
 
 
 
