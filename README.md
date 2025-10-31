@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|12|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|13|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|16|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|18|49.0.27.169|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
-|19|190.85.214.14|999|Colombia|Piedecuesta|Telmex Colombia S.A.|
-|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|103.125.174.23|8181|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
 
 
 
