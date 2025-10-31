@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|222.127.77.167|8085|Philippines|Lahug|INNOVE|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|115.72.8.249|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|6|115.72.8.249|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|14|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
+|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
 
 
 
