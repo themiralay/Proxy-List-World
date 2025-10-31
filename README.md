@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|4|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|15|103.224.125.38|2024|Indonesia|Pamulang|PT Curug Lintas Indonesia|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.139.242.181|84|India|Pune|Spectram Telecom Pvt.Ltd|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|157.15.139.138|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|15|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
 
 
 
