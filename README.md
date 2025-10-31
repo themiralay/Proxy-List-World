@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|9|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|14|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|15|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|20|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
