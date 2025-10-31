@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|11|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|185.144.60.130|8095|Russia|Voronezh|VORONEZHTELECOM|
+|15|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
