@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|87.106.218.69|7777|Germany|Berlin|IONOS SE|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|87.106.218.89|7777|Germany|Berlin|IONOS SE|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|87.106.218.89|7777|Germany|Berlin|IONOS SE|
+|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|82.200.80.118|8080|Russia|Barnaul|ZSTTK|
+|12|103.39.51.190|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|187.63.156.133|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|154.73.28.145|8080|Libya|Tripoli|Rawafed|
+|20|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C.|
 
 
 
