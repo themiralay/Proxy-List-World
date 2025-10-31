@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|97.79.251.186|80|United States|Dallas|Spectrum|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|13|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|14|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|15|97.79.251.186|80|United States|Dallas|Spectrum|
+|16|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
 |20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
