@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
 |7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|101.109.119.24|8080|Thailand|Rayong|TOT Public Company Limited|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|187.251.222.69|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
+|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|72.10.160.90|1621|Canada|Montreal|GloboTech Communications|
+|18|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|19|72.10.160.90|1621|Canada|Montreal|GloboTech Communications|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
