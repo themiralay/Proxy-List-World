@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|38.253.88.242|999|Dominican Republic|Villa Bisonó|LAUAM MEGARED TELECOM, S.R.L.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|9|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|135.125.97.184|43163|France|Wattrelos|OVH SAS|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
