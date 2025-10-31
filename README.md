@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|223.205.88.214|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|14|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|15|38.191.219.107|999|Colombia|Santiago de Cali|TV&MÁS S.A.S|
-|16|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|17|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|18|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|6|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|115.72.8.249|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|37.211.158.191|8080|Qatar|Doha|Ooredoo Q.S.C|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|94.102.198.90|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
