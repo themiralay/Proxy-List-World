@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|94.23.19.184|2912|France|Roubaix|OVH ISP|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|38.123.220.79|999|Mexico|Loma del Astillero|Cogent Communications|
-|11|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|188.132.222.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|222.127.77.167|8085|Philippines|Lahug|INNOVE|
-|15|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|103.171.183.146|7777|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|20|103.191.196.98|8881|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|3|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|4|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|115.72.8.249|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|190.85.214.14|999|Colombia|Piedecuesta|Telmex Colombia S.A.|
+|16|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|17|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
