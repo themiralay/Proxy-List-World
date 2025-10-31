@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|3|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|119.18.147.118|26265|Bangladesh|Chittagong|BBTS Network|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+
 
 
 ## Contributing
