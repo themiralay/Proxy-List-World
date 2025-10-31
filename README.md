@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|16|180.149.234.73|6214|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|17|72.10.160.90|20097|Canada|Montreal|GloboTech Communications|
-|18|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|36.147.78.166|443|China|Guangzhou|China Mobile|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|20|187.45.105.25|8080|Brazil|Toledo|Mhnet Telecom|
 
 
 
