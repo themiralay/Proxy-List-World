@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|3|46.101.92.46|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|85.112.80.107|8724|Lebanon|Tripoli|TerraNet sal|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|13|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
-|14|36.147.78.166|443|China|Guangzhou|China Mobile|
-|15|37.211.158.191|8080|Qatar|Doha|Ooredoo Q.S.C|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|103.162.56.82|8080|Bangladesh|Chittagong|Excellence Dot|
-|19|27.124.80.58|82|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|72.10.160.173|2079|Canada|Montreal|GloboTech Communications|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|14|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|43.224.116.188|25251|Bangladesh|Dhaka|Next Online Limited|
+|17|119.18.147.67|19201|Bangladesh|Chittagong|BBTS Network|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|181.209.75.124|8080|Argentina|La Esperanza|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
 
 
 
