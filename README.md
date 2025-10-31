@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|72.10.160.90|1621|Canada|Montreal|GloboTech Communications|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|117.161.170.163|9349|China|Guangzhou|China Mobile communications corporation|
-|13|36.147.78.166|443|China|Guangzhou|China Mobile|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|36.147.78.166|443|China|Guangzhou|China Mobile|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|72.10.164.178|32317|Canada|Montreal|GloboTech Communications|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.236.19|30937|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|6|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|103.156.16.191|8288|Indonesia|Pamanukan|RSTNET|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
+|14|45.189.252.226|999|Mexico|Alvarado|Tracered SA De CV|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
