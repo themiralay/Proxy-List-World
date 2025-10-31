@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|7|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|223.205.88.214|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
-|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|8|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|202.43.122.156|1111|India|Wardha|RailTel Corporation|
 
 
 
