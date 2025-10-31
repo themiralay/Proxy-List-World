@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|103.171.82.213|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|103.158.121.248|8080|Indonesia|Indramayu|CDN|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.171.183.146|7777|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|190.85.214.14|999|Colombia|Piedecuesta|Telmex Colombia S.A.|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|11|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|16|113.160.115.254|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
