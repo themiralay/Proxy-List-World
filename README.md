@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|115.72.8.249|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|17|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|7|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|11|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
+|13|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
+|14|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
 
 
 
