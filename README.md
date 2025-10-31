@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|9|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|103.48.68.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
