@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|160.19.18.169|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|11|103.172.42.28|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|13|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|14|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|160.19.18.169|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|8|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|13|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|103.247.23.11|8549|Indonesia|Cileungsir|PT wifian Solution|
-|17|67.43.228.254|21187|Canada|Montreal|GloboTech Communications|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|38.194.246.34|999|Mexico|León|Cogent Communications|
-|20|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|20|72.10.160.172|12563|Canada|Montreal|GloboTech Communications|
 
 
 
