@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
 |4|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|17|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|19|67.43.228.253|23973|Canada|Montreal|GloboTech Communications|
-|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|8|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|202.5.52.112|25251|Bangladesh|Chittagong|BBTS-NEW|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|13|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|16|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
