@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
+|5|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|9|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|10|36.88.189.66|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|9|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|10|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
 |11|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|20|177.11.67.160|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|103.235.181.1|8080|Indonesia|Sindangsari|PT Top Class Universal|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
 
 
 
