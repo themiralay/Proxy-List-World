@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|67.43.228.253|32791|Canada|Montreal|GloboTech Communications|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.70.120.10|8080|Brazil|Antas|Aajm Informatica E Comunicacao Ltda - ME|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|177.70.77.201|20183|Brazil|Catuípe|RazaoInfo Internet Ltda|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|190.97.231.0|999|Venezuela|Porlamar|Viginet C.A|
+|16|45.70.120.10|8080|Brazil|Antas|Aajm Informatica E Comunicacao Ltda - ME|
+|17|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
 |18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|187.188.15.249|8080|Mexico|Iztapalapa|Total Play Telecomunicaciones SA De CV|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|187.49.191.13|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
 
 
 
