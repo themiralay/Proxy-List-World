@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|41.139.226.11|8080|Kenya|Nairobi|Safaricom Limited|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|19|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|19|115.72.8.249|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|38.188.100.17|999|Peru|Pichari|Ifox Telecomunicaciones E.I.R.L.|
 
 
 
