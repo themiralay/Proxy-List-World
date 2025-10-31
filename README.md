@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|115.75.184.174|8080|Vietnam|Quận Một|VIETELxdsl|
+|4|183.88.220.245|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|103.189.254.18|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|11|94.247.244.120|3128|Russia|St Petersburg|Teleport Sankt-Peterburg Networks|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|167.71.221.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|81.90.149.188|3128|Iran|Tehran|Afranet|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|11|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
 
 
 
