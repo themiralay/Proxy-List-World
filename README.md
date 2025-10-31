@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|7|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|167.250.23.75|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|20|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
+|10|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|177.234.217.44|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
