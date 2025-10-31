@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|7|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|17|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|182.253.102.204|8080|Indonesia|Cikampek|BIZNET|
-|20|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
+|15|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
+|16|167.250.23.75|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|20|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
 
 
 
