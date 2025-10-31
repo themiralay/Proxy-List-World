@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|5|42.98.208.100|8080|Hong Kong|Kowloon City|PCCW IMS Limited|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|2|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
+|3|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|9|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
+|10|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|11|107.150.41.226|24881|United States|Kansas City|Nocix, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
