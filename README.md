@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|103.165.157.235|8090|Indonesia|Mojokerto|MEGADATA-ISP|
-|12|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|13|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|14|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|103.126.87.112|1285|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|177.11.67.160|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
-|17|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|18|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|38.49.149.138|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|213.74.191.35|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|20|103.189.254.18|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
 
 
 
