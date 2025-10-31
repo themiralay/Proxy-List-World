@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80539** proxies at the latest update. Usable proxies are below.
+> Scraper found **80401** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40861|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40723|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|9|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|10|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |11|103.101.216.42|8090|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|16|115.72.8.249|10029|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|113.11.64.19|2505|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|19|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|18|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|34.48.171.130|33080|United States|Washington|Google LLC|
 
 
 
