@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|38.158.83.65|999|Peru|Arequipa|Fiberred SAC|
+|9|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|10|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|188.132.150.197|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
