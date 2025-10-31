@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|9|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.171.255.188|8080|Indonesia|Godean|ZKI|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
