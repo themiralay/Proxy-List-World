@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|3|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|14|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|18|119.18.147.118|26265|Bangladesh|Chittagong|BBTS Network|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|5|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|38.194.246.34|999|Mexico|León|Cogent Communications|
+|16|103.148.131.97|8080|Indonesia|Jatiwangi|PT Anugerah Cimanuk Raya|
+|17|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|18|103.194.175.181|7777|Indonesia|Sempu|MYNET|
+|19|103.175.236.18|8080|Indonesia|Wonosari|PT Marva Global Telekomunikasi|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
