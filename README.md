@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|13|72.10.164.178|27879|Canada|Montreal|GloboTech Communications|
-|14|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|15|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|43.225.151.140|25251|Bangladesh|Dhaka|Next Online|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|119.148.49.225|8443|Bangladesh|Dhaka|Agni Systems Limited|
-|20|103.144.146.5|8080|Indonesia|Tulungagung|Lexxa Data|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|72.10.164.178|12439|Canada|Montreal|GloboTech Communications|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|12|43.225.151.140|25251|Bangladesh|Dhaka|Next Online|
+|13|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|72.10.160.90|18815|Canada|Montreal|GloboTech Communications|
+|16|103.218.25.146|8080|Bangladesh|Dhaka|Carnival Internet|
+|17|115.72.8.249|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
 
 
 
