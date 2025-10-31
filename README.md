@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|200.24.153.7|999|Ecuador|Portoviejo|Negocios Y Telefonia Nedetel S.A|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|5|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
-|6|170.81.171.189|8282|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|201.88.213.118|8080|Brazil|Brasília|V tal|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|101.255.208.18|8090|Indonesia|Jakarta|PT Remala Abadi|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |17|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|202.175.221.171|8080|Philippines|Makati City|Eastern Telecoms Philippines, Inc|
-|19|160.250.133.198|10003|Vietnam|Vãn Phú|VPS4U|
-|20|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
+|18|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|19|139.159.97.42|9798|China|Guangzhou|China Unicom|
+|20|103.126.119.155|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
 
 
 
