@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|5|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|67.43.236.20|9943|Canada|Montreal|GloboTech Communications|
-|13|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|72.10.160.93|32697|Canada|Montreal|GloboTech Communications|
-|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|67.43.236.20|9943|Canada|Montreal|GloboTech Communications|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|103.163.244.108|83|India|Panipat|Infolink System|
+|20|72.10.160.93|32697|Canada|Montreal|GloboTech Communications|
 
 
 
