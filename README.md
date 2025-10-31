@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |5|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|12|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|13|103.156.141.27|3125|Indonesia|Jember|PT Tekling Media Telematika|
-|14|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
-|15|67.43.228.250|12133|Canada|Montreal|GloboTech Communications|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|202.5.52.112|25251|Bangladesh|Chittagong|BBTS-NEW|
-|18|103.48.71.166|84|India|Hyderabad|Country Online Services PVT LTD|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|6|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|36.50.112.174|8070|Indonesia|Jakarta|MYREPUBLIC|
 
 
 
