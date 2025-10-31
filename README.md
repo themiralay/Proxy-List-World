@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.32.212|8082|Philippines|Cabanatuan City|Globe Telecom|
-|2|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
-|12|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
-|13|115.72.8.249|10033|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|46.148.41.9|8090|Iran|Shāhīn Shahr|Web Gostaran Bandar Company|
-|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|16|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|17|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|20|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|115.72.8.249|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|8|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|119.93.64.216|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|16|81.90.149.188|3128|Iran|Tehran|Afranet|
+|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|18|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
 
 
 
