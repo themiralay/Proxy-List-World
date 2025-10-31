@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|72.10.160.172|12563|Canada|Montreal|GloboTech Communications|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|190.2.213.169|999|Colombia|Zapatoca|TV AZTECA SUCURSAL COLOMBIA|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
 
 
 
