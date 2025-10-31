@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|160.19.18.169|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|10|103.125.174.23|8181|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|11|103.175.240.87|8090|Indonesia|Sleman|LDP|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|16|103.172.42.28|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
-|20|67.43.228.250|20005|Canada|Montreal|GloboTech Communications|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|160.25.196.12|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|10|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|17|103.133.60.12|8080|Indonesia|Pekalongan|TLINK|
+|18|67.43.228.250|20005|Canada|Montreal|GloboTech Communications|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.175.240.87|8090|Indonesia|Sleman|LDP|
 
 
 
