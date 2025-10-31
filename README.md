@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|2|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
+|3|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|13|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
+|14|67.43.236.20|6429|Canada|Montreal|GloboTech Communications|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|103.247.23.28|9223|Indonesia|Cileungsir|PT wifian Solution|
+|17|67.43.228.250|20671|Canada|Montreal|GloboTech Communications|
+|18|177.11.67.161|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
+|19|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|20|135.125.97.184|43163|France|Wattrelos|OVH SAS|
+
 
 
 ## Contributing
