@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|6|182.253.62.236|8080|Indonesia|Jakarta|BIZNET|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.189.197.57|8181|Indonesia|Pekijing|PT Graha Sumber Teknologi|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
-|15|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|103.152.238.84|1080|Indonesia|Cikarang|APRIN|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|190.85.214.14|999|Colombia|Piedecuesta|Telmex Colombia S.A.|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|18|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.156.86.49|8080|Indonesia|Watampone|PT Chacha Networking System|
 
 
 
