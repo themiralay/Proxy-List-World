@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|14|138.99.176.86|999|Peru|Lima|NET WIN PERU|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|103.163.244.108|83|India|Panipat|Infolink System|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|13|115.75.184.174|8080|Vietnam|Quận Một|VIETELxdsl|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|18|72.10.160.90|24331|Canada|Montreal|GloboTech Communications|
+|19|49.144.23.208|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|20|103.193.145.155|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
 
 
 
