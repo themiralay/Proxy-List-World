@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|157.66.84.24|1983|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|17|46.148.41.9|8090|Iran|Shāhīn Shahr|Web Gostaran Bandar Company|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|186.123.26.79|8080|Argentina|Ciudad del Libertador General San Martín|Techtel LMDS Comunicaciones Interactivas S.A.|
+|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|17|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
