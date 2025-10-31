@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|115.72.8.249|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|14|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
-|15|222.127.171.128|8082|Philippines|Iloilo City|Globe Telecom Inc.|
-|16|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
-|19|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|41.139.226.11|8080|Kenya|Nairobi|Safaricom Limited|
+|13|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|16|103.136.150.44|3128|Hong Kong|Chai Wan|Baxet Group Inc.|
+|17|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
