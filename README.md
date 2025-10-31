@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
-|5|85.112.80.107|8724|Lebanon|Tripoli|TerraNet sal|
-|6|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|103.136.150.44|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|15|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|16|80.94.229.155|8080|Belarus|Minsk|IP TelCom LLC|
-|17|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
-|20|217.138.241.122|8080|United Kingdom|Manchester|M247 Ltd|
+|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
+|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
