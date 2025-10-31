@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|185.162.236.133|3128|Greece|Thessaloniki|POINTER-SHARED1|
-|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|18|103.169.189.125|3125|Indonesia|Ponorogo|Sarana Media Cemerlang|
-|19|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|11|103.224.125.38|2024|Indonesia|Pamulang|PT Curug Lintas Indonesia|
+|12|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
