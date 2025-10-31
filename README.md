@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|81.90.149.188|3128|Iran|Tehran|Afranet|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |11|166.249.54.64|7234|United States|New York|Verizon Business|
-|12|177.70.77.201|20183|Brazil|Catuípe|RazaoInfo Internet Ltda|
-|13|67.43.228.250|20671|Canada|Montreal|GloboTech Communications|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.170.64.200|80|India|Pune|Dream Cables|
+|14|67.43.228.250|20671|Canada|Montreal|GloboTech Communications|
+|15|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.164.178|2949|Canada|Montreal|GloboTech Communications|
+|20|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
