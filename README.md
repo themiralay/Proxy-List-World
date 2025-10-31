@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|194.238.27.111|3128|United States|St Louis|Contabo Inc.|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|18|46.148.41.9|8090|Iran|Shāhīn Shahr|Web Gostaran Bandar Company|
-|19|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
-|20|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|8|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|103.154.230.89|8090|Indonesia|Bilo|DIGITNET|
+|16|103.109.173.11|8080|Indonesia|Jakarta|PT Cyberindo Aditama|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
 
 
 
