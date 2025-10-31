@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|152.32.190.98|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|65.20.189.104|9090|Iraq|Karbala|Hulum|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|72.10.160.171|1689|Canada|Montreal|GloboTech Communications|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
