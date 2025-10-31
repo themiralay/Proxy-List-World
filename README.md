@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|201.148.42.22|999|Mexico|Villa García|Operbes|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|12|160.19.18.169|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|13|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|72.10.160.170|24893|Canada|Montreal|GloboTech Communications|
+|1|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.82.246.17|6080|Indonesia|Wedoro|PT Master Star Network|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
