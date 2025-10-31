@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|6|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|103.36.10.27|1080|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|185.162.236.133|3128|Greece|Thessaloniki|POINTER-SHARED1|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|16|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|17|196.251.11.160|8080|South Africa|Bloubergstrand|HERO TELECOMS (PTY) LTD|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|20|160.22.221.2|8080|Indonesia|Tegal|PT Tomihonk Network Nusantara|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.171.255.188|8080|Indonesia|Godean|ZKI|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|19|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|20|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
