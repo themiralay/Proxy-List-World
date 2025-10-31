@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|5|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|200.215.229.14|999|Peru|Cusco|Gpon Networks S.A.C.|
-|14|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|1.20.169.239|8080|Thailand|Pattaya|TOT Public Company Limited|
+|15|103.56.93.16|1935|Indonesia|Semarang|Argon Data Communication|
+|16|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|103.56.92.67|1935|Indonesia|Semarang|Argon Data Communication|
 
 
 
