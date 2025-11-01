@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
-|18|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|5|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|103.203.232.84|8080|Indonesia|Batu|PT Inti Data Guna|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|43.224.116.185|25251|Bangladesh|Dhaka|Next Online Limited|
+|15|38.194.246.34|999|Mexico|León|Cogent Communications|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|19|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|20|171.232.41.46|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
