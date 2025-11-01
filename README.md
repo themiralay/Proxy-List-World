@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
 |3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|171.232.41.46|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|9|157.66.84.1|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|177.234.211.175|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|18|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|19|185.82.99.110|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|19|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|20|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
 
 
 
