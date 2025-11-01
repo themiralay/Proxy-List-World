@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|3|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|4|109.92.141.2|9898|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|38.156.74.249|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|165.232.77.140|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
