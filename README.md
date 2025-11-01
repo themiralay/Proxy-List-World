@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79981** proxies at the latest update. Usable proxies are below.
+> Scraper found **79989** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38346|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38351|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40333|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|12|103.152.238.146|1080|Indonesia|Cikarang|APRIN|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|15|36.88.189.67|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|16|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|19|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
+|9|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
+|10|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
+|11|1.20.169.45|8080|Thailand|Pattaya|TOT Public Company Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|15|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
+|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|111.90.143.197|60808|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|67.43.228.251|24675|Canada|Montreal|GloboTech Communications|
+|20|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
