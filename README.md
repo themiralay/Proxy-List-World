@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80189** proxies at the latest update. Usable proxies are below.
+> Scraper found **80231** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38231|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38273|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|6|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|38.156.75.227|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|103.177.176.62|8080|Indonesia|Cikarang|PT Milenial Inti Telekomunikasi|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|15|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|111.68.26.237|8080|Indonesia|Mertoyudan|GMEDIA|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
