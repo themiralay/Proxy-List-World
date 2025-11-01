@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80270** proxies at the latest update. Usable proxies are below.
+> Scraper found **79933** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38321|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40670|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40333|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|14|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|103.172.17.51|8080|Indonesia|Meluwung|PT Media Access Telematika|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|8|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
+|18|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|19|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
+|20|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
 
 
 
