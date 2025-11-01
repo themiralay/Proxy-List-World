@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|11|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
 |13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
