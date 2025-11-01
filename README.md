@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|103.156.221.229|8080|Indonesia|Cirebon|PT Gading Bhakti Utama|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 
 
 
