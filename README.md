@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|6|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|15|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|16|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
 |17|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|139.5.155.29|57413|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|19|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|20|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
