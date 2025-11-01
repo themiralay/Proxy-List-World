@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|4|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|15|38.194.246.34|999|Mexico|León|Cogent Communications|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|18|43.225.151.140|25251|Bangladesh|Dhaka|Next Online|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|81.90.149.188|3128|Iran|Tehran|Afranet|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
