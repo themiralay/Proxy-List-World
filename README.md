@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|202.57.25.42|8080|Indonesia|Semarang|announced of WINET|
-|13|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|13|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|210.211.101.120|30001|Vietnam|Liên Quan|VTDC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
