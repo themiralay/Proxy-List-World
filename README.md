@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|103.194.175.181|7777|Indonesia|Sempu|MYNET|
-|9|103.132.52.196|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|10|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.70.85.33|58080|Brazil|Tupã|B.B.S COMUNICAÇÕES LTDA ME|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|102.135.142.234|12354|South Africa|Pretoria|Session Telecoms(PTY) Ltd|
+|16|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
