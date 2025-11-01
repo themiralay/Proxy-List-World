@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|163.223.230.92|39089|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
-|9|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|10|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 |13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|202.138.241.102|9384|Indonesia|Bandung|Melsa-i-net|
-|19|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
