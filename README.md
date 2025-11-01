@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41807** proxies at the latest update. Usable proxies are below.
+> Scraper found **80067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38260|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40520|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|18.143.167.190|4097|Singapore|Singapore|Amazon Technologies Inc.|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|8|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|9|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|18|201.139.115.38|8082|Mexico|Puebla City|Kiwi Networks S A P I de CV|
-|19|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|20|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|7|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|10|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|11|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|103.105.76.10|3125|Indonesia|Jombang|PT. Garuda Media Telematika|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
