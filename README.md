@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|72.10.160.170|13701|Canada|Montreal|GloboTech Communications|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|72.10.160.170|13701|Canada|Montreal|GloboTech Communications|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|12|103.152.238.89|1080|Indonesia|Cikarang|APRIN|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|114.9.25.74|8080|Indonesia|Muara Enim|PT. INDOSAT Tbk|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
