@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80164** proxies at the latest update. Usable proxies are below.
+> Scraper found **41846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38318|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|63|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40557|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|12|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
-|13|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
-|19|45.144.234.129|52028|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|202.5.52.112|25251|Bangladesh|Chittagong|BBTS-NEW|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|4|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|5|14.234.140.166|20399|Vietnam|Ho Chi Minh City|VNPT|
+|6|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
