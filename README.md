@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|103.142.14.88|8081|Indonesia|Jombang|Pemerintah Kabupaten Jombang|
-|14|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|15|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|154.73.28.145|8080|Libya|Tripoli|Rawafed|
-|17|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|18|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
+|17|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
 
 
 
