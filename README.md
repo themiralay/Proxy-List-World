@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41658** proxies at the latest update. Usable proxies are below.
+> Scraper found **80209** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38251|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|9|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|4|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 |11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|103.177.176.62|8080|Indonesia|Cikarang|PT Milenial Inti Telekomunikasi|
-|13|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|85.117.61.70|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|181.119.84.124|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|213.74.255.14|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|181.119.84.124|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|72.10.160.171|10627|Canada|Montreal|GloboTech Communications|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
