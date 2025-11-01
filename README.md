@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.25.192.126|8181|Indonesia|Karawang|UNINA|
-|10|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|11|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|9|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|12|94.102.199.60|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
