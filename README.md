@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|103.148.184.82|8080|Timor Leste|Dom Aleixo|METROLINK, LDA.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|49.48.64.108|8080|Thailand|Noen Sa-nga|Triple T Broadband Public Company Limited|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|20|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
