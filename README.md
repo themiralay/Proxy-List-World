@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|1.20.169.45|8080|Thailand|Pattaya|TOT Public Company Limited|
-|18|181.209.121.238|999|Argentina|Añatuya|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|7|154.73.28.145|8080|Libya|Tripoli|Rawafed|
+|8|38.159.232.108|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|18|190.120.255.167|999|Venezuela|Cumaná|CORPORACION FIBEX TELECOM, C.A.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |20|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
