@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|38.159.229.105|999|Ecuador|Vinces|Turbonet S.A.|
-|14|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|101.255.211.41|1111|Indonesia|Jakarta|PT Remala Abadi|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
+|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|19|46.161.198.241|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
