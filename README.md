@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|195.154.113.159|3128|France|Paris|Online S.A.S.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|19|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|171.232.41.46|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|13|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|43.224.116.185|25251|Bangladesh|Dhaka|Next Online Limited|
+|19|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
