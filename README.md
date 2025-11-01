@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
-|11|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|14|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
-|15|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|181.119.93.90|999|Peru|Lima|Ufinet Panama S.A.|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|15|103.162.37.194|8080|Indonesia|Bandung|PT Lintas Satu Visi|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|19|103.68.214.129|1111|Indonesia|Sepatan|PT Media Grasi Internet|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
