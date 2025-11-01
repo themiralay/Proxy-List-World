@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|5|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|8|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|9|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|38.194.246.34|999|Mexico|León|Cogent Communications|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|200.39.152.161|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 
 
 
