@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
-|3|107.178.115.140|3128|United States|Phoenix|Input Output Flood LLC|
-|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|36.88.141.105|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|9|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|10|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|20|202.58.77.173|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|6|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|19|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
