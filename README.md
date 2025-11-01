@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|3|38.194.246.34|999|Mexico|León|Cogent Communications|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|103.94.126.250|8080|Indonesia|Kubangkepuh|ICONPLN|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|109.92.141.2|9898|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|103.165.231.43|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
