@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|103.156.16.227|8080|Indonesia|Pamanukan|RSTNET|
-|6|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|7|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|58.147.186.79|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|18|103.152.238.146|1080|Indonesia|Cikarang|APRIN|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|12|103.152.238.146|1080|Indonesia|Cikarang|APRIN|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|15|36.88.189.67|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|16|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|19|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
 
 
 
