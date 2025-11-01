@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|18|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
 
 
 
