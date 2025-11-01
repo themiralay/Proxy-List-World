@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|183.88.220.245|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
