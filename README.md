@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|103.172.121.54|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|9|94.125.50.98|8080|Russia|Khabarovsk|Redcom LIR 2|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|15|77.104.76.230|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|18|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|16|103.76.108.89|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|17|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|19|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
+|20|181.204.81.178|999|Colombia|Pereira|Colombia Móvil|
 
 
 
