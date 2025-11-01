@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80220** proxies at the latest update. Usable proxies are below.
+> Scraper found **80458** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38424|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38331|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|95|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40475|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40806|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|7|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|38.194.246.34|999|Mexico|León|Cogent Communications|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.105.55.152|8082|Indonesia|Muarakuang|PT. Mega Artha Lintas Data|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|210.61.216.63|60808|Taiwan|Songshan|Chunghwa Telecom Co., Ltd.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|177.93.59.150|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|103.94.126.250|8080|Indonesia|Kubangkepuh|ICONPLN|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|19|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
