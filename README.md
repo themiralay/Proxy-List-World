@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|171.232.41.46|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|17|103.227.186.73|6080|Indonesia|Siderejo|PT Master Star Network|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|8|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|119.40.98.26|20|Mongolia|Ulan Bator|Topica Co., Ltd|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
