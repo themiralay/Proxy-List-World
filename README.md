@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80200** proxies at the latest update. Usable proxies are below.
+> Scraper found **80242** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38335|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38377|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40557|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|176.108.246.18|10804|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|101.255.211.41|1111|Indonesia|Jakarta|PT Remala Abadi|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
-|18|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|19|46.161.198.241|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|94.125.50.98|8080|Russia|Khabarovsk|Redcom LIR 2|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|12|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|119.40.84.86|1452|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
 
 
 
