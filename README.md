@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|77.104.76.230|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|20|193.43.145.250|8080|Syria|Al Mulayḩah|Syrian Telecom|
 
 
 
