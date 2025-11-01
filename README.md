@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
+|10|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|201.71.144.98|8080|Brazil|Cuiabá|Avato Tecnologia S.A|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
