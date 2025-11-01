@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80144** proxies at the latest update. Usable proxies are below.
+> Scraper found **80194** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38354|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38348|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|63|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40501|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40557|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|8|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
-|17|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.109.212.85|8428|Bangladesh|Dhaka|Bismillah Telecom Service|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|13|176.108.246.18|10801|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|81.90.149.188|3128|Iran|Tehran|Afranet|
+|18|187.45.105.25|8080|Brazil|Toledo|Mhnet Telecom|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
