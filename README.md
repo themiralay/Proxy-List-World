@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|8|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
-|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|157.175.197.28|8819|Bahrain|Manama|Amazon.com, Inc.|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|6|36.88.141.105|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|7|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|11|210.211.101.120|30000|Vietnam|Liên Quan|VTDC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
+|15|113.23.195.9|1231|Malaysia|Klang|Extreme Broadband|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|42.98.208.100|8080|Hong Kong|Kowloon City|PCCW IMS Limited|
+|19|186.190.224.82|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|20|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
 
 
 
