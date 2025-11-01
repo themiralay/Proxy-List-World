@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80267** proxies at the latest update. Usable proxies are below.
+> Scraper found **41958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38309|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40670|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|72.10.160.170|13701|Canada|Montreal|GloboTech Communications|
-|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|16|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|72.10.160.173|10103|Canada|Montreal|GloboTech Communications|
+|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|4|72.10.160.170|13701|Canada|Montreal|GloboTech Communications|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|138.99.94.51|8080|Brazil|Itapiúna|Fgtech Informatica Ltda|
+|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|185.200.38.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|188.132.222.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|190.52.100.170|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
