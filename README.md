@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|1|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |7|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|160.22.92.10|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 |14|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|181.119.84.124|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|18|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
 
 
 
