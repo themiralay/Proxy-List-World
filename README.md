@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80100** proxies at the latest update. Usable proxies are below.
+> Scraper found **41749** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38307|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|112|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40455|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|17|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|8|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|16|38.194.251.180|999|Mexico|Amealco|Cogent Communications|
+|17|78.38.100.121|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|41.33.142.182|8081|Egypt|Cairo|TE Data|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
