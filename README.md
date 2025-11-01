@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|6|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|103.148.131.87|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|38.194.246.34|999|Mexico|León|Cogent Communications|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|187.49.191.18|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|8|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|177.93.59.150|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|11|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|12|38.194.246.34|999|Mexico|León|Cogent Communications|
+|13|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
