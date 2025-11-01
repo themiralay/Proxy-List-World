@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41958** proxies at the latest update. Usable proxies are below.
+> Scraper found **80189** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38231|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|3|138.197.131.16|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
-|6|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|7|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|8|103.22.217.41|3125|Indonesia|Pamanukan|PT Cybermedia Network Nusantara|
-|9|103.39.51.190|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|103.171.255.204|8080|Indonesia|Godean|ZKI|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|14|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|67.43.236.22|17731|Canada|Montreal|GloboTech Communications|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|20|72.10.164.178|14557|Canada|Montreal|GloboTech Communications|
 
 
 
