@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
-|6|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|9|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
-|10|185.41.152.110|3128|France|Valenciennes|global|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|2|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
+|20|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
