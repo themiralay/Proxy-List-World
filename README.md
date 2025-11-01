@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|12|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
-|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|16|202.191.124.141|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|9|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
+|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|202.191.125.72|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
