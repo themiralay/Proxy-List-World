@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|74.48.194.151|1080|United States|Los Angeles|Multacom Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|14|16.78.104.244|9078|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|38.159.229.105|999|Ecuador|Vinces|Turbonet S.A.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|36.147.78.166|80|China|Guangzhou|China Mobile|
+|13|72.10.160.91|14811|Canada|Montreal|GloboTech Communications|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|182.160.114.211|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|19|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
