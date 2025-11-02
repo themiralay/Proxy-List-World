@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|14|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|18|103.153.149.224|8034|Indonesia|Gianyar|JARINGANKU|
-|19|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
