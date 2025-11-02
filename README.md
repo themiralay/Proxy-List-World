@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|4|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|1|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|5|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|14|82.103.94.190|8080|Bulgaria|Golden Sands|Spectrum NET|
 |15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|16|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|185.154.8.1|56789|Spain|Besalú|AVATEL TELECOM, SA|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|72.10.164.178|12023|Canada|Montreal|GloboTech Communications|
+|16|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
+|17|187.45.105.25|8080|Brazil|Toledo|Mhnet Telecom|
+|18|213.74.255.14|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|19|103.139.25.121|8080|Indonesia|Sidoarjo|Universitas Muhammadiyah Sidoarjo|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
