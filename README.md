@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
-|10|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|16|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|17|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
-|18|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|19|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|4|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|204.157.185.3|999|Peru|Nazca|Signal Peru S.A.C|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|181.209.107.154|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
+|13|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
