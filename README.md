@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|7|194.238.27.113|3128|United States|St Louis|Contabo Inc.|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|209.222.250.184|3128|United States|Yantis|Fork Networking, LLC|
-|15|200.115.120.200|8080|Guatemala|Santa Catarina Pinula|CIBERNET, S.A.|
-|16|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
-|17|187.188.15.249|8080|Mexico|Iztapalapa|Total Play Telecomunicaciones SA De CV|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
+|12|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|13|51.178.220.185|3128|France|Roubaix|OVH SAS|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|16|61.19.145.66|8080|Thailand|Khlong San|CAT Telecom Public Company Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |18|72.10.160.92|19089|Canada|Montreal|GloboTech Communications|
-|19|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|20|27.77.20.143|30121|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
+|19|103.190.225.214|8080|Indonesia|Soreang|LINTASARTA|
+|20|202.5.34.5|8443|Bangladesh|Gazipur|BBTS-NEW|
 
 
 
