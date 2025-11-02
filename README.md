@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
-|8|101.109.245.157|3128|Thailand|Bangkok|TOT Public Company Limited|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|103.247.23.239|8080|Indonesia|Cileungsir|PT wifian Solution|
-|11|36.147.78.166|80|China|Guangzhou|China Mobile|
-|12|94.131.123.32|3128|Türkiye|Istanbul|PQ HOSTING PLUS S.R.L.|
-|13|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
-|17|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|18|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|19|210.79.142.217|9090|Indonesia|Ketanggung|PT Gayatri Lintas Nusantara|
-|20|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|202.154.37.162|8080|Indonesia|Contong|RADNET|
+|12|101.109.245.157|3128|Thailand|Bangkok|TOT Public Company Limited|
+|13|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|36.147.78.166|80|China|Guangzhou|China Mobile|
+|15|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|16|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|86.100.108.89|8091|Lithuania|Klaipėda|Balticum TV network|
+|19|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
+|20|103.105.57.98|7070|Indonesia|Sragen|PT Lambda Sinergi Telekomunikasi|
 
 
 
