@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|15.168.235.57|8026|Japan|Osaka|Amazon Technologies Inc.|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|9|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 |10|103.156.141.113|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|11|188.132.222.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|103.10.55.174|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|36.147.78.166|80|China|Guangzhou|China Mobile|
+|12|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 |15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|18|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|19|202.178.125.136|8080|Cambodia|Battambang|Cambodia Data Communication|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
+|17|103.154.77.66|88|Indonesia|Sleman|T2NET|
+|18|119.155.143.218|8080|Pakistan|Karachi|Pakistan Telecommuication company limited|
+|19|202.58.77.173|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|20|72.10.164.178|8721|Canada|Montreal|GloboTech Communications|
 
 
 
