@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|9|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|103.158.250.118|8787|Indonesia|Ngunut|VCDNET|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.249.19.248|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|176.117.104.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|103.158.250.118|8787|Indonesia|Ngunut|VCDNET|
 |17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|72.10.160.90|9765|Canada|Montreal|GloboTech Communications|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|117.7.104.198|1005|Vietnam|Hanoi|VIETTEL|
+|18|110.38.226.139|8080|Pakistan|Chak Ninety-nine -Nine Left|Wateen Telecom Limited|
+|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
 
 
 
