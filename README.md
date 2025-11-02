@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|203.76.120.118|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|1|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|6|103.247.23.11|8549|Indonesia|Cileungsir|PT wifian Solution|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|9|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
-|11|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|12|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|38.51.48.20|999|Dominican Republic|Santiago de los Caballeros|Telemarch S.R.L|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|15|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
+|16|190.52.107.85|999|Costa Rica|Cartago|Gold Data USA Inc|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
 
 
 
