@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|4|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|181.209.111.147|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|1|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
+|2|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|7|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|94.102.198.90|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|9|36.95.17.15|80|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|15|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|17|1.20.169.45|8080|Thailand|Pattaya|TOT Public Company Limited|
+|18|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|19|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|20|36.147.78.166|443|China|Guangzhou|China Mobile|
 
 
 
