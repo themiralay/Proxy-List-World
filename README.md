@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|2|209.222.250.178|3128|United States|Yantis|Fork Networking, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|103.166.254.222|3124|Indonesia|Teluk Kuantan|PT Instanet Media Nusantara|
-|10|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|11|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|12|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
-|13|103.172.42.105|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|15|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
-|19|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|20|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|69.75.140.157|8080|United States|Bellflower|Spectrum|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|13|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|14|119.18.151.170|25251|Bangladesh|Chittagong|BBTS Network|
+|15|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|16|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
+|17|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|43.224.116.186|25251|Bangladesh|Dhaka|Next Online Limited|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|103.113.117.46|1111|Indonesia|Malang|Indonesia Network Information Center|
 
 
 
