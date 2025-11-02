@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
-|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|14|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
-|15|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|17|67.43.236.20|24339|Canada|Montreal|GloboTech Communications|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|14|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|189.48.37.164|8999|Brazil|Natal|V tal|
 
 
 
