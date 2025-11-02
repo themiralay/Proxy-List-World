@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
-|17|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|18|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
-|19|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|20|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|10|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|20|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
