@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|103.157.78.122|8097|Indonesia|Jakarta|PT Super Media Indonesia|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|185.225.40.184|8080|Syria|Damascus|sy-samaweb|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
 |9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|147.75.101.246|9401|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|147.75.101.246|9401|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|16|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|17|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|20|49.48.64.108|8080|Thailand|Noen Sa-nga|Triple T Broadband Public Company Limited|
 
 
 
