@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|177.234.217.45|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|8|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|12|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
+|14|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|15|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
+|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|17|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|67.43.236.18|11989|Canada|Montreal|GloboTech Communications|
+|19|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
 
 
 
