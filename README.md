@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|8|49.0.26.215|8080|Indonesia|Bonggol Satu|SIMS Jabar Banten Medianet|
-|9|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|119.18.148.3|9106|Bangladesh|Chittagong|BBTS Network|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
-|20|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|88.216.98.211|53983|United States|Chicago|AT&T Enterprises, LLC|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|190.128.134.66|999|Paraguay|Villa Elisa|Telecel S.A.|
+|11|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|20|183.88.214.44|8080|Thailand|Huai Thalaeng|Triple T Broadband Public Company Limited|
 
 
 
