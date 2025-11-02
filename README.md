@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|217.76.245.24|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|212.68.38.172|8080|Turkey|Karahallı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|10|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|36.37.147.34|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
