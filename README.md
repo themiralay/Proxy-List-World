@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 |8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|11|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|12|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|9|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
+|10|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
+|12|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
 |13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|72.10.160.91|19941|Canada|Montreal|GloboTech Communications|
-|20|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|14|147.75.88.121|9401|United States|San Jose|Packet Host, Inc.|
+|15|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.165.157.235|8090|Indonesia|Mojokerto|MEGADATA-ISP|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
