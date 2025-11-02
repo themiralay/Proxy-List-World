@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|6|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|7|182.252.74.147|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|8|67.43.236.18|6621|Canada|Montreal|GloboTech Communications|
-|9|176.88.65.189|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|202.57.25.134|8080|Indonesia|Semarang|announced of WINET|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
+|13|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|15|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|16|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|17|102.39.157.235|8080|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
+|18|177.234.217.45|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|114.9.54.34|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|85.117.62.78|8080|Georgia|Marneuli|Caucasus Online Ltd.|
 
 
 
