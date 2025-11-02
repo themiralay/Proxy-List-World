@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|2|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|3|209.222.250.178|3128|United States|Yantis|Fork Networking, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
 |5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
-|9|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|121.101.133.220|8080|Indonesia|Gombong|PT SELARAS CITRA TERABIT|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|141.253.102.129|3147|France|Paris|Oracle Corporation|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|17|119.148.49.225|8443|Bangladesh|Dhaka|Agni Systems Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
+|10|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|200.115.120.200|8080|Guatemala|Santa Catarina Pinula|CIBERNET, S.A.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
+|16|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|18|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.126.119.191|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
 
 
 
