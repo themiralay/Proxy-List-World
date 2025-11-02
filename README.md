@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|202.130.218.193|1080|Australia|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|12|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|190.52.100.98|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|4|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|7|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|119.148.38.217|39043|Bangladesh|Dhaka|Agni Systems Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
