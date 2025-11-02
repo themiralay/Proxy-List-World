@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|4|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
-|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|14|103.68.214.129|1111|Indonesia|Sepatan|PT Media Grasi Internet|
-|15|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
-|16|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
-|17|67.43.228.251|22009|Canada|Montreal|GloboTech Communications|
-|18|190.111.218.141|999|Argentina|San Juan Bautista|CPS|
-|19|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|103.133.61.251|8181|Indonesia|Pringsewu|TLINK|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|103.157.78.122|8097|Indonesia|Jakarta|PT Super Media Indonesia|
+|12|203.150.128.163|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|193.43.140.82|8080|Syria|Ḩarastā|Syrian Telecom|
 
 
 
