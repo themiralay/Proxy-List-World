@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41537** proxies at the latest update. Usable proxies are below.
+> Scraper found **80250** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38413|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40543|✅|
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|103.171.255.89|8080|Indonesia|Sleman|ZKI|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
