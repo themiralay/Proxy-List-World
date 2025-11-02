@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |9|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|103.249.19.248|10001|Indonesia|Cibinong|PT Rafa Teknologi Solusi|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|179.255.223.169|8080|Brazil|Ji Paraná|V tal|
-|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|72.10.160.170|15803|Canada|Montreal|GloboTech Communications|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|103.51.205.168|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|14|72.10.160.170|15803|Canada|Montreal|GloboTech Communications|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|17|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
