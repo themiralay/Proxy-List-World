@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|115.75.184.174|8080|Vietnam|Quận Một|VIETELxdsl|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|209.222.250.184|3128|United States|Yantis|Fork Networking, LLC|
-|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.194.246.34|999|Mexico|León|Cogent Communications|
+|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|43.225.151.14|25251|Bangladesh|Dhaka|Next Online|
+|16|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|88.216.98.185|53983|United States|Chicago|AT&T Enterprises, LLC|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.158.250.118|8787|Indonesia|Ngunut|VCDNET|
 
 
 
