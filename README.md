@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.168.235.57|8026|Japan|Osaka|Amazon Technologies Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|13|119.148.49.225|8443|Bangladesh|Dhaka|Agni Systems Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|36.147.78.166|80|China|Guangzhou|China Mobile|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|103.109.212.75|2215|Bangladesh|Farīdpur|Bismillah Telecom Service|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
+|8|15.168.235.57|8026|Japan|Osaka|Amazon Technologies Inc.|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|103.156.141.113|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|14|186.31.197.103|8080|Colombia|Bogotá|ETB - Colombia|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|157.66.84.24|1983|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
