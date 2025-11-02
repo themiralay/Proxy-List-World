@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|19|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|20|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|43.224.116.185|25251|Bangladesh|Dhaka|Next Online Limited|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
