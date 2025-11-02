@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|13|103.27.22.65|32650|Pakistan|Karachi|Supernet|
-|14|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.169.132.46|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|9|190.2.213.169|999|Colombia|Zapatoca|TV AZTECA SUCURSAL COLOMBIA|
+|10|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|11|36.91.62.47|52978|Indonesia|Utan|PT Telekomunikasi Indonesia|
+|12|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
 
 
 
