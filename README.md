@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|181.78.95.98|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|6|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|7|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|103.174.236.88|8080|Indonesia|Balapulang|PT Global Erasiber Teknologi|
-|9|103.189.11.63|3838|Bangladesh|Chāndpur|Digicon Telecommunication Ltd|
-|10|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|38.183.182.17|999|Peru|Huaura|Forza Bussines S.A.C.|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|170.81.171.189|8282|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|38.156.72.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|13|181.119.103.113|999|Guatemala|Nuevo Progreso|Ufinet Panama S.A.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
