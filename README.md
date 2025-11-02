@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|6|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|185.225.40.184|8080|Syria|Damascus|sy-samaweb|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
