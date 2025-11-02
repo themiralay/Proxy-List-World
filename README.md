@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|103.148.62.1|8080|India|Thāne|Rae Internet Service Provider Private Limited|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|36.147.78.166|80|China|Guangzhou|China Mobile|
-|17|103.82.20.49|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|18|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|177.11.67.160|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|8|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
+|15|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
+|16|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|19|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|20|157.100.52.170|999|Ecuador|Sigsig|Ufinet Panama S.A.|
 
 
 
