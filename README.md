@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|14|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
-|15|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|16|34.48.171.130|33080|United States|Washington|Google LLC|
 |17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Vibe Provedor De Internet Ltda|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|164.163.134.227|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 
 
 
