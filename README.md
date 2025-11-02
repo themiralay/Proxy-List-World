@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|6|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.39.51.156|8089|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|181.204.106.99|999|Colombia|Barranquilla|Colombia Móvil|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
