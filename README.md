@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
-|7|36.147.78.166|80|China|Guangzhou|China Mobile|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|36.147.78.166|80|China|Guangzhou|China Mobile|
-|12|51.91.96.190|8080|France|Roubaix|OVH SAS|
-|13|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|103.162.63.67|3125|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|16|190.111.218.139|999|Argentina|San Juan Bautista|CPS|
-|17|154.19.38.113|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|36.147.78.166|80|China|Guangzhou|China Mobile|
+|15|94.102.193.91|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|16|51.91.96.190|8080|France|Roubaix|OVH SAS|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|19|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|20|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
 
 
 
