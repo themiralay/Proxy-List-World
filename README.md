@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|188.129.255.58|80|Georgia|Tbilisi|Caucasus Online LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|202.58.77.173|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|10|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
