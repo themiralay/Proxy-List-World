@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|121.165.169.217|8064|South Korea|Songpa-gu|Korea Telecom|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|94.155.175.135|8080|Bulgaria|Kazanlak|Bulgarian Telecommunication Group EOOD|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
-|20|38.7.18.149|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|103.222.255.161|8055|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|11|103.27.22.65|32650|Pakistan|Karachi|Supernet|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|14|103.193.145.137|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|210.79.142.217|9090|Indonesia|Ketanggung|PT Gayatri Lintas Nusantara|
+|17|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|160.187.204.10|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
