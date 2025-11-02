@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.174.236.88|8080|Indonesia|Balapulang|PT Global Erasiber Teknologi|
-|10|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|18|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|19|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|20|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
