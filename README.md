@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|81.90.149.188|3128|Iran|Tehran|Afranet|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|36.147.78.166|443|China|Guangzhou|China Mobile|
-|16|72.10.164.178|5529|Canada|Montreal|GloboTech Communications|
-|17|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|119.100.148.2|7890|China|Shizishan|Chinanet|
-|20|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|18|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|20|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
 
 
 
