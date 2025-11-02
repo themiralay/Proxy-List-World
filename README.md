@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|185.172.212.233|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
-|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|11|36.88.189.66|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.99.136.66|8080|Indonesia|Sepatan|PT Jelajah Kreasi Informatika|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|188.132.150.199|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
