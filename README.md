@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|103.197.47.42|8080|Pakistan|Lahore|Netsol Technologies Limited|
-|13|119.18.148.3|9106|Bangladesh|Chittagong|BBTS Network|
-|14|103.48.68.126|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|177.234.217.45|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|38.194.246.34|999|Mexico|León|Cogent Communications|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|72.10.160.170|32877|Canada|Montreal|GloboTech Communications|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|11|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
+|12|38.194.246.34|999|Mexico|León|Cogent Communications|
+|13|36.147.78.166|80|China|Guangzhou|China Mobile|
+|14|202.5.40.85|8443|Bangladesh|Chittagong|BBTS-NEW|
+|15|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|85.117.63.207|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|17|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|18|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
