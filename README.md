@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|103.126.86.29|9090|Indonesia|Boyolali|PT. Rasi Bintang Perkasa|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|103.126.86.29|9090|Indonesia|Boyolali|PT. Rasi Bintang Perkasa|
+|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|18|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|19|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
