@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|17|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Provider|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
