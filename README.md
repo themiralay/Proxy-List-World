@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|97.79.251.186|80|United States|Dallas|Spectrum|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|179.61.110.253|999|Chile|Petorca|SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
 
 
 
