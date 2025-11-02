@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|202.5.40.85|8443|Bangladesh|Chittagong|BBTS-NEW|
-|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|41.139.220.125|8080|Kenya|Nairobi|Converged services Western|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|168.121.220.68|999|Peru|Surco|WIN EMPRESAS S.A.C|
+|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|103.157.78.122|8097|Indonesia|Jakarta|PT Super Media Indonesia|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
