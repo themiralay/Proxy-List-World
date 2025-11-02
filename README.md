@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80177** proxies at the latest update. Usable proxies are below.
+> Scraper found **80187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38230|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38240|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40667|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|36.147.78.166|80|China|Guangzhou|China Mobile|
-|15|94.102.193.91|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
-|16|51.91.96.190|8080|France|Roubaix|OVH SAS|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|177.68.149.122|8080|Brazil|São Paulo|Vivo|
-|19|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|20|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|45.233.170.61|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|12|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|13|45.234.101.123|8989|Brazil|Recife|Fortlink Internet Corporativa|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|16|141.253.100.34|3147|France|Paris|Oracle Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
 
 
 
