@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|13|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|16|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|17|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
-|18|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|19|103.194.175.51|7777|Indonesia|Sempu|MYNET|
-|20|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|4|40.192.4.174|8000|India|Hyderabad|Amazon.com, Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|181.209.111.147|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
