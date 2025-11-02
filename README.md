@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|103.158.250.118|8787|Indonesia|Ngunut|VCDNET|
-|11|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
-|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|167.250.23.75|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|19|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|20|177.11.67.161|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|12|34.48.171.130|33080|United States|Washington|Google LLC|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|103.158.250.118|8787|Indonesia|Ngunut|VCDNET|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
