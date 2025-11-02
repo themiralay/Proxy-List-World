@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|101.255.119.25|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
 
 
 
