@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|10|121.200.61.221|6565|Bangladesh|Dhaka|Drik ICT Ltd|
-|11|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
-|12|149.86.142.42|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|15|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|19|103.227.187.1|6080|Indonesia|Wirodayan|PT Master Star Network|
-|20|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|9|103.82.20.49|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|122.52.38.38|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|19|103.156.75.38|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|20|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
 
 
 
