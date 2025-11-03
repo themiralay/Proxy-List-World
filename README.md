@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.229.14.114|8080|Indonesia|Bandung|PT Arthaloka Reka Teknologi|
-|9|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|12|154.73.28.145|8080|Libya|Tripoli|Rawafed|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.161.130.208|8181|Indonesia|Sepatan|PT Jaringan Internet Nusantara|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|109.92.141.2|9898|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|19|190.183.210.74|3129|Argentina|Paraná|Gigared S.A.|
-|20|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
+|7|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|36.147.78.166|80|China|Guangzhou|China Mobile|
+|18|185.154.8.1|56789|Spain|Besalú|AVATEL TELECOM, SA|
+|19|103.226.232.197|8099|Indonesia|Kepuh Wetan|PT Jaringan Multimedia Indonesia|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
