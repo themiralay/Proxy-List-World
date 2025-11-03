@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C.|
-|8|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|45.144.234.129|54196|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
-|11|67.43.228.253|22377|Canada|Montreal|GloboTech Communications|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|8|201.8.204.194|8080|Brazil|Boa Vista|V tal|
+|9|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
 |12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|59.33.33.155|7890|China|Zhongshan|Chinanet|
+|13|67.43.228.253|22377|Canada|Montreal|GloboTech Communications|
 |14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|103.16.118.78|8070|Indonesia|Madiun|CV Trustnet Media|
 |18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|181.209.75.124|8080|Argentina|La Esperanza|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
