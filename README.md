@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|13|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|14|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|16|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|67.43.236.21|11053|Canada|Montreal|GloboTech Communications|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|2|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|9|67.43.236.21|11053|Canada|Montreal|GloboTech Communications|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|72.10.160.172|24741|Canada|Montreal|GloboTech Communications|
+|15|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|139.159.97.42|9798|China|Guangzhou|China Unicom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
