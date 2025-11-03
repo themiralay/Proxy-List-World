@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.222.250.177|3128|United States|Yantis|Fork Networking, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|14|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|18|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
-|19|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
 
 
 
