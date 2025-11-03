@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
-|18|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|181.118.151.185|999|Colombia|Jamundí|Media Commerce Partners S.A|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|190.60.36.26|999|Colombia|Calamar|IFX NETWORKS COLOMBIA|
+|18|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|117.161.170.163|9186|China|Guangzhou|China Mobile communications corporation|
+|20|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
 
 
 
