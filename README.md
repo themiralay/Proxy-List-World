@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|2|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|4|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|5|36.147.78.166|443|China|Guangzhou|China Mobile|
-|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|8|163.223.78.161|8181|Indonesia|Soko|PT Big Network Indonesia|
-|9|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|10|192.214.193.136|8080|France|Balma|Adista SAS|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.124.15.90|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|16|103.189.249.204|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|17|121.200.61.221|6565|Bangladesh|Dhaka|Drik ICT Ltd|
-|18|149.78.206.146|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|19|168.195.214.41|8800|Brazil|Arapiraca|UP TECNOLOGIA LTDA|
-|20|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|125.25.33.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|4|103.106.78.195|7070|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|217.28.18.4|8103|United Kingdom|Stockport|Linix Ltd|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|101.109.122.174|8180|Thailand|Rayong|TOT Public Company Limited|
+|14|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|16|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
+|17|72.10.160.90|9469|Canada|Montreal|GloboTech Communications|
+|18|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
