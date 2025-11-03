@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|93.183.125.11|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|181.118.151.185|999|Colombia|Jamundí|Media Commerce Partners S.A|
-|13|88.216.98.189|53983|United States|Chicago|AT&T Enterprises, LLC|
-|14|114.9.24.54|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|67.43.228.251|1151|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|16043|Canada|Montreal|GloboTech Communications|
-|17|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|18|103.165.157.235|8090|Indonesia|Mojokerto|MEGADATA-ISP|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|116.98.228.133|1001|Vietnam|Hanoi|Viettel Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
+|12|67.43.228.251|1151|Canada|Montreal|GloboTech Communications|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|72.10.160.170|1629|Canada|Montreal|GloboTech Communications|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 
 
 
