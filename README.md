@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|103.119.67.171|8181|Indonesia|Jakarta|MYREPUBLIC|
-|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|17|38.52.208.49|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
+|19|80.210.54.212|8080|Iran|Tehran|TIC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
