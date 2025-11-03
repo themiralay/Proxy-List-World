@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|18|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|67.43.236.19|2321|Canada|Montreal|GloboTech Communications|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
