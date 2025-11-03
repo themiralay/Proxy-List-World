@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80420** proxies at the latest update. Usable proxies are below.
+> Scraper found **80414** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38323|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38317|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40795|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.154.120.147|8080|Indonesia|Curug|MORATELINDONAP|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|210.87.74.65|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|103.154.120.147|8080|Indonesia|Curug|MORATELINDONAP|
+|9|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
