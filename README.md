@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.46.11.156|7500|Indonesia|Bakalan|Lintas Data Prima, PT|
-|20|36.88.170.170|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
