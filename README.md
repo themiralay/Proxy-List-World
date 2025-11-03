@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|88.247.239.47|3310|Türkiye|Bursa|Turk Telekomunikasyon A.S|
-|14|72.10.160.90|19803|Canada|Montreal|GloboTech Communications|
-|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|103.193.144.16|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|12|88.247.239.47|3310|Türkiye|Bursa|Turk Telekomunikasyon A.S|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|72.10.160.90|19803|Canada|Montreal|GloboTech Communications|
 |16|67.43.228.252|5525|Canada|Montreal|GloboTech Communications|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|72.10.160.91|11705|Canada|Montreal|GloboTech Communications|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|181.118.151.185|999|Colombia|Jamundí|Media Commerce Partners S.A|
 
 
 
