@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|37|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|37|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|37|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|3|181.204.106.99|999|Colombia|Barranquilla|Colombia Móvil|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|7|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|8|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|38.194.246.34|999|Mexico|León|Cogent Communications|
-|11|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|12|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|14|121.200.61.221|6565|Bangladesh|Dhaka|Drik ICT Ltd|
-|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|16|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
+|2|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|3|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|103.171.255.188|8080|Indonesia|Godean|ZKI|
+|15|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
