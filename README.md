@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|103.218.25.146|8080|Bangladesh|Dhaka|Carnival Internet|
-|17|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|18|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|66.65.72.148|8888|United States|Queens|Charter Communications Inc|
 
 
 
