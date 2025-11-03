@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|43|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|43|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|43|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
-|5|220.197.44.36|3128|China|Jinrongjie|China Unicom Network|
-|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|7|72.10.164.178|17931|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|17931|Canada|Montreal|GloboTech Communications|
+|1|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|2|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|3|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
-|11|72.10.160.94|11077|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|3919|Canada|Montreal|GloboTech Communications|
-|13|122.3.207.67|8089|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|36.147.78.166|443|China|Guangzhou|China Mobile|
-|16|177.93.59.150|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|17|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|18|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
-|19|67.43.236.18|22955|Canada|Montreal|GloboTech Communications|
-|20|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|45.167.125.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|13|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
+|14|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|118.97.75.83|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|18|131.255.56.43|8085|Brazil|Votuporanga|Link Brasil Telecomunicacoes Ltda|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|119.92.142.172|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
