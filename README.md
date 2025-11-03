@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|34.48.171.130|33080|United States|Washington|Google LLC|
-|16|201.76.9.115|8080|Brazil|Araranguá|Contato Internet EIRELI|
-|17|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|38.194.246.34|999|Mexico|León|Cogent Communications|
-|19|103.178.221.217|8080|Bangladesh|Dhaka|MIR INFO SYSTEMS LTD.|
-|20|119.100.148.2|7890|China|Shizishan|Chinanet|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|36.147.78.166|443|China|Guangzhou|China Mobile|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|14|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|119.100.148.2|7890|China|Shizishan|Chinanet|
+|16|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|19|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
