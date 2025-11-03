@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|103.158.252.196|8090|Indonesia|Jakarta|Rapid Network|
-|14|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|101.255.107.58|8090|Indonesia|Jakarta|PT Remala Abadi|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|12|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|13|124.83.96.37|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|62.193.118.57|1981|Egypt|Giza|Etisalat|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|36.147.78.166|443|China|Guangzhou|China Mobile|
+|20|67.43.236.19|5451|Canada|Montreal|GloboTech Communications|
 
 
 
