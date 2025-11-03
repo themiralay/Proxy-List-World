@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|110.38.226.139|8080|Pakistan|Chak Ninety-nine -Nine Left|Wateen Telecom Limited|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|103.234.31.0|8080|Indonesia|Sungguminasa|PT Jenius Lintas Nusantara|
-|18|190.52.100.176|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|13|110.38.226.139|8080|Pakistan|Chak Ninety-nine -Nine Left|Wateen Telecom Limited|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|36.88.189.66|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|19|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
+|20|114.9.26.182|8080|Indonesia|Sukadana|PT. INDOSAT Tbk|
 
 
 
