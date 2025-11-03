@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80467** proxies at the latest update. Usable proxies are below.
+> Scraper found **80451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38337|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38321|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40832|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|13|8.242.212.220|999|Colombia|Carmen de Apicalá|Level 3 Communications, Inc.|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|16|72.10.160.173|13457|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|22377|Canada|Montreal|GloboTech Communications|
-|18|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|19|72.10.164.178|2803|Canada|Montreal|GloboTech Communications|
-|20|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
+|8|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
+|11|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|200.8.19.122|8080|Venezuela|Barinas|Corporación Telemic C.A.|
+|16|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|18|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|120.28.193.225|8080|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
