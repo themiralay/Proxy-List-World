@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|38.194.246.34|999|Mexico|León|Cogent Communications|
-|18|102.209.56.21|80|Kenya|Nairobi|Vijiji Connect LTD|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|170.80.50.66|8080|Brazil|Cabo de Santo Agostinho|Ponte Digital|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|38.194.246.34|999|Mexico|León|Cogent Communications|
+|20|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
 
 
 
