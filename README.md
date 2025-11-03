@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|5|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|9|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|34.48.171.130|33080|United States|Washington|Google LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
-|15|36.88.141.105|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|16|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|15|103.69.106.154|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|36.67.99.31|7023|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
 |19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
