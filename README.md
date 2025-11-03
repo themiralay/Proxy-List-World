@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|3|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|67.43.236.20|21149|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.171|1599|Canada|Montreal|GloboTech Communications|
-|18|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
-|19|190.185.112.58|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|20|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|2|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|67.43.236.20|21149|Canada|Montreal|GloboTech Communications|
+|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|38.156.74.85|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
+|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|20|222.127.77.167|8085|Philippines|Lahug|INNOVE|
 
 
 
