@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80477** proxies at the latest update. Usable proxies are below.
+> Scraper found **80430** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38301|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38254|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40905|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|67.43.236.20|21149|Canada|Montreal|GloboTech Communications|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|38.156.74.85|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
-|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|20|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|1|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|8|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|72.10.160.91|13689|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|1599|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|14|42.98.208.100|8080|Hong Kong|Kowloon City|PCCW IMS Limited|
+|15|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|16|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|38.194.246.34|999|Mexico|León|Cogent Communications|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
