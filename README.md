@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|10|82.209.219.244|8080|Belarus|Mogilev|Republican Unitary Telecommunication Enterprise Beltelecom|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|18|67.43.228.251|18485|Canada|Montreal|GloboTech Communications|
-|19|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.97.131.23|8899|France|Lauterbourg|Contabo GmbH|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|103.119.67.171|8181|Indonesia|Jakarta|MYREPUBLIC|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
+|19|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
