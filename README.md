@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|15|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|20|72.10.160.170|23135|Canada|Montreal|GloboTech Communications|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|72.10.160.170|23135|Canada|Montreal|GloboTech Communications|
+|16|78.186.19.198|3310|Turkey|Kızıltoprak|Turk Telekomunikasyon A.S|
+|17|67.43.228.253|15015|Canada|Montreal|GloboTech Communications|
+|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
+|20|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
 
 
 
