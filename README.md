@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|103.106.78.195|7070|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|4|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|79.106.108.132|8079|Albania|Gjirokastër|ONE ALBANIA SH.A.|
-|8|67.43.236.18|21811|Canada|Montreal|GloboTech Communications|
-|9|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|11|202.47.188.186|2010|Indonesia|Jombang|Lintas Data Prima, PT|
+|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
 |15|72.10.160.91|23983|Canada|Montreal|GloboTech Communications|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|36.147.78.166|80|China|Guangzhou|China Mobile|
-|18|38.194.246.34|999|Mexico|León|Cogent Communications|
-|19|185.82.99.219|50010|Lebanon|Baalbek|NET 360 S.A.R.L|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|19|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|20|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
