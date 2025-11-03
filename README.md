@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|9|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|10|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|11|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|91.121.106.55|4444|France|Roubaix|OVH SAS|
-|15|132.255.21.123|999|Colombia|Pereira|Media Commerce Partners S.A|
-|16|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
