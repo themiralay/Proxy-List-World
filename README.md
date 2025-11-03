@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|3|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|72.10.160.171|1535|Canada|Montreal|GloboTech Communications|
-|9|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|72.10.160.91|24037|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|7809|Canada|Montreal|GloboTech Communications|
-|15|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
-|16|38.194.246.34|999|Mexico|León|Cogent Communications|
-|17|36.147.78.166|80|China|Guangzhou|China Mobile|
-|18|72.10.160.172|22703|Canada|Montreal|GloboTech Communications|
-|19|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|103.172.71.141|3127|Indonesia|Cikampek|AZNET|
+|11|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
+|12|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|13|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.48.71.166|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|72.10.160.91|24037|Canada|Montreal|GloboTech Communications|
+|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|72.10.160.90|7809|Canada|Montreal|GloboTech Communications|
 
 
 
