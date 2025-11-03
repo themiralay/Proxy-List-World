@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|13|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|200.116.198.222|9812|Colombia|Manizales|UNE EPM TELECOMUNICACIONES S.A|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |19|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|20|192.203.0.250|999|Puerto Rico|Fajardo|Boom NET|
+|20|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
 
 
 
