@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|103.130.82.64|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|11|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|156.155.50.93|8080|South Africa|Botha’s Hill|AxxessNetworks|
-|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|10|38.156.73.136|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|186.227.119.91|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
+|17|137.97.39.165|8080|India|Lucknow|Reliance Jio Infocomm Limited|
 |18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
+|20|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
 
 
 
