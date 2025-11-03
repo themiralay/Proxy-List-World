@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.67.85.154|3127|Indonesia|Sumbersewu|PT Tujuh Fondasi Teknologi|
-|8|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|9|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|10|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|62.193.118.57|1981|Egypt|Giza|Etisalat|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|43.252.107.102|7777|Indonesia|Buduran|PT Lintas Data Prima|
-|15|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|222.252.144.246|8080|Vietnam|Làng Hà|VietNam Post and Telecom Corporation|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|203.81.69.126|1248|Myanmar|Taungoo|Myanma Post & Telecommunication|
-|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|13|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|14|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|15|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
