@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|94.125.50.98|8080|Russia|Khabarovsk|Redcom LIR 2|
-|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|81.90.149.188|3128|Iran|Tehran|Afranet|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|15|36.67.99.31|7023|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
