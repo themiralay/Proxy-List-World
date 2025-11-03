@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|72.10.160.91|24037|Canada|Montreal|GloboTech Communications|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
-|18|103.247.22.139|8446|Indonesia|Bekasi|PT wifian Solution|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|203.190.46.159|3127|Indonesia|Baturaden|PT Jaring Lintas Utara|
+|9|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
