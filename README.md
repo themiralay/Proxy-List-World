@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|5|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|160.19.18.209|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.226.232.202|8096|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
-|18|103.167.68.60|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
