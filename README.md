@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |9|115.127.190.26|6979|Bangladesh|Dhaka|BRACNet Limited|
-|10|103.156.14.165|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|10|36.147.78.166|80|China|Guangzhou|China Mobile|
 |11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
-|14|113.118.159.77|9000|China|Guangzhou|Chinanet|
-|15|157.10.97.85|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
-|18|188.132.249.219|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|190.97.254.180|8080|Venezuela|Pueblo Llano|Viginet C.A|
-|20|181.78.200.125|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
+|13|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|14|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|15|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|16|103.248.9.202|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.231.239.6|58080|Bangladesh|Dhaka|Carnival Internet|
+|19|103.144.103.155|8080|Indonesia|Bantarpanjang|PANDAWANET|
+|20|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
 
 
 
