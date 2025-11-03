@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|3|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|3|213.74.191.35|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|8|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
-|11|34.48.171.130|33080|United States|Washington|Google LLC|
-|12|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|16|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|119.148.8.54|8443|Bangladesh|Dhaka|Agni Systems Limited|
-|19|38.194.246.34|999|Mexico|León|Cogent Communications|
-|20|72.10.160.90|28965|Canada|Montreal|GloboTech Communications|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
+|10|103.133.27.143|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|103.247.22.139|8446|Indonesia|Bekasi|PT wifian Solution|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|38.194.246.34|999|Mexico|León|Cogent Communications|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|182.253.102.204|8080|Indonesia|Cikampek|BIZNET|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|210.211.101.120|30001|Vietnam|Liên Quan|VTDC|
 
 
 
