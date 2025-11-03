@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80251** proxies at the latest update. Usable proxies are below.
+> Scraper found **80243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38255|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40708|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|15|190.183.210.74|3129|Argentina|Paraná|Gigared S.A.|
+|1|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
+|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|9|102.209.18.68|8080|Kenya|Nairobi|Vennet Solutions Limited|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
+|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|13|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.39.51.48|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|18|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
