@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|7|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|13|36.88.249.106|80|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|14|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|19|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|9|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|11|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
+|12|45.4.58.223|8080|Brazil|Recife|VN TELECOM PROVEDORES A.R.C EIRELI|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|17|45.189.252.245|999|Mexico|Alvarado|Tracered SA De CV|
+|18|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|19|186.180.48.106|999|Colombia|Pereira|Colombia Móvil|
+|20|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
 
 
 
