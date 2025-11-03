@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|67.43.228.253|17421|Canada|Montreal|GloboTech Communications|
-|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|36.147.78.166|443|China|Guangzhou|China Mobile|
-|14|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.248.9.232|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|72.10.160.172|24741|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|6605|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|6605|Canada|Montreal|GloboTech Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|10|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|38.194.246.34|999|Mexico|León|Cogent Communications|
+|16|38.159.229.86|999|Ecuador|Vinces|Turbonet S.A.|
+|17|186.97.138.69|999|Colombia|Medellín|Colombia Móvil|
+|18|103.156.16.151|8818|Indonesia|Pamanukan|RSTNET|
+|19|103.227.186.217|6080|Indonesia|Siderejo|PT Master Star Network|
+|20|115.84.175.2|8181|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
 
 
 
