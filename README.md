@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|103.159.96.48|1080|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|10|43.205.124.165|26001|India|Mumbai|Amazon.com, Inc.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|202.58.77.173|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|19|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
