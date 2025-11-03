@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|103.156.16.193|8818|Indonesia|Pamanukan|RSTNET|
-|7|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|8|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|11|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|14|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|17|67.43.228.253|22377|Canada|Montreal|GloboTech Communications|
-|18|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|19|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|20|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|11|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
+|14|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|45.144.234.129|54196|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|131.100.48.123|999|Colombia|Florencia|Fibernet TV SAS|
+|20|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
 
 
 
