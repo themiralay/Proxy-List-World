@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|77.68.2.139|80|United Kingdom|London|IONOS SE|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|72.10.164.178|2803|Canada|Montreal|GloboTech Communications|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|67.43.236.18|8051|Canada|Montreal|GloboTech Communications|
-|13|36.147.78.166|80|China|Guangzhou|China Mobile|
-|14|103.167.171.153|2222|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|67.43.228.250|20567|Canada|Montreal|GloboTech Communications|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |17|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |19|72.10.160.170|9337|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|8051|Canada|Montreal|GloboTech Communications|
+|20|175.101.26.97|83|India|Hyderabad|ExcellMedia Pvt Ltd|
 
 
 
