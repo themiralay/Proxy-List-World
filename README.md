@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.160.182.33|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|103.187.136.21|3838|Bangladesh|Chāndpur|Times Communication|
-|14|47.91.95.168|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
-|15|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|123.25.234.143|8090|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|163.61.55.103|1234|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|19|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.222.128.50|9119|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|103.160.182.33|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
