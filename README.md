@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|7|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|147.75.101.247|80|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|147.75.101.247|80|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|131.72.68.160|40033|Brazil|Aracaju|TOP NET SERVIÇOS LTDA|
-|18|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
-|20|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|10|119.93.201.156|8082|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|11|147.75.101.247|9401|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|147.75.101.247|9401|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|103.16.118.78|8070|Indonesia|Madiun|CV Trustnet Media|
+|16|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|17|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|18|188.132.150.198|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|121.240.126.113|8083|India|Delhi|Tata Communications Limited|
+|20|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
 
 
 
