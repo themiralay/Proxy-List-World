@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|163.223.230.92|39089|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |11|67.43.228.250|18579|Canada|Montreal|GloboTech Communications|
-|12|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|49.156.38.226|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
-|18|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|19|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|202.47.189.132|8080|Indonesia|Magetan|Lintas Data Prima, PT|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
