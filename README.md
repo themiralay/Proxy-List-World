@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80562** proxies at the latest update. Usable proxies are below.
+> Scraper found **80520** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38384|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40874|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40832|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|5|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
+|8|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|9|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
+|10|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|14|67.43.236.18|11841|Canada|Montreal|GloboTech Communications|
+|15|210.211.101.120|30001|Vietnam|Liên Quan|VTDC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|18|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|19|212.42.123.110|8080|Kyrgyzstan|Bishkek|ISP "ELCAT" Local Registry|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
