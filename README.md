@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|11|118.97.75.82|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|96.227.245.221|999|United States|Philadelphia|Verizon Business|
-|17|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
-|18|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|19|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|209.222.250.177|3128|United States|Yantis|Fork Networking, LLC|
+|8|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|38.52.208.49|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
+|17|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
