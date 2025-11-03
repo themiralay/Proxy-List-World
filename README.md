@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|43.252.107.102|7777|Indonesia|Buduran|PT Lintas Data Prima|
-|10|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|18|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|103.158.252.196|8090|Indonesia|Jakarta|Rapid Network|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|36.147.78.166|80|China|Guangzhou|China Mobile|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
 
 
 
