@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|41|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|41|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|41|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|37|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|37|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|37|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|8|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|72.10.160.91|13689|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|1599|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|14|42.98.208.100|8080|Hong Kong|Kowloon City|PCCW IMS Limited|
-|15|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|16|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|38.194.246.34|999|Mexico|León|Cogent Communications|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|3|181.204.106.99|999|Colombia|Barranquilla|Colombia Móvil|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|38.194.246.34|999|Mexico|León|Cogent Communications|
+|11|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|12|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|121.200.61.221|6565|Bangladesh|Dhaka|Drik ICT Ltd|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|19|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
 
 
 
