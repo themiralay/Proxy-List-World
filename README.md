@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|103.154.52.5|1111|Indonesia|Tanjungsari|WIFIKITA|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|96.227.245.221|999|United States|Philadelphia|Verizon Business|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|36.147.78.166|80|China|Guangzhou|China Mobile|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|180.180.175.11|8080|Thailand|Suphan Buri|TOT Public Company Limited|
 
 
 
