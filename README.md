@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|27.77.20.143|30121|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|10|36.147.78.166|80|China|Guangzhou|China Mobile|
-|11|103.247.23.251|1111|Indonesia|Cileungsir|PT wifian Solution|
-|12|67.43.236.18|5407|Canada|Montreal|GloboTech Communications|
-|13|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
-|14|123.200.10.46|56|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|16|103.158.13.234|8080|Indonesia|Bojonegoro|PT.Global Media Data Prima|
-|17|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
-|18|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|19|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|7|103.106.78.195|7070|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|8|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|9|103.122.1.130|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|10|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
+|11|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
+|12|102.66.104.162|8865|South Africa|Hoedspruit|Herotel|
+|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|170.84.147.156|8088|Brazil|Tutóia|Direct Telecom Ltda|
+|15|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|103.158.13.234|8080|Indonesia|Bojonegoro|PT.Global Media Data Prima|
+|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
