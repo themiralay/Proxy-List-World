@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|72.10.160.91|23707|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|33199|Canada|Montreal|GloboTech Communications|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|201.230.15.57|999|Peru|Jesus Maria|Telefonica del Peru|
-|20|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|181.209.121.238|999|Argentina|Añatuya|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|38.159.229.101|999|Ecuador|Vinces|Turbonet S.A.|
 
 
 
