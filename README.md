@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|5|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
-|9|102.209.18.68|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
-|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|13|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|4|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
+|5|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|10|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|15|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|78.9.232.205|8080|Poland|Świnoujście|Netia SA|
+|18|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
