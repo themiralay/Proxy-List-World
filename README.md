@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|4|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|103.202.223.202|8070|Bangladesh|Kāfrul|Brisksys|
-|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|36.67.99.31|7023|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|94.125.50.98|8080|Russia|Khabarovsk|Redcom LIR 2|
+|10|103.177.177.250|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|13|200.95.184.50|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|103.180.123.227|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|18|67.43.228.250|10153|Canada|Montreal|GloboTech Communications|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
