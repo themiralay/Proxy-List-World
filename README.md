@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
-|4|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|5|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |9|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|103.192.158.115|46|Bangladesh|Dhaka|City Online Ltd.|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|19|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
