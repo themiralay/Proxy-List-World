@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|81.90.149.188|3128|Iran|Tehran|Afranet|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|20|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
+|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.112.162.163|7777|Indonesia|Jakarta|24AS|
+|19|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
 
 
 
