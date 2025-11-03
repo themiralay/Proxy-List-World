@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|6|203.190.46.159|3127|Indonesia|Baturaden|PT Jaring Lintas Utara|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|9|213.74.191.35|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
 |10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|202.5.32.82|2332|Bangladesh|Bāndarban|BBTS-NEW|
-|12|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|13|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|14|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|103.113.117.46|1111|Indonesia|Malang|Indonesia Network Information Center|
-|16|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
-|17|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|176.88.175.247|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|124.105.36.193|8082|Philippines|Bantog|Philippine Long Distance Telephone Co.|
+|12|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|102.135.145.233|12354|South Africa|Pretoria|Session Telecoms|
+|15|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
