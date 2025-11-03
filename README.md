@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|14|67.43.228.250|13395|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|21547|Canada|Montreal|GloboTech Communications|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|72.10.160.171|12751|Canada|Montreal|GloboTech Communications|
-|18|103.76.108.89|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|9|82.209.219.244|8080|Belarus|Mogilev|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|12|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|72.10.164.178|21547|Canada|Montreal|GloboTech Communications|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|38.159.229.118|999|Ecuador|Vinces|Turbonet S.A.|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|72.10.160.171|12751|Canada|Montreal|GloboTech Communications|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
