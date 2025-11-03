@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|11|103.189.116.110|8080|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
-|12|186.5.94.216|999|Ecuador|Guayaquil|Telconet S.A|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|45.77.99.40|8990|United States|Piscataway|The Constant Company|
-|15|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
-|16|85.117.62.78|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
-|19|103.136.244.178|8080|Indonesia|Cikandang|PT Parsaoran Global Datatrans|
-|20|103.171.255.246|8080|Indonesia|Sleman|ZKI|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
 
 
 
