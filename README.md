@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|201.8.204.194|8080|Brazil|Boa Vista|V tal|
-|12|72.10.160.170|9337|Canada|Montreal|GloboTech Communications|
-|13|170.245.132.85|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|15|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|8.242.212.220|999|Colombia|Carmen de Apicalá|Level 3 Communications, Inc.|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
 |16|72.10.160.173|13457|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4285|Canada|Montreal|GloboTech Communications|
-|18|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|19|41.65.67.165|1976|Egypt|Cairo|Enterprise|
-|20|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|17|67.43.228.253|22377|Canada|Montreal|GloboTech Communications|
+|18|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|19|72.10.164.178|2803|Canada|Montreal|GloboTech Communications|
+|20|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
 
 
 
