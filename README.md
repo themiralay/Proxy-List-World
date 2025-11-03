@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|202.191.124.141|25251|Bangladesh|Dhaka|Bijoy Online Ltd|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|194.124.36.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
 |15|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 |16|72.10.160.173|12795|Canada|Montreal|GloboTech Communications|
-|17|179.1.149.71|999|Peru|Paucartambo|Internexa Peru S.A|
-|18|163.61.112.248|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|17|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|18|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
 |19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 |20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
