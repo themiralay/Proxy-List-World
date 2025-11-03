@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80517** proxies at the latest update. Usable proxies are below.
+> Scraper found **80201** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38381|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38365|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40832|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|5|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|36.147.78.166|443|China|Guangzhou|China Mobile|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|67.43.228.250|1231|Canada|Montreal|GloboTech Communications|
-|20|157.66.84.24|1983|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|10|103.156.17.233|8080|Indonesia|Jatibarang|RSTNET|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
