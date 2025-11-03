@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|7|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|8|72.10.164.178|28443|Canada|Montreal|GloboTech Communications|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|67.43.228.251|27667|Canada|Montreal|GloboTech Communications|
-|14|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|18|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|5|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|7|115.178.49.238|8085|Indonesia|Margabakti|NOC SIMAYA|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|11|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|103.153.149.59|8034|Indonesia|Gianyar|JARINGANKU|
+|15|72.10.164.178|15795|Canada|Montreal|GloboTech Communications|
+|16|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|18|186.180.48.106|999|Colombia|Pereira|Colombia Móvil|
+|19|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
