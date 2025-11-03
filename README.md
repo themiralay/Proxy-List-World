@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80204** proxies at the latest update. Usable proxies are below.
+> Scraper found **41993** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38211|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40708|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|41.189.171.186|8080|Ghana|Jirapa|Scancom Ltd.|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|10|165.101.102.25|8085|Philippines|Bagong Silangan|iRateNet Solutions|
+|11|45.4.148.90|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|12|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|13|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|14|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|38.190.100.236|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
 
 
 
