@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|4|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|10|181.119.97.19|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|11|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|13|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|17|201.234.186.194|8081|Colombia|Bogotá|Level 3 Colombia S.A|
-|18|45.181.12.10|999|Mexico|San Nicolás de los Garza|Sierra Madre Internet SA de CV|
-|19|72.10.164.178|9667|Canada|Montreal|GloboTech Communications|
-|20|103.93.93.95|8181|Indonesia|Sempu|MYRISE|
+|1|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
+|16|157.66.84.62|8181|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|17|103.163.244.108|82|India|Panipat|Infolink System|
+|18|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|19|183.88.220.245|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
