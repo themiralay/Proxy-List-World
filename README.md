@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.144.234.129|54196|Finland|Helsinki|Baykov Ilya Sergeevich|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|103.156.16.193|8818|Indonesia|Pamanukan|RSTNET|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|170.80.50.66|8080|Brazil|Cabo de Santo Agostinho|Ponte Digital|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.144.234.129|54196|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|45.4.202.144|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|103.76.109.201|8083|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
