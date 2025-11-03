@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|57.128.188.167|9298|United Kingdom|Erith|OVH SAS|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|36.147.78.166|80|China|Guangzhou|China Mobile|
+|14|203.190.46.131|8080|Indonesia|Baturaden|PT Jaring Lintas Utara|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|103.156.16.193|8818|Indonesia|Pamanukan|RSTNET|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
