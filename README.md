@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80361** proxies at the latest update. Usable proxies are below.
+> Scraper found **80466** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38186|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38290|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40905|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
-|13|45.234.101.123|8989|Brazil|Recife|Fortlink Internet Corporativa|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|38.191.42.200|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
-|16|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|7|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|21149|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|20407|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8855|Canada|Montreal|GloboTech Communications|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
