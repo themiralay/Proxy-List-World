@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|157.66.85.37|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|37.211.158.191|8080|Qatar|Doha|Ooredoo Q.S.C|
-|15|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
-|18|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|103.147.246.141|8080|Indonesia|Curug|PLBNET|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
+|9|157.66.85.37|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.80.88.75|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
+|16|103.227.186.61|6080|Indonesia|Siderejo|PT Master Star Network|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
+|19|140.245.102.185|3128|Singapore|Singapore|Oracle Corporation|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
