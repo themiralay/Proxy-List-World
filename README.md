@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80359** proxies at the latest update. Usable proxies are below.
+> Scraper found **80354** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38203|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38198|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40894|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|7|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|103.193.144.16|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|12|88.247.239.47|3310|Türkiye|Bursa|Turk Telekomunikasyon A.S|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|72.10.160.90|19803|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|5525|Canada|Montreal|GloboTech Communications|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|181.118.151.185|999|Colombia|Jamundí|Media Commerce Partners S.A|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|14|67.43.228.250|13395|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|21547|Canada|Montreal|GloboTech Communications|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|72.10.160.171|12751|Canada|Montreal|GloboTech Communications|
+|18|103.76.108.89|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
 
 
 
