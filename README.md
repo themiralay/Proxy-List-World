@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.72.89.2|8080|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|14|38.7.16.194|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.236.227.98|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.166.158.107|8080|Indonesia|Caringin Lor|PT Timor Lintas Nusantara|
+|10|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|123.128.12.93|9055|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|17|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|18|170.84.147.156|8088|Brazil|Tutóia|Direct Telecom Ltda|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
