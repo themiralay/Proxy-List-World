@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|210.76.192.32|7890|China|Beijing|Chinese Science & Technology Network|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|103.170.46.245|8080|India|Obra|Vanshika Itlam India PVT LTD|
-|16|38.156.75.184|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|67.43.228.251|11559|Canada|Montreal|GloboTech Communications|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|210.76.192.32|7890|China|Beijing|Chinese Science & Technology Network|
+|13|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|14|67.43.228.251|1151|Canada|Montreal|GloboTech Communications|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
