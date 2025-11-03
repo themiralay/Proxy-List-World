@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|67.43.236.18|23931|Canada|Montreal|GloboTech Communications|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|15|165.16.59.65|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
-|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|210.211.101.120|30001|Vietnam|Liên Quan|VTDC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|67.43.236.18|23931|Canada|Montreal|GloboTech Communications|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
