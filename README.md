@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|3|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|4|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|103.171.255.188|8080|Indonesia|Godean|ZKI|
-|15|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|3|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|6|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|9|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|188.132.222.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|14|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|17|209.222.250.177|3128|United States|Yantis|Fork Networking, LLC|
+|18|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
