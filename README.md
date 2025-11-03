@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80348** proxies at the latest update. Usable proxies are below.
+> Scraper found **80347** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38355|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38354|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40708|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|3|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|103.172.71.141|3127|Indonesia|Cikampek|AZNET|
-|11|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|12|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|13|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.48.71.166|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|72.10.160.91|24037|Canada|Montreal|GloboTech Communications|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|45.167.126.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|72.10.160.90|7809|Canada|Montreal|GloboTech Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|72.10.160.91|24037|Canada|Montreal|GloboTech Communications|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
+|18|103.247.22.139|8446|Indonesia|Bekasi|PT wifian Solution|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
