@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |2|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|3|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|7|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|8|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|9|190.131.254.82|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|10|185.165.36.200|8080|Slovakia|Livina|Slovanet a.s.|
-|11|38.188.186.47|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|94.125.50.98|8080|Russia|Khabarovsk|Redcom LIR 2|
-|13|41.70.10.14|8080|Malawi|Zomba|Malawi Research and Education Network - MAREN|
-|14|67.43.228.250|31095|Canada|Montreal|GloboTech Communications|
+|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|209.14.114.131|999|Colombia|Cumbitara|AGIS|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|36.147.78.166|443|China|Guangzhou|China Mobile|
+|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|12|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|14|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 |15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.48.37.164|8999|Brazil|Natal|V tal|
-|18|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|19|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|16|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|19|189.48.37.164|8999|Brazil|Natal|V tal|
 |20|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
 
 
