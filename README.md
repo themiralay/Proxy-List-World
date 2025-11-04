@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
-|3|107.152.39.253|3128|United States|Chicago|tzulo, inc.|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
-|11|177.82.99.173|7823|Brazil|Ribeirão Preto|Claro NXT Telecomunicacoes Ltda|
-|12|179.125.61.201|8080|Brazil|Urânia|Wconect Wireless Informatica LTDA - ME|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|67.43.236.20|3711|Canada|Montreal|GloboTech Communications|
-|18|181.48.39.89|8080|Colombia|Armenia|Telmex Colombia S.A.|
-|19|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|12|67.43.236.20|3711|Canada|Montreal|GloboTech Communications|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|15|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|16|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|17|185.200.37.242|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.68.214.159|8787|Indonesia|Sepatan|PT Media Grasi Internet|
+|19|67.43.236.18|22777|Canada|Montreal|GloboTech Communications|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
