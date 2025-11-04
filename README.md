@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|38.194.246.34|999|Mexico|León|Cogent Communications|
-|13|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|103.144.103.155|8080|Indonesia|Bantarpanjang|PANDAWANET|
-|15|115.87.213.180|8080|Thailand|Bangkok|TRUEBB|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|115.127.36.190|6969|Bangladesh|Dhaka|BRACNet Limited|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|35.189.150.216|3128|Japan|Tokyo|Google LLC|
 
 
 
