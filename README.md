@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|103.115.20.34|3127|Indonesia|Subang|PMYNET|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|103.184.67.117|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|181.119.107.115|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|147.75.88.121|9480|United States|San Jose|Packet Host, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|103.115.20.34|3127|Indonesia|Subang|PMYNET|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
