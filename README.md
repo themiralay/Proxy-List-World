@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|12|179.1.48.51|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
 |14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|45.4.0.60|999|Chile|San José de Tango|Tlink SPA|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
-|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
