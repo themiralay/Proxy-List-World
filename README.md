@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
-|15|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|16|103.231.236.227|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|103.171.83.49|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|103.231.236.227|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
