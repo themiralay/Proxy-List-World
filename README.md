@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|131.100.19.5|4321|Brazil|Colinas do Tocantins|Cleyton De Sales Costa - ME|
-|11|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|36.147.78.166|443|China|Guangzhou|China Mobile|
-|15|67.43.236.18|9599|Canada|Montreal|GloboTech Communications|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|154.0.153.10|8080|Tanzania|Mwanza|Habari Node Public Limited|
-|20|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|36.91.220.132|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|103.93.93.95|8181|Indonesia|Sempu|MYRISE|
+|7|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|154.12.231.32|80|United States|St Louis|Contabo Inc.|
+|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|13|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|15|36.147.78.166|80|China|Guangzhou|China Mobile|
+|16|103.76.201.109|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
+|17|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|103.178.87.50|8080|Indonesia|Cibeber|PT Adhi Pradana Makayasa|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
