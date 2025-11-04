@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|38.252.213.62|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|202.5.62.55|8080|Bangladesh|Rajshahi|Broad Band Telecom Services Ltd|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|176.88.175.214|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|17|78.134.20.48|8080|Italy|Campalto|NGI|
+|18|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|19|176.88.65.189|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
