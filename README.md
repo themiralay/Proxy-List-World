@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|6|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|185.82.99.40|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|10|131.100.19.5|4321|Brazil|Colinas do Tocantins|Cleyton De Sales Costa - ME|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|36.147.78.166|443|China|Guangzhou|China Mobile|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|103.153.62.245|8181|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|17|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|36.147.78.166|80|China|Guangzhou|China Mobile|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|36.147.78.166|80|China|Guangzhou|China Mobile|
+|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|18|103.248.9.202|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|19|202.62.75.38|83|India|Vissannapeta|CityOnline Services|
+|20|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
 
 
 
