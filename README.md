@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|6|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|102.212.45.34|12354|South Africa|Johannesburg|OM-SN-45/24|
+|15|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
