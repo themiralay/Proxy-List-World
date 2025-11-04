@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.56.206.94|8181|Indonesia|Jakarta|Argon Data Communication|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|103.122.64.248|8090|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.122.1.13|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.122.64.248|8090|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|18|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
 |19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|20|160.248.189.97|3127|Japan|Minato|NTT PC Communications, Inc.|
+|20|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
 
 
 
