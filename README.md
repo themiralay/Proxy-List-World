@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|101.109.122.174|8180|Thailand|Rayong|TOT Public Company Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|67.43.236.21|28851|Canada|Montreal|GloboTech Communications|
+|20|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
 
 
 
