@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|103.144.103.155|8080|Indonesia|Bantarpanjang|PANDAWANET|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|1.20.169.132|8080|Thailand|Pattaya|TOT Public Company Limited|
 |8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
-|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|16|37.187.92.9|1024|France|Roubaix|OVH SAS|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|72.10.164.178|2493|Canada|Montreal|GloboTech Communications|
-|19|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|14|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|18|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
+|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|20|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
 
 
 
