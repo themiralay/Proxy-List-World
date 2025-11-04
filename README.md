@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|11|94.68.245.147|8080|Greece|Larissa|OTEnet|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|36.147.78.166|443|China|Guangzhou|China Mobile|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|72.10.160.90|7643|Canada|Montreal|GloboTech Communications|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|8|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|9|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|10|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|103.171.255.124|8080|Indonesia|Sleman|ZKI|
+|19|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|20|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
 
 
 
