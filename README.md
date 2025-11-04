@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|209.222.250.189|3128|United States|Yantis|Fork Networking, LLC|
-|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|209.222.250.177|3128|United States|Yantis|Fork Networking, LLC|
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|18|115.127.36.190|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
 |20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
