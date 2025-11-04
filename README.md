@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.166.159.133|7777|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|45.163.238.254|8080|Brazil|Itaipava do Grajaú|Intercol Serv de Aux a Internet eireli Me|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|200.217.165.114|8080|Brazil|São Paulo|V tal|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
+|11|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|200.217.165.114|8080|Brazil|São Paulo|V tal|
+|14|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|101.255.107.181|8090|Indonesia|Jakarta|PT Remala Abadi|
+|17|190.14.254.49|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|18|165.101.230.170|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
