@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|103.16.118.12|8070|Indonesia|Madiun|CV Trustnet Media|
-|10|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|15|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
-|16|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|12|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|223.204.49.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|177.234.198.33|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
