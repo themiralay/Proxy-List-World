@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80495** proxies at the latest update. Usable proxies are below.
+> Scraper found **80414** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38303|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38222|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40883|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|12|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|45.238.58.225|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|13|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
 |14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|152.231.27.54|999|Colombia|Aguazul|Colombiatel Telecomunicaciones|
-|18|36.50.92.89|8080|Indonesia|Kutoarjo|PT Ring Media Nusantara|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.228.253|14543|Canada|Montreal|GloboTech Communications|
+|15|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|78.26.146.16|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
 
 
 
