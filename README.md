@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 |6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|36.147.78.166|80|China|Guangzhou|China Mobile|
-|17|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|18|72.10.164.178|26733|Canada|Montreal|GloboTech Communications|
-|19|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|20|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|72.10.164.178|6759|Canada|Montreal|GloboTech Communications|
+|12|38.159.229.89|999|Ecuador|Vinces|Turbonet S.A.|
+|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|15|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
+|16|61.29.96.146|80|Australia|Albury|AAPT Limited|
+|17|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|18|72.10.160.91|9453|Canada|Montreal|GloboTech Communications|
+|19|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|20|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
 
 
 
