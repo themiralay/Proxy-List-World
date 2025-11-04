@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 |6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|103.157.78.90|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|27.77.20.143|30121|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
+|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
