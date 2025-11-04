@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|117.247.233.62|8080|India|Jaipur|BSNL Internet|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|119.235.19.10|8080|Indonesia|Bandung|PT Inet Global Indo|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.133.27.159|8085|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|17|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|18|202.5.62.55|8080|Bangladesh|Rajshahi|Broad Band Telecom Services Ltd|
+|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
 |20|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
 
 
