@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80400** proxies at the latest update. Usable proxies are below.
+> Scraper found **80376** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38208|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40883|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|202.5.62.55|8080|Bangladesh|Rajshahi|Broad Band Telecom Services Ltd|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.122.1.239|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|10|103.178.86.93|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|165.16.29.253|2022|Libya|Darnah|Aljeel Aljadeed Technology|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
+|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|17|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
