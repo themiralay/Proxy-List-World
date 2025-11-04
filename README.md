@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
-|17|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|20|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
+|11|115.127.36.190|6969|Bangladesh|Dhaka|BRACNet Limited|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|19|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
