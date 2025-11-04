@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|103.247.22.139|8446|Indonesia|Bekasi|PT wifian Solution|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 |12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
 |14|72.10.160.171|30747|Canada|Montreal|GloboTech Communications|
-|15|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
