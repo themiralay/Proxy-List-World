@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|5|160.22.90.90|8181|Indonesia|Karangsembung|PT Lintas Data Kita|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|72.10.160.170|25619|Canada|Montreal|GloboTech Communications|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|113.11.124.1|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|10|200.217.165.114|8080|Brazil|São Paulo|V tal|
+|11|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|72.10.160.170|2545|Canada|Montreal|GloboTech Communications|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
