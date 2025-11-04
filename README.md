@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|10|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|103.146.185.140|1111|Indonesia|Wonogiri|YAMNET|
-|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
-|20|49.205.160.115|8080|India|Nellore|ACT Fibernet|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|12|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|15|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|152.231.27.54|999|Colombia|Aguazul|Colombiatel Telecomunicaciones|
+|18|36.50.92.89|8080|Indonesia|Kutoarjo|PT Ring Media Nusantara|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.228.253|14543|Canada|Montreal|GloboTech Communications|
 
 
 
