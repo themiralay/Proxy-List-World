@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|103.125.174.23|8181|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|19|67.43.228.253|5785|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|27983|Canada|Montreal|GloboTech Communications|
 
 
 
