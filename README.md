@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|3|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |5|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|6|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|9|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|11|72.10.160.170|13321|Canada|Montreal|GloboTech Communications|
-|12|36.147.78.166|80|China|Guangzhou|China Mobile|
-|13|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
-|14|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|72.10.160.170|24571|Canada|Montreal|GloboTech Communications|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
+|13|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|14|119.18.146.237|9106|Bangladesh|Nowlamary|BBTS Network|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
