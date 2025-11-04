@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
-|11|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|12|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|72.10.160.172|12969|Canada|Montreal|GloboTech Communications|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|36.147.78.166|443|China|Guangzhou|China Mobile|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|15.204.151.143|31158|United States|Reston|OVH SAS|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|13|138.99.176.107|999|Peru|Lima|NET WIN PERU|
+|14|190.97.239.25|999|Venezuela|Caracas||
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|112.203.51.44|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|123.200.10.46|56|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
