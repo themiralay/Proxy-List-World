@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|6|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|103.247.23.201|8080|Indonesia|Ngawi|PT wifian Solution|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
