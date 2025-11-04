@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.189.150.216|3128|Japan|Tokyo|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
-|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
-|20|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|35.189.150.216|3128|Japan|Tokyo|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|15|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
