@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|14|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|15|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
-|20|38.188.165.38|999|Dominican Republic|Santo Domingo|Onered Jwg532 SRL|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|10|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
