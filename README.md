@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.238.232.70|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
-|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.179.172.228|8888|Vietnam|Hóc Môn|Vietnam Posts and Telecommunications Group|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|190.93.92.78|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|15|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
 |17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
