@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|91.205.172.113|3120|France|Lauterbourg|Contabo GmbH|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|15|72.10.160.90|8309|Canada|Montreal|GloboTech Communications|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|185.200.38.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|11|200.217.165.114|8080|Brazil|São Paulo|V tal|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|72.10.160.90|8309|Canada|Montreal|GloboTech Communications|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|16|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|17|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
+|20|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
 
 
 
