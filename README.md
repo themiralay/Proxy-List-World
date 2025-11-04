@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
+|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|19|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
