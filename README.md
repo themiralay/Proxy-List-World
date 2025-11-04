@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |3|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|7|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|9|154.0.153.10|8080|Tanzania|Mwanza|Habari Node Public Limited|
-|10|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|72.10.164.178|32061|Canada|Montreal|GloboTech Communications|
-|14|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|97.79.251.186|80|United States|Dallas|Spectrum|
+|11|154.0.153.10|8080|Tanzania|Mwanza|Habari Node Public Limited|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|154.205.155.190|3129|United States|New York|Kaopu Cloud HK Limited|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|101.255.208.62|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|178.34.190.6|8080|Russia|Moscow|Miranda-Media Ltd|
+|18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
 
 
 
