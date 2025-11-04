@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|67.43.236.20|22777|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|31411|Canada|Montreal|GloboTech Communications|
-|11|38.156.74.85|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|67.43.228.253|31831|Canada|Montreal|GloboTech Communications|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|72.10.164.178|30285|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|3213|Canada|Montreal|GloboTech Communications|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
+|13|67.43.236.18|31411|Canada|Montreal|GloboTech Communications|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|201.230.121.126|999|Peru|Lima|Telefonica Del Peru|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|103.125.174.48|7777|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
 
 
 
