@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.189.150.216|3128|Japan|Tokyo|Google LLC|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|6|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|38.194.246.34|999|Mexico|León|Cogent Communications|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|8|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
 |9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|11|119.148.9.238|16341|Bangladesh|Dhaka|Agni Systems Limited|
-|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|115.127.36.190|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|103.238.232.70|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
