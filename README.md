@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|72.10.160.173|29439|Canada|Montreal|GloboTech Communications|
-|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|176.88.175.151|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|36.147.78.166|443|China|Guangzhou|China Mobile|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
