@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|179.125.61.201|8080|Brazil|Urânia|Wconect Wireless Informatica LTDA - ME|
-|9|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|2|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|7|94.68.245.147|8080|Greece|Larissa|OTEnet|
+|8|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|9|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
+|10|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|11|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 |12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|113.11.127.176|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|13|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.189.197.57|8181|Indonesia|Pekijing|PT Graha Sumber Teknologi|
-|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|36.147.78.166|443|China|Guangzhou|China Mobile|
+|18|58.249.55.222|9797|China|Wushan|CNC Group CHINA169 Guangdong Province Network|
+|19|38.156.73.136|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|182.160.124.174|9669|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
