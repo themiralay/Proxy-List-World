@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80496** proxies at the latest update. Usable proxies are below.
+> Scraper found **80529** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38214|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40960|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |7|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|176.117.104.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|103.157.78.90|8080|Indonesia|Jakarta|PT Super Media Indonesia|
 
 
 
