@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|38.172.129.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|9|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|13|36.147.78.166|80|China|Guangzhou|China Mobile|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
