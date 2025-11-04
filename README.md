@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|4|13.212.76.113|9298|Singapore|Singapore|Amazon Technologies Inc.|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|43.225.65.18|8080|Indonesia|Pasuruan|HSPNET|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|203.201.171.170|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|8|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|11|80.94.229.155|8080|Belarus|Minsk|IP TelCom LLC|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|203.12.20.29|9933|Indonesia|Utan|PT Integra Ventura|
+|17|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
