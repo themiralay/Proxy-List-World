@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80241** proxies at the latest update. Usable proxies are below.
+> Scraper found **80276** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38190|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38225|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40770|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|36.147.78.166|80|China|Guangzhou|China Mobile|
-|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|10|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|36.147.78.166|80|China|Guangzhou|China Mobile|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|103.248.9.202|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|19|202.62.75.38|83|India|Vissannapeta|CityOnline Services|
-|20|45.189.117.86|999|Peru|Lima|Conex TV E.I.R.L.|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|72.10.160.171|30747|Canada|Montreal|GloboTech Communications|
+|15|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
