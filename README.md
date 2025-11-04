@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|38.191.211.253|999|Colombia|Arauquita|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|10|103.190.225.214|8080|Indonesia|Soreang|LINTASARTA|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
-|17|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|9|101.255.164.213|8090|Indonesia|Tangerang|PT Remala Abadi|
+|10|187.63.156.237|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
+|11|49.0.26.215|8080|Indonesia|Bonggol Satu|SIMS Jabar Banten Medianet|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|14|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|15|177.125.208.239|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|97.79.251.186|80|United States|Dallas|Spectrum|
+|20|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
 
 
 
