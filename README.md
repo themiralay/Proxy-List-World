@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|8|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|9|80.94.229.155|8080|Belarus|Minsk|IP TelCom LLC|
-|10|203.175.103.3|8088|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|11|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|19|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|46.43.72.25|8080|Israel|Giv'on HaHadasha|Mada Al-Arab General Services Company|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|186.96.70.5|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
