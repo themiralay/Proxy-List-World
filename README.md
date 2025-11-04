@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|103.16.118.12|8070|Indonesia|Madiun|CV Trustnet Media|
-|8|43.225.65.18|8080|Indonesia|Pasuruan|HSPNET|
-|9|203.201.171.170|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
-|10|103.138.185.17|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
-|13|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
-|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|16|200.117.0.225|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|103.169.8.94|7777|Indonesia|Magetan|PT Bumi Manusia Network|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|4|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
