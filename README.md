@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|8|45.224.99.89|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|209.14.117.210|999|Colombia|Granada|AGIS|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|13|67.43.228.253|15349|Canada|Montreal|GloboTech Communications|
-|14|101.255.107.58|8090|Indonesia|Jakarta|PT Remala Abadi|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|122.52.141.182|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|72.10.160.173|10117|Canada|Montreal|GloboTech Communications|
-|18|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
-|19|38.194.246.34|999|Mexico|León|Cogent Communications|
-|20|91.201.115.84|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|7|36.50.92.109|1111|Indonesia|Kutoarjo|PT Ring Media Nusantara|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|38.191.211.253|999|Colombia|Arauquita|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|36.147.78.166|80|China|Guangzhou|China Mobile|
+|17|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|18|101.255.107.58|8090|Indonesia|Jakarta|PT Remala Abadi|
+|19|72.10.160.173|10117|Canada|Montreal|GloboTech Communications|
+|20|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 
 
 
