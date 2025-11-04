@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|201.230.121.126|999|Peru|Lima|Telefonica Del Peru|
-|20|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|3|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|6|121.240.126.113|8083|India|Delhi|Tata Communications Limited|
+|7|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|11|203.201.171.170|64321|Indonesia|Jakarta|PT. Dutakom Wibawa Putra|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
