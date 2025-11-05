@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|3|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|4|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|5|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|72.10.160.90|2717|Canada|Montreal|GloboTech Communications|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|67.43.228.252|23403|Canada|Montreal|GloboTech Communications|
-|16|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|17|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
-|20|133.32.22.100|8080|Japan|Ōta|ARTERIA Networks Corporation|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|177.125.208.126|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|17|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|72.10.160.90|2717|Canada|Montreal|GloboTech Communications|
 
 
 
