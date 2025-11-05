@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
