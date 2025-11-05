@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80234** proxies at the latest update. Usable proxies are below.
+> Scraper found **80162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38220|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38148|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40707|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|11|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|6|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|7|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|103.239.41.85|8080|Indonesia|Pamulang|PT Data Telematika Indonesia|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|219.92.103.218|8080|Malaysia|Kuala Lumpur|TMnet|
 |15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|103.156.14.15|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|20|38.159.229.118|999|Ecuador|Vinces|Turbonet S.A.|
+|16|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
 
 
 
