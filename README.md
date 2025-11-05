@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|5|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|182.170.153.129|8080|Japan|Nagoya|Sony Network Communications Inc.|
-|16|201.76.9.115|8080|Brazil|Araranguá|Contato Internet EIRELI|
+|15|38.41.5.110|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|38.183.182.17|999|Peru|Huaura|Forza Bussines S.A.C.|
 |17|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
 |18|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
-|19|188.132.150.197|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|19|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
