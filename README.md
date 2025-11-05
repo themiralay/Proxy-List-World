@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|206|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40754|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|14.58.92.228|3128|South Korea|Namyangju|Korea Telecom|
+|2|133.232.163.79|8080|Japan|Ichikawa|NTT PC Communications, Inc.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|11|124.122.254.203|8080|Thailand|Phra Nakhon Si Ayutthaya|True Internet Co., Ltd.|
-|12|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
-|13|150.107.29.28|3128|Thailand|On Nut|POPIDC|
-|14|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|11|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
 |15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|124.120.45.34|8080|Thailand|Surat Thani|TRUEBB|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|142.44.210.31|3128|Canada|Montreal|OVH SAS|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|150.107.29.28|3128|Thailand|On Nut|POPIDC|
 
 
 
