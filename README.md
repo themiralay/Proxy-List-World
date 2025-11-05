@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|72.10.160.91|9453|Canada|Montreal|GloboTech Communications|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
-|16|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
-|17|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|18|181.39.24.146|999|Ecuador|Guayaquil|Telconet S.A|
-|19|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.238.232.198|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|202.59.89.43|8080|Pakistan|Lahore|NEXLINX|
+|13|36.147.78.166|443|China|Guangzhou|China Mobile|
+|14|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|154.19.44.22|8085|Indonesia|Bekasi|PT EMLIMA KONEKSI NUSANTARA|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|18|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
+|19|38.156.237.214|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|20|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
 
 
 
