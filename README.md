@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|5|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|6|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|7|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|10|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|103.239.41.85|8080|Indonesia|Pamulang|PT Data Telematika Indonesia|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|219.92.103.218|8080|Malaysia|Kuala Lumpur|TMnet|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|50.200.166.130|8080|United States|Houston|Comcast Cable Communications|
+|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
 
 
 
