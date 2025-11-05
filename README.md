@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|6|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|103.133.26.45|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|14.189.225.247|8080|Vietnam|Thái Nguyên|VNPT|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|148.170.122.49|8080|United States|Livingston|Twin Lakes Telephone Cooperative Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|36.91.62.47|52978|Indonesia|Utan|PT Telekomunikasi Indonesia|
+|19|191.243.46.29|43241|Brazil|Nova Crixás|Microturbo Telecomunicacoes Ltda-me|
+|20|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
 
 
 
