@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 |8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 |11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|115.190.24.138|8080|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
-|17|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|18|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
-|19|222.124.153.43|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|14|185.82.99.106|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
+|15|180.94.80.18|8080|Afghanistan|Jalalabad|Government Communications Network|
+|16|202.40.177.46|8080|Bangladesh|Kāfrul|Ranks ITT|
+|17|36.147.78.166|443|China|Guangzhou|China Mobile|
+|18|176.88.168.109|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|19|36.147.78.166|443|China|Guangzhou|China Mobile|
+|20|183.88.220.245|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
 
 
 
