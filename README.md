@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|13|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|14|222.124.153.43|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|200.106.63.218|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|2|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|5|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
+|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|16|85.117.62.78|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|160.20.165.12|8090|Ecuador|Daule|Ufinet Panama S.A.|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
