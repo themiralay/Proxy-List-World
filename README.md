@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|101.255.211.42|1111|Indonesia|Jakarta|PT Remala Abadi|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
+|15|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
+|18|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
 
 
 
