@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|4|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|7|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 |8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 |9|72.10.164.178|12123|Canada|Montreal|GloboTech Communications|
-|10|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|10|72.10.160.94|16689|Canada|Montreal|GloboTech Communications|
 |11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|12|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|13|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|14|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|103.169.254.45|6080|Indonesia|Bondowoso|PT Master Star Network|
-|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|67.43.236.18|11841|Canada|Montreal|GloboTech Communications|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|14|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
+|15|209.62.196.68|8080|United States|Cut Off|EATEL|
+|16|78.100.167.36|8080|Qatar|Doha|Ooredoo-MBB|
+|17|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|193.43.140.82|8080|Syria|Ḩarastā|Syrian Telecom|
+|19|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
