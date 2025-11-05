@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|67.43.236.18|23559|Canada|Montreal|GloboTech Communications|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|181.13.20.102|999|Argentina|Eldorado|Telecom Argentina S.A.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|133.32.22.100|8080|Japan|Ōta|ARTERIA Networks Corporation|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
+|18|67.43.236.18|23559|Canada|Montreal|GloboTech Communications|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
