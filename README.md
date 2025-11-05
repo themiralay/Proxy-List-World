@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|2|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|84.22.48.150|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
-|13|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|2|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|8|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|9|165.16.59.65|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
+|16|103.46.11.156|7500|Indonesia|Bakalan|Lintas Data Prima, PT|
+|17|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|20|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
 
 
 
