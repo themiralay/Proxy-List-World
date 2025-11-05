@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|157.20.219.189|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|18|38.172.131.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|19|84.38.185.139|3128|Russia|St Petersburg|JSC Selectel|
-|20|145.241.213.46|8080|United Kingdom|London|Oracle Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|103.152.238.29|1080|Indonesia|Cikarang|APRIN|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.180.123.227|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|17|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|190.97.237.196|999|Venezuela|Caracas|Viginet C.A|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
