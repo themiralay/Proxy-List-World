@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|6|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|102.219.209.86|3346|Kenya|Nairobi|Vijiji Connect LTD|
-|10|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|11|176.88.175.247|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|15|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
-|16|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|45.136.24.131|8085|United States|Washington|PureVoltage Hosting Inc.|
+|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|10|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|102.219.209.86|3346|Kenya|Nairobi|Vijiji Connect LTD|
+|16|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
 |17|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|18|94.154.152.13|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|43.224.116.188|25251|Bangladesh|Dhaka|Next Online Limited|
 
 
 
