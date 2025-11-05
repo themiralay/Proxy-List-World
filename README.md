@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|133.32.22.100|8080|Japan|Ōta|ARTERIA Networks Corporation|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|10|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
