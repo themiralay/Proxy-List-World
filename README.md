@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
-|3|103.93.93.95|8181|Indonesia|Sempu|MYRISE|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|175.215.184.48|3052|South Korea|Changwon|Korea Telecom|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|8|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|160.25.8.2|8787|Bangladesh|Dhaka|Circle Network|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|135.148.122.209|8080|United States|Reston|OVH SAS|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|157.66.55.245|8080|Indonesia|Bogor|CV Andhika Pratama Sanggoro|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|103.71.163.48|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
+|11|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|12|113.166.8.111|3128|Vietnam|Mộ Đức|VietNam Post and Telecom Corporation|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|142.44.210.31|3128|Canada|Montreal|OVH SAS|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
+|20|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
 
 
 
