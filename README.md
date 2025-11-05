@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|2|178.32.123.218|1080|France|Strasbourg|OVH SAS|
 |3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|5|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|115.127.44.14|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
