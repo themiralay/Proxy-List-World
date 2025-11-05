@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|9|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|10|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|10|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|13|195.87.182.10|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetleri A.S.|
+|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
 |15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|18|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|19|195.87.182.10|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetleri A.S.|
-|20|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
