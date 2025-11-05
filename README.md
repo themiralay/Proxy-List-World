@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|209.222.250.183|3128|United States|Yantis|Fork Networking, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|2|104.251.236.203|1234|Hong Kong|Hong Kong|Prime Security Corp|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
+|17|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
