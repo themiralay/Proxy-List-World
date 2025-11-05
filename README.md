@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|11|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|17|145.241.213.46|8080|United Kingdom|London|Oracle Corporation|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|10|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 
 
 
