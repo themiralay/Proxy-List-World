@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|2|37.187.92.9|1024|France|Roubaix|OVH SAS|
-|3|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|14|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|15|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C.|
-|16|206.62.64.34|8080|Brazil|Sarandi|AGIS|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|103.193.144.13|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|38.224.97.12|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
 
 
 
