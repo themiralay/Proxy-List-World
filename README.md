@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|2|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|3|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|176.88.175.247|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|13|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|15|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
-|16|38.194.246.34|999|Mexico|León|Cogent Communications|
-|17|202.62.75.38|84|India|Vissannapeta|CityOnline Services|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|9|51.91.96.190|8080|France|Roubaix|OVH SAS|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|12|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|13|156.200.123.170|8080|Egypt|Tanta|TE Data|
+|14|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
+|15|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
+|16|181.119.84.124|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|17|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |19|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|20|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|94.155.175.135|8080|Bulgaria|Kazanlak|Bulgarian Telecommunication Group EOOD|
 
 
 
