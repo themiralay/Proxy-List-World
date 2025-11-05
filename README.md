@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|6|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|112.203.34.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
-|12|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
-|13|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|14|103.167.170.244|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|11|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
+|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|19|103.156.14.15|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|20|38.159.229.118|999|Ecuador|Vinces|Turbonet S.A.|
 
 
 
