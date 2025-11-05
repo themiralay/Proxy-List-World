@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80191** proxies at the latest update. Usable proxies are below.
+> Scraper found **80234** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38177|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38220|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40707|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|3|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|4|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
-|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|9|51.91.96.190|8080|France|Roubaix|OVH SAS|
-|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|12|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
-|13|156.200.123.170|8080|Egypt|Tanta|TE Data|
-|14|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
-|15|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
-|16|181.119.84.124|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|17|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|20|94.155.175.135|8080|Bulgaria|Kazanlak|Bulgarian Telecommunication Group EOOD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|6|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|112.203.34.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
+|12|103.224.55.154|8080|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|13|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|14|103.167.170.244|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
