@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|9|103.80.88.75|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|15|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|41.128.72.131|1976|Egypt|Cairo|LINKdotNET AS number|
-|20|170.0.228.250|999|Mexico|Toluca|EJA TELECOMM S DE RL|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|11|103.48.68.138|84|India|Hyderabad|Country Online Services PVT LTD|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|185.218.202.182|8080|Ukraine|Irpin|"DOMINET" LLC|
+|16|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|17|103.156.141.218|9090|Indonesia|Jember|PT Tekling Media Telematika|
+|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|19|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
+|20|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
