@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
 |10|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|150.107.29.28|3128|Thailand|On Nut|POPIDC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|142.44.210.31|3128|Canada|Montreal|OVH SAS|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|142.44.210.31|3128|Canada|Montreal|OVH SAS|
+|13|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|124.122.234.61|8080|Thailand|Phra Nakhon Si Ayutthaya|True Internet Co., Ltd.|
+|18|46.165.244.246|8080|Germany|Frankfurt am Main|LeaseWeb DE|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
 
 
 
