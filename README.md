@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|178.128.26.91|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|104.251.236.203|1234|Hong Kong|Hong Kong|Prime Security Corp|
+|7|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|209.222.250.188|3128|United States|Yantis|Fork Networking, LLC|
-|14|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|38.190.100.170|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|12|45.171.64.21|999|Guatemala|Guatemala City|Cablecolor S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|14.189.225.247|8080|Vietnam|Thái Nguyên|VNPT|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|104.251.236.203|1234|Hong Kong|Hong Kong|Prime Security Corp|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
