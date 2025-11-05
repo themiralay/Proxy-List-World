@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|13|187.21.165.127|8080|Brazil|Santos|Claro NXT Telecomunicacoes Ltda|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|187.63.156.237|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
