@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80325** proxies at the latest update. Usable proxies are below.
+> Scraper found **80386** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38220|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38281|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40794|✅|
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|11|119.148.50.106|16342|Bangladesh|Dhaka|Agni Systems Limited|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|17|37.111.52.46|8081|Myanmar|Sagaing|Telenor Myanmar|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|119.148.50.106|16342|Bangladesh|Dhaka|Agni Systems Limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|14|119.148.8.173|16341|Bangladesh|Dhaka|Agni Systems Limited|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
