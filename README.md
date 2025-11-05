@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|11|72.10.160.91|9453|Canada|Montreal|GloboTech Communications|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|15|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|72.10.164.178|32885|Canada|Montreal|GloboTech Communications|
-|17|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
-|18|45.115.113.133|6565|Bangladesh|Farīdpur|Drik ICT Ltd|
-|19|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|20|67.43.228.254|21047|Canada|Montreal|GloboTech Communications|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|161.82.141.218|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|4|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|6|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|170.239.43.53|4604|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|177.125.208.126|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|15|72.10.160.91|9453|Canada|Montreal|GloboTech Communications|
+|16|125.25.33.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|18|154.27.196.154|999|Mexico|Colima|Cogent Communications|
+|19|72.10.164.178|10003|Canada|Montreal|GloboTech Communications|
+|20|103.158.11.9|32650|Bangladesh|Shariatpur|Ka Kha Computer|
 
 
 
