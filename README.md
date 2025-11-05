@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|8|185.125.201.171|8080|The Netherlands|Amsterdam|Mamaev|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|103.93.93.66|8080|Indonesia|Madiun|MYRISE|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|5|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
+|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|1.2.211.100|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|103.105.57.98|7070|Indonesia|Sragen|PT Lambda Sinergi Telekomunikasi|
+|17|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
+|18|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|19|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
