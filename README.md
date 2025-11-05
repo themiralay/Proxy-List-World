@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
 |12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|154.38.180.176|8080|United States|Orangeburg|Contabo Inc.|
-|14|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
