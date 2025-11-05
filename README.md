@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
-|11|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|16|142.44.210.31|3128|Canada|Montreal|OVH SAS|
-|17|49.229.100.42|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|18|103.71.163.48|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|19|124.122.38.115|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|20|150.107.29.28|3128|Thailand|On Nut|POPIDC|
+|6|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
+|10|124.122.254.203|8080|Thailand|Phra Nakhon Si Ayutthaya|True Internet Co., Ltd.|
+|11|124.120.45.34|8080|Thailand|Surat Thani|TRUEBB|
+|12|103.156.15.122|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|13|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|150.107.29.28|3128|Thailand|On Nut|POPIDC|
+|16|49.229.100.42|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|20|154.205.155.132|3128|United States|New York|Kaopu Cloud HK Limited|
 
 
 
