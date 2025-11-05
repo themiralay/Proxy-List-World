@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.165.231.43|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
-|5|103.172.121.54|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|6|146.190.80.200|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|103.148.131.87|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|15|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|103.133.26.119|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|20|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.132.54.150|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 
 
 
