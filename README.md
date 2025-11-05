@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|11|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|19|84.38.185.139|3128|Russia|St Petersburg|JSC Selectel|
-|20|109.127.82.18|8080|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|11|103.142.14.88|8081|Indonesia|Jombang|Pemerintah Kabupaten Jombang|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
 
 
 
