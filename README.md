@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|81.90.149.188|3128|Iran|Tehran|Afranet|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|4|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
