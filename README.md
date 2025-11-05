@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|6|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|7|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|103.112.131.14|8080|Bangladesh|Dukuria|Sayem Online Communication|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|72.10.160.171|12333|Canada|Montreal|GloboTech Communications|
 
 
 
