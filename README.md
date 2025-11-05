@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
 |3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|5|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|11|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|181.78.73.53|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
 
 
 
