@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80358** proxies at the latest update. Usable proxies are below.
+> Scraper found **80338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38233|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40794|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|119.148.50.106|16342|Bangladesh|Dhaka|Agni Systems Limited|
-|9|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|119.18.149.75|5720|Bangladesh|Chittagong|BBTS Network|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|18.223.185.248|8080|United States|Dublin|Amazon.com, Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|177.53.215.119|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|19|38.194.231.66|999|Mexico|Pañhé|Cogent Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
