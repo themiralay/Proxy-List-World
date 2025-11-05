@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|6|103.155.167.25|1111|Indonesia|Citeureup|PT Network Lintas Fiberindo|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
-|15|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|13|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|212.96.201.54|1080|Russia|Khanty-Mansiysk|Joint Stock Company West Siberian Network|
+|16|36.147.78.166|443|China|Guangzhou|China Mobile|
+|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|18|103.189.96.180|8080|Indonesia|Kutoarjo|Lintas Data Prima, PT|
+|19|113.11.124.1|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|20|98.147.60.146|48678|United States|Honolulu|Spectrum|
 
 
 
