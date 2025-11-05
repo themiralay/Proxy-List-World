@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80138** proxies at the latest update. Usable proxies are below.
+> Scraper found **80109** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38237|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38208|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40581|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|6|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |9|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|13|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|10|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|161.248.190.83|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
-|16|103.90.225.161|3128|Vietnam|Quận Phú Nhuận|VNXCLOUD|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|20|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 
 
 
