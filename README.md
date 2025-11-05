@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|103.152.238.53|1080|Indonesia|Cisasak|APRIN|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|17|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|17|103.152.238.53|1080|Indonesia|Cisasak|APRIN|
+|18|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
