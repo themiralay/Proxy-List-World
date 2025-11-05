@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|150.107.29.28|3128|Thailand|On Nut|POPIDC|
-|13|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|14|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
-|15|142.44.210.31|3128|Canada|Montreal|OVH SAS|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|113.166.8.111|3128|Vietnam|Mộ Đức|VietNam Post and Telecom Corporation|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|206.189.37.155|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|180.180.175.11|8080|Thailand|Suphan Buri|TOT Public Company Limited|
+|12|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|204.141.218.217|3128|Hong Kong|Hong Kong|QINIU (CHINA) limited|
+|15|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
+|16|142.44.210.31|3128|Canada|Montreal|OVH SAS|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|113.166.8.111|3128|Vietnam|Mộ Đức|VietNam Post and Telecom Corporation|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
