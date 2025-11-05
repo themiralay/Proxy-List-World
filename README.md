@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|103.147.246.184|3127|Indonesia|Sekarjalak|PLBNET|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|38.194.246.34|999|Mexico|León|Cogent Communications|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|47.179.58.156|8080|United States|La Puente|Frontier Communications of America, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|77.225.198.220|9812|Spain|Torremolinos|Comunitel Global|
 |13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|15|103.109.212.75|2215|Bangladesh|Farīdpur|Bismillah Telecom Service|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.247.240.12|7777|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|20|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
