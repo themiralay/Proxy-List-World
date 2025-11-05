@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|13|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
-|14|157.100.60.66|999|Ecuador|Guayaquil|Telconet S.A|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
+|9|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|14|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
 
 
 
