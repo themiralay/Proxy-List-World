@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|146.190.111.15|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|20|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|109.95.60.241|8080|Iran|Isfahan|Imen Sanat Novin Alighapoo Private Joint Stock Company|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|12|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|13|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|161.248.190.83|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
+|16|103.90.225.161|3128|Vietnam|Quận Phú Nhuận|VNXCLOUD|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|20|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
