@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|7|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
-|8|103.112.162.163|7777|Indonesia|Jakarta|24AS|
-|9|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|10|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
-|11|198.145.118.100|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|13|80.75.7.58|8080|Iran|Tehran|AFRANET Co|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|102.135.195.90|8082|Nigeria|Lagos|VDT COMMUNICATIONS LIMITED|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|65.49.211.130|3128|United States|Los Angeles|IT7 Networks Inc|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|135.148.122.209|8080|United States|Reston|OVH SAS|
+|7|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|8|148.170.122.49|8080|United States|Livingston|Twin Lakes Telephone Cooperative Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.62.127.243|3129|United States|Los Angeles|IT7 Networks Inc|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|14.189.225.247|8080|Vietnam|Thái Nguyên|VNPT|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|19|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
