@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|20|36.50.11.196|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
+|3|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|15|185.41.152.110|3128|France|Valenciennes|global|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
 
 
 
