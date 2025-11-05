@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|7|119.148.50.106|16342|Bangladesh|Dhaka|Agni Systems Limited|
-|8|190.97.238.54|999|Venezuela|Caracas||
-|9|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|37.187.92.9|1024|France|Roubaix|OVH SAS|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|5|119.148.50.106|16342|Bangladesh|Dhaka|Agni Systems Limited|
+|6|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
+|11|103.156.141.218|9090|Indonesia|Jember|PT Tekling Media Telematika|
+|12|61.91.202.211|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |18|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|19|212.182.119.149|8080|Poland|Lublin|non-academic part of Lublin MAN|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
