@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|1|61.198.78.57|8080|Japan|Hakusan Shi|NSK Co., Ltd.|
+|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|222.124.153.43|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|12|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|103.155.167.25|1111|Indonesia|Citeureup|PT Network Lintas Fiberindo|
+|9|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|195.87.182.10|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetleri A.S.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|17|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
