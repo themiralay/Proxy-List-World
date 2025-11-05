@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|13|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
-|17|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|19|177.234.217.44|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.247.240.12|7777|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|38.194.246.34|999|Mexico|León|Cogent Communications|
+|17|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|19|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
