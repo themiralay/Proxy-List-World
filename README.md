@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|135.148.122.209|8080|United States|Reston|OVH SAS|
+|7|38.95.89.204|999|Dominican Republic|San José de Ocoa|TELECABLE DOMINICANO, S.A.|
 |8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|11|103.59.44.171|8095|Indonesia|Kalirejo|PT INDONESIA TRANS NETWORK|
-|12|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|13|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|35.183.64.191|30309|Canada|Toronto|Amazon Technologies Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
 
 
 
