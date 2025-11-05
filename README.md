@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|9|182.253.35.27|8080|Indonesia|Jakarta|BIZNET|
-|10|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|12|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|17|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|18|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|13|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|14|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|15|190.97.237.196|999|Venezuela|Caracas|Viginet C.A|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|19|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
