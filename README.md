@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|10|103.172.71.141|3127|Indonesia|Cikampek|AZNET|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|13|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|16|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
-|18|67.43.228.251|19911|Canada|Montreal|GloboTech Communications|
-|19|190.97.237.195|999|Venezuela|Caracas|Viginet C.A|
-|20|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|177.125.208.126|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|16|102.214.104.56|8080|Libya|Qaşr Khiyār|LTT Autonomous System, Tripoli Libya|
+|17|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|18|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|19|202.5.40.57|63636|Bangladesh|Chittagong|BBTS-NEW|
+|20|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
 
 
 
