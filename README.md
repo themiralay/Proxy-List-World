@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80439** proxies at the latest update. Usable proxies are below.
+> Scraper found **80351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38247|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38159|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40879|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
-|2|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|12|209.222.250.183|3128|United States|Yantis|Fork Networking, LLC|
-|13|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|16|161.132.162.52|3128|Peru|Lima|Fibertel Peru S.A.|
-|17|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|20|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|9|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|170.239.205.185|999|Colombia|Bogotá|FIBERNET|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|157.66.192.91|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
