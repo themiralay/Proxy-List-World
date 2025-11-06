@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|104.251.236.203|1234|Hong Kong|Hong Kong|Prime Security Corp|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|202.148.55.213|8080|The Netherlands|Amsterdam|Mify Solutions Pvt. Ltd|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|209.222.250.188|3128|United States|Yantis|Fork Networking, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
