@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|11|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|103.171.255.60|8080|Indonesia|Sleman|ZKI|
-|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|161.132.162.52|3128|Peru|Lima|Fibertel Peru S.A.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|185.203.238.120|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |17|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|18|89.207.250.237|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
