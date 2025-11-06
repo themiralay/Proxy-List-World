@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|15|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|110.77.241.12|8080|Thailand|Pak Thong Chai|CAT Telecom Public Company Limited|
+|8|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|58.186.168.234|2050|Vietnam|Hanoi|FPT Telecom Company|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
