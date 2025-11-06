@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|16|103.157.79.150|8080|Indonesia|Jakarta|EASTMEDIA|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|170.231.149.115|8080|Brazil|Ibiporã|Zaapnet Telecomunicacoes Ltda|
-|19|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|20|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|209.222.250.178|3128|United States|Yantis|Fork Networking, LLC|
+|20|23.111.24.204|3128|The Netherlands|Amsterdam|Servers.com B.V|
 
 
 
