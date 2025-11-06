@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|209.222.250.165|3128|United States|Yantis|Fork Networking, LLC|
-|13|103.184.67.117|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
-|14|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|15|209.222.250.177|3128|United States|Yantis|Fork Networking, LLC|
-|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|19|14.234.140.187|20399|Vietnam|Ho Chi Minh City|VNPT|
-|20|116.80.63.201|3172|Japan|Yokohama|InfoSphere|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|116.80.63.201|3172|Japan|Yokohama|InfoSphere|
+|13|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|14|23.111.24.218|3128|The Netherlands|Amsterdam|Servers.com B.V|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
