@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|101.108.123.72|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|118.193.44.243|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|49.49.138.212|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|101.108.123.72|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|118.193.44.243|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|49.49.138.212|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
-|14|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|122.116.180.77|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
