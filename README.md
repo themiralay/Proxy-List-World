@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|10|103.132.52.42|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|16|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|46.100.90.246|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|11|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|74.48.187.172|3128|United States|Los Angeles|Multacom Corporation|
+|14|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|110.77.241.12|8080|Thailand|Pak Thong Chai|CAT Telecom Public Company Limited|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
 
 
 
