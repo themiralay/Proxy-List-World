@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|15|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|23.111.24.204|3128|The Netherlands|Amsterdam|Servers.com B.V|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
+|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|8|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|14|103.124.139.137|8080|Indonesia|Mranggen|Global Media Data Prima|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|143.255.87.27|999|Venezuela|Mérida|Viginet C.A|
+|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
