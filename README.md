@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|58.186.168.234|2065|Vietnam|Hanoi|FPT Telecom Company|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|11|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|58.186.168.234|2065|Vietnam|Hanoi|FPT Telecom Company|
+|13|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|14|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|19|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
