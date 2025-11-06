@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|1|14.58.92.228|3128|South Korea|Namyangju|Korea Telecom|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|118.188.144.1|3128|United States|Ashburn|Windstream Communications LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|9|118.188.144.1|3128|United States|Ashburn|Windstream Communications LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|94.138.223.156|3128|Turkey|Kadıköy|IHS-VPS|
-|17|209.222.250.168|3128|United States|Yantis|Fork Networking, LLC|
-|18|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|220.118.198.192|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|220.118.198.192|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|20|209.145.54.125|8118|United States|St Louis|Contabo Inc.|
 
 
 
