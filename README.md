@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|118.188.144.1|3128|United States|Ashburn|Windstream Communications LLC|
-|16|220.118.198.192|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|69.164.194.19|3128|United States|Richardson|Akamai Technologies, Inc.|
+|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
