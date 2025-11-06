@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|220.118.198.192|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|3|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
 |4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|46.165.244.246|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|10|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|36.91.220.132|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|46.165.244.246|8080|Germany|Frankfurt am Main|LeaseWeb DE|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
