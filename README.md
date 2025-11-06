@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|202.148.55.213|8080|The Netherlands|Amsterdam|Mify Solutions Pvt. Ltd|
-|15|18.163.49.218|3030|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|116.101.74.126|2058|Vietnam|Nam Định|Viettel Corporation|
-|18|23.111.24.218|3128|The Netherlands|Amsterdam|Servers.com B.V|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|23.111.24.218|3128|The Netherlands|Amsterdam|Servers.com B.V|
+|12|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|13|36.147.78.166|80|China|Guangzhou|China Mobile|
+|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.132.162.52|3128|Peru|Lima|Fibertel Peru S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|209.222.250.184|3128|United States|Yantis|Fork Networking, LLC|
+|18|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|170.239.205.185|999|Colombia|Bogotá|FIBERNET|
 
 
 
