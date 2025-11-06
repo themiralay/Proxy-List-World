@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
 |9|116.80.63.201|3172|Japan|Yokohama|InfoSphere|
-|10|23.111.24.218|3128|The Netherlands|Amsterdam|Servers.com B.V|
-|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|116.80.63.206|3172|Japan|Yokohama|InfoSphere|
-|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|16|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|17|103.156.57.85|1111|Indonesia|Tembilahan|PT Filltech Antar Nusa|
-|18|123.128.12.93|9055|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|121.165.169.133|8054|South Korea|Songpa-gu|Korea Telecom|
+|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|186.180.73.50|9090|Colombia|Cúcuta|Colombia Móvil|
+|17|116.80.63.206|3172|Japan|Yokohama|InfoSphere|
+|18|23.111.24.204|3128|The Netherlands|Amsterdam|Servers.com B.V|
+|19|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
