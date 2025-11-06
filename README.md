@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|9|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|10|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|185.122.164.42|443|United States|New York|Massivegrid LTD|
-|18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|7|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|8|23.224.193.46|3128|United States|Los Angeles|Cnservers LLC|
+|9|147.75.66.234|80|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|15|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
