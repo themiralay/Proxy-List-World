@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|10|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |14|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|15|122.165.97.254|3128|India|Kochi|BHARTI|
-|16|209.14.118.114|999|Colombia|Líbano|AGIS|
-|17|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|113.11.124.1|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|15|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|18|72.10.160.90|33199|Canada|Montreal|GloboTech Communications|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 
 
 
