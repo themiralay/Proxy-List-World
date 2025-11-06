@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.222.250.164|3128|United States|Yantis|Fork Networking, LLC|
+|2|220.118.198.192|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|124.121.2.175|8080|Thailand|Bangkok|TRUEBB|
-|13|163.61.55.129|8081|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|14|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|15|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|16|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
