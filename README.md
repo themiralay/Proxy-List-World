@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|169.155.50.11|443|France|Paris|Fly.io, Inc.|
+|7|158.69.210.237|443|Canada|Montreal|OVH SAS|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|104.167.216.91|443|Canada|Montreal|Hive Data Center Inc.|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|15|152.53.154.156|443|Germany|Nuremberg|netcup GmbH|
-|16|169.155.50.11|443|France|Paris|Fly.io, Inc.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|185.122.164.42|443|United States|New York|Massivegrid LTD|
-|19|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|10|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|152.53.154.156|443|Germany|Nuremberg|netcup GmbH|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|19|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|20|116.101.79.142|2035|Vietnam|Nam Định|Viettel Corporation|
 
 
 
