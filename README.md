@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|9|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|176.88.65.189|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
 |15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|89.207.250.244|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|58.186.168.234|2050|Vietnam|Hanoi|FPT Telecom Company|
-|20|103.157.79.150|8080|Indonesia|Jakarta|EASTMEDIA|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|157.15.36.1|8082|Bangladesh|Mymensingh|Flynet Networking System|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|23.111.24.204|3128|The Netherlands|Amsterdam|Servers.com B.V|
+|20|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
