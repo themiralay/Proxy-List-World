@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
-|15|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|10|74.121.149.5|3128|United States|Edison|IT7 Networks Inc|
+|11|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|194.58.34.63|3128|Latvia|Riga|Baxet Group Inc.|
+|15|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 |16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.106.77.46|3333|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|89.207.250.243|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 
 
 
