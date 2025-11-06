@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|58.186.169.150|2064|Vietnam|Hanoi|FPT Telecom Company|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|58.186.168.234|2065|Vietnam|Hanoi|FPT Telecom Company|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|113.22.253.205|17153|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|14|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|18|113.22.253.205|17153|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
