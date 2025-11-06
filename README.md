@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|6|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|11|144.24.66.26|8081|South Korea|Chuncheon|Oracle Corporation|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|14|152.53.154.156|443|Germany|Nuremberg|netcup GmbH|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|41.216.186.103|8080|Indonesia|Jakarta|FASTHOSTING|
+|7|158.69.210.237|443|Canada|Montreal|OVH SAS|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|222.252.144.246|8080|Vietnam|Làng Hà|VietNam Post and Telecom Corporation|
+|10|152.53.154.156|443|Germany|Nuremberg|netcup GmbH|
+|11|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|17|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|116.101.79.142|2035|Vietnam|Nam Định|Viettel Corporation|
 
 
 
