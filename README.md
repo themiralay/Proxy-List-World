@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|2|116.80.63.207|3172|Japan|Yokohama|InfoSphere|
-|3|222.114.204.65|3128|South Korea|Tangjin|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|116.80.63.207|3172|Japan|Yokohama|InfoSphere|
+|2|222.114.204.65|3128|South Korea|Tangjin|Korea Telecom|
+|3|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|113.22.253.205|17153|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
