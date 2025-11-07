@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|14|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|19|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
