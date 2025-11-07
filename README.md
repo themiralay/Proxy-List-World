@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|14|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|15|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
