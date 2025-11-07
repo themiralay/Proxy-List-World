@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80198** proxies at the latest update. Usable proxies are below.
+> Scraper found **80188** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38216|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38206|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40685|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|49.0.27.167|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
