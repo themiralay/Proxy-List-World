@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|7|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|146.196.40.165|8080|Indonesia|Cikarang|UNINA|
+|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 |8|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|74.48.187.168|3128|United States|Los Angeles|Multacom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
+|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|103.134.220.145|8080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|16|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|14.170.154.193|19132|Vietnam|Thái Nguyên|VNPT-VNNIC|
-|18|45.189.252.93|999|Mexico|Alvarado|Tracered SA De CV|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|15|103.153.96.154|8181|Indonesia|Serang|NITNET|
+|16|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|17|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|202.69.38.82|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|19|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|20|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
 
 
 
