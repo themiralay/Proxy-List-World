@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80536** proxies at the latest update. Usable proxies are below.
+> Scraper found **42128** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38408|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|146|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40756|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
 |2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|8.217.234.200|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|9|122.3.207.67|8089|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|13|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|222.114.204.65|3128|South Korea|Tangjin|Korea Telecom|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|36.50.135.41|443|Vietnam|Ho Chi Minh City|Vpsttt Computer Company Limited|
-|19|45.190.76.58|999|Mexico|Zapopan|Meta Networks SA De CV|
-|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|36.50.135.41|443|Vietnam|Ho Chi Minh City|Vpsttt Computer Company Limited|
+|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|15|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|16|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|8.217.234.200|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|20|46.243.6.197|443|Finland|Helsinki|I-servers LTD|
 
 
 
