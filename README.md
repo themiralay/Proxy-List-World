@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|5|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |6|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|10|14.230.226.139|20500|Vietnam|Ho Chi Minh City|VNPT|
-|11|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|14.230.226.139|20500|Vietnam|Ho Chi Minh City|VNPT|
+|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
 |13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|41.216.186.103|8080|Indonesia|Jakarta|FASTHOSTING|
 |16|116.80.63.203|3172|Japan|Yokohama|InfoSphere|
-|17|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|20|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|20|47.179.58.156|8080|United States|La Puente|Frontier Communications of America, Inc.|
 
 
 
