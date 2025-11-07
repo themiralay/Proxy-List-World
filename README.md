@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.90.225.161|3128|Vietnam|Quận Phú Nhuận|VNXCLOUD|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|122.3.207.67|8089|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|8.217.234.200|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|36.50.135.41|443|Vietnam|Ho Chi Minh City|Vpsttt Computer Company Limited|
-|17|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|18|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|19|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|20|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|2|203.177.220.122|8080|Philippines|Taguig|Globe Telecom|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|36.50.135.41|443|Vietnam|Ho Chi Minh City|Vpsttt Computer Company Limited|
+|8|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|157.66.251.227|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
