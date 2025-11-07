@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.63.204|3172|Japan|Yokohama|InfoSphere|
 |3|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|18|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|19|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|11|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|12|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|18|49.0.27.167|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
+|19|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|20|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
 
 
 
