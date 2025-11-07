@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|9|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|15|194.58.34.63|3128|Latvia|Riga|Baxet Group Inc.|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|18|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|7|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|13|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|19|194.58.34.63|3128|Latvia|Riga|Baxet Group Inc.|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
