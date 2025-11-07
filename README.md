@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|5|124.121.187.46|8080|Thailand|Bangkok|TRUE|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|15|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|107.189.21.79|8118|The Netherlands|Zaandam|RouterHosting LLC|
+|8|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|19|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|20|178.32.123.218|1080|France|Strasbourg|OVH SAS|
 
 
 
