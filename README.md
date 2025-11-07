@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |6|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
 |9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|72.10.160.91|14643|Canada|Montreal|GloboTech Communications|
+|15|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|17|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|194.58.34.63|3128|Latvia|Riga|Baxet Group Inc.|
+|19|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|139.59.226.171|8080|Singapore|Singapore|DIGITALOCEAN|
 
 
 
