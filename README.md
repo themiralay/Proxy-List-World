@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|13|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.148.62.1|8080|India|Thāne|Rae Internet Service Provider Private Limited|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
