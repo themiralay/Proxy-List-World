@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
+|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|182.253.109.18|8080|Indonesia|Semarang|Biznet Metronet|
-|8|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|15|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|16|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|16|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|17|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
