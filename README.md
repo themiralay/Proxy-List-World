@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.253.109.18|8080|Indonesia|Semarang|Biznet Metronet|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|182.253.109.18|8080|Indonesia|Semarang|Biznet Metronet|
+|11|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
