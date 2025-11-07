@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|14.170.154.193|19132|Vietnam|Thái Nguyên|VNPT-VNNIC|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|147.75.83.114|443|The Netherlands|Amsterdam||
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|11|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|12|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|18|38.51.207.91|999|Venezuela|Maracaibo|Tecnoven Services C.A|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
