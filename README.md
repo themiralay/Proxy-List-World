@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|14|103.151.22.26|8082|Indonesia|Jakarta|TERABYTE|
-|15|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|157.66.251.227|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|195.211.71.185|443|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
