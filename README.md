@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|2|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|202.73.27.118|8081|Indonesia|Jakarta|PT. Usaha Adisanggoro|
-|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|88.216.98.209|53983|United States|Chicago|AT&T Enterprises, LLC|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|18|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
+|19|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
