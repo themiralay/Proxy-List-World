@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80132** proxies at the latest update. Usable proxies are below.
+> Scraper found **80148** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38118|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38134|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40713|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|10|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|14|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|5|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|10|194.58.34.63|3128|Latvia|Riga|Baxet Group Inc.|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
