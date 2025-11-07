@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80185** proxies at the latest update. Usable proxies are below.
+> Scraper found **80163** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38185|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38163|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40713|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|72.10.160.91|14643|Canada|Montreal|GloboTech Communications|
 
 
 
