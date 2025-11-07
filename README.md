@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|20|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|10|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
+|17|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|18|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|19|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|202.181.16.173|3325|Bangladesh|Habiganj|Level3 Carrier Limited|
 
 
 
