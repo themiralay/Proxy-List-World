@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|2|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|8|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|64.227.188.82|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|14|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|185.241.43.247|30000|Hong Kong|Hong Kong|Bage Cloud LLC|
+|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|10|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
 |15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
