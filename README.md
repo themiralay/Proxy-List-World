@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
 |7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|13|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|190.90.100.195|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|17|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|103.155.168.172|1111|Indonesia|Cikampek|PT Arozak Bima Yudho Sangkara|
+|16|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|17|152.32.67.243|10101|Philippines|Makati City|Converge ICT Solution Inc|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
