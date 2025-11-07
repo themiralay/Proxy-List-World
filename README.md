@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
 |8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
