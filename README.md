@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.46.11.92|8080|Indonesia|Bakalan|Lintas Data Prima, PT|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|185.82.99.219|50010|Lebanon|Baalbek|NET 360 S.A.R.L|
-|11|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|12|147.75.83.114|443|The Netherlands|Amsterdam||
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|12|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|13|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|14|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |18|44.251.173.250|368|United States|Portland|Amazon.com, Inc.|
-|19|202.148.55.213|8080|The Netherlands|Amsterdam|Mify Solutions Pvt. Ltd|
-|20|124.121.187.46|8080|Thailand|Bangkok|TRUE|
+|19|74.48.187.168|3128|United States|Los Angeles|Multacom Corporation|
+|20|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
 
 
 
