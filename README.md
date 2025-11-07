@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|107.175.71.30|3128|United States|Buffalo|HostPapa|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|113.22.253.205|17153|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|15|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|1|116.80.63.207|3172|Japan|Yokohama|InfoSphere|
+|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|46.243.6.197|443|Finland|Helsinki|I-servers LTD|
+|19|125.249.191.210|3128|South Korea|Suwon|LG POWERCOMM|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
