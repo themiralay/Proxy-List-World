@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |3|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|14.230.226.139|20500|Vietnam|Ho Chi Minh City|VNPT|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|182.253.33.42|8080|Indonesia|Bekasi|BIZNET|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
