@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|200.92.201.126|999|Mexico|San José Iturbide|Mega Cable, S.A. de C.V.|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|16|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|17|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|189.197.187.238|999|Mexico|Ciudad Guadalupe Victoria|Mega Cable, S.A. de C.V.|
 
 
 
