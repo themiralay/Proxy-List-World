@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
-|14|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|107.175.71.30|3128|United States|Buffalo|HostPapa|
+|17|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
 
 
 
