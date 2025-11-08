@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |12|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
