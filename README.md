@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79997** proxies at the latest update. Usable proxies are below.
+> Scraper found **80253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38265|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40438|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40694|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|8|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|27.116.41.156|8470|India|Bhubaneswar|RailTel Corporation|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|18|148.135.97.6|3128|United States|Los Angeles|Multacom Corporation|
+|19|147.75.68.200|80|United States|San Jose|Packet Host, Inc.|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
