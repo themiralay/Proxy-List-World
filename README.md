@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|8|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|103.154.120.147|8080|Indonesia|Curug|MORATELINDONAP|
-|11|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|12|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|13|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|14|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|15|181.119.84.136|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|16|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|188.213.196.91|443|Iran|Tehran|MCI|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|157.15.66.105|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|20|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
 
 
 
