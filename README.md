@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|186.180.48.106|999|Colombia|Pereira|Colombia Móvil|
-|13|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|14|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
-|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.54.26.219|3128|India|New Delhi|Precious netcom pvt ltd|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|190.97.237.196|999|Venezuela|Caracas|Viginet C.A|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|188.213.196.91|443|Iran|Tehran|MCI|
+|14|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|15|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|16|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
