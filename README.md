@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|157.66.84.1|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|95.81.122.32|10808|Russia|Moscow|First Server Limited|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|116.80.63.203|3172|Japan|Yokohama|InfoSphere|
+|18|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|19|49.229.100.42|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|124.121.187.46|8080|Thailand|Bangkok|TRUE|
 
 
 
