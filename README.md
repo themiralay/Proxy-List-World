@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80197** proxies at the latest update. Usable proxies are below.
+> Scraper found **80158** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38227|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38188|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40672|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|188.130.234.240|8080|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|9|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|12|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|10|101.255.122.174|3125|Indonesia|Jakarta|PT Remala Abadi|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|188.130.234.240|8080|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|15|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
+|18|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
