@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|14|202.162.213.181|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
-|15|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
-|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|16|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|17|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
