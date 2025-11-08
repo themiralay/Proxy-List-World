@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|10|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|18|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|19|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|4|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|7|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|188.132.222.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|18|176.236.227.109|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 
 
 
