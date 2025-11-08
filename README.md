@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|4|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|15|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|38.156.72.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|102.0.18.120|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.242.105.65|7200|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
+|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
