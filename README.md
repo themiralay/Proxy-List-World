@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|45.144.234.129|52028|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |11|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
-|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|16|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
