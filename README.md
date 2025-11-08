@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|201.20.95.226|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|74.48.187.172|3128|United States|Los Angeles|Multacom Corporation|
-|12|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
-|13|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
-|14|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|20|36.94.27.65|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|17|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|115.127.44.14|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
