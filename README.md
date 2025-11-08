@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|157.10.97.235|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
