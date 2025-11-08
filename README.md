@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|11|181.119.103.113|999|Guatemala|Nuevo Progreso|Ufinet Panama S.A.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|72.60.171.206|3128|United States|Boston|Hostinger US|
-|15|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|148.230.97.226|3128|Indonesia|Jakarta|Hostinger International Limited|
+|8|72.60.171.206|3128|United States|Boston|Hostinger US|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|177.234.211.175|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|19|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
