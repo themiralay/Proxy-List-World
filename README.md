@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|95|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40694|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|27.116.41.156|8470|India|Bhubaneswar|RailTel Corporation|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|118.137.63.17|8080|Indonesia|Bandung|Linknet-Fastnet ASN|
-|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|11|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|12|202.5.40.85|8443|Bangladesh|Chittagong|BBTS-NEW|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|190.61.45.92|8081|Colombia|Ricaurte|Ufinet Panama S.A.|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
