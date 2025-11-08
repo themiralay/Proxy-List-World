@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|9|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|4|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|103.184.21.69|8080|Indonesia|Bondowoso|PT Tekling Media Telematika|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|17|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|18|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
