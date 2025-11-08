@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|3.111.78.34|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
 |19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
