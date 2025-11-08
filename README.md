@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
-|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|34.48.171.130|33080|United States|Washington|Google LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|201.230.121.126|999|Peru|Lima|Telefonica Del Peru|
-|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
+|18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
 
 
 
