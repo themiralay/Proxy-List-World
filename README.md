@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|10|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |12|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|15|157.175.152.104|52873|Bahrain|Manama|Amazon.com, Inc.|
+|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|17|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
