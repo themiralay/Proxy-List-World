@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|10|113.192.1.98|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
+|7|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|15|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|103.243.82.26|100|Bangladesh|Cox's Bazar|Aamra Outsourcing Ltd.|
-|18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|19|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|176.236.227.109|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 
 
 
