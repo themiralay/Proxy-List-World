@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|2|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
-|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|12|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.156.96.88|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
+|16|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |20|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
