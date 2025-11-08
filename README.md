@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|72.60.171.206|3128|United States|Boston|Hostinger US|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
