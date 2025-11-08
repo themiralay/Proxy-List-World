@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|72.60.171.206|3128|United States|Boston|Hostinger US|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|170.239.41.131|4596|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|13|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
