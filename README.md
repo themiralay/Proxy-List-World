@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|188.130.234.240|8080|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|90.174.128.42|3128|Spain|Madrid|Uni2|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|8|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|9|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|10|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|37.152.191.172|443|Iran|Tehran|AbrArvan|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
