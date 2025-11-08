@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|72.60.171.206|3128|United States|Boston|Hostinger US|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|72.60.171.206|3128|United States|Boston|Hostinger US|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|18|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|15|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
 
 
 
