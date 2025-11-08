@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80148** proxies at the latest update. Usable proxies are below.
+> Scraper found **80171** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38196|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38219|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40672|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|201.20.95.226|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|8|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
 |16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|115.127.44.14|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|18|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|19|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
