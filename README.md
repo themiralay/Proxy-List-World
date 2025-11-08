@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|2|112.78.155.181|3128|Indonesia|Jakarta|BIZNET|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|103.169.254.45|6080|Indonesia|Bondowoso|PT Master Star Network|
 |13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|18|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
