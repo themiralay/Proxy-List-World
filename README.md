@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
+|4|103.156.96.88|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|103.156.14.15|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.30.29.41|25252|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|11|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
+|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|14|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 |19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|20|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
 
 
 
