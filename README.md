@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|72.60.171.206|3128|United States|Boston|Hostinger US|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|16|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|17|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|72.60.171.206|3128|United States|Boston|Hostinger US|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|13|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|43.252.11.122|8080|Indonesia|Jakarta|QUANTUMNET|
+|15|222.252.144.246|8080|Vietnam|Làng Hà|VietNam Post and Telecom Corporation|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|18|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
