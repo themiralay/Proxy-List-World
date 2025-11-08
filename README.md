@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|139.59.226.168|3128|Singapore|Singapore|DIGITALOCEAN|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|188.130.234.240|8080|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|72.10.160.91|27359|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|116.80.63.203|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|188.130.234.240|8080|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|12|91.219.101.244|3128|Russia|Tambov|Sistemy Svyazi Llc|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
