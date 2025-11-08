@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|4|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|103.193.144.81|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|20|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|20|210.87.74.65|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
 
 
 
