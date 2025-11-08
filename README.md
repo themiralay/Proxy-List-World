@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|10|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|181.79.81.104|8080|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|57.129.29.184|1080|Germany|Frankfurt am Main|OVH SAS|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|38.194.246.34|999|Mexico|León|Cogent Communications|
+|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|11|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|14|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|17|116.99.70.94|8000|Vietnam|Hanoi|Viettel Corporation|
+|18|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|67.43.228.253|14621|Canada|Montreal|GloboTech Communications|
 
 
 
