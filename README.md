@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42312** proxies at the latest update. Usable proxies are below.
+> Scraper found **42493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38189|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38370|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2823|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.242.105.65|7200|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|9|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |13|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|113.11.126.18|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|176.236.227.106|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
