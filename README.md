@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|148.135.97.23|3128|United States|Los Angeles|Multacom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|14|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|11|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|112.203.41.223|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
 
 
 
