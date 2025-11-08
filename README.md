@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|8|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
-|9|210.79.142.217|9090|Indonesia|Ketanggung|PT Gayatri Lintas Nusantara|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|210.79.142.217|9090|Indonesia|Ketanggung|PT Gayatri Lintas Nusantara|
 |12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|157.10.97.85|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|16|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|157.15.93.82|8080|India|Agra|Onremote Telecom Private Limited|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
+|15|103.217.216.40|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
