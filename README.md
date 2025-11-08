@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40639|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|112.203.41.223|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
-|15|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
+|2|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
+|13|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|14|15.204.151.144|31158|United States|Reston|OVH SAS|
+|15|103.203.234.20|7777|Indonesia|Banyumas|PT Nesta Indo Media|
 |16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |17|189.232.84.209|8080|Mexico|Tula de Allende|UNINET|
-|18|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
