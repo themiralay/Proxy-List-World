@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|18.61.228.246|443|India|Hyderabad|Amazon.com, Inc.|
-|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|17|37.152.191.172|443|Iran|Tehran|AbrArvan|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|222.254.85.83|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|19|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
