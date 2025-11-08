@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|3|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|11|8.217.234.200|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.204.104.28|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|16|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|17|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|200.35.34.130|999|Colombia|Cocorná|UNE EPM TELECOMUNICACIONES S.A|
-|20|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|12|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|186.250.202.104|8080|Brazil|Itajubá|G6 Internet|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|124.106.116.34|1337|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
+|18|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|154.0.153.10|8080|Tanzania|Mwanza|Habari Node Public Limited|
 
 
 
