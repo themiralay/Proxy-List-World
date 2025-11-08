@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|107.152.39.99|8888|United States|Chicago|tzulo, inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
 |6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.155.197.49|8686|Indonesia|Soreang|JEMBATANDATA|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|51.48.124.225|4949|Spain|Zaragoza|Amazon.com, Inc.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
-|18|103.156.96.88|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
-|19|14.247.77.250|8080|Vietnam|Hải Dương|VNPT|
-|20|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|9|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|13|15.160.125.231|3128|Italy|Milan|Amazon Technologies Inc|
+|14|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
