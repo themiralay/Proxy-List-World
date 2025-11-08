@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|157.175.42.134|3902|Bahrain|Manama|Amazon.com, Inc.|
-|7|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|177.125.208.126|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
-|16|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|74.48.187.168|3128|United States|Los Angeles|Multacom Corporation|
-|19|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|43.224.116.185|25251|Bangladesh|Dhaka|Next Online Limited|
+|11|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|12|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|13|97.79.251.186|80|United States|Dallas|Spectrum|
+|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|18|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
 
 
 
