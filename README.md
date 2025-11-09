@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|3|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|118.27.111.97|80|Japan|Chiyoda City|GMO Internet, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |10|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
 |11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|43.224.116.222|25251|Bangladesh|Dhaka|Next Online Limited|
+|18|157.66.55.245|8080|Indonesia|Bogor|CV Andhika Pratama Sanggoro|
 |19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 |20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
