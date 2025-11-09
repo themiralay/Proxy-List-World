@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|190.93.191.19|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|5|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|91.196.77.190|8080|Uzbekistan|Tashkent|Iplus LLC|
-|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|12|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
-|13|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|8.208.90.86|8080|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|15|94.231.192.76|8080|Turkey|Istanbul|E Sim international LLC|
-|16|154.27.196.14|999|Mexico|Colima|Cogent Communications|
-|17|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|36.64.31.74|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|45.167.124.138|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|3|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|6|89.218.228.206|3128|Kazakhstan|Petropavl|JSC Kazakhtelecom|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|103.102.85.1|8080|India|Acharapākkam|Amigos Broadband Pvt Ltd|
+|9|80.78.75.80|8080|Albania|Tirana|ABCom|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|170.239.41.131|4596|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|195.62.50.21|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|8.208.90.86|8080|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|17|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|18|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
+|19|154.27.196.14|999|Mexico|Colima|Cogent Communications|
+|20|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
