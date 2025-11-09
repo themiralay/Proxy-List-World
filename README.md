@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|10|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|11|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|122.3.207.67|8089|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|147.75.68.200|10001|United States|San Jose|Packet Host, Inc.|
-|19|102.135.195.90|8082|Nigeria|Lagos|VDT COMMUNICATIONS LIMITED|
-|20|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.105.57.98|7070|Indonesia|Sragen|PT Lambda Sinergi Telekomunikasi|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|133.32.22.100|8080|Japan|Ōta|ARTERIA Networks Corporation|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|18|59.66.25.141|26001|China|Haidian|China Education and Research Network Center|
+|19|103.68.214.129|1111|Indonesia|Sepatan|PT Media Grasi Internet|
+|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
 
 
 
