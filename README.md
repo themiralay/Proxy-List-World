@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|10|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|14|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|49.229.100.42|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|17|49.229.100.42|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |19|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
