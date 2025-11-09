@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42540** proxies at the latest update. Usable proxies are below.
+> Scraper found **42457** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38268|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38185|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2944|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
-|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|16|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|20|103.184.67.115|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
+|3|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|194.124.36.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|72.10.164.178|25289|Canada|Montreal|GloboTech Communications|
 
 
 
