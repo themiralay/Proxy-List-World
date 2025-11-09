@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|7|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|8|138.99.176.107|999|Peru|Lima|NET WIN PERU|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|36.147.78.166|443|China|Guangzhou|China Mobile|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|89.218.228.206|3128|Kazakhstan|Petropavl|JSC Kazakhtelecom|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|147.75.83.114|443|The Netherlands|Amsterdam||
+|12|36.147.78.166|443|China|Guangzhou|China Mobile|
 |13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.160.91|11425|Canada|Montreal|GloboTech Communications|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.160.91|11425|Canada|Montreal|GloboTech Communications|
+|17|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|19|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|45.189.116.100|999|Peru|Lima|Conex TV E.I.R.L|
 
 
 
