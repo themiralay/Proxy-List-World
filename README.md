@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|38.60.162.185|3128|United States|Los Altos|Kaopu Cloud HK Limited|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|17|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|19|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|74.48.187.172|3128|United States|Los Angeles|Multacom Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|103.156.17.111|8080|Indonesia|Karangsembung|RSTNET|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
