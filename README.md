@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|9|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
-|10|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|45.189.116.128|999|Peru|Lima|Conex TV E.I.R.L|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
 |19|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|20|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
