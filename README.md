@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|103.106.218.103|8081|Indonesia|Lawang|PT. ARTHA LINTAS DATA MANDIRI|
-|13|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|186.65.106.90|2024|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|20|194.29.60.220|8080|Ukraine|Vinnytsia|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|5|45.238.56.129|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|36.147.78.166|80|China|Guangzhou|China Mobile|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|170.239.41.131|4596|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|202.58.77.19|3127|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|16|165.16.3.254|9999|Libya|Darnah|Aljeel Aljadeed For Technology|
+|17|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|67.43.236.22|30613|Canada|Montreal|GloboTech Communications|
+|20|103.30.29.41|25252|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
 
 
 
