@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|3|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
 |4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|12|38.224.97.6|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|186.123.26.79|8080|Argentina|Ciudad del Libertador General San Martín|Techtel LMDS Comunicaciones Interactivas S.A.|
+|20|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
