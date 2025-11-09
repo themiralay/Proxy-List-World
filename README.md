@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|72.10.160.92|2279|Canada|Montreal|GloboTech Communications|
+|17|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|18|102.39.157.235|8080|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|202.5.60.42|63636|Bangladesh|Sonargaon|BBTS-NEW|
 
 
 
