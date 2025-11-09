@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|17|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
-|18|200.24.153.7|999|Ecuador|Portoviejo|Negocios Y Telefonia Nedetel S.A|
-|19|102.135.195.90|8082|Nigeria|Lagos|VDT COMMUNICATIONS LIMITED|
-|20|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|3|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|10|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|193.58.120.232|8080|Armenia|Yerevan|Baxet Group Inc.|
+|12|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|17|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
+|18|163.227.143.82|8080|Indonesia|Pekalongan|PT JARINGAN TEKNOLOGI SEJAHTERA|
+|19|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
