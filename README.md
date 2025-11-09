@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|6|88.216.98.220|53983|United States|Chicago|AT&T Enterprises, LLC|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|147.75.83.114|80|The Netherlands|Amsterdam||
-|16|102.23.237.121|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|20|139.59.226.171|8080|Singapore|Singapore|DIGITALOCEAN|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|36.147.78.166|80|China|Guangzhou|China Mobile|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|147.75.83.114|443|The Netherlands|Amsterdam||
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
 
 
 
