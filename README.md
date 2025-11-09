@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|3|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|12|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.122.1.13|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
+|18|200.114.97.71|999|Argentina|San Juan|Interredes S.A.|
+|19|103.76.149.14|8097|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|20|103.157.79.150|8080|Indonesia|Jakarta|EASTMEDIA|
 
 
 
