@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|8|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|13|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|93.126.6.66|3128|Iran|Isfahan|AsmanFaraz- IUT|
-|18|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|19|41.190.232.195|8080|DR Congo|Gandajika|Orioncom SPRL|
-|20|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
