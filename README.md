@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|13|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|14|119.18.151.113|8444|Bangladesh|Chittagong|BBTS Network|
-|15|38.49.138.198|999|Mexico|Estación de Apulco|Ientc S De RL De CV|
-|16|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
-|17|147.75.88.121|9480|United States|San Jose|Packet Host, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|14.234.140.166|20399|Vietnam|Ho Chi Minh City|VNPT|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
 
 
 
