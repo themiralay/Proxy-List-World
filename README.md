@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|7|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|16|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|17|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|80.80.165.54|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|118.27.111.97|80|Japan|Chiyoda City|GMO Internet, Inc.|
+|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|147.75.83.114|443|The Netherlands|Amsterdam||
+|18|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
