@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|3|122.165.97.254|3128|India|Kochi|BHARTI|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|11|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|103.171.233.72|8080|Bangladesh|Chittagong|TS Network|
-|13|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|102.209.78.44|8080|Kenya|Nairobi|Safhome Fibre Limited|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|103.73.193.117|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|13|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|16|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|209.62.196.68|8080|United States|Cut Off|EATEL|
+|19|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
+|20|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
 
 
 
