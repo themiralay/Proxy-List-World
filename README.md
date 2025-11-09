@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|17|103.139.99.202|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|18|126.209.73.156|8082|Philippines|Manila|Infinivan Incorporated|
-|19|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|20|103.106.115.145|8080|Indonesia|Kedaton|SMSNET|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.14.231.214|3188|Indonesia|Menggala|PT Internet Corp Ltd|
+|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
