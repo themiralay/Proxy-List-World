@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79824** proxies at the latest update. Usable proxies are below.
+> Scraper found **79771** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38216|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38163|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40323|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|7|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|8|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|177.234.211.175|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |14|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|19|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
-|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|164.90.182.137|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.242.104.209|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
 
 
 
