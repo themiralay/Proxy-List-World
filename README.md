@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|45.238.56.129|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|103.56.206.94|8181|Indonesia|Jakarta|Argon Data Communication|
-|16|118.171.143.224|3128|Taiwan|Tainan City|Chunghwa Telecom Co., Ltd.|
-|17|201.230.121.244|999|Peru|Lima|Telefonica Del Peru|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|103.248.9.131|8097|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|3|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|103.172.71.141|3127|Indonesia|Cikampek|AZNET|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|112.204.104.28|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|179.228.241.22|8080|Brazil|Campinas|Vivo|
 
 
 
