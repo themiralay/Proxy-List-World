@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80309** proxies at the latest update. Usable proxies are below.
+> Scraper found **80330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38241|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|4|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|209.62.196.68|8080|United States|Cut Off|EATEL|
-|14|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|15|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|16|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|72.10.160.170|12757|Canada|Montreal|GloboTech Communications|
-|18|202.5.60.199|63636|Bangladesh|Sonargaon|BBTS-NEW|
-|19|103.156.75.38|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|15|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|16|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|133.32.22.100|8080|Japan|Ōta|ARTERIA Networks Corporation|
+|20|89.104.102.209|58080|Uzbekistan|Bukhara|"Uzbektelekom" Joint Stock Company|
 
 
 
