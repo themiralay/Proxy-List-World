@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|49.229.100.235|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|176.88.166.211|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|17|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|19|8.217.234.200|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|17|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
 
 
 
