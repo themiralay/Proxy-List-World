@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.63.100|3172|Japan|Yokohama|InfoSphere|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|8|202.62.67.209|53281|India|Hyderabad|CityOnline Services|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
 |16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|17|103.189.249.204|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|18|202.146.230.146|8080|Indonesia|Bandung|PT Centrin Utama|
+|19|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.76.149.14|8097|Indonesia|Jakarta|PT. Java Digital Nusantara|
 
 
 
