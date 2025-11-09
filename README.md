@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|8|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|103.105.57.98|7070|Indonesia|Sragen|PT Lambda Sinergi Telekomunikasi|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|81.90.149.188|3128|Iran|Tehran|Afranet|
+|11|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|213.160.158.189|443|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|13|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|202.47.188.186|2010|Indonesia|Jombang|Lintas Data Prima, PT|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|201.8.204.194|8080|Brazil|Boa Vista|V tal|
+|19|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|20|88.216.98.201|53983|United States|Chicago|AT&T Enterprises, LLC|
 
 
 
