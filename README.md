@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|1|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
 |6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|8|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|88.216.98.236|53983|United States|Chicago|AT&T Enterprises, LLC|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|181.119.84.136|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|7|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|17|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
