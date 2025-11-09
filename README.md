@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79786** proxies at the latest update. Usable proxies are below.
+> Scraper found **79794** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38165|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38173|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40328|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|7|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |10|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.152.87.75|10808|Latvia|Riga|RETN Limited|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
