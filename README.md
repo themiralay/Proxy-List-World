@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|101.255.119.25|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|103.133.27.143|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|4|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |9|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|18|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|10|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|103.156.96.31|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
