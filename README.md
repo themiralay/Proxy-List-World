@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
