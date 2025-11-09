@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 |7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|148.135.97.23|3128|United States|Los Angeles|Multacom Corporation|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|202.62.67.209|53281|India|Hyderabad|CityOnline Services|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|131.72.104.244|3128|Brazil|Sidrolândia|Hoby Internet Tecnologia|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
