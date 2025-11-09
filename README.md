@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|15|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|16|103.155.199.68|7777|Indonesia|Ngamprah|PT Lintas Jaringan Nusantara|
-|17|202.73.27.118|8081|Indonesia|Jakarta|PT. Usaha Adisanggoro|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|11|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|103.175.237.232|8080|Indonesia|Selorok|PT Marva Global Telekomunikasi|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
