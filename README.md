@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|36.147.78.166|80|China|Guangzhou|China Mobile|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|119.93.201.156|8082|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
-|11|185.82.99.110|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|201.245.195.11|999|Colombia|Granada|ETB - Colombia|
-|18|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|72.10.164.178|7781|Canada|Montreal|GloboTech Communications|
-|20|27.124.80.58|82|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|45.238.56.129|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|36.147.78.166|443|China|Guangzhou|China Mobile|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|202.154.18.22|8080|Indonesia|Babat|DIGITNET|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
