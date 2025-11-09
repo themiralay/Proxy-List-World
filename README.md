@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.25.195.127|8181|Indonesia|Karawang|UNINA|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|103.97.140.70|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |16|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
 |19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
 
 
 
