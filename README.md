@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|11|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|12|103.19.58.151|8080|Indonesia|Sragen|BITSNET|
-|13|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|103.122.0.151|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
-|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|11|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
+|13|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|15|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|17|170.80.202.217|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|18|202.47.188.186|2010|Indonesia|Jombang|Lintas Data Prima, PT|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|186.167.80.238|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
