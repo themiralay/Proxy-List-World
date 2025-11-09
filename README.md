@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|5|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|11|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
