@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|15|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|20|198.145.118.100|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
