@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|9|181.119.93.90|999|Peru|Lima|Ufinet Panama S.A.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|36.253.18.38|8181|Nepal|Patan|Ncell Pty. Ltd.|
+|10|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |12|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|177.93.59.150|9992|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|147.75.88.121|9480|United States|San Jose|Packet Host, Inc.|
-|16|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|103.35.108.244|2024|Bangladesh|Sirajganj|Ranks ITT|
-|20|176.236.227.106|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|37.187.92.9|1028|France|Roubaix|OVH SAS|
+|18|43.252.106.5|8090|Indonesia|Temanggung|PT Lintas Data Prima|
+|19|186.235.123.9|8080|Brazil|Cachoeiras de Macacu|K1 Telecom e Multimidia LTDA|
+|20|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 
 
 
