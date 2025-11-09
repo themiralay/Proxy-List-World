@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|2|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|10|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|12|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|13|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
 |14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|17|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|20|134.122.185.10|3129|Singapore|Singapore|Rackip Consultancy Pte. LTD|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
