@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|193.163.201.90|8080|United Kingdom|London|BitCommand LLC|
-|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
+|15|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|16|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
 |17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|20|147.75.83.114|443|The Netherlands|Amsterdam||
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
