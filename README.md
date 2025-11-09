@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|3|88.216.98.220|53983|United States|Chicago|AT&T Enterprises, LLC|
+|4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|11|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|14|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
 |15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|147.75.83.114|443|The Netherlands|Amsterdam||
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|147.75.83.114|80|The Netherlands|Amsterdam||
+|19|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
 |20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
