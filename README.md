@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|18|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
