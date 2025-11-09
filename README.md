@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41608** proxies at the latest update. Usable proxies are below.
+> Scraper found **79818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38207|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40323|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|10|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|15|149.40.26.240|8080|Brazil|São Paulo|VIPRede Telecomunicações Ltda|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
-|18|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|8|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|14|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|15|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|19|119.148.14.201|39044|Bangladesh|Dhaka|Agni Systems Ltd. SUB|
+|20|184.82.35.84|8080|Thailand|Khon Kaen|AIS-Fibre|
 
 
 
