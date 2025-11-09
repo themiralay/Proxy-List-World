@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|18|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
