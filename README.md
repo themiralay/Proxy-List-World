@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.184.181.124|8080|Indonesia|Sidoarjo|Lintas Data Prima, PT|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|103.175.237.232|8080|Indonesia|Selorok|PT Marva Global Telekomunikasi|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|52.200.65.103|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|13|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|143.198.202.188|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
