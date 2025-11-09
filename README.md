@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80311** proxies at the latest update. Usable proxies are below.
+> Scraper found **42540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38222|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38268|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40761|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2944|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|122.165.97.254|3128|India|Kochi|BHARTI|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|103.73.193.117|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|13|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|16|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|209.62.196.68|8080|United States|Cut Off|EATEL|
-|19|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
-|20|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|8|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|148.135.97.2|3128|United States|Los Angeles|Multacom Corporation|
+|13|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|45.152.87.75|10808|Latvia|Riga|RETN Limited|
+|16|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.184.67.115|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
 
 
 
