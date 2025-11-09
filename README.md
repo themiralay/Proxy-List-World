@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|8|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|185.82.99.219|50010|Lebanon|Baalbek|NET 360 S.A.R.L|
-|13|102.212.45.34|12354|South Africa|Johannesburg|OM-SN-45/24|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|18|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|201.8.204.194|8080|Brazil|Boa Vista|V tal|
+|12|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
