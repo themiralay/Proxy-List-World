@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|103.175.236.18|8080|Indonesia|Wonosari|PT Marva Global Telekomunikasi|
-|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|190.14.238.115|9992|Colombia|Pereira|Media Commerce Partners S.A|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.175.236.18|8080|Indonesia|Wonosari|PT Marva Global Telekomunikasi|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |14|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|165.22.71.191|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|41.89.56.116|3128|Kenya|Nairobi|KENET|
 
 
 
