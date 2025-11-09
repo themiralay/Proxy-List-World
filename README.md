@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|150.136.46.74|8118|United States|Ashburn|Oracle Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|8|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|5.129.199.124|8888|Russia|Moscow|TimeWeb LLC|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|5|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|7|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
+|8|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
 |13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|186.235.123.3|8080|Brazil|Cachoeiras de Macacu|K1 Telecom e Multimidia LTDA|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|103.247.23.118|8080|Indonesia|Cileungsir|PT wifian Solution|
+|19|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.171|10627|Canada|Montreal|GloboTech Communications|
 
 
 
