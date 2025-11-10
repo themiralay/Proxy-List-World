@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80191** proxies at the latest update. Usable proxies are below.
+> Scraper found **80084** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38289|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38182|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40547|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.129.148.198|8080|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|20|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
