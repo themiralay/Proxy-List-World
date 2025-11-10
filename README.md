@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 
 
 
