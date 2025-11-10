@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|16|103.170.22.137|8089|Indonesia|Purbalingga|PT Puskomedia Indonesia Kreatif|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|103.156.74.38|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|59.103.34.164|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.170.22.137|8089|Indonesia|Purbalingga|PT Puskomedia Indonesia Kreatif|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.156.74.184|8081|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|164.138.205.15|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|19|181.209.121.238|999|Argentina|Añatuya|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|202.5.60.203|25253|Bangladesh|Sonargaon|BBTS-NEW|
 
 
 
