@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.42.72.150|3128|United States|Council Bluffs|Google LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.42.72.150|3128|United States|Council Bluffs|Google LLC|
-|5|108.137.59.86|3128|Indonesia|Jakarta|Amazon.com, Inc.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|57.183.29.48|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|108.137.59.86|3128|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |11|34.248.185.190|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|44.199.110.54|3128|United States|Ashburn|Amazon.com|
 
 
 
