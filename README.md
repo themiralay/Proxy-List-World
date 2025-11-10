@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|180.191.23.95|8081|Philippines|Cabanatuan City|Globe Telecom|
-|17|124.121.187.46|8080|Thailand|Bangkok|TRUE|
-|18|202.5.53.145|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|19|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|10|103.112.45.43|8085|Indonesia|Mekarjaya Satu|PT.Globalnet Multi Data|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|124.121.187.46|8080|Thailand|Bangkok|TRUE|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
+|19|202.5.57.193|25253|Bangladesh|Chittagong|BBTS-NEW|
+|20|103.188.52.59|8080|Indonesia|Ciputat|PT Primacom Interbuana|
 
 
 
