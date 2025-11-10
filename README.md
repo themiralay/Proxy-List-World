@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|15|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|17|119.148.17.170|2871|Bangladesh|Dhaka|Agni Systems Limited|
-|18|63.179.132.74|3128|Germany|Frankfurt am Main|Amazon.com|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
 |19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
-|20|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 
 
 
