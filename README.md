@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|97.78.58.180|8080|United States|Birmingham|Spectrum|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|115.77.173.15|10001|Vietnam|Quận Bình Thạnh|Viettel Group|
-|14|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|19|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|184.82.41.163|8080|Thailand|Bangkok|AIS-Fibre|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
