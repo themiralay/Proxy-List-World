@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|4|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|18.180.193.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|52.195.184.33|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|11|35.77.44.197|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|14|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
