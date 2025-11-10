@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|202.5.57.193|25253|Bangladesh|Chittagong|BBTS-NEW|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
 
 
 
