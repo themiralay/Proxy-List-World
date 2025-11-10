@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.77.44.197|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.207.222.194|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|43.207.95.26|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|18.180.193.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|35.73.241.180|3128|Japan|Tokyo|Amazon.com, Inc.|
-|6|35.77.67.163|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|18.179.55.57|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|35.75.12.105|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|57.183.28.143|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|18.181.209.121|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|18.183.122.33|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|108.137.59.86|3128|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|16|13.203.64.175|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|20|54.238.45.71|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|57.183.29.48|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|8|13.203.64.175|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|34.248.185.190|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|18.180.193.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|52.195.184.33|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|35.77.17.8|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
