@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|103.19.58.174|3125|Indonesia|Kertosono|BITSNET|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|12|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
+|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|17|41.254.48.192|1978|Libya|Tripoli|LTT Network Backbone and POPs|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
