@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|12|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|222.124.153.43|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |19|178.32.123.218|1080|France|Strasbourg|OVH SAS|
 |20|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
 
