@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.129.148.198|8080|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|157.66.84.1|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
