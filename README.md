@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|103.112.45.43|8085|Indonesia|Mekarjaya Satu|PT.Globalnet Multi Data|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|18|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|19|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
-|20|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|15|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
+|19|43.135.179.94|443|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
