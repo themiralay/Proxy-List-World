@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|103.156.14.165|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|3|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|18|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|103.129.148.198|8080|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
