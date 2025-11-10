@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|103.153.62.242|8181|Indonesia|Wonoharjo|PT Ikhlas Cipta Teknologi|
-|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|14|206.42.55.99|3128|Brazil|Teresina|Brisanet Servicos De Telecomunicacoes Ltda|
 |15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|103.171.83.253|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|18|103.83.80.67|8080|India|Mhow|Syntego Technologies India Private Limited|
-|19|195.211.71.200|1433|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
-|20|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|16|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|17|103.188.169.153|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 
 
 
