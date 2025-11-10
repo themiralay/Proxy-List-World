@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|3|103.129.148.198|8080|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
+|14|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
