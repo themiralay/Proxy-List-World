@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |19|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|20|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
