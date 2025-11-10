@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|43.225.65.18|8080|Indonesia|Pasuruan|HSPNET|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|4|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
