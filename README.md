@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|3|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|88.216.98.199|53983|United States|Chicago|AT&T Enterprises, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
+|13|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
 |14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|113.160.115.254|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
