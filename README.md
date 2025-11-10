@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.250.130.11|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.171.83.253|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |9|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|18|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|19|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
-|20|113.11.3.126|9107|Bangladesh|Comilla|BDCOM Online Limited|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|178.17.58.107|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
