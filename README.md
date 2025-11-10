@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|9|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|197.248.98.55|8080|Kenya|Nairobi|Safaricom Limited|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|179.1.48.56|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|185.14.68.130|8090|Russia|Irkutsk|IESV|
 
 
 
