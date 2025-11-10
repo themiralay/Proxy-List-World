@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|58.147.186.214|3125|Indonesia|Kota Sambas|PT. Transhybrid Communication|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|13|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
 
 
 
