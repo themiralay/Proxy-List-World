@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 |10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|12|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|103.157.78.90|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|20|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
