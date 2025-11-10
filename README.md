@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80962** proxies at the latest update. Usable proxies are below.
+> Scraper found **80977** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|246|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40901|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|103.126.119.191|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|202.5.60.203|25253|Bangladesh|Sonargaon|BBTS-NEW|
-|10|103.182.222.138|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|45.235.255.173|3129|Mexico|Felipe Carrillo Puerto|Buenas Noticias SA De CV|
-|14|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|15|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|18|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|20|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|3|103.153.62.245|8181|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|9|121.101.133.220|8080|Indonesia|Gombong|PT SELARAS CITRA TERABIT|
+|10|103.170.22.137|8089|Indonesia|Purbalingga|PT Puskomedia Indonesia Kreatif|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|14|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|15|202.5.60.203|25253|Bangladesh|Sonargaon|BBTS-NEW|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|103.247.23.251|1111|Indonesia|Cileungsir|PT wifian Solution|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
