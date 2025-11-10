@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
+|13|178.17.58.107|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|16|178.32.123.218|1080|France|Strasbourg|OVH SAS|
+|17|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|20|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
 
 
 
