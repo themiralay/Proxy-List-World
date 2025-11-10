@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|167.172.84.0|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|146.190.109.238|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|52.195.184.33|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|167.172.84.0|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|16|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|17|18.180.193.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|20|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|14|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
 
 
 
