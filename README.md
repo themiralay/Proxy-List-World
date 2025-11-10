@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.203.41.223|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.157.78.90|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|16|114.9.25.74|8080|Indonesia|Muara Enim|PT. INDOSAT Tbk|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|13|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|182.253.40.149|8080|Indonesia|Mojokerto|BIZNET|
+|16|157.20.219.192|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|19|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
