@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|16|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|135.148.122.209|8080|United States|Reston|OVH SAS|
-|19|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
-|20|202.5.37.132|25253|Bangladesh|Comilla|BBTS-NEW|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|37.211.158.191|8080|Qatar|Doha|Ooredoo Q.S.C|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
