@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.112.45.43|8085|Indonesia|Mekarjaya Satu|PT.Globalnet Multi Data|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|5|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|67.43.236.20|1465|Canada|Montreal|GloboTech Communications|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|16|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|38.194.246.34|999|Mexico|León|Cogent Communications|
-|18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|15|185.225.41.130|8080|Syria|Damascus|sy-samaweb|
+|16|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|147.75.83.114|443|The Netherlands|Amsterdam||
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
