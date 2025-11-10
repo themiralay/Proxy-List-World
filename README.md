@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|18.162.164.36|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|12|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|14|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|19|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|16|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|17|160.19.19.227|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|18|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 |20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
