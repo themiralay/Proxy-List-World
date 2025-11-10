@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
-|17|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
-|20|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|12|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
