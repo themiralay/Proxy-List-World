@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.250.130.11|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|2|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|178.17.58.107|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |12|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|184.82.41.163|8080|Thailand|Bangkok|AIS-Fibre|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|19|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|20|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|13|157.90.181.223|2525|Germany|Falkenstein|Hetzner Online GmbH|
+|14|146.196.63.203|8085|India|Darbhanga|Acme Diginet Corporation Pvt. Ltd|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|115.77.173.15|10001|Vietnam|Quận Bình Thạnh|Viettel Group|
+|19|49.146.55.9|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|20|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
 
 
 
