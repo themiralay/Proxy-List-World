@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80273** proxies at the latest update. Usable proxies are below.
+> Scraper found **41818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38455|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|160|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40432|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.250.130.11|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.171.83.253|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|4|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|3|116.106.77.56|30533|Vietnam|Hanoi|Viettel Corporation|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |9|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|45.144.52.150|3128|Finland|Helsinki|H2nexus LTD|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|17|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|178.17.58.107|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|13.59.113.45|31280|United States|Dublin|Amazon.com, Inc.|
+|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|19|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|20|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
 
 
 
