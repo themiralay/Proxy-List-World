@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41951** proxies at the latest update. Usable proxies are below.
+> Scraper found **41936** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|178|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40547|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|10|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|16|115.72.35.13|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|2|103.129.148.198|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|14|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|17|167.71.177.246|2525|United States|Clifton|DigitalOcean, LLC|
+|18|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
+|19|8.218.168.208|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|185.14.68.130|8090|Russia|Irkutsk|IESV|
 
 
 
