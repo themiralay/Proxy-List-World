@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|15|103.145.34.149|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|115.147.165.116|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|13|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
