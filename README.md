@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.169.41.221|8081|Indonesia|Medan|Telnet Indonesia|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|103.242.104.213|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
-|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|36.91.220.132|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|5|185.162.236.133|3128|Greece|Thessaloniki|POINTER-SHARED1|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|38.252.213.62|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|38.66.207.1|999|Venezuela|Valencia|Wifi-prado C.A|
+|15|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|103.237.134.242|7777|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|19|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
