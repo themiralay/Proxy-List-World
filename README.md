@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|12|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
