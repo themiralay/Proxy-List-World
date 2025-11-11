@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
 |7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|123.200.20.114|25251|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|94.102.224.132|32650|Montenegro|Bijela|One Crna Gora DOO|
 |14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|41.155.99.12|8082|Ghana|Kumasi|Vodafone Ghana AS International Transit|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|20|103.245.96.165|3214|Bangladesh|Azimpur|OptiMax Communication Ltd|
 
 
 
