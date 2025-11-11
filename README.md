@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|10|203.207.56.57|8080|Indonesia|Paseh|STARNET|
+|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
