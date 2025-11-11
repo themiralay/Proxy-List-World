@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|13|147.75.68.200|10061|United States|San Jose|Packet Host, Inc.|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|9|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 
 
 
