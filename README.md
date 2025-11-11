@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|103.113.117.46|1111|Indonesia|Malang|Indonesia Network Information Center|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|45.238.58.161|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
