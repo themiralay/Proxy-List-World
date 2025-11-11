@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |10|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|11|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
-|12|103.39.51.190|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|216.122.181.210|999|Dominican Republic|Santiago de los Caballeros|Internet Utilities NA LLC|
-|16|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|41.89.56.116|3128|Kenya|Nairobi|KENET|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|19|182.253.139.180|8080|Indonesia|Semarang|BIZNET|
+|20|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
 
 
 
