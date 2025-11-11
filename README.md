@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40783|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|36.147.78.166|80|China|Guangzhou|China Mobile|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|116.68.207.49|5871|Bangladesh|Dhaka|Agni Systems Limited|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|122.3.207.67|8089|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|13|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
