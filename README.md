@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|5|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|12|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|170.0.228.250|999|Mexico|Toluca|EJA TELECOMM S DE RL|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|2|103.175.240.87|8090|Indonesia|Sleman|LDP|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|17|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
