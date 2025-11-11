@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|47.250.123.231|3128|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|103.141.150.194|8080|Indonesia|Margahayukencana|PRIMACOM|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|200.41.170.210|11201|Argentina|Buenos Aires|Telefonica de Argentina|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|19|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|7|103.191.196.155|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|8|91.201.115.84|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
+|14|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
