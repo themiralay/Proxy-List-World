@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|116.68.207.49|5871|Bangladesh|Dhaka|Agni Systems Limited|
-|6|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|7|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|8|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|9|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|124.106.173.56|8082|Philippines|Antipolo|Philippine Long Distance Telephone Co.|
+|12|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|195.211.71.200|1433|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
