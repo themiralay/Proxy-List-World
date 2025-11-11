@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|10|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|103.190.60.28|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|16|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|11|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|16|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|17|123.200.6.170|9107|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |19|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|20|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 
 
 
