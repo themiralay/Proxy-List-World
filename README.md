@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|8|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|13.229.106.113|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|13.229.106.113|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|18|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
