@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|190.60.45.79|999|Colombia|Cáceres|IFX NETWORKS COLOMBIA|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|138.121.15.230|999|Colombia|Cartagena|Liberty Networks De Colombia|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|176.117.105.228|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|200.39.120.78|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|160.25.119.116|7777|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
+|19|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|20|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
 
 
 
