@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|14|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|18|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|19|5.202.75.46|8090|Iran|Tehran|Enteghal Dadeh Mahan Co. PJSC|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|190.90.100.195|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|15|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|20|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
 
 
 
