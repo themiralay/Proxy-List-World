@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|40.192.25.211|3128|India|Hyderabad|Amazon.com, Inc.|
-|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|40.192.25.211|3128|India|Hyderabad|Amazon.com, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
 |12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
 |13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|41.89.56.116|3128|Kenya|Nairobi|KENET|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|17|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
+|18|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
 
 
 
