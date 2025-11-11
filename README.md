@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 |6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|15|103.71.163.48|8181|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|16|182.253.10.21|8080|Indonesia|Jakarta|BIZNET|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|67.206.213.202|3120|Puerto Rico|Bayamón|Liberty Mobile Puerto Rico Inc.|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|38.224.97.6|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
