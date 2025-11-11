@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4141** proxies at the latest update. Usable proxies are below.
+> Scraper found **42261** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38139|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2843|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|181.209.116.190|9090|Argentina|Banda del Río Salí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|8|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|9|116.254.115.129|1080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
