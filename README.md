@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|10|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|17|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|7|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
+|13|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.169.41.221|8081|Indonesia|Medan|Telnet Indonesia|
+|18|41.57.182.18|6060|South Africa|Phuthaditjhaba|FTH SCR P20|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
 
 
 
