@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|103.161.109.130|8080|Indonesia|Manado|PT Asia Central Telematika|
 |5|42.113.64.181|10001|Vietnam|Hải Dương|FPT Telecom Company|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
 |16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|17|103.153.62.158|8090|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|18|103.172.42.105|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|201.230.121.126|999|Peru|Lima|Telefonica Del Peru|
-|20|103.156.75.225|8181|Indonesia|Gianyar|PT Trika Global Media|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|102.216.72.18|8080|South Africa|Vredenburg|Rapid Networks (Pty) Ltd|
+|19|212.156.208.29|34032|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|20|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
