@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|8|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|110.232.92.49|8080|Indonesia|Jakarta|PT. Media Antar Nusa|
-|14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|103.156.141.27|3125|Indonesia|Jember|PT Tekling Media Telematika|
-|17|103.154.118.245|8080|Indonesia|Jakarta|MORATELINDONAP|
-|18|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|19|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|20|38.159.229.118|999|Ecuador|Vinces|Turbonet S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|13|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|14|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
