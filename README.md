@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|5|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|20|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
