@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|13|103.99.136.66|8080|Indonesia|Sepatan|PT Jelajah Kreasi Informatika|
 |14|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|103.156.96.240|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|15|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|16|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
