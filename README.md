@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|103.133.27.229|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|13|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.175.238.138|1080|Indonesia|West Java|PT Uliz Netmedia Solusindo|
-|17|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
-|20|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|20|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 
 
 
