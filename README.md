@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|14|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|15|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|8|119.93.33.130|8082|Philippines|San Fernando City|Philippine Long Distance Telephone Co.|
+|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|49.0.26.215|8080|Indonesia|Bonggol Satu|SIMS Jabar Banten Medianet|
+|19|91.201.72.226|8090|Russia|Moscow|JSC Avantel|
+|20|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
