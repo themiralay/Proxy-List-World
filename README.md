@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80628** proxies at the latest update. Usable proxies are below.
+> Scraper found **80750** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38340|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38462|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40933|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|160.20.38.14|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|9|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.72.89.116|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|160.19.18.99|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|103.247.23.118|8080|Indonesia|Cileungsir|PT wifian Solution|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|6|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|15|85.117.61.70|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|160.19.18.99|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|18|160.19.18.181|8181|Indonesia|Pasuruan|PT Indo Telemedia Solusi|
+|19|103.124.197.29|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
