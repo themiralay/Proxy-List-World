@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80396** proxies at the latest update. Usable proxies are below.
+> Scraper found **42114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38282|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40803|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.188.52.59|8080|Indonesia|Ciputat|PT Primacom Interbuana|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|15|185.162.236.133|3128|Greece|Thessaloniki|POINTER-SHARED1|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|103.154.52.6|1111|Indonesia|Tanjungsari|WIFIKITA|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|17|190.121.146.75|999|Colombia|Pereira|Media Commerce Partners S.A|
+|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
 
 
 
