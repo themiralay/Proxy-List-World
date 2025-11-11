@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|12|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|18|72.10.160.90|2329|Canada|Montreal|GloboTech Communications|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |19|194.124.36.130|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|103.172.120.93|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|20|202.191.121.173|25252|Bangladesh|Dhaka|Bijoy Online Ltd|
 
 
 
