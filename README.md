@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80338** proxies at the latest update. Usable proxies are below.
+> Scraper found **80345** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38171|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40888|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|9|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|203.207.56.57|8080|Indonesia|Paseh|STARNET|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|17|179.189.120.147|3128|Brazil|Teresina|IP CARRIER BRASIL|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.124.139.137|8080|Indonesia|Mranggen|Global Media Data Prima|
 
 
 
