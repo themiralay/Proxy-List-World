@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|6|44.215.73.168|8118|United States|Ashburn|Amazon.com|
 |7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 |12|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|13|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
-|16|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|36.147.78.166|443|China|Guangzhou|China Mobile|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |18|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|19|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
