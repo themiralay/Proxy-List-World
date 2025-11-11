@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|10|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.188.52.59|8080|Indonesia|Ciputat|PT Primacom Interbuana|
+|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
 |11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|13|103.109.173.11|8080|Indonesia|Jakarta|PT Cyberindo Aditama|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|15|185.162.236.133|3128|Greece|Thessaloniki|POINTER-SHARED1|
+|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|103.154.52.6|1111|Indonesia|Tanjungsari|WIFIKITA|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
