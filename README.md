@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.171.83.179|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
-|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|44.215.73.168|8118|United States|Ashburn|Amazon.com|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 |8|44.215.73.168|8118|United States|Ashburn|Amazon.com|
-|9|190.14.249.111|8080|Colombia|Barbosa|Media Commerce Partners S.A|
-|10|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|11|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
-|14|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
-|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|112.203.34.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|153.206.97.98|8080|Japan|Yokohama|NTT Communications Corporation|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
