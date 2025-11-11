@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80616** proxies at the latest update. Usable proxies are below.
+> Scraper found **42280** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38336|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40933|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|181.10.138.226|8083|Argentina|Rosario|Telecom Argentina S.A.|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
