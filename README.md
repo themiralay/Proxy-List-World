@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|14.184.198.234|5102|Vietnam|Can Tho|VNPT|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|160.20.38.14|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|81.196.74.147|8080|Romania|Dej|RCS & RDS|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|18|115.147.165.116|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
