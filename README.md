@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|46.243.6.197|14623|Finland|Helsinki|I-servers LTD|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|5|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|6|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 |10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|201.190.178.205|8080|Argentina|Maipú|Arlink S.A.|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|14.189.225.247|8080|Vietnam|Thái Nguyên|VNPT|
+|19|72.10.160.172|16231|Canada|Montreal|GloboTech Communications|
+|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
