@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|10|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|11|182.253.62.216|8080|Indonesia|Jakarta|BIZNET|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|67.43.236.20|16257|Canada|Montreal|GloboTech Communications|
+|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|16|182.253.62.216|8080|Indonesia|Jakarta|BIZNET|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|185.130.28.5|56789|Spain|Alange|AVATEL TELECOM, SA|
-|19|115.147.165.116|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
 |20|67.43.236.20|16257|Canada|Montreal|GloboTech Communications|
 
 
