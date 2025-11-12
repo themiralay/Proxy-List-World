@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|9|202.162.213.181|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|182.253.62.216|8080|Indonesia|Jakarta|BIZNET|
-|20|197.157.140.150|8080|Rwanda|Kigali|Airtel Rwanda Ltd|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|194.29.60.220|8080|Ukraine|Vinnytsia|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|181.209.121.238|999|Argentina|Añatuya|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
