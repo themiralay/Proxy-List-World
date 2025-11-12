@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.242.105.111|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
 |16|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
