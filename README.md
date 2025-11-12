@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80510** proxies at the latest update. Usable proxies are below.
+> Scraper found **80494** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38364|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38348|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|167|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40753|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.78.218.9|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.207.69.81|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|148.135.97.6|3128|United States|Los Angeles|Multacom Corporation|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|43.207.69.81|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|74.48.187.167|3128|United States|Los Angeles|Multacom Corporation|
+|13|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
