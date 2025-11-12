@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|12|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|9|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|10|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|204.199.140.28|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
