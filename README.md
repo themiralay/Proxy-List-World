@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|103.242.105.70|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|36.88.148.141|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|14|45.144.234.129|53691|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|18|103.76.91.63|8097|Indonesia|Jakarta|PT Kampung Dua Net|
+|19|103.22.216.5|8097|Indonesia|Pamanukan|PT Cybermedia Network Nusantara|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
