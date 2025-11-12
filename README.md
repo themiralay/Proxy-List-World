@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|13|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|15|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|72.10.164.178|10395|Canada|Montreal|GloboTech Communications|
+|19|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
 
 
 
