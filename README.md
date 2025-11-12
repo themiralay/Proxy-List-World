@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|103.80.98.46|8080|Indonesia|Demak|Advertise via PT Menaksopal|
-|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|143.255.111.114|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|115.72.8.157|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
