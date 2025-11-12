@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.69.81|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.78.218.9|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|35.78.218.9|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|43.207.69.81|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|103.189.254.28|2222|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|18|47.250.123.193|3128|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|19|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|4|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|148.135.97.6|3128|United States|Los Angeles|Multacom Corporation|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
