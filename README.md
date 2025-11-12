@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 |6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|89.46.249.252|5080|United Kingdom|City of London|Hydra Communications Ltd|
-|11|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
-|12|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|13|163.61.134.145|8081|Indonesia|Tangerang|PT Lentera Abadi Solusinet|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|131.100.51.146|999|Colombia|Florencia|Fibernet TV SAS|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.156.14.18|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|9|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|13|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|15|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
+|16|177.82.99.173|7823|Brazil|Ribeirão Preto|Claro NXT Telecomunicacoes Ltda|
+|17|103.76.149.14|8097|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
