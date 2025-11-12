@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|4|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|5|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 |6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
 |12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|14|159.54.186.167|40009|United States|San Jose|Oracle Corporation|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.160.170|33223|Canada|Montreal|GloboTech Communications|
-|17|193.58.120.232|8080|Armenia|Yerevan|Baxet Group Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.156.57.85|1111|Indonesia|Tembilahan|PT Filltech Antar Nusa|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
+|15|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
