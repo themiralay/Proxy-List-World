@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|5|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|181.78.73.53|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
+|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|13|36.147.78.166|443|China|Guangzhou|China Mobile|
+|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|186.67.47.230|999|Chile|Santiago|Entel Chile S.A.|
+|20|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
 
 
 
