@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|15|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.226.232.202|8096|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|72.10.164.178|12045|Canada|Montreal|GloboTech Communications|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|11|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
+|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 
 
 
