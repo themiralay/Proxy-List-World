@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|45.236.170.178|999|Ecuador|Guayaquil|Codgrec S.A.|
+|15|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|16|103.13.204.11|8090|Indonesia|Guyangan|PT JARINGANKU SARANA NUSANTARA|
+|17|72.10.160.90|19083|Canada|Montreal|GloboTech Communications|
+|18|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 |19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|72.10.160.90|19083|Canada|Montreal|GloboTech Communications|
+|20|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
 
 
 
