@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42618** proxies at the latest update. Usable proxies are below.
+> Scraper found **42564** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38374|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38320|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2881|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|16|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|20|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|8|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|9|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|189.50.45.46|1995|Brazil|Barro Alto|Total Telecom LTDA-ME|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|17|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|113.11.64.19|2505|Bangladesh|Dhaka|BDCOM Online Limited|
+|20|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
 
 
 
