@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|15|38.156.72.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|170.82.236.150|8080|Brazil|Jacinto Machado|Interliga Solucoes Tecnologicas Ltda - ME|
+|19|103.227.186.209|6080|Indonesia|Siderejo|PT Master Star Network|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
