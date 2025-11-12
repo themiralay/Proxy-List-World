@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|136.47.226.201|8118|United States|Durham|Google Fiber Inc.|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
