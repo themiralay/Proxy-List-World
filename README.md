@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.156.74.38|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|5|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|8|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|10|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|11|197.248.98.55|8080|Kenya|Nairobi|Safaricom Limited|
-|12|212.67.29.63|10808|Russia|Irkutsk|BaikalWestCom|
-|13|83.229.127.130|10808|Hong Kong|Mong Kok|Lucidacloud Limited|
-|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|124.83.111.150|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|3|103.226.232.202|8096|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
+|4|103.88.202.84|8080|Indonesia|Jakarta|Sampoerna Telemedia Indonesia|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.76.151.202|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|7|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|181.119.97.19|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|11|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|176.117.105.28|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|16|45.238.58.225|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|19|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|38.159.229.92|999|Ecuador|Vinces|Turbonet S.A.|
+|20|188.132.222.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
