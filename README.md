@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
 |14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|17|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
