@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|4|187.198.210.91|8080|Mexico|Zapotlán el Grande|UNINET|
-|5|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
-|6|202.146.230.146|8080|Indonesia|Bandung|PT Centrin Utama|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|212.67.29.63|10808|Russia|Irkutsk|BaikalWestCom|
-|9|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|10|122.53.64.156|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|103.171.194.52|84|India|Mangaluru|Udupi Fastnet Private Limited|
-|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|16|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|17|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|19|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|7|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|212.67.29.63|10808|Russia|Irkutsk|BaikalWestCom|
+|10|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|11|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|13|204.199.140.14|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|14|202.146.230.146|8080|Indonesia|Bandung|PT Centrin Utama|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.76.151.202|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
