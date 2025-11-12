@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|95.140.17.150|3128|Russia|Moscow|Sputnik LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|18|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|19|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|49.49.95.49|8081|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|45.189.252.93|999|Mexico|Alvarado|Tracered SA De CV|
+|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|138.197.91.30|8888|United States|Clifton|DigitalOcean, LLC|
 
 
 
