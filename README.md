@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|5|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|187.198.210.91|8080|Mexico|Zapotlán el Grande|UNINET|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
-|17|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|9|201.159.99.37|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|10|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|38.95.89.203|999|Dominican Republic|San José de Ocoa|TELECABLE DOMINICANO, S.A.|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|202.47.185.118|1080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|19|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 
 
 
