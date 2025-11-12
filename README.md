@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
-|10|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|72.10.164.178|23553|Canada|Montreal|GloboTech Communications|
-|17|193.58.120.232|8080|Armenia|Yerevan|Baxet Group Inc.|
-|18|67.43.236.22|21687|Canada|Montreal|GloboTech Communications|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|193.58.120.232|8080|Armenia|Yerevan|Baxet Group Inc.|
+|14|72.10.164.178|16733|Canada|Montreal|GloboTech Communications|
+|15|36.147.78.166|443|China|Guangzhou|China Mobile|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|160.202.146.44|8080|Bangladesh|Dhaka|Antaranga Dot Com Ltd|
+|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 
 
 
