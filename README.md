@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|103.133.27.42|8090|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
 
 
 
