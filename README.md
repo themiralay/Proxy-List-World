@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|9|38.194.250.66|999|Mexico|Villa Victoria|Cogent Communications|
-|10|165.16.92.193|8104|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|45.71.15.2|8080|Brazil|Penápolis|Milanin NET|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|16|160.19.18.77|8888|Indonesia|Subang|PT Indo Telemedia Solusi|
-|17|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|36.95.17.15|80|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|20|103.109.173.11|8080|Indonesia|Jakarta|PT Cyberindo Aditama|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|8|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|9|103.61.17.242|8082|Indonesia|Caringin|TWINSDATAPRATAMA|
+|10|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|11|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|12|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.76.149.14|8097|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|18|103.13.192.76|8080|Bangladesh|Savar Upazila|Md Al Amin|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
 
 
 
