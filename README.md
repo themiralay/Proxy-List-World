@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|2|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|103.174.237.70|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.80.214.163|8090|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|18|198.145.118.76|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
