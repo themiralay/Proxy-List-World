@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80299** proxies at the latest update. Usable proxies are below.
+> Scraper found **80229** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38252|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38182|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40746|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|15|38.41.5.110|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|1|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|10|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|18|49.49.95.49|8081|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|19|123.200.6.170|9107|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 
 
 
