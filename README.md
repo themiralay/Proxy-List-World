@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|189.229.33.97|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
-|8|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|45.144.234.129|53681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|15|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|108.137.59.86|3128|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.93.160|3172|Japan|Yokohama|InfoSphere|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
