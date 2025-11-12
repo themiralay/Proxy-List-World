@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.22.216.5|8097|Indonesia|Pamanukan|PT Cybermedia Network Nusantara|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|1.0.170.50|8080|Thailand|Phuket|TOT Public Company Limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|36.88.148.141|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|189.229.33.97|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
-|13|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.144.234.129|53556|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|185.32.5.72|8090|Poland|Szczecin|AS Consulting Sp. z o. o.|
-|20|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|2|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|189.229.33.97|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
+|10|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
