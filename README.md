@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|16|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|20|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|10|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.75.96.70|8080|Indonesia|Cikarang|MORATELINDO|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|185.14.68.138|8090|Russia|Irkutsk|IESV|
 
 
 
