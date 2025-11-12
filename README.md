@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|4|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|7|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|12|95.140.17.150|3128|Russia|Moscow|Sputnik LLC|
-|13|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|16|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|18|123.200.20.114|25251|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|193.43.145.124|8080|Syria|Tallbīsah|Syrian Telecom|
-|20|101.255.107.58|8090|Indonesia|Jakarta|PT Remala Abadi|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|6|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|14|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|15|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|18|102.209.76.109|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
