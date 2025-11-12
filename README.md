@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
+|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|4|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|5|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.144.234.129|54903|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|14|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|41.65.55.27|1981|Egypt|Quţūr|Etisalat Misr Mobile BB|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|102.209.76.109|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|20|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
 
 
 
