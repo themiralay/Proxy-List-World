@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|198.145.118.76|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|18|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|115.147.165.115|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|15|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
