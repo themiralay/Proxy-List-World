@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|10|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|8|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 |12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
