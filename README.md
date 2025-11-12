@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80592** proxies at the latest update. Usable proxies are below.
+> Scraper found **80479** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38344|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38231|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40953|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|152.32.67.107|65535|Philippines|Makati City|Converge ICT Solution Inc|
-|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|12|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|17|201.220.112.98|999|Chile|Santiago|Telefonica del Sur S.A.|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|8|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|9|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.106.218.103|8081|Indonesia|Lawang|PT. ARTHA LINTAS DATA MANDIRI|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|103.129.202.102|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
+|13|182.160.114.211|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|19|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
+|20|103.147.77.254|7777|Indonesia|Madiun|TRIDATA|
 
 
 
