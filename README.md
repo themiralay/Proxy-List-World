@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|212.67.29.63|10808|Russia|Irkutsk|BaikalWestCom|
-|10|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|122.53.64.156|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|157.66.85.37|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|18|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|19|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|20|3.26.50.148|8080|Australia|Sydney|Amazon Technologies Inc.|
+|5|181.119.97.19|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|8|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|103.226.232.202|8096|Indonesia|Sepanjang Kidul|PT Jaringan Multimedia Indonesia|
+|12|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|181.10.200.154|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|17|102.23.237.121|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
+|18|186.250.202.104|8080|Brazil|Itajubá|G6 Internet|
+|19|83.229.127.130|10808|Hong Kong|Mong Kok|Lucidacloud Limited|
+|20|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
 
 
 
