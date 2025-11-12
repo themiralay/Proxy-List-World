@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|9|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|3|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|4|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|185.14.68.138|8090|Russia|Irkutsk|IESV|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|20|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
