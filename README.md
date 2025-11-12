@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|202.5.53.145|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|38.41.5.110|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|160.22.92.10|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|16|45.144.234.129|53691|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|18|154.27.196.153|999|Mexico|Colima|Cogent Communications|
-|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|7|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|202.5.53.145|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|16|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
