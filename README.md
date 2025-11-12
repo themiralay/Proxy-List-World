@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|7|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|11|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|12|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|13|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|20|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|5|103.82.135.154|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|200.114.81.219|8080|Argentina|Departamento de Concepción|SIGOT ALEXIS RAUL (SPEED INTERNET)|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|171.4.183.5|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|16|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|17|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
