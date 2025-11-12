@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|103.122.1.237|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|7|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|8|163.223.117.255|8888|Indonesia|Kuningan|PT Signall Network Nusantara|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|13|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|190.121.4.157|999|Chile|Carahue|Telefonica del Sur S.A.|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|103.242.105.111|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|19|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
 
 
 
