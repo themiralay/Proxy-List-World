@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
-|10|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|14|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|11|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 |16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|20|43.224.116.218|25251|Bangladesh|Dhaka|Next Online Limited|
 
 
 
