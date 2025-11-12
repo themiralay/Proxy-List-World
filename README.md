@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|103.156.75.215|9980|Indonesia|Gianyar|PT Trika Global Media|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|5|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|13|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|18|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|19|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
