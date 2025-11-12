@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|1|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|7|181.78.51.157|999|Guatemala|Patzún|Ufinet Panama S.A.|
-|8|36.37.147.34|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.181.29.114|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
-|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|13|190.94.212.199|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|103.169.132.70|8080|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|15|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|209.14.119.122|999|Colombia|Tibú|AGIS|
-|19|177.43.213.80|8090|Brazil|Araraquara|TELEFÔNICA BRASIL S.A|
-|20|213.74.191.35|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|83.229.127.130|10808|Hong Kong|Mong Kok|Lucidacloud Limited|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|101.109.122.174|8180|Thailand|Rayong|TOT Public Company Limited|
+|11|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|17|212.67.29.63|10808|Russia|Irkutsk|BaikalWestCom|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
