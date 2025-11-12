@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.59.44.33|8181|Indonesia|Sidorejo|PT INDONESIA TRANS NETWORK|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|9|182.52.66.23|8080|Thailand|Pak Kret|TOT Public Company Limited|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|14|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|15|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
-|16|35.213.38.219|3128|Japan|Tokyo|Google LLC|
-|17|195.133.220.46|1971|Iraq|Karbala|Horizon Scope Mobile Telecom WLL|
-|18|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|103.142.14.88|8081|Indonesia|Jombang|Pemerintah Kabupaten Jombang|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|51.75.76.143|8888|Germany|Limburg an der Lahn|OVH SAS|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|11|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|103.59.44.33|8181|Indonesia|Sidorejo|PT INDONESIA TRANS NETWORK|
+|17|184.22.0.135|8080|Thailand|Bangkok|AIS-Fibre|
+|18|182.52.66.23|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|19|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|20|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
