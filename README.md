@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|8|185.14.68.138|8090|Russia|Irkutsk|IESV|
-|9|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.106.218.103|8081|Indonesia|Lawang|PT. ARTHA LINTAS DATA MANDIRI|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|103.129.202.102|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|13|182.160.114.211|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
-|17|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|18|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
-|19|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|20|103.147.77.254|7777|Indonesia|Madiun|TRIDATA|
+|4|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|164.92.118.78|8090|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|10|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|12|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|13|103.82.135.154|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|200.114.81.219|8080|Argentina|Departamento de Concepción|SIGOT ALEXIS RAUL (SPEED INTERNET)|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
