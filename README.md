@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|9|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|10|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
-|11|45.190.170.254|999|Peru|Cieneguilla|Softbutterfly SAC|
-|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|202.5.37.222|25253|Bangladesh|Comilla|BBTS-NEW|
-|18|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|103.122.0.52|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|13|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|47.250.116.27|3128|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|8.210.148.99|1122|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
