@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|74.48.187.162|3128|United States|Los Angeles|Multacom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|54.74.104.194|80|Ireland|Dublin|Amazon.com, Inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|38.45.246.210|999|Mexico|Apatzingán|Jorge Luis Torres Fernandez|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|41.254.48.192|1978|Libya|Tripoli|LTT Network Backbone and POPs|
 
 
 
