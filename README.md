@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|67.43.236.18|32639|Canada|Montreal|GloboTech Communications|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|181.119.84.136|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
