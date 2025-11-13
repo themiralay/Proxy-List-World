@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80584** proxies at the latest update. Usable proxies are below.
+> Scraper found **80468** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38305|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38221|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40919|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|13|103.46.4.93|8080|Indonesia|Bangkinang|PT Akses Sentral Teknologi|
-|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|54.74.104.194|80|Ireland|Dublin|Amazon.com, Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|103.188.174.243|6060|Indonesia|Semarang|PT. Fiber Networks Indonesia|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|54.74.104.194|80|Ireland|Dublin|Amazon.com, Inc.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|17|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
 
 
 
