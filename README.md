@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|74.48.187.172|3128|United States|Los Angeles|Multacom Corporation|
-|18|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|16|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|45.158.10.135|8080|Singapore|Singapore|CV Atha Media Prima|
+|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
