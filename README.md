@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
