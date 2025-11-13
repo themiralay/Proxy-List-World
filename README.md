@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79715** proxies at the latest update. Usable proxies are below.
+> Scraper found **79780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37914|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37981|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40529|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.111.83.19|8080|Indonesia|Gandul|ICONPLN|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|9|202.154.18.148|8081|Indonesia|Babat|DIGITNET|
-|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|11|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|212.56.205.202|8080|Moldova|Chisinau|Telemedia Group SA|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|103.126.174.187|8080|Indonesia|Kedaton|MEGARAP|
-|16|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|17|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|95.84.164.92|8998|Russia|Moscow|NCNET|
+|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|36.147.78.166|80|China|Guangzhou|China Mobile|
+|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|20|202.5.47.44|5343|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
