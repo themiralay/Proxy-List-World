@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|10|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|157.97.105.191|3128|United States|Newark|ionos-cloud nj1.pil.us|
-|15|157.97.105.191|3128|United States|Newark|ionos-cloud nj1.pil.us|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.97.105.191|3128|United States|Newark|ionos-cloud nj1.pil.us|
+|6|157.97.105.191|3128|United States|Newark|ionos-cloud nj1.pil.us|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|181.57.142.26|999|Colombia|La Estrella|Telmex Colombia S.A.|
 
 
 
