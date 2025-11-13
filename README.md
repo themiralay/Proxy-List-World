@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|157.97.105.191|3128|United States|Newark|ionos-cloud nj1.pil.us|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|54.74.104.194|80|Ireland|Dublin|Amazon.com, Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|154.27.196.16|999|Mexico|Colima|Cogent Communications|
-|15|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|181.57.142.26|999|Colombia|La Estrella|Telmex Colombia S.A.|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
