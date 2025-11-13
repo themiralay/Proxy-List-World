@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|6|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|14|103.165.155.50|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|15|103.219.160.145|6565|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|16|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|147.75.88.121|9401|United States|San Jose|Packet Host, Inc.|
-|19|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|20|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|6|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|139.59.46.188|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|15|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|150.136.32.197|3128|United States|Ashburn|Oracle Corporation|
+|18|150.136.32.197|3128|United States|Ashburn|Oracle Corporation|
+|19|163.61.112.248|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|20|181.224.175.240|999|Ecuador|Naranjal|Micarmita S.A.S|
 
 
 
