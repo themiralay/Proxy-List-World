@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|95.84.164.92|8998|Russia|Moscow|NCNET|
+|3|37.187.92.9|1024|France|Roubaix|OVH SAS|
+|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|200.106.63.218|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|202.154.18.148|8081|Indonesia|Babat|DIGITNET|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 |17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|20|202.5.47.44|5343|Bangladesh|Chittagong|BBTS-NEW|
+|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|19|119.148.17.170|2871|Bangladesh|Dhaka|Agni Systems Limited|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
