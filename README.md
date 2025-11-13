@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|20|193.187.132.196|443|Turkey|Istanbul|Datacamp Limited|
+|6|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|14|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|17|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|45.4.0.59|999|Chile|San José de Tango|Tlink SPA|
+|19|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
 
 
 
