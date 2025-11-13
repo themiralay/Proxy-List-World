@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|36.94.39.146|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 |14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|16|93.126.6.66|3128|Iran|Isfahan|AsmanFaraz- IUT|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|20|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|18|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
