@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|115.72.37.37|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
 |10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|18|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|177.93.59.66|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|179.1.149.71|999|Peru|Paucartambo|Internexa Peru S.A|
+|15|103.155.198.161|8037|Indonesia|Baturaden|PT Lintas Jaringan Nusantara|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|125.27.241.98|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
 
 
 
