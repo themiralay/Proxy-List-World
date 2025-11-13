@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|36.147.78.166|443|China|Guangzhou|China Mobile|
-|12|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|170.80.50.66|8080|Brazil|Cabo de Santo Agostinho|Ponte Digital|
-|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|36.147.78.166|443|China|Guangzhou|China Mobile|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|103.215.60.213|8097|Indonesia|Pontianak|PT Uwais Borneo Group|
-|19|125.25.33.65|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|103.242.104.185|3125|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|37.187.92.9|1026|France|Roubaix|OVH SAS|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|38.52.220.58|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
