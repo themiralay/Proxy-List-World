@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|6|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|147.75.101.246|9443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|13|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
+|20|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
 
 
 
