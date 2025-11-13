@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|13|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|14|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|170.81.171.189|8282|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|103.220.23.211|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|16|202.5.58.29|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|17|38.194.246.34|999|Mexico|León|Cogent Communications|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
