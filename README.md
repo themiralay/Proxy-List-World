@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|10|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.72.7.59|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|115.72.3.16|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|115.72.37.37|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 |12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|204.199.140.17|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|103.156.96.5|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|18|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|19|97.79.251.186|80|United States|Dallas|Spectrum|
+|20|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
