@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|81.162.60.120|8080|Russia|Olginskaya|Bospor-Telecom LLC|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
