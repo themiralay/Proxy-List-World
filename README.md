@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|4|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|13|103.162.56.82|8080|Bangladesh|Chittagong|Excellence Dot|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|102.23.140.122|8080|Sierra Leone|Freetown|Fiber One (SL) LIMITED|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|19|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
-|20|103.187.86.14|8085|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|9|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|10|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|18|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
+|19|103.217.216.70|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|20|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
 
 
 
