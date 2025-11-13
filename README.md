@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|4|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|5|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|72.10.164.178|1717|Canada|Montreal|GloboTech Communications|
-|13|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|17|38.159.229.138|999|Ecuador|Vinces|Turbonet S.A.|
-|18|72.10.160.170|12647|Canada|Montreal|GloboTech Communications|
-|19|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|20|90.154.41.58|8080|Russia|Moscow|PJSC Rostelecom|
+|3|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|4|180.232.171.210|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|72.10.164.178|1717|Canada|Montreal|GloboTech Communications|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|15|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|103.48.68.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|19|193.43.145.200|8080|Syria|Yabrūd|Syrian Telecom|
+|20|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 
