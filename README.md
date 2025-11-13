@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.162.66.10|8080|India|Pune|Imperium Digital Network|
-|17|38.52.220.58|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.132.91.190|1080|Bangladesh|Mymensingh|Matrix BD|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
