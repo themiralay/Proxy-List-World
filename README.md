@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|6|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|13|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|165.22.71.191|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|5|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|14|47.250.116.27|3128|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|90.154.41.58|8080|Russia|Moscow|PJSC Rostelecom|
+|18|115.72.37.37|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|49.0.1.43|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
