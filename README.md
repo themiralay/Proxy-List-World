@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|185.14.68.130|8090|Russia|Irkutsk|IESV|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|19|202.191.121.173|25252|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|103.156.221.106|8080|Indonesia|Cimahi|PT Gading Bhakti Utama|
+|9|185.14.68.130|8090|Russia|Irkutsk|IESV|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|201.245.195.11|999|Colombia|Granada|ETB - Colombia|
+|12|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|13|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|14|93.126.6.66|3128|Iran|Isfahan|AsmanFaraz- IUT|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|74.48.187.179|3128|United States|Los Angeles|Multacom Corporation|
+|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
 
 
 
