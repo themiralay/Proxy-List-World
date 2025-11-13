@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|103.36.11.21|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|15|103.166.158.107|8080|Indonesia|Caringin Lor|PT Timor Lintas Nusantara|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|115.72.7.59|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|103.203.232.84|8080|Indonesia|Batu|PT Inti Data Guna|
+|13|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|115.72.3.16|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|17|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
