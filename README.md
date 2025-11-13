@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|17|202.5.34.5|8443|Bangladesh|Gazipur|BBTS-NEW|
-|18|103.169.41.221|8081|Indonesia|Medan|Telnet Indonesia|
-|19|103.188.174.243|6060|Indonesia|Semarang|PT. Fiber Networks Indonesia|
-|20|200.26.187.76|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|102.221.40.114|8080|South Africa|Mossel Bay|Telkom SA Ltd.|
+|15|212.56.205.202|8080|Moldova|Chisinau|Telemedia Group SA|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|190.97.237.196|999|Venezuela|Caracas|Viginet C.A|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
