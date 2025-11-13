@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|3.112.254.123|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|43.209.195.139|3128|Thailand|Bangkok|Amazon.com, Inc.|
-|6|103.133.24.5|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|4|103.19.78.138|1111|Indonesia|Randuboto|PDM|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.247.23.117|8080|Indonesia|Kroya|PT wifian Solution|
+|7|43.209.195.139|3128|Thailand|Bangkok|Amazon.com, Inc.|
+|8|103.106.78.195|7070|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|9|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|11|3.112.254.123|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|16|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|102.68.86.195|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
