@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79926** proxies at the latest update. Usable proxies are below.
+> Scraper found **79958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38047|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.76.91.239|8181|Indonesia|Jakarta|PT Kampung Dua Net|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|103.156.96.5|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
-|8|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|115.72.37.37|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
-|18|98.71.99.164|8080|Ireland|Dublin|BellSouth.net Inc.|
-|19|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|20|103.166.158.107|8080|Indonesia|Caringin Lor|PT Timor Lintas Nusantara|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.156.96.5|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|15|180.149.232.33|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|186.235.123.3|8080|Brazil|Cachoeiras de Macacu|K1 Telecom e Multimidia LTDA|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
