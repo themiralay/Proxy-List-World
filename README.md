@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|8|190.60.86.214|8080|Colombia|Bogotá|IFX Corporation|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
 |17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|190.60.86.214|8080|Colombia|Bogotá|IFX Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
