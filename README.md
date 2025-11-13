@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.165.155.195|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|170.239.205.185|999|Colombia|Bogotá|FIBERNET|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
-|14|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|15|103.120.76.190|1111|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.172.71.141|3127|Indonesia|Cikampek|AZNET|
-|18|185.137.233.179|10808|Russia|St Petersburg|JSC Selectel|
-|19|176.124.220.172|3128|Finland|Helsinki|xorek.cloud International LTD|
-|20|38.172.128.104|999|Peru|Lima|Conex TV E.I.R.L.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|7|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|103.178.3.253|8181|Indonesia|Tuliskriyo|RSTNET|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|13|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|14|103.19.58.174|3125|Indonesia|Kertosono|BITSNET|
+|15|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
+|16|103.138.71.133|8085|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|17|103.228.246.171|8080|Indonesia|Caruban|PT Giga Patra Multimedia|
+|18|184.82.41.163|8080|Thailand|Bangkok|AIS-Fibre|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
 
 
 
