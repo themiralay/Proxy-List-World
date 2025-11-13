@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|6|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
-|7|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|20|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|115.178.53.117|8080|Indonesia|Wonoharjo|NOC SIMAYA|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|90.154.41.58|8080|Russia|Moscow|PJSC Rostelecom|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|20|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 
 
 
