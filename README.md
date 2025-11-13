@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|122.220.8.210|8080|Japan|Nakano City|ARTERIA Networks Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|5|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
-|10|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|11|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
 |12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|45.175.59.2|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
 |16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|17|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|18|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|19|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
