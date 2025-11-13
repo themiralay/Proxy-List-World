@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|3.112.254.123|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|202.58.77.9|8080|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|6|115.72.37.37|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|14|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
