@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|1|47.250.130.11|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|8|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
-|9|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|12|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|18|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|74.48.187.167|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
