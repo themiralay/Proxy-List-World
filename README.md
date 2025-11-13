@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|152.42.247.107|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|103.99.136.66|8080|Indonesia|Sepatan|PT Jelajah Kreasi Informatika|
-|19|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|164.92.148.68|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|188.134.85.189|8118|Russia|St Petersburg|Interzet|
+|14|185.179.190.163|3128|Russia|Moscow|Webhost LLC|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|147.45.216.198|2525|Germany|Frankfurt am Main|Koara International Limited|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
