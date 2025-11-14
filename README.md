@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|212.113.100.43|10808|Sweden|Stockholm|xorek.cloud International LTD|
-|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|3|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|8|193.104.179.115|3128|Uzbekistan|Tashkent|LLC BROSS-TELECOM|
+|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|10|147.75.68.200|10087|United States|San Jose|Packet Host, Inc.|
+|11|147.75.68.200|10087|United States|San Jose|Packet Host, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
 
 
 
