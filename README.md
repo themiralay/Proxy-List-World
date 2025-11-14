@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|103.76.108.173|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|103.165.231.43|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|19|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|9|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|10|74.48.187.162|3128|United States|Los Angeles|Multacom Corporation|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|18|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
