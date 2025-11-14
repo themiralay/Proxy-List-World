@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
-|8|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|11|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|115.178.49.238|8085|Indonesia|Margabakti|NOC SIMAYA|
-|18|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
-|19|102.210.25.70|8080|Kenya|Nairobi|Dansted Tech Suppliers Limited|
-|20|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|103.176.97.223|3127|Indonesia|Gombong|PT Global Sarana Elektronika|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|13|112.204.117.16|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
