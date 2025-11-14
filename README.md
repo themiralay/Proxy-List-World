@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.170.153.129|8080|Japan|Nagoya|Sony Network Communications Inc.|
-|2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|11|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|74.48.187.162|3128|United States|Los Angeles|Multacom Corporation|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|182.170.153.129|8080|Japan|Nagoya|Sony Network Communications Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
