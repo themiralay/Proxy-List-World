@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|116.105.74.139|8080|Vietnam|Điện Bàn|Viettel Corporation|
-|14|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|57.128.188.167|9062|United Kingdom|Erith|OVH SAS|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.105.74.139|8080|Vietnam|Điện Bàn|Viettel Corporation|
+|8|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|164.138.205.71|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|16|190.93.92.78|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
