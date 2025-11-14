@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|115.147.165.115|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|115.147.165.115|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.223.77.89|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|74.48.172.93|3128|United States|Los Angeles|Multacom Corporation|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|103.172.120.93|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|15|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|16|157.10.97.119|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|17|200.69.78.90|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
-|18|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|19|157.10.97.85|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
+|10|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|103.75.54.230|8080|Indonesia|Cikarang|PT Quantum Tera Network|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|103.162.54.26|1111|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|157.10.97.85|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
