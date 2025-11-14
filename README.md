@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|121.101.130.154|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
-|11|200.69.78.90|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
-|12|165.101.102.25|8085|Philippines|Bagong Silangan|iRateNet Solutions|
-|13|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|103.114.96.246|8080|Bangladesh|Maijdi|HelloTech Limited|
-|16|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
-|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|18|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|7|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|45.114.144.97|32650|India|Jaipur|Tejays Dynamic Limited|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|14.189.225.247|8080|Vietnam|Thái Nguyên|VNPT|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|19|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
