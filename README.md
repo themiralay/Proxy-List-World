@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|184.22.0.135|8080|Thailand|Bangkok|AIS-Fibre|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|11|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|14|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|15|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
-|16|222.59.173.105|45140|China|Nanjing|China Mobile Communications Corporation|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|185.225.41.130|8080|Syria|Damascus|sy-samaweb|
-|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|10|103.155.198.253|8006|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|13|181.209.108.226|999|Argentina|El Hoyo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|202.5.33.229|9108|Bangladesh|Chittagong|BBTS-NEW|
+|15|103.172.42.105|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|103.156.16.45|8080|Indonesia|Pamanukan|RSTNET|
+|17|113.11.179.88|8080|Indonesia|Kudus|Biznet Networks|
+|18|179.57.215.99|999|Chile|Temuco|Telefonica del Sur S.A.|
+|19|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|20|185.225.41.130|8080|Syria|Damascus|sy-samaweb|
 
 
 
