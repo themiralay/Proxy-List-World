@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|8|103.156.57.85|1111|Indonesia|Tembilahan|PT Filltech Antar Nusa|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.75.84.181|7788|Indonesia|Candi Prambanan|MEGADATA|
-|11|181.78.74.90|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|103.68.214.129|1111|Indonesia|Sepatan|PT Media Grasi Internet|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 
 
 
