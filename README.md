@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|110.159.105.103|3128|Malaysia|Kajang|TM TECHNOLOGY SERVICES SDN BHD|
-|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|160.19.19.227|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|17|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|18|103.169.8.91|7777|Indonesia|Magetan|PT Bumi Manusia Network|
+|19|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|20|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
