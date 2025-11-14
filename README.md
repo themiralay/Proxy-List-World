@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.160.165.234|1111|Indonesia|Batu|PT Parsaoran Global Datatrans|
-|9|103.105.78.158|8080|Indonesia|Bojonegoro|PT. Garuda Media Telematika|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|101.255.211.41|1111|Indonesia|Jakarta|PT Remala Abadi|
-|14|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|197.232.25.204|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
