@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|9|203.150.128.238|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|16|183.88.214.44|8080|Thailand|Huai Thalaeng|Triple T Broadband Public Company Limited|
-|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|20|170.81.171.189|8282|Brazil|São Bernardo do Campo|Wireless Comm Services LTDA|
+|5|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|38.194.246.34|999|Mexico|León|Cogent Communications|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|203.150.128.238|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|186.208.81.214|3129|Brazil|Coxilha|RazaoInfo Internet Ltda|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
 
 
 
