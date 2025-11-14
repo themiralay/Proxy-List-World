@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.156.141.27|3125|Indonesia|Jember|PT Tekling Media Telematika|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|148.135.97.23|3128|United States|Los Angeles|Multacom Corporation|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|112.204.117.16|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|80.94.229.155|8080|Belarus|Minsk|IP TelCom LLC|
-|13|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|14|38.191.165.230|8080|Indonesia|Boyolali|PT CYB Media Group|
-|15|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|84.246.85.52|3128|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|49.145.127.21|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
