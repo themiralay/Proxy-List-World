@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|170.239.42.26|4595|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|201.144.25.10|8080|Mexico|La Cruz de Huanacaxtle|UNINET|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|118.137.63.17|8080|Indonesia|Bandung|Linknet-Fastnet ASN|
-|13|119.93.33.130|8082|Philippines|San Fernando City|Philippine Long Distance Telephone Co.|
-|14|103.217.216.65|8181|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|16|202.5.58.29|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|17|119.148.49.225|6969|Bangladesh|Dhaka|Agni Systems Limited|
-|18|49.48.95.183|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|45.87.140.155|8080|Russia|Moscow|Teraline Telecom Ltd|
-|20|164.138.205.70|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|13|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|14|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|17|103.148.45.165|7777|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
+|20|119.148.49.225|6969|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
