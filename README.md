@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.170.153.129|8080|Japan|Nagoya|Sony Network Communications Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|164.138.205.71|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
-|16|190.97.230.198|999|Venezuela|Caracas|Viginet C.A|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|193.43.140.228|8080|Syria|Ḩarastā|Syrian Telecom|
-|20|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|5|182.170.153.129|8080|Japan|Nagoya|Sony Network Communications Inc.|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|164.138.205.71|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|9|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|10|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|103.159.96.48|1080|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
