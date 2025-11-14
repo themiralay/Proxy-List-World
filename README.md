@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|6|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|7|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
-|10|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|194.28.226.156|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|103.190.60.33|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|11|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|20|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
 
 
 
