@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.167.124.137|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|17|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|18|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|17|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
