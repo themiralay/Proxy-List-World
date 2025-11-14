@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|14|72.10.160.170|4565|Canada|Montreal|GloboTech Communications|
-|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|17|72.10.164.178|3333|Canada|Montreal|GloboTech Communications|
-|18|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|202.5.60.42|63636|Bangladesh|Sonargaon|BBTS-NEW|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|15|72.10.160.170|4565|Canada|Montreal|GloboTech Communications|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|19|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
+|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
