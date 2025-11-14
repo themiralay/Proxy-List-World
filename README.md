@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|9|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|10|72.10.164.178|13817|Canada|Montreal|GloboTech Communications|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|67.43.228.254|11567|Canada|Montreal|GloboTech Communications|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|18|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|200.26.187.76|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|72.10.164.178|13817|Canada|Montreal|GloboTech Communications|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|16|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|17|67.43.228.254|11567|Canada|Montreal|GloboTech Communications|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
 
 
 
