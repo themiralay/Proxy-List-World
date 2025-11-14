@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79900** proxies at the latest update. Usable proxies are below.
+> Scraper found **79866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38036|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38002|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|95|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40543|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|14|202.5.37.222|25253|Bangladesh|Comilla|BBTS-NEW|
-|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|123.200.4.218|5873|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|19|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|5|160.191.130.131|8080|Indonesia|Kebumen Satu|PT Jaringan Lintas Maritim|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.12.173.241|8080|Bangladesh|Naogaon|SkyTel Communications Limited|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|180.149.234.73|6214|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|19|36.88.189.67|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
