@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|14|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|18|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|19|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|7|82.196.12.202|7777|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.171.83.179|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
+|13|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|38.194.246.34|999|Mexico|León|Cogent Communications|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
 
 
 
