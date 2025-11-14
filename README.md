@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|11|103.114.96.246|8080|Bangladesh|Maijdi|HelloTech Limited|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|103.48.71.170|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|17|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
-|18|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|6|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|11|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
 
 
 
