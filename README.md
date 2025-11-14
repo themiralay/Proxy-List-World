@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|5|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|6|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|7|103.22.99.138|8080|Indonesia|Ponorogo|KHALISTAGROUP|
-|8|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|9|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|11|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|67.43.228.250|28443|Canada|Montreal|GloboTech Communications|
-|15|202.5.60.76|6969|Bangladesh|Sonargaon|BBTS-NEW|
-|16|67.43.228.250|28443|Canada|Montreal|GloboTech Communications|
-|17|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|18|114.9.26.182|8080|Indonesia|Sukadana|PT. INDOSAT Tbk|
-|19|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|20|72.10.160.170|9467|Canada|Montreal|GloboTech Communications|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|8|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|9|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|201.144.25.10|8080|Mexico|La Cruz de Huanacaxtle|UNINET|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|119.155.143.218|8080|Pakistan|Karachi|Pakistan Telecommuication company limited|
+|19|67.43.228.250|28443|Canada|Montreal|GloboTech Communications|
+|20|190.94.232.39|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
