@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
-|12|72.10.164.178|19023|Canada|Montreal|GloboTech Communications|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|103.18.77.106|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
-|17|210.79.146.50|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|18|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
+|4|159.223.48.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|203.150.128.238|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
