@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|5|160.191.130.131|8080|Indonesia|Kebumen Satu|PT Jaringan Lintas Maritim|
-|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.12.173.241|8080|Bangladesh|Naogaon|SkyTel Communications Limited|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|3|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.157.24.205|1080|Indonesia|Sawangan|PT Dapur Remaja Multi Sarana|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
+|11|202.154.18.148|8081|Indonesia|Babat|DIGITNET|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|180.149.234.73|6214|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|19|36.88.189.67|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.67.80.153|8080|Indonesia|South Tangerang|PT Komunikasi Profesional Indonesia|
+|18|123.200.4.218|5873|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|19|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|20|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
