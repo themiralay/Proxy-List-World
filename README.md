@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|12|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|16|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|72.10.164.178|16823|Canada|Montreal|GloboTech Communications|
-|19|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|9|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|10|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|13|72.10.164.178|27305|Canada|Montreal|GloboTech Communications|
+|14|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|17|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|18|182.253.35.27|8080|Indonesia|Jakarta|BIZNET|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
