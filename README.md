@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.193.144.41|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 |11|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|119.18.151.198|25253|Bangladesh|Chittagong|BBTS Network|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|19|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|119.148.8.173|16343|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
