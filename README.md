@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|103.167.172.2|8080|India|Noida|Gungun Fiber Broadband|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.191.219.31|7777|Indonesia|Sumber|PT Replay Inti Media|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|41.155.99.12|8082|Ghana|Kumasi|Vodafone Ghana AS International Transit|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
