@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|103.167.31.154|8080|Indonesia|South Tangerang|PT iForte Global Internet|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|13|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|14|38.95.89.204|999|Dominican Republic|San José de Ocoa|TELECABLE DOMINICANO, S.A.|
-|15|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|5|49.145.127.21|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|6|80.190.83.71|8080|United Kingdom|Portsmouth|Contabo GmbH|
+|7|84.246.85.52|3128|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|62.68.48.22|8080|Libya|Tripoli|LTT Network Backbone and POPs|
+|10|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|13|45.225.249.253|8080|Dominican Republic|Cotuí|TELE-COTUI, S.R.L.|
+|14|45.123.142.82|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|19|103.153.149.200|8181|Indonesia|Pringalot|JARINGANKU|
-|20|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.227.186.73|6080|Indonesia|Siderejo|PT Master Star Network|
+|20|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
 
 
 
