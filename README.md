@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|113.192.12.33|9898|Indonesia|Prumpung|PT Parsaoran Global Datatrans|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|6|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|7|119.92.142.172|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|8|202.154.18.148|8081|Indonesia|Babat|DIGITNET|
-|9|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|10|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|103.157.24.205|1080|Indonesia|Sawangan|PT Dapur Remaja Multi Sarana|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|123.200.4.218|5873|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|185.77.240.82|8080|Russia|St Petersburg|Unitel, LLC|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|186.96.96.11|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
+|10|103.133.68.43|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|12|181.10.138.226|8083|Argentina|Rosario|Telecom Argentina S.A.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|103.151.22.26|8082|Indonesia|Jakarta|TERABYTE|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
 
 
 
