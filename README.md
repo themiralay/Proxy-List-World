@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|74.48.187.168|3128|United States|Los Angeles|Multacom Corporation|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|72.10.160.170|9467|Canada|Montreal|GloboTech Communications|
+|19|184.22.0.135|8080|Thailand|Bangkok|AIS-Fibre|
+|20|72.10.160.173|9467|Canada|Montreal|GloboTech Communications|
 
 
 
