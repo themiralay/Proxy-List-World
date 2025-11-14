@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|115.147.165.115|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|103.171.83.253|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|13|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|11|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
-|18|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|19|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|20|47.250.209.206|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|16|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|19|47.250.209.206|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|20|103.76.107.2|8085|Indonesia|Patuk|PT Geka Solusi Utama|
 
 
 
