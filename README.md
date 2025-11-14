@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|9|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|11|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|15|112.78.139.218|8080|Indonesia|Jakarta|BIZNET|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|94.181.191.158|8080|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
+|16|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|17|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
