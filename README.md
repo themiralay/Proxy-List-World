@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|103.171.83.253|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |6|45.144.53.25|1080|Finland|Helsinki|H2nexus LTD|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|11|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|14|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|20|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.172.120.93|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|16|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
