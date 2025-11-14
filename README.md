@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80012** proxies at the latest update. Usable proxies are below.
+> Scraper found **80041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38215|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38235|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40506|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
-|15|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|45.117.30.37|58989|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|16|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|72.10.164.178|16823|Canada|Montreal|GloboTech Communications|
+|19|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
