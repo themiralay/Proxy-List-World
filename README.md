@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
