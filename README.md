@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|181.78.51.157|999|Guatemala|Patzún|Ufinet Panama S.A.|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|103.133.27.143|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|17|201.88.213.118|8080|Brazil|Brasília|V tal|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|118.136.24.58|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|4|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|5|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|188.132.222.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|67.43.236.19|26645|Canada|Montreal|GloboTech Communications|
+|16|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|17|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
+|18|119.148.36.65|2092|Bangladesh|Dhaka|Agni Systems Limited|
+|19|176.117.106.126|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
