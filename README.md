@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|175.101.26.73|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|14|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|16|103.48.71.162|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|118.136.24.58|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.169.238.67|8080|Indonesia|Pakuan Agung|PT INDONESIA TRANS NETWORK|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|186.96.15.70|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|20|163.61.134.145|8081|Indonesia|Tangerang|PT Lentera Abadi Solusinet|
 
 
 
