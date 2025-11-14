@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|170.239.18.90|1830|Brazil|Salvador|I B T|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|14|103.125.118.170|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|202.5.34.54|25253|Bangladesh|Gazipur|BBTS-NEW|
+|9|38.191.161.187|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
+|10|204.199.139.75|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
+|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|16|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|152.32.68.171|65535|Philippines|Makati City|Converge ICT Solution Inc|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
