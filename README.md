@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|5|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|7|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 |10|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|132.255.10.116|8080|Argentina|Villa El Salvador|Netropolys S.A.|
-|14|67.43.228.250|12631|Canada|Montreal|GloboTech Communications|
-|15|170.239.42.26|4595|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|16|67.43.228.251|12631|Canada|Montreal|GloboTech Communications|
-|17|103.133.61.253|8181|Indonesia|Bangunrejo|TLINK|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|204.199.139.125|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|15|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|17|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
 |18|95.216.214.204|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
