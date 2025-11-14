@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|201.144.25.10|8080|Mexico|La Cruz de Huanacaxtle|UNINET|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|186.123.26.79|8080|Argentina|Ciudad del Libertador General San Martín|Techtel LMDS Comunicaciones Interactivas S.A.|
-|12|179.109.80.116|23421|Brazil|Armazém|Ponto SAT Conect Eireli ME|
-|13|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|14|167.234.224.70|5060|Brazil|São Paulo|Oracle Corporation|
-|15|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|114.9.25.74|8080|Indonesia|Muara Enim|PT. INDOSAT Tbk|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|10|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|201.144.25.10|8080|Mexico|La Cruz de Huanacaxtle|UNINET|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|94.154.152.13|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|18|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
+|20|43.246.200.57|8888|Bangladesh|Sonargaon|HelloTech Limited|
 
 
 
