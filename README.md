@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|103.165.157.107|8080|Indonesia|Mojokerto|MEGADATA-ISP|
-|6|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|17|124.106.116.34|1337|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|18|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|11|103.242.105.65|7200|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|13|148.135.97.23|3128|United States|Los Angeles|Multacom Corporation|
+|14|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|15|123.255.200.13|8070|Indonesia|Weleri|DATAUTAMANET|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.159.96.195|2117|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|20|45.123.142.82|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
 
 
 
