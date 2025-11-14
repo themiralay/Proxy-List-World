@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|4|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|9|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|72.10.160.92|15777|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|67.43.228.254|11567|Canada|Montreal|GloboTech Communications|
-|13|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|14|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|15|190.111.218.141|999|Argentina|San Juan Bautista|CPS|
-|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|18|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
-|20|185.32.5.72|8090|Poland|Szczecin|AS Consulting Sp. z o. o.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|13|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|20|209.14.113.2|999|Colombia|Quebradanegra|AGIS|
 
 
 
