@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.125.118.170|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|209.146.18.132|5050|Philippines|Davao City|Infinivan Incorporated|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|11|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|119.92.142.172|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|122.53.64.156|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|195.250.31.18|80|India|Navi Mumbai|WHG Hosting Services Ltd|
-|19|109.111.242.134|6666|Serbia|Belgrade|ORIONTELEKOM|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|13|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|14|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
+|18|5.135.59.43|50008|Portugal|Lisbon|OVH SAS|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
 
 
 
