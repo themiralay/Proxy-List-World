@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.178.86.93|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|1|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
