@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|103.171.82.63|7777|Indonesia|Jakarta|PT Multi Network Indonesia|
-|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|38.194.246.34|999|Mexico|León|Cogent Communications|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|41.254.48.192|1978|Libya|Tripoli|LTT Network Backbone and POPs|
+|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 |14|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
-|15|80.78.75.80|8080|Albania|Tirana|ABCom|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|119.148.8.173|16343|Bangladesh|Dhaka|Agni Systems Limited|
-|18|102.211.145.161|8081|Kenya|Nairobi|Unwired Communications Ltd|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|36.147.78.166|443|China|Guangzhou|China Mobile|
+|15|102.0.21.14|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
