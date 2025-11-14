@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79918** proxies at the latest update. Usable proxies are below.
+> Scraper found **79950** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38112|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|67.43.236.19|13999|Canada|Montreal|GloboTech Communications|
-|14|202.5.53.145|25253|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|8|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|9|45.191.47.2|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|113.192.30.217|8081|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|67.43.236.19|13999|Canada|Montreal|GloboTech Communications|
+|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|123.200.26.201|25251|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
