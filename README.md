@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|12|123.200.4.218|5873|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|19|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|20|181.78.73.53|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|46.101.131.79|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|14|202.5.37.222|25253|Bangladesh|Comilla|BBTS-NEW|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|18|123.200.4.218|5873|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|19|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
