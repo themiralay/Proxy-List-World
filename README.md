@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|201.144.25.10|8080|Mexico|La Cruz de Huanacaxtle|UNINET|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|186.123.26.79|8080|Argentina|Ciudad del Libertador General San Martín|Techtel LMDS Comunicaciones Interactivas S.A.|
+|12|179.109.80.116|23421|Brazil|Armazém|Ponto SAT Conect Eireli ME|
+|13|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|14|167.234.224.70|5060|Brazil|São Paulo|Oracle Corporation|
+|15|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|114.9.25.74|8080|Indonesia|Muara Enim|PT. INDOSAT Tbk|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
 
 
 
