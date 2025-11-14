@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|202.152.139.179|8080|Indonesia|Pugeran Maguwoharjo|PT Jembatan Citra Nusantara|
-|9|103.105.78.158|8080|Indonesia|Bojonegoro|PT. Garuda Media Telematika|
-|10|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|110.49.53.69|8081|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|15|157.66.20.100|8080|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
-|16|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|62.255.223.195|8080|United Kingdom|Edinburgh|Virgin Media Business|
-|18|170.239.41.253|4601|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
