@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|49.0.34.194|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|11|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|111.125.242.34|1111|India|Mumbai|NIXI|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
