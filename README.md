@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 |9|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
 |10|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
-|11|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
-|12|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.91.144|3172|Japan|Yokohama|InfoSphere|
 |16|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.91.144|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|19|72.10.164.178|3833|Canada|Montreal|GloboTech Communications|
-|20|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|18|72.10.164.178|3833|Canada|Montreal|GloboTech Communications|
+|19|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|20|103.39.51.184|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
