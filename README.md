@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|7|41.254.63.18|8080|Libya|Tripoli|LTT Network Backbone and POPs|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 |18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|20|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|19|190.60.45.79|999|Colombia|Cáceres|IFX NETWORKS COLOMBIA|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
