@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
 |6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|41.196.16.226|1976|Egypt|Cairo|Link Egypt (Link.NET)|
-|12|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.226.232.197|8099|Indonesia|Kepuh Wetan|PT Jaringan Multimedia Indonesia|
-|16|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|57.182.249.48|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|8|43.206.127.200|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|41.196.16.226|1976|Egypt|Cairo|Link Egypt (Link.NET)|
+|13|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
