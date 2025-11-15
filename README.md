@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|12|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|36.147.78.166|80|China|Guangzhou|China Mobile|
-|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|10|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|11|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|20|103.154.230.92|8090|Indonesia|Bilo|DIGITNET|
 
 
 
