@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|3|35.77.34.4|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|5|35.77.20.97|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
 |6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|13|35.75.21.141|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|16|35.75.19.151|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
