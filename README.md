@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|45.189.108.20|999|Peru|Surquillo|Bantel SAC|
+|17|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
