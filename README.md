@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|193.203.203.177|3128|Canada|Toronto|Tangram Canada Inc.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|12|37.220.85.73|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|82.103.94.190|8080|Bulgaria|Golden Sands|Spectrum NET|
-|17|185.225.41.130|8080|Syria|Damascus|sy-samaweb|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|36.88.141.105|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|6|193.203.203.177|3128|Canada|Toronto|Tangram Canada Inc.|
+|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|8|202.5.37.132|25253|Bangladesh|Comilla|BBTS-NEW|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|177.234.194.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|161.248.131.234|8082|Philippines|Malolos|OFiber Communications Inc.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|19|110.93.231.21|8082|Pakistan|Karachi|TRANSWORLD ASSOCIATES (PVT) LIMITED|
+|20|115.178.53.117|8080|Indonesia|Wonoharjo|NOC SIMAYA|
 
 
 
