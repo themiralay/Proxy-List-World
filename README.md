@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.185.43.242|8080|Indonesia|Madiun|PT Awinet Global Mandiri|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|12|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
-|13|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|14|43.252.236.165|8080|Indonesia|Caringin|NET|
-|15|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|20|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|6|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|7|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|8|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|9|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|11|181.209.75.124|8080|Argentina|La Esperanza|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|167.250.218.167|4598|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|13|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|15|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|16|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
+|17|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|20|103.18.77.106|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
 
 
 
