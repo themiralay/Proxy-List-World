@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
-|9|18.179.54.170|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
