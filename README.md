@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|5|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|38.194.231.66|999|Mexico|Pañhé|Cogent Communications|
-|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|14|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|15|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|19|45.186.208.34|8080|Venezuela|Maracaibo||
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|103.123.168.202|3932|Bangladesh|Nārāyanganj|Sajid Trading Ltd.|
+|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|109.127.82.18|8080|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|15|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|18|109.127.82.18|8080|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|19|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 
 
 
