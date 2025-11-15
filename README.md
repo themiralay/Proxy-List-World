@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|12|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|202.5.37.89|25253|Bangladesh|Comilla|BBTS-NEW|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|163.223.172.29|1080|Indonesia|Pelaihari|PT FAFI UIFI NETWORK|
+|18|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
 
 
 
