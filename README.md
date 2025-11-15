@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|10|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
-|19|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.132.52.20|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
 
 
 
