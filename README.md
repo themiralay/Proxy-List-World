@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|5|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|13|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |15|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
