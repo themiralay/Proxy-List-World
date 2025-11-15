@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.206.91.128|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
-|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
+|15|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
 |16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|18|103.163.244.108|83|India|Panipat|Infolink System|
-|19|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
+|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|20|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
