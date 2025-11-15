@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|192.145.173.101|8080|Somalia|Mogadishu|Hormuud Telecom Somalia INC|
-|16|85.117.61.74|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|17|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
-|19|103.245.109.70|21458|Bangladesh|Paltan|ACE IT Networks Limited|
-|20|190.111.218.142|999|Argentina|San Juan Bautista|CPS|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|7|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|74.143.86.243|3128|United States|Louisville|Charter Communications|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|14|103.185.43.242|8080|Indonesia|Madiun|PT Awinet Global Mandiri|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|18|102.216.72.18|8080|South Africa|Vredenburg|Rapid Networks (Pty) Ltd|
+|19|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|20|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
