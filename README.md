@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|102.207.128.3|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|144.31.26.218|3128|The Netherlands|Amsterdam|u1host ltd|
-|17|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|157.66.85.37|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|7|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|10|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|13|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|17|36.88.170.170|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|177.93.39.73|999|Colombia|Yaguará|TV AZTECA SUCURSAL COLOMBIA|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
