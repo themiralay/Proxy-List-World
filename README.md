@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |9|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|152.32.68.171|65535|Philippines|Makati City|Converge ICT Solution Inc|
-|15|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|19|103.109.173.11|8080|Indonesia|Jakarta|PT Cyberindo Aditama|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|212.113.100.43|10808|Sweden|Stockholm|xorek.cloud International LTD|
+|14|189.201.153.93|999|Mexico|Naolinco de Victoria|IP Matrix, S.A. de C.V.|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|19|181.209.77.250|999|Argentina|Santiago del Estero|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
