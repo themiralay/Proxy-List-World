@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|160.20.128.13|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|103.156.17.233|8080|Indonesia|Jatibarang|RSTNET|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|20|44.199.110.54|3128|United States|Ashburn|Amazon.com|
 
 
 
