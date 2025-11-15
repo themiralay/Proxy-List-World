@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 |9|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
 |12|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
 |13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|17|103.93.93.209|8089|Indonesia|Sempu|MYRISE|
+|18|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|19|46.100.90.246|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|20|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
 
 
 
