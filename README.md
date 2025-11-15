@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|57.182.249.48|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|7|43.206.127.200|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|41.196.16.226|1976|Egypt|Cairo|Link Egypt (Link.NET)|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|19|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|20|38.7.221.191|8080|Chile|Santiago|Grupo ZGH SPA|
 
 
 
