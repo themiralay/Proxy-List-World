@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|8|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|10|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|103.173.72.34|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|17|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
-|18|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|103.18.77.106|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
+|12|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
+|13|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|110.93.231.21|8082|Pakistan|Karachi|TRANSWORLD ASSOCIATES (PVT) LIMITED|
+|20|209.14.98.5|8080|Colombia|Repelón|AGIS|
 
 
 
