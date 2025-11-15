@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|182.253.38.179|3128|Indonesia|Semarang|BIZNET|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|45.174.79.65|999|Mexico|Camargo Municipality|Raul Duarte Urita|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.133.26.45|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
