@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|14|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|103.189.116.138|1220|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
 |17|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
 |18|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 
 
 
