@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80332** proxies at the latest update. Usable proxies are below.
+> Scraper found **42077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38255|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40764|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|8|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|212.113.100.43|10808|Sweden|Stockholm|xorek.cloud International LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
-|13|149.86.146.232|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|160.22.90.91|8181|Indonesia|Karangsembung|PT Lintas Data Kita|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|37.230.57.121|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|19|46.43.72.25|8080|Israel|Giv'on HaHadasha|Mada Al-Arab General Services Company|
+|20|72.50.33.170|999|Puerto Rico|San Juan|DATACOM CARIBE, INC.|
 
 
 
