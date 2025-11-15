@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
 |3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
 |6|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
 |10|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
 |12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
