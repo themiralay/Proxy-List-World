@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80308** proxies at the latest update. Usable proxies are below.
+> Scraper found **80080** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38203|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40798|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40570|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
-|10|18.179.54.170|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|103.171.31.77|8080|Indonesia|Depok|MORATELINDONAP|
-|18|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|19|103.93.93.66|8080|Indonesia|Madiun|MYRISE|
-|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|18.179.54.170|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
