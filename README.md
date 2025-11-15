@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.63.154|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|10|18.179.54.170|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
 |16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
