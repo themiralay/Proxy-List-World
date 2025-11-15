@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42077** proxies at the latest update. Usable proxies are below.
+> Scraper found **80332** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38255|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40764|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
-|8|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|212.113.100.43|10808|Sweden|Stockholm|xorek.cloud International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|181.78.200.125|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.158.13.234|8080|Indonesia|Bojonegoro|PT.Global Media Data Prima|
+|14|210.79.140.255|9191|Indonesia|Gianyar|PT Era Zia Sakti|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|158.222.90.12|4481|United States|Erskine|Northwest Minnesota Special Access, LLC|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|19|102.214.104.56|8080|Libya|Qaşr Khiyār|LTT Autonomous System, Tripoli Libya|
+|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
