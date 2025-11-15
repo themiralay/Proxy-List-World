@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|202.5.37.222|25253|Bangladesh|Comilla|BBTS-NEW|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|170.82.236.150|8080|Brazil|Jacinto Machado|Interliga Solucoes Tecnologicas Ltda - ME|
-|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|103.133.24.5|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|14|103.226.232.205|8099|Indonesia|Kepuh Wetan|PT Jaringan Multimedia Indonesia|
+|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
+|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|103.133.27.159|8085|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
 
 
 
