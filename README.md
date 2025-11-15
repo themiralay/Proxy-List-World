@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
-|20|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
 
 
 
