@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|5|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
-|6|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
-|7|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|202.77.112.246|8080|Indonesia|Tangerang|LINKNET|
-|11|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
-|12|45.5.119.70|999|Guatemala|Gualan|Infinitum S.A.|
-|13|14.99.215.106|1111|India|Navi Mumbai|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|14|156.230.20.37|3125|Indonesia|Matango|Octopus Web Solution Inc|
-|15|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|16|67.43.228.251|25703|Canada|Montreal|GloboTech Communications|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.155|3172|Japan|Yokohama|InfoSphere|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|8|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|9|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
+|11|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
+|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|49.49.62.55|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|15|124.217.99.254|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
+|20|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
 
 
 
