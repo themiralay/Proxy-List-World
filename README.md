@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
 |6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|41.196.16.226|1976|Egypt|Cairo|Link Egypt (Link.NET)|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|18|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
