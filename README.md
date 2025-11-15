@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
-|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|14|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|15|103.97.198.253|8080|Indonesia|Sekadau|PT Borneo Global Persada|
-|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|103.247.13.203|8090|Indonesia|Sangkalputung|TERABIT|
+|4|150.242.12.169|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|5|202.47.185.181|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.147.134.59|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|15|101.255.165.110|8090|Indonesia|Tangerang|PT Remala Abadi|
+|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|17|101.255.208.110|8080|Indonesia|Jakarta|PT Remala Abadi|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|115.178.53.117|8080|Indonesia|Wonoharjo|NOC SIMAYA|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
