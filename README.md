@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.183.23.212|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|18.179.60.94|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|3.112.83.218|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|57.183.14.241|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|3.112.74.154|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|6|116.80.47.232|3172|Japan|Yokohama|InfoSphere|
-|7|3.112.95.245|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|35.74.71.30|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|3.112.113.48|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.78.230.79|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|43.206.112.101|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|1|116.80.47.232|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|103.156.16.193|8818|Indonesia|Pamanukan|RSTNET|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|15|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|16|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|49.151.187.65|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
+|19|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
