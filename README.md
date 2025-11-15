@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|103.19.58.174|3125|Indonesia|Kertosono|BITSNET|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.93.93.209|8089|Indonesia|Sempu|MYRISE|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|17|196.251.223.29|8104|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
+|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|157.66.138.79|1080|Indonesia|Bogor|PT Neo Fiber Teknologi|
 
 
 
