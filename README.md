@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|202.5.37.222|25253|Bangladesh|Comilla|BBTS-NEW|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|49.48.86.29|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|103.136.171.165|8080|Indonesia|Jakarta|PT UNZA VITALI|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|103.105.57.98|7070|Indonesia|Sragen|PT Lambda Sinergi Telekomunikasi|
-|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|115.147.165.116|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|131.100.51.144|999|Colombia|Florencia|Fibernet TV SAS|
+|17|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|61.91.202.211|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|19|212.175.61.31|8080|Turkey|Izmir|Turk Telekomunikasyon Anonim Sirketi|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
