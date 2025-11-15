@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80251** proxies at the latest update. Usable proxies are below.
+> Scraper found **80283** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38241|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|119.93.153.250|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|93.126.6.66|3128|Iran|Isfahan|AsmanFaraz- IUT|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
