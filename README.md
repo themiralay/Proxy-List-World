@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41873** proxies at the latest update. Usable proxies are below.
+> Scraper found **80053** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38180|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40570|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|6|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|103.148.39.10|83|India|Bengaluru|Broadway Communication Pvt Ltd|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|38.188.165.38|999|Dominican Republic|Santo Domingo|Onered Jwg532 SRL|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|38.194.231.66|999|Mexico|Pañhé|Cogent Communications|
+|12|3.107.252.199|45157|Australia|Sydney|Amazon Technologies Inc.|
+|13|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
