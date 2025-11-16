@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80259** proxies at the latest update. Usable proxies are below.
+> Scraper found **80283** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38229|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|110|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40718|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|12|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|7|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|8|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|13|138.117.231.133|999|Guatemala|Huehuetenango|Fibernet S.A|
 |14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|94.19.75.239|8080|Russia|St Petersburg|SkyNet LLC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|16|102.36.133.62|8080|Nigeria|Lagos|Syscodes Communications|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|19|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|20|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
