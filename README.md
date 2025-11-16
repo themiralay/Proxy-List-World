@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
-|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|18|35.74.248.107|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
