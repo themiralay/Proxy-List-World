@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|9|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
 |15|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|16|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|17|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|18|103.159.46.45|83|India|Ahmedabad|King Netsol Private Limited|
+|19|197.232.25.204|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|20|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
 
 
 
