@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79934** proxies at the latest update. Usable proxies are below.
+> Scraper found **41697** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38237|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|88|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40679|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|9|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|13|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|14|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|15|101.255.166.134|1111|Indonesia|Tangerang|PT Remala Abadi|
-|16|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|176.117.105.169|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|102.39.233.4|8080|South Africa|Johannesburg|Vox Telecommunications (Pty) Limited|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
+|7|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|8|38.253.88.242|999|Dominican Republic|Villa Bisonó|LAUAM MEGARED TELECOM, S.R.L.|
+|9|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|10|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|11|190.97.230.198|999|Venezuela|Caracas|Viginet C.A|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|213.169.33.8|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
+|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|18|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
 
 
 
