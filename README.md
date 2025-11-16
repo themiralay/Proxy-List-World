@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|36.94.149.149|8090|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|14|103.153.149.224|8034|Indonesia|Gianyar|JARINGANKU|
-|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|5|103.159.195.183|1080|Indonesia|Jekulo|PT Giga Digital Nusantara|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|8|103.155.198.142|1080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|9|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|10|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
+|11|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|15|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|16|177.10.200.225|46433|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
 
 
 
