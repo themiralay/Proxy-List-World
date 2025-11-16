@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|49.49.41.155|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.189.250.65|8080|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|35.73.239.243|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|49.49.41.155|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|115.178.49.47|8080|Indonesia|Margabakti|NOC SIMAYA|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|17|110.76.145.59|89|Indonesia|Krajan|PT Pika Media Komunika|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
