@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|12|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|13|49.145.62.79|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
+|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
