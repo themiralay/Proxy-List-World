@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|16|102.38.29.36|8080|Libya|Tripoli|GZA|
-|17|67.43.228.251|28491|Canada|Montreal|GloboTech Communications|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|20|67.43.236.20|22231|Canada|Montreal|GloboTech Communications|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|9|102.0.16.252|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|67.43.228.251|28491|Canada|Montreal|GloboTech Communications|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
