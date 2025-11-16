@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|202.51.206.50|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|7|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|12|49.145.62.79|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|103.162.66.10|8080|India|Pune|Imperium Digital Network|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|10|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
+|20|45.144.234.129|52634|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
