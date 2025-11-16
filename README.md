@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80010** proxies at the latest update. Usable proxies are below.
+> Scraper found **80042** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38170|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.78.244.98|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.77.4.42|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|35.77.60.170|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|16|103.195.252.2|82|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|17|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|35.77.4.42|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
 
 
 
