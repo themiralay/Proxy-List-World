@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|16|98.71.99.164|8080|Ireland|Dublin|BellSouth.net Inc.|
-|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|9|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|10|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
+|11|103.156.17.111|8080|Indonesia|Karangsembung|RSTNET|
+|12|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|19|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|20|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
 
 
 
