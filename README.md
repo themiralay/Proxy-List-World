@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |3|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|9|103.227.186.61|6080|Indonesia|Siderejo|PT Master Star Network|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|171.4.183.5|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.238.57.1|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|103.76.109.123|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|10|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|45.238.57.1|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|72.10.160.90|30781|Canada|Montreal|GloboTech Communications|
 
 
 
