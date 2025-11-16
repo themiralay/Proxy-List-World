@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|3|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|67.43.228.252|1447|Canada|Montreal|GloboTech Communications|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|157.15.93.82|8080|India|Agra|Onremote Telecom Private Limited|
-|17|192.203.0.254|999|Puerto Rico|Fajardo|Boom NET|
-|18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|90.174.128.42|3128|Spain|Madrid|Uni2|
-|20|103.172.35.40|8080|Indonesia|Ketanggungan|PT Lintas Jaringan Nusantara|
+|1|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|6|121.132.61.211|3128|South Korea|Hwaseong-si|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|67.43.228.252|1447|Canada|Montreal|GloboTech Communications|
+|11|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|45.115.113.182|4334|Bangladesh|Kāfrul|Drik ICT Ltd|
+|17|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|18|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
