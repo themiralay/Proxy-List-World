@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|2|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|3|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
-|8|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
-|12|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
