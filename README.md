@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|9|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|10|138.118.106.121|999|Guatemala|Santa Catarina Pinula|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|11|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
-|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|13|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|16|119.93.139.196|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
-|18|147.75.68.200|9443|United States|San Jose|Packet Host, Inc.|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
+|3|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|13|200.121.48.195|999|Peru|La Esperanza|Telefonica del Peru|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|19|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
 
 
 
