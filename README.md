@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|72.10.160.170|24855|Canada|Montreal|GloboTech Communications|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|9|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|14|103.61.17.242|8082|Indonesia|Caringin|TWINSDATAPRATAMA|
+|15|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|17|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|18|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
 
 
 
