@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|3|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|4|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
 |17|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|18|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
+|19|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|20|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
 
 
 
