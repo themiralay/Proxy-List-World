@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79910** proxies at the latest update. Usable proxies are below.
+> Scraper found **80114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38254|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40517|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40721|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|17|45.90.216.103|8080|Russia|Moscow|First Server Limited|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|10|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
