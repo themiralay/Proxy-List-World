@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|103.178.86.93|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|102.209.79.230|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|181.78.24.166|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|13|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
+|14|103.147.246.184|3127|Indonesia|Sekarjalak|PLBNET|
+|15|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|18|103.155.167.22|8090|Indonesia|Citeureup|PT Network Lintas Fiberindo|
+|19|113.160.115.254|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|38.147.75.254|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
 
 
 
