@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
-|9|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
-|16|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|17|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|3|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
+|12|118.97.30.42|8099|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
