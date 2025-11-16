@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.74.238.178|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|3.112.108.241|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|35.73.240.242|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|57.183.2.29|3128|Japan|Tokyo|Amazon.com, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|35.77.15.193|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|57.183.23.29|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|35.78.220.147|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|57.183.38.77|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|35.78.227.109|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|18.179.62.138|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
-|18|57.183.24.247|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|57.183.23.29|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|43.206.96.68|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.207.64.236|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|57.183.24.247|3128|Japan|Tokyo|Amazon.com, Inc.|
+|5|35.74.238.178|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
+|7|35.74.247.100|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|35.78.220.147|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|35.78.227.109|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|18.179.62.138|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|57.183.16.123|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|35.77.15.193|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|3.112.87.42|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|35.73.240.242|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
