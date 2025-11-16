@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |18|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
+|19|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|20|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
 
 
 
