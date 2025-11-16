@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.154.52.5|1111|Indonesia|Tanjungsari|WIFIKITA|
-|15|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|17|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|38.95.88.124|999|Dominican Republic|Santo Domingo Este|TELECABLE DOMINICANO, S.A.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|10|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|103.247.23.202|8080|Indonesia|Ngawi|PT wifian Solution|
+|14|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|16|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
