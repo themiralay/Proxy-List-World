@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|103.242.105.65|7200|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|8|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|13|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|14|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|1|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|46.205.246.63|8080|Poland|Legionowo|T-Mobile Polska S.A.|
+|15|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
 
 
 
