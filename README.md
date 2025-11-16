@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80110** proxies at the latest update. Usable proxies are below.
+> Scraper found **80111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|128|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38248|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|185.200.37.242|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|19|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|14|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
