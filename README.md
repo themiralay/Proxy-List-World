@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|11|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|38.52.220.58|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|12|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
 |15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.248|3172|Japan|Yokohama|InfoSphere|
+|19|160.19.19.227|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|20|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
 
 
 
