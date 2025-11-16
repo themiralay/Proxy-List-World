@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.105.76.19|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|185.32.5.72|8090|Poland|Szczecin|AS Consulting Sp. z o. o.|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|186.65.106.90|2024|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|16|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
-|20|42.96.5.254|22883|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|103.76.31.2|8181|Indonesia|Pekanbaru|PT Umzah Sukses Jaringan Andalan|
+|8|42.96.5.254|22883|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|45.6.219.131|8080|Brazil|Fortaleza|ISPCORP Soluções Digitais Corporativas Ltda.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|38.224.97.6|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
