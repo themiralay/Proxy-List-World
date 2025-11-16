@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|103.156.74.186|8080|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
 |9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|36.147.78.166|80|China|Guangzhou|China Mobile|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|19|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
 
 
 
