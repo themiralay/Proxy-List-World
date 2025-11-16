@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|182.253.73.13|443|Indonesia|Labansari|BIZNET|
-|6|103.193.144.223|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|7|202.51.206.50|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|8|190.52.107.85|999|Costa Rica|Cartago|Gold Data USA Inc|
-|9|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
-|10|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|11|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.155.198.142|1080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
+|12|192.214.193.136|8080|France|Balma|Adista SAS|
+|13|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|14|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|15|122.3.77.27|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|16|49.145.62.79|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
