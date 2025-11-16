@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
-|9|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|9|139.99.238.95|8080|Australia|Sydney|OVH SAS|
 |10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.162.154.3|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|67.43.236.18|10033|Canada|Montreal|GloboTech Communications|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|72.10.160.170|6743|Canada|Montreal|GloboTech Communications|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|13|67.43.236.18|10033|Canada|Montreal|GloboTech Communications|
+|14|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|72.10.160.170|6743|Canada|Montreal|GloboTech Communications|
+|17|177.39.72.73|8080|Brazil|Araranguá|Sul Online Telecom Ltda - EPP|
 |18|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|157.66.37.76|8585|Indonesia|Sidorejo|PT Speed Network Indonesia|
 |20|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
 
 
