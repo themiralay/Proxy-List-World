@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|3|103.120.76.190|1111|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|12|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|154.18.255.57|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|12|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|16|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
 
 
 
