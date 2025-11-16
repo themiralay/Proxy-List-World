@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|8|160.22.198.4|8082|Indonesia|Sidorejo|PT Ganesha Data Nusantara|
-|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|10|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|12|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|20|112.203.41.223|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
