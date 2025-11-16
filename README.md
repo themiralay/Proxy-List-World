@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|11|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|19|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|72.10.160.170|12561|Canada|Montreal|GloboTech Communications|
 
 
 
