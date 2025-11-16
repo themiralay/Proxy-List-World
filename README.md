@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|186.180.48.106|999|Colombia|Pereira|Colombia Móvil|
+|6|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|13|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|14|116.80.79.128|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.249|3172|Japan|Yokohama|InfoSphere|
 
 
 
