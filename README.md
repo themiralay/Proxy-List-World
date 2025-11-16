@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.206.96.68|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|57.183.23.29|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|57.183.3.202|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|57.183.38.77|3128|Japan|Tokyo|Amazon.com, Inc.|
-|6|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|3.112.108.241|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|4|57.183.23.29|3128|Japan|Tokyo|Amazon.com, Inc.|
+|5|35.73.240.242|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|57.183.3.15|3128|Japan|Tokyo|Amazon.com, Inc.|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|57.183.3.15|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|35.73.240.242|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|19|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|20|35.74.238.178|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|10|57.183.24.247|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|35.74.238.178|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
