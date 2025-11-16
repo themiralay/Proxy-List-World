@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|5|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|6|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|94.181.191.158|8080|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
+|15|201.88.213.118|8080|Brazil|Brasília|V tal|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
