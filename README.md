@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|5|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|12|49.0.34.194|80|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|72.10.160.90|30667|Canada|Montreal|GloboTech Communications|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|7|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|10|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
 
 
 
