@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80296** proxies at the latest update. Usable proxies are below.
+> Scraper found **80264** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38248|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|110.49.53.69|8081|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|103.76.31.2|8181|Indonesia|Pekanbaru|PT Umzah Sukses Jaringan Andalan|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 |10|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|11|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|27.124.81.146|8080|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|20|102.207.191.68|8080|Kenya|Nairobi|Avitech Solutions LTD|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
