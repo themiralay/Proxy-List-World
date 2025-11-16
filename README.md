@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|179.50.10.189|8080|Colombia|Medellín|GTD COLOMBIA S.A.S|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|17|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|18|217.76.245.24|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
-|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|20|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|6|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
 
 
 
