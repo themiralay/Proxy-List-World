@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79862** proxies at the latest update. Usable proxies are below.
+> Scraper found **79882** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38165|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38167|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|88|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40679|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|103.76.109.123|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|10|74.84.84.132|8080|United States|Chanhassen|Mediacom Communications Corp|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|45.238.57.1|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|72.10.160.90|30781|Canada|Montreal|GloboTech Communications|
+|1|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|9|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|16|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|17|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|18|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
 
 
 
