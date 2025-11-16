@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|103.181.255.69|1111|Indonesia|Purwodadi Grobogan|PT Giga Digital Nusantara|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|17|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|18|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|19|103.93.93.178|8181|Indonesia|Caruban|MYRISE|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
