@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|5|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|14|193.43.145.227|8080|Syria|Al Mulayḩah|Syrian Telecom|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|185.225.40.236|8080|Syria|Damascus|sy-samaweb|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|20|157.66.20.100|8080|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|8|114.141.50.211|8080|Indonesia|Bandung|PT Cyberplus Media Pratama|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|103.184.67.115|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
+|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|13|89.110.73.226|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|16|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
