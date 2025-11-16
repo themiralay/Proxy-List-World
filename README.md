@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.108.241|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|57.183.23.29|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|43.206.96.68|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|35.74.238.178|3128|Japan|Tokyo|Amazon.com, Inc.|
-|6|35.77.40.89|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|18.179.62.138|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|35.78.227.109|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|57.183.16.123|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|57.183.38.77|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|57.183.3.15|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|35.73.240.242|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|57.183.24.247|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|35.74.248.107|3128|Japan|Tokyo|Amazon.com, Inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|57.183.12.130|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|13|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|35.78.220.147|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|57.183.2.29|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|119.94.121.89|8081|Philippines|Santa Maria|Philippine Long Distance Telephone Co.|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
