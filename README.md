@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|5|103.172.71.202|1111|Indonesia|Cikampek|AZNET|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|85.187.224.21|8080|Bulgaria|Kardzhali|Technolux Ltd|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|176.57.189.138|3128|France|Lauterbourg|Contabo GmbH|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|14|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|20|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
 
 
 
