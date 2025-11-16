@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|12|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|14|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|17|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|18|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|14|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
 
 
 
