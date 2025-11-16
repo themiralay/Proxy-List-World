@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|7|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|182.253.73.13|443|Indonesia|Labansari|BIZNET|
-|19|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|10|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|13|187.103.105.18|8086|Brazil|Florianópolis|BR.Digital Provider|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|20|72.10.164.178|9633|Canada|Montreal|GloboTech Communications|
 
 
 
