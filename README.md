@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|14|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|6|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|16|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|19|186.190.224.82|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|20|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
