@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|11|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
-|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|35.86.27.94|3128|United States|Portland|Amazon.com, Inc.|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|124.35.120.128|8080|Japan|Tokyo|ARTERIA Networks Corporation|
+|15|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
