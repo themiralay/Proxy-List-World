@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|11|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|17|118.136.24.58|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
 
 
 
