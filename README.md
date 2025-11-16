@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|164.138.205.15|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 |11|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|17|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
 |18|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|19|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
