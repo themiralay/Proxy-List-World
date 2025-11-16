@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.120.76.190|1111|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|173.212.215.22|3128|France|Lauterbourg|Contabo GmbH|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|10|177.136.44.194|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|11|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
