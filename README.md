@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
-|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|203.202.241.3|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
-|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|8|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|186.55.12.157|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|180.11.212.58|8080|Japan|Tokyo|NTT Communications Corporation|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
