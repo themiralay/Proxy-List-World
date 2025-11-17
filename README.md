@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|34.124.254.47|8888|Singapore|Singapore|Google LLC|
-|16|49.49.138.212|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|97.79.251.186|80|United States|Dallas|Spectrum|
-|20|113.192.1.28|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|15|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.19.58.174|3125|Indonesia|Kertosono|BITSNET|
+|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
 
 
 
