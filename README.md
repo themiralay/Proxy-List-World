@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|18|177.70.77.201|20183|Brazil|Catuípe|RazaoInfo Internet Ltda|
-|19|103.39.51.190|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|20|72.10.160.171|12403|Canada|Montreal|GloboTech Communications|
+|5|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|8|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|9|112.201.237.191|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|10|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|11|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|20|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
 
 
 
