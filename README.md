@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|103.171.255.60|8080|Indonesia|Sleman|ZKI|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|177.234.240.124|1993|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.250.68.206|8080|Bangladesh|Dhaka|Next Online Limited|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.169.132.70|8080|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
