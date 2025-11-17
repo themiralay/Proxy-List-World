@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|177.234.211.175|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|12|103.171.255.245|8080|Indonesia|Sleman|ZKI|
-|13|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|103.26.110.125|84|India|Ālangulam|Niss Networks|
-|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|103.238.232.70|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|16|177.130.104.118|33333|Brazil|Santo Anastácio|Vero S.A|
+|17|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
