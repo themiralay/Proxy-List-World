@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80665** proxies at the latest update. Usable proxies are below.
+> Scraper found **80599** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38324|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38258|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|99|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41016|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|103.82.23.118|5175|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|160.191.130.131|8080|Indonesia|Kebumen Satu|PT Jaringan Lintas Maritim|
-|17|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|12|103.106.115.145|8080|Indonesia|Kedaton|SMSNET|
+|13|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|14|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
+|19|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
