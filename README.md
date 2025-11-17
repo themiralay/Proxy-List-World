@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|103.111.136.58|8080|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
-|7|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|9|103.247.23.251|1111|Indonesia|Cileungsir|PT wifian Solution|
-|10|190.60.60.219|8080|Colombia|Cereté|IFX NETWORKS COLOMBIA|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|190.93.92.78|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
-|13|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
-|14|72.10.164.178|19453|Canada|Montreal|GloboTech Communications|
-|15|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|16|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|19|103.156.14.165|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|20|49.144.30.86|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|19453|Canada|Montreal|GloboTech Communications|
 
 
 
