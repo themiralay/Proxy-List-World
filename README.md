@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.189.249.210|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|182.160.114.211|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|13|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
-|14|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|15|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|179.49.203.107|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|179.49.203.107|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|5|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
+|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
