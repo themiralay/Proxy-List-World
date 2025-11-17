@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|157.245.159.127|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|10|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|45.144.234.129|53556|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|19|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|20|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|18|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|19|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
