@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|103.39.70.223|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|103.106.115.145|8080|Indonesia|Kedaton|SMSNET|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
