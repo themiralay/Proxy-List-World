@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80460** proxies at the latest update. Usable proxies are below.
+> Scraper found **80507** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38238|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40904|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|103.167.172.2|8080|India|Noida|Gungun Fiber Broadband|
-|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|15|103.156.96.67|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
-|16|103.176.97.223|3127|Indonesia|Gombong|PT Global Sarana Elektronika|
-|17|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|1|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|103.46.11.92|8080|Indonesia|Bakalan|Lintas Data Prima, PT|
+|11|45.144.234.129|54903|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|14|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|15|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
+|16|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|210.87.74.65|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|19|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|20|109.224.242.13|8085|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
 
 
 
