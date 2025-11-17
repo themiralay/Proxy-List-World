@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80287** proxies at the latest update. Usable proxies are below.
+> Scraper found **42001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|261|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38287|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40721|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
-|14|45.144.234.129|53556|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|59.33.33.155|7890|China|Zhongshan|Chinanet|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
 
 
 
