@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|17|103.171.83.179|1111|Indonesia|Jakarta|PT Multi Network Indonesia|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|10|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|43.217.143.102|90|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
+|15|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
