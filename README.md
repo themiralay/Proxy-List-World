@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80164** proxies at the latest update. Usable proxies are below.
+> Scraper found **42000** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|261|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40721|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|42.96.5.254|22883|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|203.202.241.4|3128|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|185.32.5.72|8090|Poland|Szczecin|AS Consulting Sp. z o. o.|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|19|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
