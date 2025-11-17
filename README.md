@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|2|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|190.9.108.135|999|Mexico|Juárez|Megabit Telecomunicaciones SA De CV|
-|10|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|14|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|43.217.143.102|90|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
