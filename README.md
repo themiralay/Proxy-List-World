@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|9|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|10|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|14|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.26.110.125|84|India|Ālangulam|Niss Networks|
-|20|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|9|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
