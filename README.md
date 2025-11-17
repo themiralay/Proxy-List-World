@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
 |5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|45.144.234.129|54486|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
 
 
 
