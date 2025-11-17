@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|9|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|10|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|160.19.17.33|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|17|190.102.233.100|999|Chile|Lampa|Pacifico Cable SPA.|
-|18|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|12|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.18.77.106|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|182.253.10.21|8080|Indonesia|Jakarta|BIZNET|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|210.87.91.239|8080|Indonesia|Dayanpeken|MYREPUBLIC|
 
 
 
