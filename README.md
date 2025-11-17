@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|193.43.140.85|8080|Syria|Ḩarastā|Syrian Telecom|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|200.8.19.122|8080|Venezuela|Barinas|Corporación Telemic C.A.|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
 |11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|17|176.117.104.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
