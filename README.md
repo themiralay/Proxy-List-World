@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|116.108.250.148|4002|Vietnam|Hanoi|Viettel Corporation|
-|8|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|9|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|10|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|210.2.84.29|3128|Vietnam|Ho Chi Minh City|Quang Trung Software City Development Company|
-|13|40.192.38.216|5678|India|Hyderabad|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|87.106.122.120|3128|France|Paris|IONOS SE|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|102.23.237.121|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|18|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|45.71.202.147|1993|Ecuador|Chordeleg|Ufinet Panama S.A.|
 
 
 
