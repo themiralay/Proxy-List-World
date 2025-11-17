@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|45.163.238.254|8080|Brazil|Itaipava do Grajaú|Intercol Serv de Aux a Internet eireli Me|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|111.125.242.34|1111|India|Mumbai|NIXI|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.76.149.162|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|8|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|212.252.73.42|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|19|103.203.234.20|7777|Indonesia|Banyumas|PT Nesta Indo Media|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
