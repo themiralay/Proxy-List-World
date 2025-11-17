@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|5|103.153.149.137|8080|Indonesia|Weleri|JARINGANKU|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|101.255.119.25|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|46.101.92.46|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |12|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|13|165.232.77.140|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
+|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
 
 
 
