@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|11|103.171.255.245|8080|Indonesia|Sleman|ZKI|
-|12|103.46.4.93|8080|Indonesia|Bangkinang|PT Akses Sentral Teknologi|
-|13|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|20|72.10.160.173|5381|Canada|Montreal|GloboTech Communications|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|9|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|15|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|17|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|38.252.213.67|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
