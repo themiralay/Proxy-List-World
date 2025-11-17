@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|7|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|103.82.93.219|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|17|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|20|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
 
 
 
