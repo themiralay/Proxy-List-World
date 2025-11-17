@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|17|123.255.200.13|8070|Indonesia|Weleri|DATAUTAMANET|
-|18|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|45.144.234.129|54237|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|18|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
 
 
 
