@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|47.251.110.68|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|103.133.68.53|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|103.247.21.229|3231|Indonesia|Purbalingga|PT wifian Solution|
-|17|209.14.119.122|999|Colombia|Tibú|AGIS|
-|18|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|190.60.60.219|8080|Colombia|Cereté|IFX NETWORKS COLOMBIA|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.78.71|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
