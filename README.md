@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|14.241.39.169|8080|Vietnam|Hanoi|VNPT|
-|16|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|17|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|9|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|14|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|200.26.187.69|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
 
 
 
