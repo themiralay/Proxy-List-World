@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|8|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|6|177.234.211.175|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|212.252.73.42|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|15|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|200.106.63.218|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|20|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.171.255.188|8080|Indonesia|Godean|ZKI|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
