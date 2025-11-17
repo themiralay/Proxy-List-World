@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
+|7|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|160.25.245.29|8082|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|109.224.242.151|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
 
 
 
