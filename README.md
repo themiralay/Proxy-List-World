@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
 |5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|27.123.222.193|8080|Indonesia|Jakarta|FIBERNET|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|103.141.152.107|8989|Indonesia|Bandung|PRIMACOM|
 |14|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
 |15|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|18|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|19|115.247.115.38|8080|India|Mangaluru|Reliance Jio Infocomm Limited|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
