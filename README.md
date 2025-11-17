@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42352** proxies at the latest update. Usable proxies are below.
+> Scraper found **4206** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38146|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2899|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|16|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|7|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|11|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|12|209.14.113.2|999|Colombia|Quebradanegra|AGIS|
+|13|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|14|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
+|15|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|16|103.154.230.94|8090|Indonesia|Bilo|DIGITNET|
+|17|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|36.67.114.94|8187|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
+|19|209.62.196.68|8080|United States|Cut Off|EATEL|
+|20|45.175.232.75|999|Mexico|Tampico|Inbtel SA De CV|
 
 
 
