@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
+|8|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|62.213.13.54|3128|Russia|Samara|Rostelecom networks|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|102.211.145.161|8081|Kenya|Nairobi|Unwired Communications Ltd|
+|19|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
