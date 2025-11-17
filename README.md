@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|2|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|103.160.205.230|8080|Indonesia|Pendaleman|PRIME|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
