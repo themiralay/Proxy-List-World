@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|9|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.80.233|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|18|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|10|170.245.132.85|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.189.249.210|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
