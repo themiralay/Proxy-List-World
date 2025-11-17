@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80393** proxies at the latest update. Usable proxies are below.
+> Scraper found **80439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38196|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40904|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|116.80.93.185|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.45|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|9|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
 |10|42.96.5.57|22892|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|13|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|103.155.198.161|8037|Indonesia|Baturaden|PT Lintas Jaringan Nusantara|
-|17|202.145.5.184|8080|Indonesia|Mranggen|PT Jala Lintas Media|
-|18|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|103.172.23.70|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|19|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
