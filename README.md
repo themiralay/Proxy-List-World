@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|58.147.190.145|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|97.79.251.186|80|United States|Dallas|Spectrum|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|181.119.93.50|8084|Peru|Talara|Ufinet Panama S.A.|
-|10|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|103.82.246.15|6080|Indonesia|Ciputat|PT Master Star Network|
-|13|103.164.212.125|8080|Indonesia|Gubengairlangga|PT iForte Global Internet|
-|14|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|157.10.97.129|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|17|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|196.15.149.177|8080|South Africa|Knysna|SHISAS|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|8|157.10.97.129|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|9|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|196.15.149.177|8080|South Africa|Knysna|SHISAS|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|209.14.119.122|999|Colombia|Tibú|AGIS|
+|16|181.119.93.50|8084|Peru|Talara|Ufinet Panama S.A.|
+|17|38.95.89.204|999|Dominican Republic|San José de Ocoa|TELECABLE DOMINICANO, S.A.|
+|18|103.126.87.112|1285|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|19|38.156.75.227|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
