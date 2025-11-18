@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |8|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|9|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|45.67.219.179|40001|United States|Los Angeles|HostHatch|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|45.67.219.179|40001|United States|Los Angeles|HostHatch|
+|12|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|15|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|163.61.55.103|1234|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|18|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
 |19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
