@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|3|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|4|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|5|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|6|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|103.171.183.194|8181|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|11|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|12|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
 |13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|15|45.67.219.179|40001|United States|Los Angeles|HostHatch|
-|16|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|41.33.126.133|1981|Egypt|Cairo|TE Data|
-|20|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|14|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 
 
 
