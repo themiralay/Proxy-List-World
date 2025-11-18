@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|8|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|14|112.199.40.53|8080|Philippines|Makati City|Eastern Telecommunications Philippines|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|103.156.14.18|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|103.193.145.51|3128|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|12|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
