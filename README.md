@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|27.147.134.209|410|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|19|103.97.224.219|8181|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|20|185.16.214.166|8080|Russia|Moscow|Start2 LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
