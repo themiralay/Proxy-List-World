@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|11|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|16|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 |17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|18|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|193.203.203.177|3128|Canada|Toronto|Tangram Canada Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
