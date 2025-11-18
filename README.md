@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|4|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|15|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|2|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|3|15.204.151.149|3128|United States|Reston|OVH SAS|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|6|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |17|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.63.179|3172|Japan|Yokohama|InfoSphere|
 
 
 
