@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **826** proxies at the latest update. Usable proxies are below.
+> Scraper found **39038** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|20|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|20|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|20|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38212|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|0|🚫|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|0|🚫|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|0|🚫|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|103.190.60.33|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
-|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|103.190.60.33|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|210.87.125.58|1080|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|103.82.23.118|5175|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|20|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
 
 
 
