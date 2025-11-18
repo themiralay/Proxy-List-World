@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |8|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|9|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|15|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|10|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|181.143.181.35|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|15|209.14.119.122|999|Colombia|Tibú|AGIS|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|51.81.6.158|31158|United States|Reston|OVH SAS|
 |20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
