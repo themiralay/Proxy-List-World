@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|152.70.84.108|8080|Japan|Osaka|Oracle Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|18|103.178.86.82|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|103.73.164.190|32650|Cambodia|Poipet|TPLC Holdings Ltd|
+|17|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|116.80.81.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
