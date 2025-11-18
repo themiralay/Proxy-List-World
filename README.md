@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|36.147.78.166|443|China|Guangzhou|China Mobile|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|18|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|119.93.139.196|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|14.241.130.94|1452|Vietnam|Da Nang|VNPT|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|38.224.97.6|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|18|116.80.80.251|3172|Japan|Yokohama|InfoSphere|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 
 
 
