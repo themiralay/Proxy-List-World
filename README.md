@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80623** proxies at the latest update. Usable proxies are below.
+> Scraper found **80611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38262|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38250|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|123|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41012|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|103.178.86.93|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|89.58.15.147|3128|Germany|Nuremberg|netcup GmbH|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|116.80.93.162|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.140|3172|Japan|Yokohama|InfoSphere|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|36.147.78.166|80|China|Guangzhou|China Mobile|
+|17|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
