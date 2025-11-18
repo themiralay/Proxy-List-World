@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|7|27.147.137.234|410|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|7|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
 |18|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.93.114|3172|Japan|Yokohama|InfoSphere|
 
 
 
