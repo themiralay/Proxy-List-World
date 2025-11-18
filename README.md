@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79964** proxies at the latest update. Usable proxies are below.
+> Scraper found **79997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38198|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38231|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|97|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40443|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|27.147.137.234|410|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|157.66.84.17|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|18|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|19|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|7|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|8|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|13|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
+|14|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|15|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|116.80.90.141|3172|Japan|Yokohama|InfoSphere|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
