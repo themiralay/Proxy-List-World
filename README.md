@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|210.61.216.63|60808|Taiwan|Songshan|Chunghwa Telecom Co., Ltd.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|11|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|12|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|4|103.106.34.49|4995|Bangladesh|Nārāyanganj|ProgotiIT|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|17|67.43.236.20|16193|Canada|Montreal|GloboTech Communications|
+|18|115.84.175.36|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
