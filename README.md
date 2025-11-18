@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|8|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|11|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|191.36.128.62|8080|Brazil|São Paulo|Netfi serviços de comunicações ltda epp|
-|18|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|4|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|9|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|10|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|13|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|67.43.228.254|19167|Canada|Montreal|GloboTech Communications|
+|18|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
+|19|67.43.228.250|1691|Canada|Montreal|GloboTech Communications|
+|20|41.33.245.139|1981|Egypt|Cairo|TE Data|
 
 
 
