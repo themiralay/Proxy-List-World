@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79187** proxies at the latest update. Usable proxies are below.
+> Scraper found **79491** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37833|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38137|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40054|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|12|185.154.8.1|56789|Spain|Besalú|AVATEL TELECOM, SA|
-|13|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|14|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|4|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|7|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|16|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|18|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|20|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
 
 
 
