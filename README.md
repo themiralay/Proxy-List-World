@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.247.240.12|7777|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|11|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|101.255.208.18|8090|Indonesia|Jakarta|PT Remala Abadi|
-|19|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|20|72.10.160.171|12403|Canada|Montreal|GloboTech Communications|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.227.186.73|6080|Indonesia|Siderejo|PT Master Star Network|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|101.255.167.234|8080|Indonesia|Tangerang|PT Remala Abadi|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
 
 
 
