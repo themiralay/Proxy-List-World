@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|1|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |2|67.43.236.21|11559|Canada|Montreal|GloboTech Communications|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|9|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|10|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|11|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|163.47.87.10|8080|Bangladesh|Chittagong|Chittagong Online Limited|
-|16|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|157.10.97.85|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|5|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|6|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|9|194.48.198.135|7070|Iran|Zarrīn Shahr|Pars Parva System LLC|
+|10|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
