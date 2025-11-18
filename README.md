@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|104.199.133.233|3128|Taiwan|Taipei|Google LLC|
-|5|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|11|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
 |12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|14|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|15|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|16|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|17|124.158.153.218|8180|Indonesia|Sedatiagung|PT iForte Global Internet|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|16|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|17|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|20|45.67.219.179|40001|United States|Los Angeles|HostHatch|
 
 
 
