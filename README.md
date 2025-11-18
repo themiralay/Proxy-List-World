@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 |12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|18|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|13|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|20|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
 
 
 
