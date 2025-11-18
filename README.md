@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|5|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|6|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|103.173.139.221|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|19|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|20|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|16|185.103.134.36|8080|Russia|Moscow|Address AS 57191|
+|17|170.81.209.234|8080|Brazil|Carapicuíba|Connectvy Telecomunicacoes Ltda|
+|18|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|19|109.224.242.205|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
