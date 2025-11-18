@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|165.16.27.43|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|163.223.117.255|8888|Indonesia|Kuningan|PT Signall Network Nusantara|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|190.61.61.210|999|Colombia|Villapinzón|Ufinet Panama S.A.|
-|18|137.59.50.39|19201|Bangladesh|Tongi|Bijoy Online Ltd|
-|19|177.234.217.44|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|103.175.224.131|8080|Indonesia|Jakarta|MYREPUBLIC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|79.106.108.156|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|14|103.19.78.136|1111|Indonesia|Randuboto|PDM|
+|15|188.132.222.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|19|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|20|177.43.213.80|8090|Brazil|Araraquara|TELEFÔNICA BRASIL S.A|
 
 
 
