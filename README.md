@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|14.241.130.94|1452|Vietnam|Da Nang|VNPT|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|19|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|20|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|18|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|19|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
 
 
 
