@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|33|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|33|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|33|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|34|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|34|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|34|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|5|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|3|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 |7|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|8|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|116.80.47.138|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|12|183.236.232.160|8080|China|Guangzhou|China Mobile|
+|13|103.171.182.106|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|14|103.242.104.213|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|116.80.80.235|3172|Japan|Yokohama|InfoSphere|
+|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|103.156.14.165|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|18|58.249.55.222|9797|China|Wushan|CNC Group CHINA169 Guangdong Province Network|
+|19|38.156.72.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
