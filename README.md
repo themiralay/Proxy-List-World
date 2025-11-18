@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|3|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|2|46.45.110.196|3128|Poland|Ostrowiec Świętokrzyski|Sieci Blokowe S.C.|
+|3|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|4|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|5|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
 |6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|185.103.134.36|8080|Russia|Moscow|Address AS 57191|
-|8|103.139.98.50|8090|Indonesia|Bandaragung|Digital Network Setiawan|
-|9|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
-|10|152.32.64.43|8095|Philippines|Makati City|Converge ICT Solution Inc|
-|11|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|7|103.172.70.29|1111|Indonesia|Pelabuhanratu|AZNET|
+|8|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|9|79.127.56.147|8080|Iran|Tehran|Asiatech Data Transmission company|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|12|176.208.101.50|8080|Russia|Surgut|PJSC Rostelecom|
 |13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|17|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
-|18|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|54.199.199.66|2727|Japan|Tokyo|Amazon.com, Inc.|
+|15|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
+|18|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|19|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|20|103.26.177.35|1080|Indonesia|Ngamba|PT Lintas Jaringan Nusantara|
 
 
 
