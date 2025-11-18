@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80007** proxies at the latest update. Usable proxies are below.
+> Scraper found **80032** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38241|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38266|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|97|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40443|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
-|5|103.173.139.221|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|6|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
-|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.247.23.251|1111|Indonesia|Cileungsir|PT wifian Solution|
-|14|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|15|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
-|17|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|103.39.49.97|9090|Indonesia|Arjawinangun|PT. Mega Mentari Mandiri|
-|20|103.175.245.204|8080|Bangladesh|Pālang|Orange Communication|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|202.148.18.178|8080|Indonesia|Ciputat|PT. Core Mediatech|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|160.19.18.181|8181|Indonesia|Pasuruan|PT Indo Telemedia Solusi|
+|13|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|14|177.234.217.44|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|16|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|17|49.145.127.18|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
 
 
 
