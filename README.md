@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|7|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|8|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|14|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|15|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|103.187.86.166|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
+|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|27.147.134.209|410|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
