@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|3|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|198.145.118.100|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|204.199.140.20|999|Chile|Villa Alegre|Ingbell Chile SPA|
-|13|167.249.30.253|999|Chile|Pucón|Globalconnect SPA|
-|14|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
-|17|38.156.72.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|19|139.159.97.42|9798|China|Guangzhou|China Unicom|
-|20|138.255.14.20|8080|Brazil|Altamira|VirtualSpace Telecom|
+|2|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|3|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|4|103.125.154.233|8080|India|Tirupur|Live Fibernet|
+|5|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|45.144.234.129|54903|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|202.191.123.195|35353|Bangladesh|Dhaka|Bijoy Online Limited|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|116.80.80.222|3172|Japan|Yokohama|InfoSphere|
+|20|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 
 
 
