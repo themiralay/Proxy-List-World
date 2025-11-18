@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79017** proxies at the latest update. Usable proxies are below.
+> Scraper found **78817** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|20|202.5.40.85|8443|Bangladesh|Chittagong|BBTS-NEW|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
