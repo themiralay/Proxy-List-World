@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|5|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|6|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.92.228|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|202.148.18.178|8080|Indonesia|Ciputat|PT. Core Mediatech|
+|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|116.80.80.234|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.93.178|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.92.196|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.62.226|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.64.3|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
 
 
 
