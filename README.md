@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|14|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|18|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|103.106.34.49|4995|Bangladesh|Nārāyanganj|ProgotiIT|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
