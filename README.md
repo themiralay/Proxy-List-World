@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|2|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|37.187.109.70|10111|France|Roubaix|OVH SAS|
 |3|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|4|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|6|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|7|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|103.177.235.207|84|India|Bengaluru|Coastal Live Channel|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
+|8|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|10|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|120.89.90.210|8090|Indonesia|Ngamprah|PT. Java Digital Nusantara|
-|16|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|17|41.65.55.27|1981|Egypt|Quţūr|Etisalat Misr Mobile BB|
-|18|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|19|46.152.153.247|8080|Saudi Arabia|Riyadh|Etihad Etisalat|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|202.191.123.195|35353|Bangladesh|Dhaka|Bijoy Online Limited|
+|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
