@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|1.161.194.81|8082|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
-|8|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|12|38.172.128.21|999|Peru|Lima|Conex TV E.I.R.L.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|72.10.164.178|17071|Canada|Montreal|GloboTech Communications|
+|19|49.0.1.43|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
