@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|182.253.102.204|8080|Indonesia|Cikampek|BIZNET|
-|12|206.42.15.142|8090|Brazil|Juazeiro do Norte|Brisanet Prestacao De Servicos De Internet Ltda|
-|13|170.84.147.129|8088|Brazil|Tutóia|Direct Telecom Ltda|
-|14|177.234.240.122|1993|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|27.147.137.234|410|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|17|195.142.16.23|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|18|103.122.65.8|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|19|72.10.164.178|27519|Canada|Montreal|GloboTech Communications|
-|20|176.88.191.254|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|4|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|5|103.173.139.221|8080|Indonesia|Semarang|PT Serayu Multi Connection|
+|6|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.247.23.251|1111|Indonesia|Cileungsir|PT wifian Solution|
+|14|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|15|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|103.155.199.107|1111|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|17|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
+|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|103.39.49.97|9090|Indonesia|Arjawinangun|PT. Mega Mentari Mandiri|
+|20|103.175.245.204|8080|Bangladesh|Pālang|Orange Communication|
 
 
 
