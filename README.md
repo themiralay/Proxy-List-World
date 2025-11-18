@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|16|36.147.78.166|80|China|Guangzhou|China Mobile|
-|17|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|15|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 |18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|116.80.91.203|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
 
 
 
