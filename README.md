@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
 |2|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|3|67.43.236.21|11559|Canada|Montreal|GloboTech Communications|
-|4|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|3|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
 |6|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|7|180.180.175.11|8080|Thailand|Suphan Buri|TOT Public Company Limited|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |8|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|186.96.70.14|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|18|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|190.83.15.4|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|13|45.144.234.129|54903|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|18|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|19|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
+|20|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
