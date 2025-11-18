@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.162|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|13|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|103.190.60.33|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
