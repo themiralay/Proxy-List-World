@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|103.191.219.31|7777|Indonesia|Sumber|PT Replay Inti Media|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|12|185.154.8.1|56789|Spain|Besalú|AVATEL TELECOM, SA|
+|13|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|14|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|41.65.160.172|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 |19|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
