@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|2|67.43.236.21|11559|Canada|Montreal|GloboTech Communications|
-|3|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|4|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|5|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|6|103.130.70.233|83|India|Darjeeling|Siliguri Meghrekha Net Services Pvt. Ltd|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.139.25.121|8080|Indonesia|Sidoarjo|Universitas Muhammadiyah Sidoarjo|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|12|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|17|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|18|103.38.54.64|83|Bangladesh|Nārāyanganj|Sajid Trading Limited|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|67.43.236.21|11559|Canada|Montreal|GloboTech Communications|
+|4|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|5|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|6|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|41.33.203.115|1982|Egypt|Cairo|TE Data|
+|19|139.159.97.42|9798|China|Guangzhou|China Unicom|
+|20|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
 
 
 
