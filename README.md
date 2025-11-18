@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.85.1|8080|India|Acharapākkam|Amigos Broadband Pvt Ltd|
-|2|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|3|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|1|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|2|103.125.154.233|8080|India|Tirupur|Live Fibernet|
+|3|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
 |4|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|94.138.223.202|3128|Turkey|Kadıköy|IHS-VPS|
-|8|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|12|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|15|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|103.177.176.62|8080|Indonesia|Cikarang|PT Milenial Inti Telekomunikasi|
-|17|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|18|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|14|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|15|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
