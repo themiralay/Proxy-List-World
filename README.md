@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|116.80.93.179|3172|Japan|Yokohama|InfoSphere|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|12|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
 |13|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|18|103.156.74.154|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|19|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|165.16.46.193|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|116.80.46.227|3172|Japan|Yokohama|InfoSphere|
+|16|157.66.85.81|8008|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|17|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|18|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
+|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
 
 
 
