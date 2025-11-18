@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |7|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|11|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|12|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
-|13|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|16|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
-|19|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|116.80.63.160|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|116.80.63.177|3172|Japan|Yokohama|InfoSphere|
+|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|18|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|19|182.253.215.158|8080|Indonesia|Karawang|BIZNET|
 |20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
