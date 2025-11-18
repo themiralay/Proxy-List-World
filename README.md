@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.91.143|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
-|10|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|11|103.187.86.166|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.162.221.163|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|91.103.253.240|1080|The Netherlands|Amsterdam|Hypercore Ltd|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
+|16|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
