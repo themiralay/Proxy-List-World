@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
-|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|9|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|10|95.163.64.156|3128|Russia|Moscow|DINET-HOSTING|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|34.236.148.220|1000|United States|Ashburn|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|116.80.80.225|3172|Japan|Yokohama|InfoSphere|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|27.123.222.193|8080|Indonesia|Jakarta|FIBERNET|
+|13|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
