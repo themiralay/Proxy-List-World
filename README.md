@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|10|103.166.255.170|8080|Indonesia|Balai Pungut|PT Instanet Media Nusantara|
-|11|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|15|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
-|16|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|14|103.155.198.253|8006|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|15|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
+|16|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|19|110.39.183.34|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
