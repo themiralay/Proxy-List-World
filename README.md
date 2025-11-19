@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|7|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|8|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
-|9|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|103.172.42.105|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
+|15|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|16|163.227.149.135|8080|Indonesia|Kurungannyawa|PT Andalas Solusi Network|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
