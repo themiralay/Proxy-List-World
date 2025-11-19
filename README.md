@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80370** proxies at the latest update. Usable proxies are below.
+> Scraper found **80402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38179|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|5|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
-|6|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|7|202.58.77.77|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|10|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|11|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|103.94.4.242|8080|Indonesia|Pamulang|ICONPLN|
-|13|45.190.84.51|999|Venezuela|Chacao|TELECOM.CORPORATIVAS TELECORP, C.A|
-|14|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.110.10.218|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.190.84.51|999|Venezuela|Chacao|TELECOM.CORPORATIVAS TELECORP, C.A|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|45.173.6.226|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
+|12|217.29.23.34|8080|Kyrgyzstan|Bishkek|Saima RO|
+|13|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|46.45.110.196|3128|Poland|Ostrowiec Świętokrzyski|Sieci Blokowe S.C.|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.172.152.13|8082|India|Ghātāl|Psnet Solutions Private Limited|
+|19|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
