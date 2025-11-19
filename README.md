@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|1.0.171.213|8080|Thailand|Phuket|TOT Public Company Limited|
-|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|177.91.128.8|8080|Brazil|Vacaria|MA SOLUCOES EM TECNOLOGIA LTDA - ME|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|35.76.28.103|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|10|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|13|77.52.187.196|18080|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|18|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
