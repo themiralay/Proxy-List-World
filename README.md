@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|13|103.167.4.10|8080|Indonesia|Wedoro|PT iForte Global Internet|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|20|200.35.34.134|999|Colombia|Cocorná|UNE EPM TELECOMUNICACIONES S.A|
+|11|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|122.52.191.68|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
+|15|103.97.140.102|8090|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
