@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|13|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
-|14|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|177.234.217.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|219.93.111.125|9412|Malaysia|Chemor|ADSL Streamyx Telekom Malaysia|
+|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 
 
 
