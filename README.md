@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
-|17|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
-|18|188.132.222.4|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|6|36.89.158.93|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|8|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
