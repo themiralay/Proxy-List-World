@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.76.28.103|3128|Japan|Tokyo|Amazon.com, Inc.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|183.91.88.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|115.147.165.114|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|103.154.52.6|1111|Indonesia|Tanjungsari|WIFIKITA|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|115.147.165.114|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
