@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|42.96.5.230|22895|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
 
 
 
