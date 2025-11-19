@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|9|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|67.43.228.251|30789|Canada|Montreal|GloboTech Communications|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|3|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|67.43.228.251|30789|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|17|103.160.205.230|8080|Indonesia|Pendaleman|PRIME|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
