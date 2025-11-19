@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.36.8.55|8282|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|202.47.188.186|2010|Indonesia|Jombang|Lintas Data Prima, PT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
