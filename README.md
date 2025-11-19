@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|1|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|6|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|3|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|160.25.196.12|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
