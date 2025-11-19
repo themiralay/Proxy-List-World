@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|222.127.68.126|8080|Philippines|Lahug|INNOVE|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|202.154.18.148|8081|Indonesia|Babat|DIGITNET|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
-|18|103.160.165.234|1111|Indonesia|Batu|PT Parsaoran Global Datatrans|
-|19|124.160.167.180|8280|China|Hangzhou|CNC Group CHINA169 Zhejiang Province Network|
-|20|170.84.147.129|8088|Brazil|Tutóia|Direct Telecom Ltda|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|38.172.128.104|999|Peru|Lima|Conex TV E.I.R.L.|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|16|116.80.93.184|3172|Japan|Yokohama|InfoSphere|
+|17|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
+|18|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|20|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
