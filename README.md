@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|13|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|190.0.247.34|11201|Colombia|La Ceja|Media Commerce Partners S.A|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|36.147.78.166|443|China|Guangzhou|China Mobile|
-|19|84.36.37.201|1981|Egypt|Al Manzalah|EgyNet Network|
-|20|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.76.28.103|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|103.187.136.20|3838|Bangladesh|Chāndpur|Times Communication|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|13|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|14|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
