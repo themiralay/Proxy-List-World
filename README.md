@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|9|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|19|45.122.123.29|1452|India|Delhi|FusionNet|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.155.199.104|8080|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
+|9|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|115.84.175.2|8181|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|20|181.209.75.124|8080|Argentina|La Esperanza|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
