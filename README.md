@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|103.181.255.69|1111|Indonesia|Purwodadi Grobogan|PT Giga Digital Nusantara|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|113.163.189.162|8080|Vietnam|Quận Chín|VietNam Post and Telecom Corporation|
 |5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|13|42.96.5.230|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|14|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
-|17|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|45.238.56.129|8080|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|19|200.24.146.97|8080|Ecuador|El Guabo|Ufinet Panama S.A.|
-|20|195.175.29.38|9090|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|15|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|16|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|17|38.183.146.25|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|179.1.203.109|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
+|20|37.187.92.9|1024|France|Roubaix|OVH SAS|
 
 
 
