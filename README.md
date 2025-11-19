@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|15|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.165.155.67|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|18|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|210.201.86.72|8080|Taiwan|Taipei|Asia Pacific On-line Service Inc.|
+|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|170.239.43.200|4598|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|13|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|14|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
