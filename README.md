@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|181.209.111.85|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|5|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|8|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 |10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|35.77.99.135|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|204.157.185.3|999|Peru|Nazca|Signal Peru S.A.C|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|15|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|16|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|45.174.253.5|999|Mexico|Cancún|Digitcenter de México, S.A. de C.V.|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|124.158.186.254|8080|Indonesia|Jakarta|PT Jala Lintas Media|
+|17|101.255.122.170|8080|Indonesia|Jakarta|PT Remala Abadi|
+|18|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
