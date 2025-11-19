@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|8|103.119.67.171|8181|Indonesia|Jakarta|MYREPUBLIC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|200.35.34.131|999|Colombia|Cocorná|UNE EPM TELECOMUNICACIONES S.A|
+|11|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|12|170.106.169.126|3128|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|14|164.138.205.10|8080|Turkey|Istanbul|Teknoboss Teknoloji VE Danismanlik Hizmetleri Limited Sirketi|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|103.94.133.20|8080|Indonesia|Pasarkemis|PT CITRA AKSES INDONUSA|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
