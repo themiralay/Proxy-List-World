@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|103.227.187.193|6080|Indonesia|Wirodayan|PT Master Star Network|
-|17|125.25.33.65|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|177.234.217.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|20|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|125.25.33.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
