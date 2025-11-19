@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|7|81.90.149.188|3128|Iran|Tehran|Afranet|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|36.147.78.166|80|China|Guangzhou|China Mobile|
-|13|45.174.253.5|999|Mexico|Cancún|Digitcenter de México, S.A. de C.V.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|45.188.125.49|999|Mexico|Nacajuca|Digy Networks|
-|16|189.72.85.254|8080|Brazil|Itajaí|V tal|
-|17|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|173.44.175.226|3128|United States|Sarasota|Eonix Corporation|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|81.90.149.188|3128|Iran|Tehran|Afranet|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|45.171.64.21|999|Guatemala|Guatemala City|Cablecolor S.A.|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|103.191.254.133|8080|Indonesia|Rembangan|PT Ayodya Data Internusa|
 |19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|103.191.254.133|8080|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|20|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
