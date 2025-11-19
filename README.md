@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|203.96.226.154|8080|Bangladesh|Dhaka|House# 06|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|157.66.37.76|8585|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|7|103.145.46.79|1452|Indonesia|Bandar Lampung|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|18|124.108.19.6|9292|India|Pune|Advantus Corporate Infoserv Private Ltd|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
