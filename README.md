@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40804|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|101.109.122.174|8180|Thailand|Rayong|TOT Public Company Limited|
-|8|103.227.187.193|6080|Indonesia|Wirodayan|PT Master Star Network|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|11|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|12|186.31.197.103|8080|Colombia|Bogotá|ETB - Colombia|
-|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|14|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|103.179.218.7|8080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|18|14.170.154.193|19132|Vietnam|Thái Nguyên|VNPT-VNNIC|
-|19|103.140.130.60|8181|Indonesia|Serang|PT. Mitra Media Data|
-|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.117.105.169|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|43.206.94.130|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
 
 
 
