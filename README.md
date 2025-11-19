@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|36.147.78.166|80|China|Guangzhou|China Mobile|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|11|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
-|12|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|13|42.96.5.230|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|18|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|38.54.116.95|80|Oman|Muscat|Kaopu Cloud HK Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|41.72.213.182|8090|Kenya|Nairobi South ’C’|Maintainer Liquid Telecommunications Operations Limited|
+|7|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|38.7.221.191|8080|Chile|Santiago|Grupo ZGH SPA|
+|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|11|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|14|187.190.114.57|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|116.80.78.13|3172|Japan|Yokohama|InfoSphere|
+|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|42.96.5.230|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
 
 
 
