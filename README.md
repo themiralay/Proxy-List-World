@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|1.161.194.81|8082|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|9|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
 |13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 |15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|103.227.186.73|6080|Indonesia|Siderejo|PT Master Star Network|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |18|113.214.78.114|3320|China|Hangzhou|Huashu media&Network Limited|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|112.203.49.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
 
 
 
