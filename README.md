@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|9|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|16|170.246.128.13|8090|Brazil|Araranguá|Contato Internet EIRELI|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|36.147.78.166|443|China|Guangzhou|China Mobile|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
