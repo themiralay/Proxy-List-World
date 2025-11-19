@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80378** proxies at the latest update. Usable proxies are below.
+> Scraper found **80428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38196|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38246|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40869|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|103.169.254.45|6080|Indonesia|Bondowoso|PT Master Star Network|
-|20|156.155.50.93|8080|South Africa|Botha’s Hill|AxxessNetworks|
+|11|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|15|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.165.155.67|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|18|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
