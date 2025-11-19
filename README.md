@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
+|3|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |11|124.121.2.208|8080|Thailand|Bangkok|TRUEBB|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
