@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42212** proxies at the latest update. Usable proxies are below.
+> Scraper found **80521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38309|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40910|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|8|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|9|103.145.46.79|1452|Indonesia|Bandar Lampung|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|10|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|11|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|103.247.21.52|4317|Indonesia|Cikarang|PT wifian Solution|
-|16|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|103.156.16.45|8080|Indonesia|Pamanukan|RSTNET|
-|19|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|157.66.37.76|8585|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|9|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|12|177.234.217.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|17|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|18|101.255.208.62|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
 
 
 
