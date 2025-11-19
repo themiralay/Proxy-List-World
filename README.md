@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|116.80.61.6|3172|Japan|Yokohama|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.59.116.158|8080|Singapore|Singapore|DIGITALOCEAN|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|124.121.2.208|8080|Thailand|Bangkok|TRUEBB|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|116.80.80.239|3172|Japan|Yokohama|InfoSphere|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
