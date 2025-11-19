@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.125|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.131.19.42|8181|Indonesia|Batang|PT Global Media Data Prima|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.48.68.154|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|19|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
