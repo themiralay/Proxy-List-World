@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.61.17.242|8082|Indonesia|Caringin|TWINSDATAPRATAMA|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|45.122.122.71|8080|India|Delhi|FusionNet|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|190.111.218.139|999|Argentina|San Juan Bautista|CPS|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|103.129.175.43|8080|Indonesia|Soreang|PT. Eka Mas Republik|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
