@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|113.192.31.189|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 |6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|207.230.8.68|999|Colombia|Bogotá|TV&MÁS S.A.S|
-|16|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|17|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|41.72.213.182|8090|Kenya|Nairobi South ’C’|Maintainer Liquid Telecommunications Operations Limited|
+|11|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|12|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|95.84.164.92|8998|Russia|Moscow|NCNET|
 |18|72.10.160.170|29445|Canada|Montreal|GloboTech Communications|
-|19|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|19|42.96.5.230|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
