@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.179.52.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|116.80.80.210|3172|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
+|14|36.89.158.93|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|18|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
