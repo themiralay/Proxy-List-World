@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|116.80.47.104|3172|Japan|Yokohama|InfoSphere|
-|8|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
-|9|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|10|103.247.240.12|7777|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|13|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|20|45.70.236.194|999|Ecuador|Cuenca|Ufinet Panama S.A.|
 
 
 
