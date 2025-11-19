@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|102.207.191.68|8080|Kenya|Nairobi|Avitech Solutions LTD|
-|16|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|16|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
