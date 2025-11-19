@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |7|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|103.94.4.242|8080|Indonesia|Pamulang|ICONPLN|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|13|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|14|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
-|20|116.80.47.139|3172|Japan|Yokohama|InfoSphere|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|11|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|13.247.64.55|346|South Africa|Johannesburg|Amazon Technologies Inc.|
+|19|45.6.219.131|8080|Brazil|Fortaleza|ISPCORP Soluções Digitais Corporativas Ltda.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
