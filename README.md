@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|3.112.227.16|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|202.154.19.55|8080|Indonesia|Jombang|DIGITNET|
-|8|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
-|10|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|11|103.193.145.137|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
-|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|84.18.100.250|8080|Russia|Kazan'|Tattelecom|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|160.19.18.181|8181|Indonesia|Pasuruan|PT Indo Telemedia Solusi|
-|18|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|170.106.169.126|3128|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|119.148.38.217|39044|Bangladesh|Dhaka|Agni Systems Limited|
+|14|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|20|36.93.56.58|8080|Indonesia|Ciputat|Telekomunikasi Indonesia|
 
 
 
