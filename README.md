@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|35.77.99.135|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|14|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|16|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|35.77.99.135|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|202.178.125.136|8080|Cambodia|Battambang|Cambodia Data Communication|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|95.84.164.92|8998|Russia|Moscow|NCNET|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
 
 
 
