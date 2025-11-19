@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.17|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|172.237.80.233|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|9|212.42.123.110|8080|Kyrgyzstan|Bishkek|ISP "ELCAT" Local Registry|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|177.234.217.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|34.124.254.47|8888|Singapore|Singapore|Google LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|18|204.77.11.13|999|Puerto Rico|Carolina|FiberX|
+|19|103.178.194.101|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|20|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
 
 
 
