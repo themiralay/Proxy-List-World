@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|43.252.237.127|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|10|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|103.172.35.40|8080|Indonesia|Ketanggungan|PT Lintas Jaringan Nusantara|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
 |12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|190.97.230.97|999|Venezuela|Caracas|Viginet C.A|
-|20|103.13.204.11|8090|Indonesia|Guyangan|PT JARINGANKU SARANA NUSANTARA|
+|13|38.253.88.242|999|Dominican Republic|Villa Bisonó|LAUAM MEGARED TELECOM, S.R.L.|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
