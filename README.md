@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|3.112.90.93|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|35.74.66.189|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|35.77.42.153|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|57.183.23.100|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|35.74.66.189|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|3.112.90.93|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|57.183.23.100|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|18.179.60.8|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|35.77.120.242|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|18.179.49.76|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
+|20|35.77.72.200|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
