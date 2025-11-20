@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|164.90.151.28|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|113.11.183.85|8080|Indonesia|Purwokerto|Biznet Networks|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|193.43.140.85|8080|Syria|Ḩarastā|Syrian Telecom|
+|19|38.183.182.17|999|Peru|Huaura|Forza Bussines S.A.C.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
