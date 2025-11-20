@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|4|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|103.39.70.225|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|12|103.126.87.120|8082|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|15|179.210.138.41|8080|Brazil|Rio de Janeiro|Claro NXT Telecomunicacoes Ltda|
+|16|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|18|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 
 
 
