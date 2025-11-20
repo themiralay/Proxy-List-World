@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|5|37.59.110.73|80|France|Roubaix|OVH ISP|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|37.59.110.73|80|France|Roubaix|OVH ISP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
 
 
 
