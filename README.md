@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|20.205.16.149|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|20|103.83.179.148|1111|Indonesia|Pasarkemis|PT SOLUSI TRIMEGAH PERSADA|
+|4|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|45.174.241.181|999|Mexico|Xpujil|Sistemas Y Soluciones De Campeche SAS De CV|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
+|17|177.234.211.79|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|91.242.44.106|3128|Iran|Shiraz|Gostaresh Ertebat Azin Kia Company PJSC|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
