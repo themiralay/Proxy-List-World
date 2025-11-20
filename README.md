@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.122.0.52|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|193.43.140.85|8080|Syria|Ḩarastā|Syrian Telecom|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 
 
 
