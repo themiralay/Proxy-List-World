@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|20|179.61.98.3|999|Chile|Talca|SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.|
+|12|80.190.83.71|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|44.199.110.54|3128|United States|Ashburn|Amazon.com|
 
 
 
