@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|6|44.199.110.54|3128|United States|Ashburn|Amazon.com|
 |7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|113.11.64.6|5871|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.169.132.70|8080|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|14|113.11.64.6|5871|Bangladesh|Dhaka|BDCOM Online Limited|
+|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|20|42.96.5.57|22891|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
 
 
 
