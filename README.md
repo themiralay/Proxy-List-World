@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80110** proxies at the latest update. Usable proxies are below.
+> Scraper found **80142** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38340|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|103.167.172.2|8080|India|Noida|Gungun Fiber Broadband|
 |14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|49.146.137.43|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|20|49.146.63.54|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.59.44.33|8181|Indonesia|Sidorejo|PT INDONESIA TRANS NETWORK|
+|19|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|103.105.78.158|8080|Indonesia|Bojonegoro|PT. Garuda Media Telematika|
 
 
 
