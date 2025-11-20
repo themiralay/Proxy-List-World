@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|101|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40824|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|11|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
+|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
 |13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|103.18.77.25|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|197.248.98.55|8080|Kenya|Nairobi|Safaricom Limited|
+|17|117.172.240.184|6666|China|Chengdu|China Mobile communications corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|20|45.226.80.115|8080|Brazil|Curitiba|ETH ENTERPRISE TECNOLOGIA LTDA|
 
 
 
