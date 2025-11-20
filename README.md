@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|112.199.40.53|8080|Philippines|Makati City|Eastern Telecommunications Philippines|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|20|201.230.15.57|999|Peru|Jesus Maria|Telefonica del Peru|
+|4|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|18|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|19|78.26.146.16|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
