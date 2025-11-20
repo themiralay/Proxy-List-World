@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|8|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 |13|89.36.161.50|8080|Latvia|Riga|Melbikomas UAB|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
+|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|19|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
