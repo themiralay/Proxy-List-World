@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |19|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|20|109.224.242.206|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
+|20|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
 
 
 
