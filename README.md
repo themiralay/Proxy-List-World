@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|49.146.137.43|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|103.166.254.222|3124|Indonesia|Teluk Kuantan|PT Instanet Media Nusantara|
+|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|20|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
 
 
 
