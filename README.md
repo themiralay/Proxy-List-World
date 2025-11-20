@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|45.174.241.181|999|Mexico|Xpujil|Sistemas Y Soluciones De Campeche SAS De CV|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|103.171.161.96|9090|Indonesia|Bekasi|MYREPUBLIC|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|91.242.44.106|3128|Iran|Shiraz|Gostaresh Ertebat Azin Kia Company PJSC|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|4|42.96.5.250|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|5|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.156.14.18|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|103.171.161.96|9090|Indonesia|Bekasi|MYREPUBLIC|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
