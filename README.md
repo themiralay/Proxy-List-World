@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40940|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|103.184.67.115|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.81.3|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.80.221|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 
 
 
