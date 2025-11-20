@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|7|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 |19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.18.77.106|8090|Indonesia|Kompa Satu|PT Usaha Adi Sanggoro|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
