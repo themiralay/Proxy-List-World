@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.136|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|125.24.145.239|8080|Thailand|Phuket|TOT Public Company Limited|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|113.11.183.85|8080|Indonesia|Purwokerto|Biznet Networks|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
