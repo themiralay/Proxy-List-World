@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|43.217.134.46|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|203.128.78.107|1452|Indonesia|Jakarta|Neuviz|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|15|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
+|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|115.178.49.47|8080|Indonesia|Margabakti|NOC SIMAYA|
+|19|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|20|103.140.130.62|8181|Indonesia|Serang|PT. Mitra Media Data|
 
 
 
