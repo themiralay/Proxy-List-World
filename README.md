@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|13|103.39.70.225|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|3|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|103.39.49.97|9090|Indonesia|Arjawinangun|PT. Mega Mentari Mandiri|
+|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
