@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80656** proxies at the latest update. Usable proxies are below.
+> Scraper found **80579** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38405|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38328|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40857|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|202.58.77.230|8080|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|42.96.5.250|22884|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|45.174.241.181|999|Mexico|Xpujil|Sistemas Y Soluciones De Campeche SAS De CV|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|103.171.161.96|9090|Indonesia|Bekasi|MYREPUBLIC|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|91.242.44.106|3128|Iran|Shiraz|Gostaresh Ertebat Azin Kia Company PJSC|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
