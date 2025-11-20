@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|41.254.63.18|8080|Libya|Tripoli|LTT Network Backbone and POPs|
-|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|15|18.60.222.217|57032|India|Hyderabad|Amazon.com, Inc.|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|12|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|116.212.182.74|8081|India|Dum Dum|Microsense Private Limited|
+|18|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
