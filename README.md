@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|9|44.199.110.54|3128|United States|Ashburn|Amazon.com|
 |10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
 |19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|20|42.96.5.57|22891|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
