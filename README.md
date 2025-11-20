@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|103.140.130.62|8181|Indonesia|Serang|PT. Mitra Media Data|
-|15|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
-|16|37.187.92.9|1026|France|Roubaix|OVH SAS|
-|17|103.26.177.35|1080|Indonesia|Ngamba|PT Lintas Jaringan Nusantara|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.247.21.229|3231|Indonesia|Purbalingga|PT wifian Solution|
+|5|103.247.23.118|8080|Indonesia|Cileungsir|PT wifian Solution|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|49.0.27.175|1111|Indonesia|Bluri|SIMS Jabar Banten Medianet|
 
 
 
