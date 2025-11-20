@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80574** proxies at the latest update. Usable proxies are below.
+> Scraper found **80562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38323|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38311|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40857|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|45.174.241.181|999|Mexico|Xpujil|Sistemas Y Soluciones De Campeche SAS De CV|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
-|17|177.234.211.79|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|91.242.44.106|3128|Iran|Shiraz|Gostaresh Ertebat Azin Kia Company PJSC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|183.110.246.99|80|South Korea|Seongnam-si|Korea Telecom|
+|13|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
