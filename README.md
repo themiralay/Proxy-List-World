@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
-|14|177.234.217.84|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|202.5.54.42|1117|Bangladesh|Barishal|BBTS-NEW|
-|18|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|67.43.228.250|1419|Canada|Montreal|GloboTech Communications|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|8.210.148.99|1122|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|196.251.241.54|8080|Equatorial Guinea|Malabo|Office Tech|
+|17|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|18|116.80.47.94|3172|Japan|Yokohama|InfoSphere|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
