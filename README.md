@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.63.164|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|116.80.63.178|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|164.90.151.28|3128|United States|Santa Clara|DigitalOcean, LLC|
 |8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|193.43.140.85|8080|Syria|Ḩarastā|Syrian Telecom|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|103.31.133.102|8080|Indonesia|Palembang|PT Arthatama Adhiprima Persada|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|164.90.151.28|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
