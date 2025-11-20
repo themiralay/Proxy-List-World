@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|17|41.254.63.18|8080|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|20|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|13|36.94.27.65|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
