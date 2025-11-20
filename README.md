@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80551** proxies at the latest update. Usable proxies are below.
+> Scraper found **80576** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38345|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|173|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40832|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.63.181|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|43.206.234.160|213|Japan|Tokyo|Amazon.com, Inc.|
-|19|147.75.68.200|9400|United States|San Jose|Packet Host, Inc.|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.158.202.121|999|Mexico|Jesús María|Onfiber SA De CV|
+|8|103.18.76.166|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|13|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|103.171.83.49|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
 
 
 
