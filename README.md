@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|103.25.192.126|8181|Indonesia|Karawang|UNINA|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|20|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|18|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.122.64.201|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 
 
 
