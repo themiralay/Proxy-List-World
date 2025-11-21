@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |18|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
 |19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|38.7.18.149|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
+|20|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
 
 
 
