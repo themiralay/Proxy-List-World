@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|13|121.165.169.133|8048|South Korea|Songpa-gu|Korea Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|7|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|103.156.17.35|8181|Indonesia|Jatibarang|RSTNET|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|12|180.178.95.142|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
+|13|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|18|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
