@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|3|103.169.128.157|8080|Indonesia|Cirebon|PT Media Akses Data|
+|4|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 |5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|203.111.253.100|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|18|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|103.228.246.199|1111|Indonesia|Caruban|PT Giga Patra Multimedia|
 
 
 
