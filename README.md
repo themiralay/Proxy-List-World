@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|9|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|15|170.239.43.213|4601|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|16|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|95.140.17.150|3128|Russia|Moscow|Sputnik LLC|
+|8|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|170.239.43.213|4601|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|19|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
