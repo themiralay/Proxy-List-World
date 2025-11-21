@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|3|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|31.24.44.115|3128|Spain|Valencia|AXARNET COMUNICACIONES, S.L.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|16|81.90.149.188|3128|Iran|Tehran|Afranet|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
 
 
 
