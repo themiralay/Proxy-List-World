@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|3|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|103.110.10.218|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|11|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.178.86.82|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 |17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|20|185.200.37.242|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|102.38.7.110|1972|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
