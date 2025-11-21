@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
+|12|160.25.245.29|8082|Indonesia|Ngawi|PT Jaringan Kita Bersama|
 |13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|16|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
-|17|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|179.1.95.213|999|Colombia|Facatativá|Internexa S.a. E.S.P|
-|20|103.178.171.80|8050|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|103.174.238.67|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|17|103.202.223.2|8070|Bangladesh|Dhaka|Brisksys|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|149.78.206.146|3600|Brazil|Porto Seguro|Netcenter Telecom|
 
 
 
