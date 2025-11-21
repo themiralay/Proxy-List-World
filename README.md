@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.248.9.111|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
 |16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 |20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
