@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
 |7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
