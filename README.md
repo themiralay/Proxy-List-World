@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|202.5.55.51|1117|Bangladesh|Chittagong|BBTS-NEW|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
