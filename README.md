@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|9|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|10|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|103.171.255.60|8080|Indonesia|Sleman|ZKI|
-|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|18|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|19|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|103.155.167.25|1111|Indonesia|Citeureup|PT Network Lintas Fiberindo|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|202.43.122.156|1111|India|Wardha|RailTel Corporation|
+|20|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
 
 
 
