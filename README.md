@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|5|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|183.88.214.44|8080|Thailand|Huai Thalaeng|Triple T Broadband Public Company Limited|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|6|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 |17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
