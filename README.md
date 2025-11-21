@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|122.54.119.79|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|116.80.91.205|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
 
 
 
