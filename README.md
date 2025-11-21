@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|185.41.152.110|3128|France|Valenciennes|global|
-|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|103.76.151.74|8089|Indonesia|Kedungtaman|PT. Java Digital Nusantara|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|109.120.155.9|3128|Sweden|Stockholm|Aeza International LTD|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.87.202.170|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|13|185.41.152.110|3128|France|Valenciennes|global|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|16|57.129.70.80|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
