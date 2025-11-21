@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80640** proxies at the latest update. Usable proxies are below.
+> Scraper found **80594** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38388|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38342|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40918|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|103.31.133.102|8080|Indonesia|Palembang|PT Arthatama Adhiprima Persada|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|192.145.228.209|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|16|103.31.133.102|8080|Indonesia|Palembang|PT Arthatama Adhiprima Persada|
+|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|18|44.199.110.54|3128|United States|Ashburn|Amazon.com|
+|19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
