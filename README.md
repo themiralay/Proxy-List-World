@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|205.237.104.203|3128|France|Paris|ESTOXY OU|
 |15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|72.10.160.90|19881|Canada|Montreal|GloboTech Communications|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|72.10.160.171|6047|Canada|Montreal|GloboTech Communications|
+|20|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
 
 
 
