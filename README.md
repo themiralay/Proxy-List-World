@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|138.0.143.119|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|18|42.96.5.225|22881|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|163.47.87.10|8080|Bangladesh|Chittagong|Chittagong Online Limited|
 
 
 
