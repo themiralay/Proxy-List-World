@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|202.58.77.18|8080|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|103.87.202.198|1111|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
 
 
 
