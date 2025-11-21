@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|16|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|157.20.100.83|8080|Indonesia|Baekrajan|PT Muria Global Network|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|8|27.147.249.17|38947|Bangladesh|Chittagong|Link3 Technologies Limited|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|202.5.55.51|1117|Bangladesh|Chittagong|BBTS-NEW|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
