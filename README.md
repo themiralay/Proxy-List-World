@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|4|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|5|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
 |7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 |16|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|17|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|72.10.160.90|17435|Canada|Montreal|GloboTech Communications|
+|17|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|18|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
