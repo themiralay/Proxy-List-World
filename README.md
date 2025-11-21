@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.87.202.170|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|13|97.78.58.180|8080|United States|Birmingham|Spectrum|
-|14|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|122.50.6.186|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|9|185.41.152.110|3128|France|Valenciennes|global|
+|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|109.120.155.9|3128|Sweden|Stockholm|Aeza International LTD|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 
 
 
