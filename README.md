@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|147.75.68.200|10014|United States|San Jose|Packet Host, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|17|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|14|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|17|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|45.190.76.115|999|Mexico|Zapopan|Meta Networks SA De CV|
+|20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
