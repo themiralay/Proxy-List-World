@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.56.92.67|1935|Indonesia|Semarang|Argon Data Communication|
-|20|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|12|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|13|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
