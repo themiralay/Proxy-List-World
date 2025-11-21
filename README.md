@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.59.232.220|3128|Singapore|Singapore|DIGITALOCEAN|
-|4|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|152.42.203.107|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|18|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
