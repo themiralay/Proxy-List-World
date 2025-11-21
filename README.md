@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|152.42.203.107|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
 |6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|103.177.21.2|8181|Indonesia|Tumpang|PT Diva Telekomunikasi Indonesia|
-|16|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|19|154.127.78.16|44444|Libya|Waddān|Aljeel Aljadeed For Technology|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|185.200.37.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
 
 
 
