@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|3|152.42.203.107|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.232.220|3128|Singapore|Singapore|DIGITALOCEAN|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
