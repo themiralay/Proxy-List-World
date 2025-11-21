@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.189.252.58|999|Mexico|Alvarado|Tracered SA De CV|
+|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|8|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
+|9|45.179.246.65|999|Colombia|Acevedo|Genionet Telecomunicaciones S.A.S|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|202.140.62.212|8080|India|Mangaluru|Karuturi Telecom Pvt Ltd|
+|12|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|61.19.145.66|8080|Thailand|Khlong San|CAT Telecom Public Company Limited|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|200.39.139.65|999|Chile|Santiago|Iconex SPA|
+|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
