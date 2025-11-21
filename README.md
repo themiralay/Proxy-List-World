@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41946** proxies at the latest update. Usable proxies are below.
+> Scraper found **41987** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38194|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38235|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2441|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|152.42.203.107|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|6|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.59.232.220|3128|Singapore|Singapore|DIGITALOCEAN|
+|4|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|185.200.37.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
+|18|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
