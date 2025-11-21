@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 |6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 |7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 |8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|18|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
 |19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
 
 
 
