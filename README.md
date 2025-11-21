@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.22.197.130|6588|Australia|Melbourne|Aussie Broadband|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.26.187.76|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|49.146.137.43|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|18|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|13|177.82.99.173|7823|Brazil|Ribeirão Preto|Claro NXT Telecomunicacoes Ltda|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
