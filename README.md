@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|103.160.69.131|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|116.80.63.158|3172|Japan|Yokohama|InfoSphere|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|4|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|185.200.37.242|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|103.110.10.218|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
 
 
 
