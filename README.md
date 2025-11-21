@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|17|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|139.59.232.220|3128|Singapore|Singapore|DIGITALOCEAN|
+|4|152.42.203.107|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|103.87.67.75|3129|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|20|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
