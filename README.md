@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|103.156.221.229|8080|Indonesia|Cirebon|PT Gading Bhakti Utama|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.87.202.198|1111|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|103.93.93.100|8081|Indonesia|Sempu|MYRISE|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|20|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
 
 
 
