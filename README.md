@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|6|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|200.92.201.126|999|Mexico|San José Iturbide|Mega Cable, S.A. de C.V.|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 |17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|19|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|116.80.91.161|3172|Japan|Yokohama|InfoSphere|
+|18|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
