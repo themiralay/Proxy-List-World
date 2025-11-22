@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
