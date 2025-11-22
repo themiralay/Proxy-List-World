@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.14.246.9|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
-|8|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|4|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|5|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|8|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
+|9|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|152.42.177.230|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|152.42.198.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |15|200.26.187.158|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
 |16|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
 |17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 |18|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|152.42.198.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|43.225.151.122|1120|Bangladesh|Dhaka|Next Online|
+|20|190.242.58.99|999|Colombia|Santiago de Cali|Liberty Networks De Colombia|
 
 
 
