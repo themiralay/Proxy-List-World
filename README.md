@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|4|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|5|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
-|7|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|8|201.94.151.66|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|5|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|9|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|43.225.151.122|1120|Bangladesh|Dhaka|Next Online|
-|17|72.10.160.90|28893|Canada|Montreal|GloboTech Communications|
-|18|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|20|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|11|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
+|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|20|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
 
 
 
