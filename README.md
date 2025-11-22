@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80338** proxies at the latest update. Usable proxies are below.
+> Scraper found **80306** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38187|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.76.91.239|8181|Indonesia|Jakarta|PT Kampung Dua Net|
-|6|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|9|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|6|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|7|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|200.10.31.202|999|Colombia|Santa Rosa de Cabal|Super Redes S.A.S|
+|18|113.11.64.19|2505|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 
 
 
