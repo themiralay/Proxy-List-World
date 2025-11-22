@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|142.176.184.82|8091|Canada|Dartmouth|Bell Canada|
-|12|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|34.1.0.124|8123|France|Paris|Google LLC|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|132.226.154.12|2096|United States|Phoenix|Oracle Corporation|
+|13|132.226.154.12|2096|United States|Phoenix|Oracle Corporation|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |15|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
-|16|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|27.147.135.73|410|Bangladesh|Dhaka|Link3 Technologies Limited|
 |20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
