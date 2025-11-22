@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|7|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|168.228.44.66|999|Honduras|Yoro|CABLE NACIONAL, S.A|
-|13|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|14|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|15|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|7|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|72.10.160.94|11339|Canada|Montreal|GloboTech Communications|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.175.245.204|8080|Bangladesh|Pālang|Orange Communication|
+|13|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|204.199.140.24|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|15|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|16|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|17|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
