@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|4|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|5|103.139.126.211|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|4|103.122.0.52|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|5|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|190.14.246.9|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|11|72.10.160.172|21609|Canada|Montreal|GloboTech Communications|
-|12|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|13|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|16|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
-|17|72.10.164.178|26631|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|27413|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27797|Canada|Montreal|GloboTech Communications|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|7|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|10|72.10.160.172|22111|Canada|Montreal|GloboTech Communications|
+|11|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|12|72.10.164.178|26631|Canada|Montreal|GloboTech Communications|
+|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|14|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|17|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
+|18|72.10.164.178|26631|Canada|Montreal|GloboTech Communications|
+|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
 
 
 
