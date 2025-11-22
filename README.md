@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|44.199.110.54|3128|United States|Ashburn|Amazon.com|
-|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|194.124.36.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|45.188.125.49|999|Mexico|Nacajuca|Digy Networks|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|18|157.66.85.37|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
