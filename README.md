@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|72.10.160.90|22007|Canada|Montreal|GloboTech Communications|
-|9|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.82.23.118|5203|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|12|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|13|72.10.164.178|2677|Canada|Montreal|GloboTech Communications|
-|14|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
-|15|72.10.160.91|6435|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2677|Canada|Montreal|GloboTech Communications|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|10|103.82.23.118|5203|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|11|102.210.56.58|8080|Kenya|Nairobi|Syokinet Solutions Limited|
+|12|72.10.164.178|27147|Canada|Montreal|GloboTech Communications|
+|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
+|16|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
+|18|103.227.186.68|6080|Indonesia|Siderejo|PT Master Star Network|
+|19|72.10.164.178|27147|Canada|Montreal|GloboTech Communications|
+|20|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
 
 
 
