@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|142.171.230.36|9090|United States|Los Angeles|Multacom Corporation|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|9|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|10|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|13|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|43.204.255.199|8080|India|Mumbai|Amazon.com, Inc.|
-|15|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|16|122.45.51.68|23458|South Korea|Gangseo-gu|LG POWERCOMM|
-|17|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|18|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
+|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|152.26.14.44|3156|United States|Franklin|MCNC|
+|6|152.26.14.22|3156|United States|Franklin|MCNC|
+|7|152.26.14.2|3156|United States|Franklin|MCNC|
+|8|152.26.14.35|3156|United States|Franklin|MCNC|
+|9|152.26.14.48|3156|United States|Franklin|MCNC|
+|10|152.26.14.34|3156|United States|Franklin|MCNC|
+|11|152.26.14.46|3156|United States|Franklin|MCNC|
+|12|152.26.14.3|3156|United States|Franklin|MCNC|
+|13|152.26.14.49|3156|United States|Franklin|MCNC|
+|14|152.26.14.17|3156|United States|Franklin|MCNC|
+|15|152.26.14.5|3156|United States|Franklin|MCNC|
+|16|152.26.14.42|3156|United States|Franklin|MCNC|
+|17|152.26.14.43|3156|United States|Franklin|MCNC|
+|18|152.26.14.1|3156|United States|Franklin|MCNC|
+|19|152.26.14.17|3156|United States|Franklin|MCNC|
+|20|152.26.14.1|3156|United States|Franklin|MCNC|
 
 
 
