@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|8|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|9|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|103.247.23.11|8549|Indonesia|Cileungsir|PT wifian Solution|
-|16|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|19|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
