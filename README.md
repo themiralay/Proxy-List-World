@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|188.132.221.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |15|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
-|18|1.161.194.81|8082|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|19|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|199.127.62.89|3131|United States|Miami|ReliableSite.Net LLC|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
