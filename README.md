@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|13|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|18|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
