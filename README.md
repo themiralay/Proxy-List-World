@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.139.126.211|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|4|104.250.144.202|8888|United States|Pleasant View|GorillaServers, Inc.|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|103.122.0.52|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
 |7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|38.123.220.79|999|Mexico|Loma del Astillero|Cogent Communications|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|11|36.147.78.166|80|China|Guangzhou|China Mobile|
 |12|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
-|13|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|16|38.156.72.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|122.52.234.54|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|181.188.255.181|999|Ecuador|Quito|Otecel S.A|
-|19|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|14|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.70.122.37|8181|Indonesia|Kudus|PT Menara Digital Salama|
+|18|103.82.23.118|5203|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
