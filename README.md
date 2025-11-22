@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|154.27.196.33|999|Mexico|Colima|Cogent Communications|
-|6|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|103.139.126.211|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
-|9|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|10751|Canada|Montreal|GloboTech Communications|
-|11|58.136.168.221|8080|Thailand|Bangkok|AIS-Fibre|
-|12|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|13|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|14|72.10.160.172|22111|Canada|Montreal|GloboTech Communications|
-|15|31.25.92.114|8080|Iran|Ţorqabeh|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|16|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
-|17|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|103.154.118.245|8080|Indonesia|Jakarta|MORATELINDONAP|
+|10|177.234.217.83|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|38.191.161.238|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
+|12|117.172.240.184|6666|China|Chengdu|China Mobile communications corporation|
+|13|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|15|183.88.213.178|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|119.18.146.202|5720|Bangladesh|Nowlamary|BBTS Network|
+|17|38.194.246.34|999|Mexico|León|Cogent Communications|
+|18|72.10.160.172|22111|Canada|Montreal|GloboTech Communications|
+|19|109.224.242.13|8085|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
+|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
 
 
 
