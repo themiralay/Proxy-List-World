@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80146** proxies at the latest update. Usable proxies are below.
+> Scraper found **80144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38143|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38155|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40724|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
-|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|36.147.78.166|80|China|Guangzhou|China Mobile|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
-|13|103.83.179.148|1111|Indonesia|Pasarkemis|PT SOLUSI TRIMEGAH PERSADA|
-|14|36.147.78.166|80|China|Guangzhou|China Mobile|
-|15|38.172.128.172|8889|Peru|Lima|Conex TV E.I.R.L.|
-|16|103.94.4.242|80|Indonesia|Pamulang|ICONPLN|
-|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
-|19|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
+|5|165.154.36.27|10001|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|202.5.54.42|1117|Bangladesh|Barishal|BBTS-NEW|
+|7|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
+|8|210.79.146.50|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|176.88.168.109|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|124.217.71.18|8082|Philippines|Mexico|Philippine Long Distance Telephone Co.|
+|14|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|15|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|18|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
+|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
