@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|142.171.230.36|9090|United States|Los Angeles|Multacom Corporation|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|4|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|5|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|14|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|78.83.185.6|9980|Bulgaria|Plovdiv|A1 Bulgaria EAD|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|177.53.153.94|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|17|123.60.71.105|7778|China|Shanghai|Huawei Cloud Service data center|
-|18|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|16|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|103.248.9.245|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|18|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 
 
 
