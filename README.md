@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|3|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|27.147.135.30|410|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|16|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|17|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
 
 
 
