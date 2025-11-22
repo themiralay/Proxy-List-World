@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|152.32.77.213|8095|Philippines|Makati City|ComClark Network & Technology Corp|
-|8|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|15|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|16|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|17|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|18|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
-|19|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
-|20|72.10.164.178|17125|Canada|Montreal|GloboTech Communications|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|12|103.171.31.77|8080|Indonesia|Depok|MORATELINDONAP|
+|13|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|17|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|18|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|19|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|37.32.25.40|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
