@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|45.122.122.71|8080|India|Delhi|FusionNet|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|17|67.43.228.253|14491|Canada|Montreal|GloboTech Communications|
-|18|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|8|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|81.90.149.188|3128|Iran|Tehran|Afranet|
+|11|38.3.162.129|999|Chile|Puente Alto|Servicios Integrales Metfy Telecom SPA|
+|12|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|13|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
+|20|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
 
 
 
