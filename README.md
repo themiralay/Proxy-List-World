@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|152.26.14.22|3156|United States|Franklin|MCNC|
-|5|152.26.14.17|3156|United States|Franklin|MCNC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |6|152.26.14.42|3156|United States|Franklin|MCNC|
-|7|152.26.14.46|3156|United States|Franklin|MCNC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|142.171.230.36|9090|United States|Los Angeles|Multacom Corporation|
-|10|152.26.14.34|3156|United States|Franklin|MCNC|
-|11|152.26.14.35|3156|United States|Franklin|MCNC|
-|12|152.26.14.17|3156|United States|Franklin|MCNC|
-|13|152.26.14.35|3156|United States|Franklin|MCNC|
-|14|152.26.14.34|3156|United States|Franklin|MCNC|
-|15|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|7|152.26.14.17|3156|United States|Franklin|MCNC|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|152.26.14.35|3156|United States|Franklin|MCNC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|152.26.14.34|3156|United States|Franklin|MCNC|
+|12|152.26.14.22|3156|United States|Franklin|MCNC|
+|13|152.26.14.46|3156|United States|Franklin|MCNC|
+|14|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|152.26.14.35|3156|United States|Franklin|MCNC|
+|16|152.26.14.17|3156|United States|Franklin|MCNC|
+|17|152.26.14.34|3156|United States|Franklin|MCNC|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
 
 
 
