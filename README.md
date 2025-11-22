@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|7|8.243.163.126|3128|Colombia|Bello|CTL Colombia|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|103.227.186.68|6080|Indonesia|Siderejo|PT Master Star Network|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
-|17|91.217.33.161|8080|Slovakia|Moravany nad Váhom|AIRNET s.r.o.|
-|18|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|223.206.185.35|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A.|
+|13|103.193.145.155|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
+|14|202.5.40.57|25253|Bangladesh|Chittagong|BBTS-NEW|
+|15|223.206.185.35|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|16|109.224.242.205|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
+|17|72.10.160.90|16209|Canada|Montreal|GloboTech Communications|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 
 
 
