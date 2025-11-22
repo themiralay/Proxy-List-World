@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|5|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
-|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|7|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|185.28.84.172|20095|Germany|Frankfurt am Main|SEBEK sp. z o.o|
+|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |10|201.94.151.66|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
-|11|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
-|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|15|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|18|200.26.187.158|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|181.188.255.181|999|Ecuador|Quito|Otecel S.A|
+|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|17|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|152.42.198.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.42.177.230|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
