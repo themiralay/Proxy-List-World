@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|180.191.36.113|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|103.215.187.112|1080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|11|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|14|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|15|135.125.97.184|40551|France|Wattrelos|OVH SAS|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|135.125.97.184|40551|France|Wattrelos|OVH SAS|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
