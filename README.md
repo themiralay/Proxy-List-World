@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|5|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|7|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|8|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|9|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|11|109.111.242.134|6666|Serbia|Belgrade|ORIONTELEKOM|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|181.188.203.96|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|16|201.94.151.66|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|117.72.160.189|5188|China|Chaowai|JDCOM|
-|19|177.53.153.90|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|20|34.1.0.124|8123|France|Paris|Google LLC|
+|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|5|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|152.26.14.35|3156|United States|Franklin|MCNC|
+|7|152.26.14.34|3156|United States|Franklin|MCNC|
+|8|152.26.14.17|3156|United States|Franklin|MCNC|
+|9|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
+|16|181.188.255.181|999|Ecuador|Quito|Otecel S.A|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|201.94.151.66|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
 
 
 
