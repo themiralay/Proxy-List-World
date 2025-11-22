@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.14.46|3156|United States|Franklin|MCNC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|152.26.14.35|3156|United States|Franklin|MCNC|
-|10|152.26.14.17|3156|United States|Franklin|MCNC|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.14.35|3156|United States|Franklin|MCNC|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|152.26.14.42|3156|United States|Franklin|MCNC|
+|6|152.26.14.22|3156|United States|Franklin|MCNC|
+|7|152.26.14.46|3156|United States|Franklin|MCNC|
+|8|152.26.14.17|3156|United States|Franklin|MCNC|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |11|152.26.14.34|3156|United States|Franklin|MCNC|
-|12|152.26.14.42|3156|United States|Franklin|MCNC|
-|13|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|14|152.26.14.22|3156|United States|Franklin|MCNC|
-|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|152.26.14.34|3156|United States|Franklin|MCNC|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|152.26.14.17|3156|United States|Franklin|MCNC|
+|16|152.26.14.35|3156|United States|Franklin|MCNC|
+|17|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
