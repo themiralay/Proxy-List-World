@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|72.10.160.170|17171|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|18339|Canada|Montreal|GloboTech Communications|
+|8|49.145.62.79|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|201.94.151.66|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |12|36.147.78.166|443|China|Guangzhou|China Mobile|
 |13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|72.10.160.173|23011|Canada|Montreal|GloboTech Communications|
-|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
-|18|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|19|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|27.147.131.225|410|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|72.10.160.173|23011|Canada|Montreal|GloboTech Communications|
+|16|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|17|183.110.246.99|80|South Korea|Seongnam-si|Korea Telecom|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|145.40.97.148|11314|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|163.61.134.145|8081|Indonesia|Tangerang|PT Lentera Abadi Solusinet|
 
 
 
