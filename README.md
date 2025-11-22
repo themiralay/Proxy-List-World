@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|2|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|3|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|4|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|9|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|15|103.76.108.227|80|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|16|103.4.76.105|8483|Indonesia|Parung|PT Khazanah Net Indonesia|
-|17|145.40.97.148|10796|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|18|103.19.58.174|3125|Indonesia|Kertosono|BITSNET|
+|19|195.62.50.21|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
