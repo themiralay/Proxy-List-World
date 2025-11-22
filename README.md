@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|67.43.228.250|31883|Canada|Montreal|GloboTech Communications|
-|9|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|103.175.236.18|8080|Indonesia|Wonosari|PT Marva Global Telekomunikasi|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|15|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
-|16|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
-|17|103.175.245.204|8080|Bangladesh|Pālang|Orange Communication|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
+|11|67.43.228.250|31883|Canada|Montreal|GloboTech Communications|
+|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|67.43.236.19|6787|Canada|Montreal|GloboTech Communications|
+|16|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|17|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|18|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|19|94.154.152.13|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
