@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|4|56.124.106.170|8561|Brazil|São Paulo|Amazon.com, Inc.|
-|5|165.154.36.27|10001|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|202.5.54.42|1117|Bangladesh|Barishal|BBTS-NEW|
-|7|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
-|8|210.79.146.50|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|9|176.88.168.109|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|124.217.71.18|8082|Philippines|Mexico|Philippine Long Distance Telephone Co.|
-|14|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
-|15|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
-|18|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
-|19|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|163.223.78.97|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|8|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|177.234.217.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|13|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
+|14|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|15|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|16|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
