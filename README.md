@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|36.147.78.166|80|China|Guangzhou|China Mobile|
-|7|103.68.214.164|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|8|67.43.228.250|27413|Canada|Montreal|GloboTech Communications|
-|9|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|6|67.43.228.250|27413|Canada|Montreal|GloboTech Communications|
+|7|116.80.47.128|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
+|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|11|116.80.91.130|3172|Japan|Yokohama|InfoSphere|
-|12|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|16|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|17|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|18|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|19|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|102.68.87.48|8888|Kenya|Nairobi|Host Africa (Pty) Ltd|
+|13|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.63.169|3172|Japan|Yokohama|InfoSphere|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|130.61.200.242|8123|Germany|Frankfurt am Main|Oracle Corporation|
+|18|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
