@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|5|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|72.10.164.178|32871|Canada|Montreal|GloboTech Communications|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|180.191.228.72|8085|Philippines|General Trias|Globe Telecom|
-|17|190.61.112.125|999|El Salvador|San Salvador|Ufinet El Salvador|
-|18|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|8|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|72.10.164.178|32871|Canada|Montreal|GloboTech Communications|
+|17|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 |19|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|139.159.97.42|9798|China|Guangzhou|China Unicom|
+|20|103.189.249.204|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
 
 
 
