@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|152.26.14.34|3156|United States|Franklin|MCNC|
-|7|152.26.14.46|3156|United States|Franklin|MCNC|
-|8|152.26.14.17|3156|United States|Franklin|MCNC|
-|9|152.26.14.42|3156|United States|Franklin|MCNC|
-|10|152.26.14.35|3156|United States|Franklin|MCNC|
-|11|152.26.14.22|3156|United States|Franklin|MCNC|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|142.176.184.82|8091|Canada|Dartmouth|Bell Canada|
-|14|152.26.14.17|3156|United States|Franklin|MCNC|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|152.26.14.34|3156|United States|Franklin|MCNC|
-|18|152.26.14.35|3156|United States|Franklin|MCNC|
-|19|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|5|142.176.184.82|8091|Canada|Dartmouth|Bell Canada|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|181.188.203.80|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|202.58.77.194|8031|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|18|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|152.26.14.5|3156|United States|Franklin|MCNC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
