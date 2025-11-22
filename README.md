@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
-|2|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|109.127.82.4|8085|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|17|61.29.96.146|8000|Australia|Albury|AAPT Limited|
-|18|204.199.140.26|999|Chile|Villa Alegre|Ingbell Chile SPA|
-|19|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|20|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|9|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|10|168.195.214.41|8800|Brazil|Arapiraca|UP TECNOLOGIA LTDA|
+|11|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|16|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|17|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|45.71.81.17|9292|Brazil|Parauapebas|Coelho Tecnologia|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
