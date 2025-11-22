@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|16|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|45.144.52.96|3128|Finland|Helsinki|H2nexus LTD|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
+|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
 
 
 
