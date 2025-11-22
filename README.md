@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80306** proxies at the latest update. Usable proxies are below.
+> Scraper found **80245** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38171|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38129|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40824|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.63.176|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|103.215.187.112|1080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|10|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|13|81.90.149.188|3128|Iran|Tehran|Afranet|
+|14|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|16|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|17|188.132.222.2|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
