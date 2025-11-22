@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.159|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|177.234.240.124|1993|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|10|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|17|181.119.86.126|999|Colombia|Yumbo|IFX Networks Argentina S.R.L|
-|18|14.242.161.71|5102|Vietnam|Cà Mau|VNPT|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|202.5.52.112|25253|Bangladesh|Chittagong|BBTS-NEW|
+|7|157.66.84.17|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|10|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|57.128.188.167|8181|United Kingdom|Erith|OVH SAS|
+|15|195.211.71.200|1433|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
+|16|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|201.230.15.57|999|Peru|Jesus Maria|Telefonica del Peru|
+|18|177.234.217.238|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|116.80.63.156|3172|Japan|Yokohama|InfoSphere|
+|20|157.20.233.184|8080|Indonesia|Temanggung|PT Applewifi Selalu Lancar|
 
 
 
