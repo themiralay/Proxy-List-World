@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |4|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|6|177.53.153.94|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |10|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 |11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|72.10.160.93|7741|Canada|Montreal|GloboTech Communications|
-|14|152.26.14.34|3156|United States|Franklin|MCNC|
-|15|177.53.153.94|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|16|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|17|152.26.14.35|3156|United States|Franklin|MCNC|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|177.53.153.88|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|20|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|177.53.153.88|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
+|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|16|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|17|217.29.23.34|8080|Kyrgyzstan|Bishkek|Saima RO|
+|18|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|19|177.234.217.237|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
 
 
 
