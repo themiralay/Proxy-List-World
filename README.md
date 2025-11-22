@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.14.17|3156|United States|Franklin|MCNC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|152.26.14.42|3156|United States|Franklin|MCNC|
-|9|152.26.14.22|3156|United States|Franklin|MCNC|
+|5|152.26.14.22|3156|United States|Franklin|MCNC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|8|152.26.14.17|3156|United States|Franklin|MCNC|
+|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
 |10|152.26.14.35|3156|United States|Franklin|MCNC|
-|11|152.26.14.46|3156|United States|Franklin|MCNC|
-|12|152.26.14.34|3156|United States|Franklin|MCNC|
-|13|152.26.14.17|3156|United States|Franklin|MCNC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|152.26.14.35|3156|United States|Franklin|MCNC|
-|16|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|152.26.14.34|3156|United States|Franklin|MCNC|
-|18|142.176.184.82|8091|Canada|Dartmouth|Bell Canada|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|11|152.26.14.42|3156|United States|Franklin|MCNC|
+|12|152.26.14.35|3156|United States|Franklin|MCNC|
+|13|152.26.14.34|3156|United States|Franklin|MCNC|
+|14|152.26.14.46|3156|United States|Franklin|MCNC|
+|15|152.26.14.17|3156|United States|Franklin|MCNC|
+|16|152.26.14.34|3156|United States|Franklin|MCNC|
+|17|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
