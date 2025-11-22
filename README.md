@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
-|5|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|6|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|36.147.78.166|80|China|Guangzhou|China Mobile|
-|9|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
-|10|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|103.175.240.87|8090|Indonesia|Sleman|LDP|
-|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|14|49.146.60.29|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|15|45.189.108.20|999|Peru|Surquillo|Bantel SAC|
-|16|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|19|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|72.10.164.178|12967|Canada|Montreal|GloboTech Communications|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|36.147.78.166|80|China|Guangzhou|China Mobile|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|13|103.83.179.148|1111|Indonesia|Pasarkemis|PT SOLUSI TRIMEGAH PERSADA|
+|14|36.147.78.166|80|China|Guangzhou|China Mobile|
+|15|38.172.128.172|8889|Peru|Lima|Conex TV E.I.R.L.|
+|16|103.94.4.242|80|Indonesia|Pamulang|ICONPLN|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
+|19|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|20|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 
 
 
