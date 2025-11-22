@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|5|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|16|42.96.5.254|22894|Vietnam|Cà Mau|Bach Kim Network solutions Join stock company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|212.252.73.29|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|72.10.160.173|3181|Canada|Montreal|GloboTech Communications|
+|2|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|3|160.25.119.116|7777|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|188.132.221.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|41.191.228.214|8088|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
