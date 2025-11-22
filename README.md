@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|5|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|3|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|8|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|13|165.154.36.27|10001|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|72.10.160.90|16209|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|5819|Canada|Montreal|GloboTech Communications|
-|16|160.25.237.161|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
-|17|170.80.203.28|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
-|20|202.5.60.203|1117|Bangladesh|Sonargaon|BBTS-NEW|
+|7|45.71.81.17|9292|Brazil|Parauapebas|Coelho Tecnologia|
+|8|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|13|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|177.234.217.236|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|72.10.160.90|16209|Canada|Montreal|GloboTech Communications|
+|18|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|20|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
 
 
 
