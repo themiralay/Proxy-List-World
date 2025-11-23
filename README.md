@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
-|17|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|17|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
+|19|113.192.12.37|8181|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|20|34.100.129.128|8123|India|Mumbai|Google LLC|
 
 
 
