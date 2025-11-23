@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|16|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|202.58.73.6|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
