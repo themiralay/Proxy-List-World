@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|15|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|20|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|13|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
