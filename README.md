@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|14|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|2|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
