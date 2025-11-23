@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|17|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|152.26.14.5|3156|United States|Franklin|MCNC|
+|6|152.26.14.22|3156|United States|Franklin|MCNC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|152.26.14.2|3156|United States|Franklin|MCNC|
+|9|152.26.14.1|3156|United States|Franklin|MCNC|
+|10|152.26.14.3|3156|United States|Franklin|MCNC|
+|11|152.26.14.17|3156|United States|Franklin|MCNC|
+|12|152.26.14.44|3156|United States|Franklin|MCNC|
+|13|152.26.14.44|3156|United States|Franklin|MCNC|
+|14|152.26.14.35|3156|United States|Franklin|MCNC|
+|15|152.26.14.46|3156|United States|Franklin|MCNC|
+|16|152.26.14.1|3156|United States|Franklin|MCNC|
+|17|152.26.14.42|3156|United States|Franklin|MCNC|
+|18|152.26.14.34|3156|United States|Franklin|MCNC|
+|19|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|20|152.26.14.43|3156|United States|Franklin|MCNC|
 
 
 
