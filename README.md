@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|17|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|1|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|2|152.26.14.17|3156|United States|Franklin|MCNC|
+|3|152.26.14.22|3156|United States|Franklin|MCNC|
+|4|152.26.14.44|3156|United States|Franklin|MCNC|
+|5|152.26.14.34|3156|United States|Franklin|MCNC|
+|6|152.26.14.2|3156|United States|Franklin|MCNC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|152.26.14.35|3156|United States|Franklin|MCNC|
+|9|152.26.14.5|3156|United States|Franklin|MCNC|
+|10|152.26.14.48|3156|United States|Franklin|MCNC|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|152.26.14.49|3156|United States|Franklin|MCNC|
+|13|152.26.14.3|3156|United States|Franklin|MCNC|
+|14|152.26.14.43|3156|United States|Franklin|MCNC|
+|15|152.26.14.42|3156|United States|Franklin|MCNC|
+|16|152.26.14.35|3156|United States|Franklin|MCNC|
+|17|152.26.14.46|3156|United States|Franklin|MCNC|
+|18|152.26.14.1|3156|United States|Franklin|MCNC|
+|19|152.26.14.2|3156|United States|Franklin|MCNC|
+|20|152.26.14.46|3156|United States|Franklin|MCNC|
 
 
 
