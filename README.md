@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|16|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|177.53.153.88|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|20|144.24.41.48|9999|United States|Phoenix|Oracle Corporation|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|152.26.14.5|3156|United States|Franklin|MCNC|
+|6|152.26.14.48|3156|United States|Franklin|MCNC|
+|7|152.26.14.44|3156|United States|Franklin|MCNC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|15|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|16|177.53.153.88|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
