@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.26.14.35|3156|United States|Franklin|MCNC|
-|6|152.26.14.2|3156|United States|Franklin|MCNC|
-|7|152.26.14.34|3156|United States|Franklin|MCNC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|10|152.26.14.17|3156|United States|Franklin|MCNC|
-|11|152.26.14.43|3156|United States|Franklin|MCNC|
-|12|152.26.14.22|3156|United States|Franklin|MCNC|
-|13|152.26.14.5|3156|United States|Franklin|MCNC|
-|14|152.26.14.42|3156|United States|Franklin|MCNC|
-|15|152.26.14.3|3156|United States|Franklin|MCNC|
-|16|152.26.14.1|3156|United States|Franklin|MCNC|
-|17|152.26.14.49|3156|United States|Franklin|MCNC|
-|18|152.26.14.46|3156|United States|Franklin|MCNC|
-|19|152.26.14.44|3156|United States|Franklin|MCNC|
-|20|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|103.162.66.10|8080|India|Pune|Imperium Digital Network|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|103.139.99.190|8080|Indonesia|Panaragan|Digital Network Setiawan|
+|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|20|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
