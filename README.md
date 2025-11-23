@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 |9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |10|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|41.90.167.149|8082|Kenya|Nairobi|Safaricom Limited|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|152.26.14.35|3156|United States|Franklin|MCNC|
-|20|152.26.14.22|3156|United States|Franklin|MCNC|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|19|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
