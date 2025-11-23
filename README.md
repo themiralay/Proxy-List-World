@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|16|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|17|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
-|18|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|20|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|20|38.10.129.181|999|Dominican Republic|San Cristóbal|Liberty Technology SRL|
 
 
 
