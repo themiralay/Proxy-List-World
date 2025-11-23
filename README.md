@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|4|152.26.14.2|3156|United States|Franklin|MCNC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|152.26.14.17|3156|United States|Franklin|MCNC|
-|7|152.26.14.44|3156|United States|Franklin|MCNC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|152.26.14.22|3156|United States|Franklin|MCNC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|152.26.14.43|3156|United States|Franklin|MCNC|
-|13|152.26.14.1|3156|United States|Franklin|MCNC|
-|14|152.26.14.1|3156|United States|Franklin|MCNC|
-|15|103.126.119.252|8097|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|16|152.26.14.48|3156|United States|Franklin|MCNC|
-|17|152.26.14.49|3156|United States|Franklin|MCNC|
-|18|152.26.14.35|3156|United States|Franklin|MCNC|
-|19|152.26.14.48|3156|United States|Franklin|MCNC|
-|20|152.26.14.46|3156|United States|Franklin|MCNC|
+|9|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|12|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|103.126.119.252|8097|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|15|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
