@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|152.26.14.49|3156|United States|Franklin|MCNC|
-|5|152.26.14.46|3156|United States|Franklin|MCNC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.14.1|3156|United States|Franklin|MCNC|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|152.26.14.46|3156|United States|Franklin|MCNC|
-|10|152.26.14.44|3156|United States|Franklin|MCNC|
-|11|152.26.14.34|3156|United States|Franklin|MCNC|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|152.26.14.44|3156|United States|Franklin|MCNC|
-|14|152.26.14.49|3156|United States|Franklin|MCNC|
-|15|152.26.14.42|3156|United States|Franklin|MCNC|
-|16|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|18|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|152.26.14.1|3156|United States|Franklin|MCNC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|9|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|103.147.134.59|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|20|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
