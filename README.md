@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|152.26.14.5|3156|United States|Franklin|MCNC|
-|6|152.26.14.2|3156|United States|Franklin|MCNC|
-|7|152.26.14.22|3156|United States|Franklin|MCNC|
-|8|152.26.14.43|3156|United States|Franklin|MCNC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|152.26.14.35|3156|United States|Franklin|MCNC|
-|11|152.26.14.17|3156|United States|Franklin|MCNC|
-|12|152.26.14.44|3156|United States|Franklin|MCNC|
-|13|152.26.14.3|3156|United States|Franklin|MCNC|
-|14|152.26.14.34|3156|United States|Franklin|MCNC|
-|15|152.26.14.48|3156|United States|Franklin|MCNC|
-|16|152.26.14.1|3156|United States|Franklin|MCNC|
-|17|152.26.14.46|3156|United States|Franklin|MCNC|
-|18|152.26.14.42|3156|United States|Franklin|MCNC|
-|19|152.26.14.49|3156|United States|Franklin|MCNC|
-|20|142.171.230.36|9090|United States|Los Angeles|Multacom Corporation|
+|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|15|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|18|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
