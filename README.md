@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.222.255.161|8055|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|78.83.185.6|9980|Bulgaria|Plovdiv|A1 Bulgaria EAD|
-|18|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|19|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|20|78.83.185.6|9980|Bulgaria|Plovdiv|A1 Bulgaria EAD|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|78.83.185.6|9980|Bulgaria|Plovdiv|A1 Bulgaria EAD|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
