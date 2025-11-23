@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|15|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|13|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 |17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|19|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|18|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
+|19|45.189.252.93|999|Mexico|Alvarado|Tracered SA De CV|
 |20|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
