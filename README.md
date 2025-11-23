@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|7|160.19.17.33|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|15|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
