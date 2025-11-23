@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|5|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|152.26.14.1|3156|United States|Franklin|MCNC|
-|7|152.26.14.35|3156|United States|Franklin|MCNC|
-|8|152.26.14.5|3156|United States|Franklin|MCNC|
-|9|152.26.14.44|3156|United States|Franklin|MCNC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|152.26.14.35|3156|United States|Franklin|MCNC|
+|6|152.26.14.17|3156|United States|Franklin|MCNC|
+|7|152.26.14.48|3156|United States|Franklin|MCNC|
+|8|152.26.14.44|3156|United States|Franklin|MCNC|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|152.26.14.46|3156|United States|Franklin|MCNC|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|152.26.14.48|3156|United States|Franklin|MCNC|
-|17|152.26.14.17|3156|United States|Franklin|MCNC|
-|18|152.26.14.34|3156|United States|Franklin|MCNC|
-|19|152.26.14.22|3156|United States|Franklin|MCNC|
-|20|152.26.14.43|3156|United States|Franklin|MCNC|
+|11|152.26.14.22|3156|United States|Franklin|MCNC|
+|12|152.26.14.46|3156|United States|Franklin|MCNC|
+|13|152.26.14.1|3156|United States|Franklin|MCNC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|152.26.14.22|3156|United States|Franklin|MCNC|
+|16|152.26.14.17|3156|United States|Franklin|MCNC|
+|17|152.26.14.49|3156|United States|Franklin|MCNC|
+|18|152.26.14.1|3156|United States|Franklin|MCNC|
+|19|152.26.14.49|3156|United States|Franklin|MCNC|
+|20|152.26.14.2|3156|United States|Franklin|MCNC|
 
 
 
