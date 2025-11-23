@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|10|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|13|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|132.255.21.123|999|Colombia|Pereira|Media Commerce Partners S.A|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|10|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|12|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|14|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|103.159.195.183|1080|Indonesia|Jekulo|PT Giga Digital Nusantara|
 
 
 
