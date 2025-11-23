@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|8|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
+|12|152.26.14.3|3156|United States|Franklin|MCNC|
+|13|152.26.14.46|3156|United States|Franklin|MCNC|
+|14|152.26.14.35|3156|United States|Franklin|MCNC|
+|15|152.26.14.44|3156|United States|Franklin|MCNC|
+|16|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|17|152.26.14.42|3156|United States|Franklin|MCNC|
+|18|152.26.14.2|3156|United States|Franklin|MCNC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 
 
 
