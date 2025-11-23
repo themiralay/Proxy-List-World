@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|14|103.193.144.16|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|18|152.26.14.44|3156|United States|Franklin|MCNC|
-|19|152.26.14.34|3156|United States|Franklin|MCNC|
-|20|152.26.14.46|3156|United States|Franklin|MCNC|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|185.105.90.184|12304|Russia|Moscow|First Server Limited|
+|13|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
+|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
