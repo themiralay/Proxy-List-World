@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|12|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|14|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|20|62.241.133.227|1981|Egypt|Fāqūs|Link Egypt (Link.NET)|
 
 
 
