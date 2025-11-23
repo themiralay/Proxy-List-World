@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|172.172.209.40|3128|United States|Boydton|Microsoft|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|152.26.14.49|3156|United States|Franklin|MCNC|
-|9|152.26.14.34|3156|United States|Franklin|MCNC|
-|10|152.26.14.46|3156|United States|Franklin|MCNC|
-|11|152.26.14.2|3156|United States|Franklin|MCNC|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|152.26.14.42|3156|United States|Franklin|MCNC|
-|14|152.26.14.22|3156|United States|Franklin|MCNC|
-|15|152.26.14.17|3156|United States|Franklin|MCNC|
-|16|152.26.14.35|3156|United States|Franklin|MCNC|
-|17|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|172.172.209.40|3128|United States|Boydton|Microsoft|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|200.106.63.218|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|19|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
