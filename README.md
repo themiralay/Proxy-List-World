@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|152.26.14.35|3156|United States|Franklin|MCNC|
-|13|152.26.14.2|3156|United States|Franklin|MCNC|
-|14|152.26.14.22|3156|United States|Franklin|MCNC|
-|15|152.26.14.17|3156|United States|Franklin|MCNC|
-|16|152.26.14.5|3156|United States|Franklin|MCNC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|72.10.160.170|18993|Canada|Montreal|GloboTech Communications|
-|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|6|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|13|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|193.92.149.38|18080|Greece|Athens|Nova Telecommunications & Media Single Member S.A|
+|16|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|72.10.160.170|26705|Canada|Montreal|GloboTech Communications|
+|18|202.5.46.233|2314|Bangladesh|Savar Upazila|BBTS-NEW|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|152.26.14.3|3156|United States|Franklin|MCNC|
 
 
 
