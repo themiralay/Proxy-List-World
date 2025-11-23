@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|209.62.196.68|8080|United States|Cut Off|EATEL|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
-|18|45.124.15.90|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|1|152.26.14.43|3156|United States|Franklin|MCNC|
+|2|152.26.14.2|3156|United States|Franklin|MCNC|
+|3|152.26.14.46|3156|United States|Franklin|MCNC|
+|4|152.26.14.35|3156|United States|Franklin|MCNC|
+|5|152.26.14.49|3156|United States|Franklin|MCNC|
+|6|152.26.14.48|3156|United States|Franklin|MCNC|
+|7|152.26.14.3|3156|United States|Franklin|MCNC|
+|8|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|152.26.14.42|3156|United States|Franklin|MCNC|
+|11|152.26.14.34|3156|United States|Franklin|MCNC|
+|12|152.26.14.34|3156|United States|Franklin|MCNC|
+|13|152.26.14.1|3156|United States|Franklin|MCNC|
+|14|152.26.14.1|3156|United States|Franklin|MCNC|
+|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|16|152.26.14.17|3156|United States|Franklin|MCNC|
+|17|152.26.14.5|3156|United States|Franklin|MCNC|
+|18|152.26.14.42|3156|United States|Franklin|MCNC|
+|19|152.26.14.22|3156|United States|Franklin|MCNC|
+|20|152.26.14.48|3156|United States|Franklin|MCNC|
 
 
 
