@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|7|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|13|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|121.101.130.154|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|15|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|152.26.14.46|3156|United States|Franklin|MCNC|
+|11|152.26.14.34|3156|United States|Franklin|MCNC|
+|12|152.26.14.3|3156|United States|Franklin|MCNC|
+|13|152.26.14.44|3156|United States|Franklin|MCNC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|103.122.0.162|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|17|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|19|42.240.143.179|7999|China|Beijing|UCLOUD|
+|20|121.101.130.154|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
 
 
 
