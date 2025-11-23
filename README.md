@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.245|3172|Japan|Yokohama|InfoSphere|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|152.26.14.48|3156|United States|Franklin|MCNC|
-|5|152.26.14.17|3156|United States|Franklin|MCNC|
-|6|152.26.14.49|3156|United States|Franklin|MCNC|
-|7|152.26.14.5|3156|United States|Franklin|MCNC|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|152.26.14.2|3156|United States|Franklin|MCNC|
-|10|152.26.14.35|3156|United States|Franklin|MCNC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|152.26.14.46|3156|United States|Franklin|MCNC|
+|5|152.26.14.42|3156|United States|Franklin|MCNC|
+|6|152.26.14.5|3156|United States|Franklin|MCNC|
+|7|152.26.14.43|3156|United States|Franklin|MCNC|
+|8|152.26.14.34|3156|United States|Franklin|MCNC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|152.26.14.49|3156|United States|Franklin|MCNC|
+|11|152.26.14.1|3156|United States|Franklin|MCNC|
+|12|152.26.14.35|3156|United States|Franklin|MCNC|
 |13|152.26.14.44|3156|United States|Franklin|MCNC|
-|14|152.26.14.3|3156|United States|Franklin|MCNC|
-|15|152.26.14.46|3156|United States|Franklin|MCNC|
-|16|152.26.14.46|3156|United States|Franklin|MCNC|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|19|152.26.14.35|3156|United States|Franklin|MCNC|
-|20|152.26.14.44|3156|United States|Franklin|MCNC|
+|14|152.26.14.48|3156|United States|Franklin|MCNC|
+|15|152.26.14.3|3156|United States|Franklin|MCNC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|152.26.14.3|3156|United States|Franklin|MCNC|
+|18|152.26.14.35|3156|United States|Franklin|MCNC|
+|19|152.26.14.17|3156|United States|Franklin|MCNC|
+|20|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 
 
 
