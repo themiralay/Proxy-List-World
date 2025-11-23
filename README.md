@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|38.52.209.229|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|15|200.39.139.65|999|Chile|Santiago|Iconex SPA|
-|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|18|38.10.129.181|999|Dominican Republic|San Cristóbal|Liberty Technology SRL|
-|19|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|72.10.160.172|19817|Canada|Montreal|GloboTech Communications|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
 
 
 
