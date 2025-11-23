@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|157.20.98.62|1111|Indonesia|Cikampek|PT. KONNEK JAYA BERSAMA|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|115.147.165.116|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|152.26.14.42|3156|United States|Franklin|MCNC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|152.26.14.44|3156|United States|Franklin|MCNC|
+|10|152.26.14.3|3156|United States|Franklin|MCNC|
+|11|152.26.14.17|3156|United States|Franklin|MCNC|
+|12|152.26.14.49|3156|United States|Franklin|MCNC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|152.26.14.34|3156|United States|Franklin|MCNC|
+|15|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|16|152.26.14.2|3156|United States|Franklin|MCNC|
+|17|152.26.14.5|3156|United States|Franklin|MCNC|
+|18|152.26.14.48|3156|United States|Franklin|MCNC|
+|19|152.26.14.46|3156|United States|Franklin|MCNC|
+|20|152.26.14.43|3156|United States|Franklin|MCNC|
 
 
 
