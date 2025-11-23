@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|6|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|51.16.56.189|9490|Israel|Tel Aviv|Amazon.com, Inc.|
-|9|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|10|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|13|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|177.23.156.11|18800|Brazil|Anápolis|netstore tecnologia ltda|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|121.165.162.203|8642|South Korea|Songpa-gu|Korea Telecom|
-|20|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.14.44|3156|United States|Franklin|MCNC|
+|4|152.26.14.43|3156|United States|Franklin|MCNC|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|152.26.14.5|3156|United States|Franklin|MCNC|
+|7|152.26.14.17|3156|United States|Franklin|MCNC|
+|8|152.26.14.49|3156|United States|Franklin|MCNC|
+|9|152.26.14.3|3156|United States|Franklin|MCNC|
+|10|152.26.14.48|3156|United States|Franklin|MCNC|
+|11|152.26.14.34|3156|United States|Franklin|MCNC|
+|12|152.26.14.1|3156|United States|Franklin|MCNC|
+|13|152.26.14.46|3156|United States|Franklin|MCNC|
+|14|152.26.14.22|3156|United States|Franklin|MCNC|
+|15|152.26.14.2|3156|United States|Franklin|MCNC|
+|16|152.26.14.35|3156|United States|Franklin|MCNC|
+|17|152.26.14.42|3156|United States|Franklin|MCNC|
+|18|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|19|152.26.14.35|3156|United States|Franklin|MCNC|
+|20|152.26.14.17|3156|United States|Franklin|MCNC|
 
 
 
