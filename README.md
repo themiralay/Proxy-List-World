@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|152.26.14.46|3156|United States|Franklin|MCNC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.14.35|3156|United States|Franklin|MCNC|
-|6|152.26.14.34|3156|United States|Franklin|MCNC|
-|7|152.26.14.42|3156|United States|Franklin|MCNC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|152.26.14.3|3156|United States|Franklin|MCNC|
-|10|152.26.14.17|3156|United States|Franklin|MCNC|
-|11|152.26.14.2|3156|United States|Franklin|MCNC|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|152.26.14.44|3156|United States|Franklin|MCNC|
-|14|152.26.14.43|3156|United States|Franklin|MCNC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|152.26.14.5|3156|United States|Franklin|MCNC|
-|17|152.26.14.22|3156|United States|Franklin|MCNC|
-|18|152.26.14.1|3156|United States|Franklin|MCNC|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|161.248.190.83|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
+|15|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
