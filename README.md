@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 |11|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|15|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|16|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|195.66.87.105|8118|Finland|Helsinki|I-servers LTD|
+|15|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|81.90.149.188|3128|Iran|Tehran|Afranet|
 |17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
