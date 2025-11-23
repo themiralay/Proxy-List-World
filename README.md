@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.26.14.44|3156|United States|Franklin|MCNC|
 |7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|152.26.14.1|3156|United States|Franklin|MCNC|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|17|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|152.26.14.42|3156|United States|Franklin|MCNC|
+|13|152.26.14.17|3156|United States|Franklin|MCNC|
+|14|152.26.14.43|3156|United States|Franklin|MCNC|
+|15|152.26.14.46|3156|United States|Franklin|MCNC|
+|16|152.26.14.49|3156|United States|Franklin|MCNC|
+|17|152.26.14.5|3156|United States|Franklin|MCNC|
+|18|152.26.14.34|3156|United States|Franklin|MCNC|
+|19|152.26.14.49|3156|United States|Franklin|MCNC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
