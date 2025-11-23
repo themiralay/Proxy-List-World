@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|9|103.156.14.165|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|10|40.192.27.104|16825|India|Hyderabad|Amazon.com, Inc.|
-|11|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|14|45.167.126.105|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|45.174.253.2|999|Mexico|Cancún|Digitcenter de México, S.A. de C.V.|
-|16|203.190.46.31|8080|Indonesia|Pandak|PT Jaring Lintas Utara|
-|17|103.122.0.162|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|42.240.143.179|7999|China|Beijing|UCLOUD|
-|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|103.156.15.209|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 
 
 
