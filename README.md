@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|159.223.63.150|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
-|12|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|14|185.105.90.184|12304|Russia|Moscow|First Server Limited|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|152.26.14.3|3156|United States|Franklin|MCNC|
+|7|152.26.14.43|3156|United States|Franklin|MCNC|
+|8|152.26.14.1|3156|United States|Franklin|MCNC|
+|9|152.26.14.42|3156|United States|Franklin|MCNC|
+|10|152.26.14.2|3156|United States|Franklin|MCNC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|152.26.14.5|3156|United States|Franklin|MCNC|
+|14|152.26.14.17|3156|United States|Franklin|MCNC|
+|15|152.26.14.35|3156|United States|Franklin|MCNC|
+|16|152.26.14.22|3156|United States|Franklin|MCNC|
+|17|152.26.14.49|3156|United States|Franklin|MCNC|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|152.26.14.3|3156|United States|Franklin|MCNC|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
