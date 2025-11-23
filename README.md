@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|1|152.26.14.46|3156|United States|Franklin|MCNC|
+|2|152.26.14.43|3156|United States|Franklin|MCNC|
+|3|152.26.14.48|3156|United States|Franklin|MCNC|
+|4|152.26.14.44|3156|United States|Franklin|MCNC|
+|5|152.26.14.5|3156|United States|Franklin|MCNC|
+|6|152.26.14.2|3156|United States|Franklin|MCNC|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|8|152.26.14.35|3156|United States|Franklin|MCNC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|152.26.14.34|3156|United States|Franklin|MCNC|
+|11|152.26.14.1|3156|United States|Franklin|MCNC|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|152.26.14.42|3156|United States|Franklin|MCNC|
+|14|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|152.26.14.22|3156|United States|Franklin|MCNC|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.26.14.49|3156|United States|Franklin|MCNC|
+|18|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|19|152.26.14.17|3156|United States|Franklin|MCNC|
+|20|152.26.14.3|3156|United States|Franklin|MCNC|
 
 
 
