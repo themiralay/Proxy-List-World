@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
 |4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|152.26.14.3|3156|United States|Franklin|MCNC|
-|7|152.26.14.22|3156|United States|Franklin|MCNC|
-|8|152.26.14.34|3156|United States|Franklin|MCNC|
-|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|10|152.26.14.35|3156|United States|Franklin|MCNC|
-|11|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|152.26.14.1|3156|United States|Franklin|MCNC|
-|13|152.26.14.17|3156|United States|Franklin|MCNC|
-|14|152.26.14.46|3156|United States|Franklin|MCNC|
-|15|152.26.14.43|3156|United States|Franklin|MCNC|
-|16|152.26.14.44|3156|United States|Franklin|MCNC|
-|17|152.26.14.42|3156|United States|Franklin|MCNC|
-|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|19|152.26.14.49|3156|United States|Franklin|MCNC|
-|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|5|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
+|18|163.61.134.130|8181|Indonesia|Tangerang|PT Lentera Abadi Solusinet|
+|19|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 
 
 
