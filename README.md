@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|123.26.133.168|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.14.35|3156|United States|Franklin|MCNC|
-|6|152.26.14.17|3156|United States|Franklin|MCNC|
-|7|152.26.14.42|3156|United States|Franklin|MCNC|
-|8|152.26.14.46|3156|United States|Franklin|MCNC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|152.26.14.2|3156|United States|Franklin|MCNC|
-|11|152.26.14.1|3156|United States|Franklin|MCNC|
-|12|152.26.14.49|3156|United States|Franklin|MCNC|
-|13|152.26.14.48|3156|United States|Franklin|MCNC|
-|14|152.26.14.3|3156|United States|Franklin|MCNC|
-|15|152.26.14.22|3156|United States|Franklin|MCNC|
-|16|152.26.14.34|3156|United States|Franklin|MCNC|
-|17|152.26.14.43|3156|United States|Franklin|MCNC|
-|18|152.26.14.5|3156|United States|Franklin|MCNC|
-|19|152.26.14.44|3156|United States|Franklin|MCNC|
-|20|152.26.14.22|3156|United States|Franklin|MCNC|
+|4|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|15.160.134.84|9277|Italy|Milan|Amazon Technologies Inc|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
