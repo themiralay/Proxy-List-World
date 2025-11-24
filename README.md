@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|3|116.12.157.197|33333|Singapore|Singapore|SingNet Pte Ltd|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |7|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
+|8|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |9|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|10|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
-|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
+|13|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
+|14|116.12.157.197|33333|Singapore|Singapore|SingNet Pte Ltd|
+|15|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
+|16|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|18|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
