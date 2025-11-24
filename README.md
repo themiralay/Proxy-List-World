@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79955** proxies at the latest update. Usable proxies are below.
+> Scraper found **79923** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37970|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|167.249.52.94|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|18|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|7|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|8|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|9|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|10|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
+|15|81.90.149.188|3128|Iran|Tehran|Afranet|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
