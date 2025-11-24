@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
+|13|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|109.190.105.24|8118|France|Saint-Avold|OVH xDSL|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
+|19|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 
 
 
