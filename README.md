@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|38.194.246.34|999|Mexico|León|Cogent Communications|
-|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|5|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|103.155.198.142|1080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|12|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
