@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|7|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
-|8|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|12|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|200.26.187.158|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
