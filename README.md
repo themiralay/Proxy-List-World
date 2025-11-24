@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|6|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
-|12|103.145.46.79|1452|Indonesia|Bandar Lampung|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|45.191.47.3|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|20|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|103.145.46.79|1452|Indonesia|Bandar Lampung|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
+|10|45.191.47.3|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|18|72.10.160.90|8535|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.22|31149|Canada|Montreal|GloboTech Communications|
+|20|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
 
 
 
