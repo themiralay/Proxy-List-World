@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.14.44|3156|United States|Franklin|MCNC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|152.26.14.42|3156|United States|Franklin|MCNC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|152.26.14.49|3156|United States|Franklin|MCNC|
-|9|152.26.14.34|3156|United States|Franklin|MCNC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|152.26.14.3|3156|United States|Franklin|MCNC|
-|12|152.26.14.43|3156|United States|Franklin|MCNC|
-|13|152.26.14.35|3156|United States|Franklin|MCNC|
-|14|152.26.14.46|3156|United States|Franklin|MCNC|
-|15|152.26.14.2|3156|United States|Franklin|MCNC|
-|16|152.26.14.1|3156|United States|Franklin|MCNC|
-|17|152.26.14.17|3156|United States|Franklin|MCNC|
-|18|152.26.14.22|3156|United States|Franklin|MCNC|
-|19|152.26.14.48|3156|United States|Franklin|MCNC|
-|20|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|4|152.32.190.98|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|152.26.14.49|3156|United States|Franklin|MCNC|
+|7|152.26.14.34|3156|United States|Franklin|MCNC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|152.26.14.22|3156|United States|Franklin|MCNC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|152.26.14.42|3156|United States|Franklin|MCNC|
+|12|152.26.14.17|3156|United States|Franklin|MCNC|
+|13|152.26.14.44|3156|United States|Franklin|MCNC|
+|14|152.26.14.1|3156|United States|Franklin|MCNC|
+|15|152.26.14.46|3156|United States|Franklin|MCNC|
+|16|152.26.14.5|3156|United States|Franklin|MCNC|
+|17|152.26.14.43|3156|United States|Franklin|MCNC|
+|18|152.26.14.48|3156|United States|Franklin|MCNC|
+|19|152.26.14.2|3156|United States|Franklin|MCNC|
+|20|152.26.14.35|3156|United States|Franklin|MCNC|
 
 
 
