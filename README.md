@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|5|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|6|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|5|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |10|116.12.157.197|33333|Singapore|Singapore|SingNet Pte Ltd|
-|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
-|13|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
+|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
