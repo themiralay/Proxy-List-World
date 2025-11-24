@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|11|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|85.187.224.21|8080|Bulgaria|Kardzhali|Technolux Ltd|
-|17|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|18|34.100.129.128|8123|India|Mumbai|Google LLC|
-|19|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|34.100.129.128|8123|India|Mumbai|Google LLC|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|17|38.183.146.97|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
+|20|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 
 
 
