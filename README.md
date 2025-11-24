@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|15|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|80.254.124.163|2080|Russia|Rostov-on-Don|PJSC Rostelecom|
-|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
+|15|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|17|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|18|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|20|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
