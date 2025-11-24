@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|10|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
