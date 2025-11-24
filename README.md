@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|12|34.100.129.128|8123|India|Mumbai|Google LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|91.230.65.202|8080|Russia|Moscow|Panin Kirill Evgenyevich|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|11|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|12|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|103.123.168.202|3932|Bangladesh|Nārāyanganj|Sajid Trading Ltd.|
 
 
 
