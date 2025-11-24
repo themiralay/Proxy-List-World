@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
-|16|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|19|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|9|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|19|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 
 
 
