@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|3|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|202.191.126.52|1236|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.189.254.18|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|14|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
