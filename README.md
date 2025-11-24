@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
-|18|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|7|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|103.109.213.134|4949|Bangladesh|Dhaka|Bismillah Telecom Service|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
 
 
 
