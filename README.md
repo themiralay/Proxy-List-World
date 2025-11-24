@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|4|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|8|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|9|121.165.162.203|8642|South Korea|Songpa-gu|Korea Telecom|
-|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|10|121.165.169.133|8048|South Korea|Songpa-gu|Korea Telecom|
+|11|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|192.203.0.250|999|Puerto Rico|Fajardo|Boom NET|
+|18|223.206.185.35|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
