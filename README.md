@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|181.57.183.26|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
