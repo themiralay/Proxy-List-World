@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.14.43|3156|United States|Franklin|MCNC|
-|5|152.26.14.49|3156|United States|Franklin|MCNC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.14.49|3156|United States|Franklin|MCNC|
-|8|152.26.14.43|3156|United States|Franklin|MCNC|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|181.188.203.80|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|201.182.150.184|999|Ecuador|Tisaleo|Ufinet Panama S.A.|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|20|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
