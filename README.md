@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|5|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
-|6|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
-|9|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|13|116.12.157.197|33333|Singapore|Singapore|SingNet Pte Ltd|
-|14|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
+|3|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|132.226.154.12|2096|United States|Phoenix|Oracle Corporation|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|18|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
