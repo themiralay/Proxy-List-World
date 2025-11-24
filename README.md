@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |15|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|165.154.36.27|10001|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|200.107.235.226|999|Honduras|La Ceiba|Redes y Telecomunicaciones|
 
 
 
