@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
-|12|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|18|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|186.96.160.202|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|167.249.52.38|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
