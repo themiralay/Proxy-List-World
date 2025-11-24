@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|13|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|14|8.243.126.31|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|15|8.243.126.27|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|16|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|103.139.99.202|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|20|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|10|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|17|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|18|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
