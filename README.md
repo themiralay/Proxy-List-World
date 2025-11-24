@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|8|152.26.14.49|3156|United States|Franklin|MCNC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|152.26.14.43|3156|United States|Franklin|MCNC|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|152.26.14.43|3156|United States|Franklin|MCNC|
-|14|152.26.14.49|3156|United States|Franklin|MCNC|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|152.26.14.49|3156|United States|Franklin|MCNC|
+|8|152.26.14.43|3156|United States|Franklin|MCNC|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|152.26.14.49|3156|United States|Franklin|MCNC|
+|12|152.26.14.43|3156|United States|Franklin|MCNC|
+|13|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
