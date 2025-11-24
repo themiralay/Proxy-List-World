@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|154.73.28.145|8080|Libya|Tripoli|Rawafed|
-|13|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|14|181.13.20.102|999|Argentina|Eldorado|Telecom Argentina S.A.|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|17|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|12|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
