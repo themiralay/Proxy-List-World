@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|119.75.57.106|33333|Singapore|Singapore|SingNet Pte Ltd|
-|9|116.12.157.199|33333|Singapore|Singapore|SingNet Pte Ltd|
-|10|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|15|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|116.12.157.195|33333|Singapore|Singapore|SingNet Pte Ltd|
-|17|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|18|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|116.12.157.197|33333|Singapore|Singapore|SingNet Pte Ltd|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|16|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
