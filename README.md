@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|14|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
-|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|12|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|18|177.130.104.86|33333|Brazil|Santo Anastácio|Vero S.A|
+|19|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
