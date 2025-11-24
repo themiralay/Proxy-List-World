@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|15|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|121.165.162.203|8642|South Korea|Songpa-gu|Korea Telecom|
-|18|37.221.16.103|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|16|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
