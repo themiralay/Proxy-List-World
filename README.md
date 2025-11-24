@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 |8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|38.156.72.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|18|193.30.14.251|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
