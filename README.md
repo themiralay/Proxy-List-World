@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.191.47.3|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|9|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|38.194.231.70|999|Mexico|Pañhé|Cogent Communications|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
