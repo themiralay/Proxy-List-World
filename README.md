@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|11|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|12|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|13|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|103.67.91.101|7777|Indonesia|Tipar|SOULTAN|
-|19|122.52.234.54|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|8|103.133.27.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|9|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.204.208.211|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
