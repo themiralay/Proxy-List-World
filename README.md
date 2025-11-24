@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80402** proxies at the latest update. Usable proxies are below.
+> Scraper found **80369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38258|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38225|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|91|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40827|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|5|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|119.93.14.61|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|11|103.133.27.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|16|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|17|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|18|181.188.203.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|77.238.228.178|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|190.97.237.196|999|Venezuela|Caracas|Viginet C.A|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|16|8.243.126.29|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|19|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|20|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
 
 
 
