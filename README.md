@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|115.85.36.2|8082|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|177.53.153.91|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|18|177.53.153.88|999|Peru|San Martín de Porras|Moreno Yanoc Nemias Bernardo|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
