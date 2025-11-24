@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|152.26.14.3|3156|United States|Franklin|MCNC|
-|6|152.26.14.1|3156|United States|Franklin|MCNC|
-|7|152.26.14.44|3156|United States|Franklin|MCNC|
-|8|152.26.14.42|3156|United States|Franklin|MCNC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|152.26.14.22|3156|United States|Franklin|MCNC|
-|11|152.26.14.43|3156|United States|Franklin|MCNC|
-|12|152.26.14.49|3156|United States|Franklin|MCNC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|152.26.14.17|3156|United States|Franklin|MCNC|
-|15|152.26.14.34|3156|United States|Franklin|MCNC|
-|16|152.26.14.35|3156|United States|Franklin|MCNC|
-|17|152.26.14.48|3156|United States|Franklin|MCNC|
-|18|152.26.14.2|3156|United States|Franklin|MCNC|
-|19|152.26.14.46|3156|United States|Franklin|MCNC|
-|20|152.26.14.5|3156|United States|Franklin|MCNC|
+|3|152.26.14.2|3156|United States|Franklin|MCNC|
+|4|152.26.14.48|3156|United States|Franklin|MCNC|
+|5|152.26.14.35|3156|United States|Franklin|MCNC|
+|6|152.26.14.49|3156|United States|Franklin|MCNC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|152.26.14.3|3156|United States|Franklin|MCNC|
+|9|152.26.14.42|3156|United States|Franklin|MCNC|
+|10|152.26.14.43|3156|United States|Franklin|MCNC|
+|11|152.26.14.17|3156|United States|Franklin|MCNC|
+|12|152.26.14.44|3156|United States|Franklin|MCNC|
+|13|152.26.14.22|3156|United States|Franklin|MCNC|
+|14|152.26.14.34|3156|United States|Franklin|MCNC|
+|15|152.26.14.1|3156|United States|Franklin|MCNC|
+|16|152.26.14.46|3156|United States|Franklin|MCNC|
+|17|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|152.26.14.5|3156|United States|Franklin|MCNC|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
