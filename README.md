@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|9|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
-|10|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|10|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|167.249.52.38|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
