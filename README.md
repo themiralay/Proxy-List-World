@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
-|16|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|181.177.141.192|999|Bolivia|Cochabamba|Comteco Ltda|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
