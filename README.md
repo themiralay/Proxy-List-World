@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|152.26.14.49|3156|United States|Franklin|MCNC|
-|6|152.26.14.43|3156|United States|Franklin|MCNC|
-|7|152.26.14.49|3156|United States|Franklin|MCNC|
-|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|175.182.175.106|30000|Taiwan|Daan|Digital United Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|152.26.14.43|3156|United States|Franklin|MCNC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|175.208.129.130|8447|South Korea|Seoul|Korea Telecom|
+|10|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|14|121.165.162.203|8710|South Korea|Songpa-gu|Korea Telecom|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|175.208.129.130|8447|South Korea|Seoul|Korea Telecom|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|20|64.226.90.210|20201|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
