@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|36.95.142.35|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|5|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|103.236.142.41|8090|Indonesia|Jembul Kulon|PT. Jaringan Internet Tayu|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
+|14|101.128.107.36|1111|Indonesia|Palembang|CBN|
+|15|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|16|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|45.191.47.3|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|18|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
