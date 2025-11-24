@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|152.26.14.5|3156|United States|Franklin|MCNC|
-|6|152.26.14.44|3156|United States|Franklin|MCNC|
-|7|152.26.14.34|3156|United States|Franklin|MCNC|
-|8|152.26.14.42|3156|United States|Franklin|MCNC|
-|9|152.26.14.1|3156|United States|Franklin|MCNC|
-|10|152.26.14.3|3156|United States|Franklin|MCNC|
-|11|152.26.14.49|3156|United States|Franklin|MCNC|
-|12|152.26.14.48|3156|United States|Franklin|MCNC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|152.26.14.35|3156|United States|Franklin|MCNC|
-|15|152.26.14.46|3156|United States|Franklin|MCNC|
-|16|152.26.14.2|3156|United States|Franklin|MCNC|
-|17|152.26.14.17|3156|United States|Franklin|MCNC|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
