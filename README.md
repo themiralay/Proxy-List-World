@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|200.107.235.226|999|Honduras|La Ceiba|Redes y Telecomunicaciones|
-|19|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|182.253.109.24|8080|Indonesia|Semarang|Biznet Metronet|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|8|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|16|47.236.188.232|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|200.107.235.226|999|Honduras|La Ceiba|Redes y Telecomunicaciones|
+|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 
 
 
