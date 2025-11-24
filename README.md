@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|11|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|12|78.13.74.125|4457|Mexico|Querétaro City|Amazon.com|
-|13|103.193.145.155|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|103.193.145.155|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
+|9|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|10|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.164.212.125|8080|Indonesia|Gubengairlangga|PT iForte Global Internet|
+|13|103.121.90.221|3128|Vietnam|Vinhomes Royal City|Cau Giay Branch of Bach Kim Network solutions Join stock company|
+|14|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|15|45.191.47.3|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|163.61.112.248|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|18|72.10.160.91|11765|Canada|Montreal|GloboTech Communications|
+|19|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|121.165.169.133|8067|South Korea|Songpa-gu|Korea Telecom|
 
 
 
