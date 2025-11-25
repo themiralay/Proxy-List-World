@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|112.201.237.191|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|11|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
 |16|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|19|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
