@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|113.192.31.189|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|10|49.0.0.26|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|11|65.20.84.144|8000|India|Mumbai|The Constant Company|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|14|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
-|15|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|16|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|177.234.198.33|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|103.247.23.118|8080|Indonesia|Cileungsir|PT wifian Solution|
-|20|185.105.90.184|12304|Russia|Moscow|First Server Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|103.132.53.47|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|17|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
