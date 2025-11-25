@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
