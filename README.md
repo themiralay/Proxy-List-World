@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|51.44.166.172|25582|France|Paris|Amazon.com, Inc.|
-|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
