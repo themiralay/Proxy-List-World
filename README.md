@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80293** proxies at the latest update. Usable proxies are below.
+> Scraper found **80291** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38288|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40721|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|14|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|150.228.172.184|3129|Tuvalu|Funafuti|Space Exploration Technologies Corporation|
+|5|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|15|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|103.171.183.146|7777|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
