@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|16|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
