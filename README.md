@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|10|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|11|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 |17|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
 
 
 
