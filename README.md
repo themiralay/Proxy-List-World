@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|5|185.105.90.184|12304|Russia|Moscow|First Server Limited|
-|6|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|163.223.78.107|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
 |11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|12|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|185.105.90.184|12304|Russia|Moscow|First Server Limited|
-|19|185.181.165.51|9090|The Netherlands|Dronten|Serverius Holding B.V.|
-|20|103.245.109.70|21458|Bangladesh|Paltan|ACE IT Networks Limited|
+|12|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|58.69.78.115|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|185.105.90.184|12304|Russia|Moscow|First Server Limited|
+|20|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
