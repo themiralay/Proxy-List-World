@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|103.68.214.164|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
-|18|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|176.65.132.67|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|20|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
