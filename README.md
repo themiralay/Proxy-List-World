@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|18|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|112.201.237.191|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|38.253.88.242|999|Dominican Republic|Villa Bisonó|LAUAM MEGARED TELECOM, S.R.L.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
