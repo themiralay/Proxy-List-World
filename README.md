@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|103.133.27.239|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|103.254.106.58|8080|Indonesia|Labuhanmaringgai|PT GIGA PATRA MULTIMEDIA|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|19|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
