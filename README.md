@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|14|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|89.23.106.79|3128|Russia|Volokonovka|LINKFOR|
+|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
