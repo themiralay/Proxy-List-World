@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
-|18|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|8|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|78.12.220.164|1002|Mexico|Querétaro City|Amazon.com|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
 
 
 
