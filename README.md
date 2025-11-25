@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
+|19|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
