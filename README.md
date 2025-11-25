@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80569** proxies at the latest update. Usable proxies are below.
+> Scraper found **80554** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38336|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38321|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40939|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|17|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
 
 
 
