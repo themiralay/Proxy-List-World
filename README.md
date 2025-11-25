@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|185.105.90.184|12304|Russia|Moscow|First Server Limited|
-|14|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|14|103.131.19.42|8181|Indonesia|Batang|PT Global Media Data Prima|
+|15|175.208.129.130|8447|South Korea|Seoul|Korea Telecom|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
