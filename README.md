@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 |10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
+|16|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
+|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|20|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
 
 
 
