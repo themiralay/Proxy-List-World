@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|11|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|14|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|15|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
