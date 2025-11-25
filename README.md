@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
 |8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|15|103.148.51.246|8090|Bangladesh|Nowlamary|C Net Broadband|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|16|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
