@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|51.44.166.172|25582|France|Paris|Amazon.com, Inc.|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|20|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|51.44.166.172|25582|France|Paris|Amazon.com, Inc.|
+|19|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
