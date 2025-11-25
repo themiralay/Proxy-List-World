@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|19|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|7|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|144.126.236.218|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|18|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
