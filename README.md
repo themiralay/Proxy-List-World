@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|112.201.237.191|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
