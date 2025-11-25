@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80625** proxies at the latest update. Usable proxies are below.
+> Scraper found **80634** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38278|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38287|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40994|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|4|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|158.160.196.137|8082|Russia|Moscow|Yandex.Cloud LLC|
+|11|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|103.226.232.205|8099|Indonesia|Kepuh Wetan|PT Jaringan Multimedia Indonesia|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|15|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|175.208.236.55|8053|South Korea|Songpa-gu|Korea Telecom|
+|19|185.105.90.184|12304|Russia|Moscow|First Server Limited|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
