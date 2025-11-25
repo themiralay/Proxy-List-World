@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 |6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 |11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|121.165.161.154|8899|South Korea|Songpa-gu|Korea Telecom|
+|12|202.191.126.52|1236|Bangladesh|Dhaka|Bijoy Online Ltd|
+|13|121.165.161.154|8899|South Korea|Songpa-gu|Korea Telecom|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |17|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
