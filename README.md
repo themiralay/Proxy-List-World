@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|194.135.105.137|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|185.73.103.23|3128|Czechia|Karlovy Vary|ISP Alliance a.s.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
+|16|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|200.107.235.226|999|Honduras|La Ceiba|Redes y Telecomunicaciones|
+|19|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
+|20|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
