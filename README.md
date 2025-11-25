@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|45.61.139.153|2525|United Kingdom|London|BL Networks GB|
-|17|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|122.3.139.85|8181|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
+|11|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|201.94.151.78|999|Chile|Santiago|HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
