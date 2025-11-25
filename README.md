@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|72.10.164.178|28135|Canada|Montreal|GloboTech Communications|
-|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|45.236.104.249|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|9|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
 
 
 
