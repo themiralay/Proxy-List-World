@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|7|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|9|15.204.39.252|3128|United States|Hillsboro|OVH SAS|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|203.172.136.211|8080|Thailand|Bangkok|Ministry of Education - EMISC|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|37.230.57.121|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|91.107.253.250|2158|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|185.105.90.184|12304|Russia|Moscow|First Server Limited|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|43.208.129.50|8228|Thailand|Bangkok|Amazon.com, Inc.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
