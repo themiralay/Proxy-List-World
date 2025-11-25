@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|10|89.23.106.79|3128|Russia|Volokonovka|LINKFOR|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|177.234.217.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|18|35.181.173.74|9443|France|Paris|Amazon.com, Inc.|
+|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
