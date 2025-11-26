@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|122.52.234.54|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|9|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
 |11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|202.58.73.246|1111|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|16|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
-|18|203.177.220.122|8080|Philippines|Taguig|Globe Telecom|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|103.166.254.222|3124|Indonesia|Teluk Kuantan|PT Instanet Media Nusantara|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|103.204.208.211|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|20|69.75.140.157|8080|United States|Bellflower|Spectrum|
 
 
 
