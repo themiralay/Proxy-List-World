@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|160.19.18.195|1111|Indonesia|Subang|PT Indo Telemedia Solusi|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|14|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|15|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
