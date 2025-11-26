@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|152.26.10.157|3156|United States|Canton|MCNC|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
