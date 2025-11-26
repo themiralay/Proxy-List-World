@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
