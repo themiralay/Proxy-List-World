@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|12|179.1.95.213|999|Colombia|Facatativá|Internexa S.a. E.S.P|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|15|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|16|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|122.52.234.54|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|20|200.59.186.179|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
