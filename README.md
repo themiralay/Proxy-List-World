@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|91.107.190.207|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|13|91.107.190.207|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 
 
 
