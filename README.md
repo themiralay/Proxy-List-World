@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
