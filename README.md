@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|16|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|12|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
