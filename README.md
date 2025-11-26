@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|18.170.224.221|8080|United Kingdom|London|Amazon Technologies Inc.|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|14|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|113.45.52.130|8899|China|Guangzhou|Huawei Cloud Service data center|
+|17|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|18|45.70.201.64|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|19|24.152.53.6|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
+|20|186.31.135.203|999|Colombia|Bogotá|ETB - Colombia|
 
 
 
