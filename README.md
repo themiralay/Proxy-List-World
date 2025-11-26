@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|18|101.255.166.57|3030|Indonesia|Tangerang|PT Remala Abadi|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|165.101.167.117|8080|Philippines|Monkayo|Airdan Networks Corporation|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
+|16|155.212.37.254|8085|The Netherlands|Eefde|Address Limited|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
