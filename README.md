@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|155.212.37.254|8085|The Netherlands|Eefde|Address Limited|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|20|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
