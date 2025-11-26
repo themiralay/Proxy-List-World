@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80373** proxies at the latest update. Usable proxies are below.
+> Scraper found **80452** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38192|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38271|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40911|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
