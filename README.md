@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|147.93.43.7|3128|United States|Boston|Hostinger International Limited|
 |9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|193.202.12.20|8085|United States|Chicago|PureVoltage Hosting Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|45.185.160.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|20|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
+|11|193.56.20.119|8085|United States|Portland|PureVoltage Hosting Inc.|
+|12|45.185.160.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|193.56.20.96|8085|United States|Portland|PureVoltage Hosting Inc.|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|193.56.20.32|8085|United States|Portland|PureVoltage Hosting Inc.|
+|20|95.217.104.39|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
