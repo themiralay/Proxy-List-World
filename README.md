@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|34.100.129.128|8123|India|Mumbai|Google LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|34.100.129.128|8123|India|Mumbai|Google LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|18|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|19|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
