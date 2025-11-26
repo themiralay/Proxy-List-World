@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.236.215.111|60955|Brazil|Querência|Ativa Telecom Ltda|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|149.86.203.217|8080|Italy|Quarrata|Sirius Technology SRL|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|18|103.245.16.123|8181|Indonesia|Jakarta|PT Quantum Tera Network|
+|19|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
