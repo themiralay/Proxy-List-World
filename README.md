@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
-|19|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|12|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|186.96.15.70|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|17|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
 
 
 
