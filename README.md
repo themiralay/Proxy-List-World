@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|34.100.129.128|8123|India|Mumbai|Google LLC|
-|15|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
+|13|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|14|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|17|45.79.129.53|1080|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
