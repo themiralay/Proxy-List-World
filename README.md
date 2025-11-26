@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|34.100.129.128|8123|India|Mumbai|Google LLC|
-|13|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|14|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|15|152.26.10.157|3156|United States|Canton|MCNC|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
-|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|16|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|17|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|152.26.10.157|3156|United States|Canton|MCNC|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
