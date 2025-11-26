@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|8|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
 |9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
-|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|15|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|19|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
