@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|91.107.190.207|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|12|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|122.52.191.68|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|91.107.190.207|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
