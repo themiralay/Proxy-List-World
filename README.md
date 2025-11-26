@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|209.200.246.148|3128|Canada|Toronto|Regxa Company for Information Technology Ltd|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
