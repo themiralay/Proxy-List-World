@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|9|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|10|172.235.56.84|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|11|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|14|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
