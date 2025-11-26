@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|18|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|19|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|13|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
