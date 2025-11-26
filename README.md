@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|14|103.10.62.238|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|15|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|16|176.65.132.67|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|190.6.54.12|6969|Venezuela|Barquisimeto|Net Uno, C.A.|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|19|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
