@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|140.227.61.201|3128|Japan|Nakano City|InfoSphere|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|152.26.10.157|3156|United States|Canton|MCNC|
-|11|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|12|34.100.129.128|8123|India|Mumbai|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
 |13|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|18|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|19|15.160.181.77|8889|Italy|Milan|Amazon Technologies Inc|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
