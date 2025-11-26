@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|11|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|54.227.110.131|1001|United States|Ashburn|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|175.208.129.130|8447|South Korea|Seoul|Korea Telecom|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|213.230.120.185|1500|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
