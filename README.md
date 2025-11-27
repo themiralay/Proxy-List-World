@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|11|51.15.17.184|8008|The Netherlands|Haarlem|Online SAS NL|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|14|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|17|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|178.62.9.52|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|178.62.9.52|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|20|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
 
 
 
