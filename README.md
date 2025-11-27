@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Canton|MCNC|
-|7|152.26.10.157|3156|United States|Canton|MCNC|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|15|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|7|103.234.31.79|8080|Indonesia|Sepatan|PT Jenius Lintas Nusantara|
+|8|112.204.117.16|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|12|202.58.77.230|8080|Indonesia|Nganjuk|PT Data Buana Nusantara|
+|13|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.191.254.245|1024|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|19|152.26.10.157|3156|United States|Canton|MCNC|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
