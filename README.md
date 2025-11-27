@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.227.103|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|2.57.242.217|1080|Finland|Helsinki|Hostkey B.V.|
-|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|43.153.182.11|8090|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|10|14.239.52.85|8080|Vietnam|Haiphong|VNPT|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|16|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
+|18|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|213.152.53.245|587|United Kingdom|Kilbirnie|Eclipse Networking Ltd|
+|20|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
 
 
 
