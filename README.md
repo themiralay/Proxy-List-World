@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|203.150.113.62|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|223.205.121.114|8081|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|121.167.99.92|8866|South Korea|Gangdong-gu|Korea Telecom|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|8|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
+|18|218.145.239.160|8561|South Korea|Gangnam-gu|Korea Telecom|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
