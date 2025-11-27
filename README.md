@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|98.71.99.164|8080|Ireland|Dublin|BellSouth.net Inc.|
-|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.139.99.190|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
 
 
 
