@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|121.101.129.78|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|10|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.239.52.85|8080|Vietnam|Haiphong|VNPT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|15|62.193.108.131|1981|Egypt|Giza|Etisalat|
 |16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.77.99.40|8990|United States|Piscataway|The Constant Company|
+|17|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|2.57.242.217|1080|Finland|Helsinki|Hostkey B.V.|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
