@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|14|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|152.26.10.157|3156|United States|Lenoir|MCNC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|200.189.216.154|8080|Brazil|Taboão da Serra|Level 3 Communications, Inc.|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
+|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
