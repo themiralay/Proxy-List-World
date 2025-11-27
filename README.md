@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|49.48.201.112|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|103.76.108.173|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|119.92.145.246|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 |12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|152.26.10.157|3156|United States|Canton|MCNC|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
-|20|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|152.26.10.157|3156|United States|Canton|MCNC|
+|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|15|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|20|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
 
 
 
