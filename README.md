@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 |10|152.26.10.157|3156|United States|Canton|MCNC|
-|11|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
+|11|152.26.10.157|3156|United States|Canton|MCNC|
 |12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 |14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|152.26.10.157|3156|United States|Canton|MCNC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|193.43.149.13|8080|Syria|Latakia|Syrian Telecom|
-|18|119.93.153.224|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|38.253.88.242|999|Dominican Republic|Villa Bisonó|LAUAM MEGARED TELECOM, S.R.L.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|175.208.129.130|8663|South Korea|Seoul|Korea Telecom|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
