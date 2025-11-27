@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|8|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|167.249.52.93|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|15|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
