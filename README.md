@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.26.10.157|3156|United States|Lenoir|MCNC|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|9|146.103.115.143|8443|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|170.82.236.150|8080|Brazil|Jacinto Machado|Interliga Solucoes Tecnologicas Ltda - ME|
-|16|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|17|113.45.52.130|8899|China|Guangzhou|Huawei Cloud Service data center|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|146.103.115.143|8443|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|20|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
