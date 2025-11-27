@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|152.26.10.157|3156|United States|Canton|MCNC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|152.26.10.157|3156|United States|Canton|MCNC|
-|17|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.215.60.213|8097|Indonesia|Pontianak|PT Uwais Borneo Group|
+|9|161.248.190.102|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|152.26.10.157|3156|United States|Canton|MCNC|
+|12|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|13|222.127.206.145|8085|Philippines|Makati City|GLBB|
+|14|103.87.202.66|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|15|152.26.10.157|3156|United States|Canton|MCNC|
+|16|103.184.54.9|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|103.156.248.241|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|19|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
