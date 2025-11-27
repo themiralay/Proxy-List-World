@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|152.26.10.157|3156|United States|Lenoir|MCNC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|209.38.220.132|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|19|72.10.160.170|19117|Canada|Montreal|GloboTech Communications|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
