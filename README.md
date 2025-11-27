@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|6|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|7|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
