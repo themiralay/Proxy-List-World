@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|152.26.10.157|3156|United States|Canton|MCNC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |8|152.26.10.157|3156|United States|Canton|MCNC|
-|9|152.26.10.157|3156|United States|Canton|MCNC|
-|10|176.124.219.49|3128|Russia|Moscow|TimeWeb LLC|
-|11|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|12|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|175.208.129.130|8447|South Korea|Seoul|Korea Telecom|
-|15|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|17|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|195.178.103.7|80|Romania|Cluj-Napoca|BTS TELECOM & Hosting SRL|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|19|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
+|20|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
