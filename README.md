@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|13|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|17|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|38.147.75.252|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 |20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
