@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|175.208.250.204|8754|South Korea|Songpa-gu|Korea Telecom|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|101.255.122.82|8090|Indonesia|Jakarta|PT Remala Abadi|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|9|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |11|152.26.10.157|3156|United States|Canton|MCNC|
-|12|152.26.10.157|3156|United States|Canton|MCNC|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|41.65.160.173|1977|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|175.208.250.204|8754|South Korea|Songpa-gu|Korea Telecom|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|179.49.162.33|999|Colombia|Bogotá|Integra Multisolutions|
 
 
 
