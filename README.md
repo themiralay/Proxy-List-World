@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|178.62.9.52|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|101.255.125.11|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|193.181.35.106|8118|Sweden|Stockholm|PVDataNet AB|
+|15|178.62.9.52|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
 |18|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|19|43.206.234.160|472|Japan|Tokyo|Amazon.com, Inc.|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
