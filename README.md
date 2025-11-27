@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|152.26.10.157|3156|United States|Canton|MCNC|
 |11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|183.91.31.83|8199|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|13|152.26.10.157|3156|United States|Canton|MCNC|
-|14|152.26.10.157|3156|United States|Canton|MCNC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
-|18|200.59.186.176|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
+|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
