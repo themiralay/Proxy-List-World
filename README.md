@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|12|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|13|103.247.23.117|8080|Indonesia|Kroya|PT wifian Solution|
-|14|152.26.10.157|3156|United States|Canton|MCNC|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|109.224.242.13|8085|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|103.133.27.159|8085|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|15|152.26.10.157|3156|United States|Canton|MCNC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|20|51.15.17.184|8008|The Netherlands|Haarlem|Online SAS NL|
 
 
 
