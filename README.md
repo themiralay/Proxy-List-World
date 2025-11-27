@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Canton|MCNC|
 |4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|152.26.10.157|3156|United States|Canton|MCNC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|152.26.10.157|3156|United States|Canton|MCNC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|20|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|152.26.10.157|3156|United States|Canton|MCNC|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|181.78.202.29|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|19|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|20|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
