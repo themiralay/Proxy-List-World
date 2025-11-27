@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|152.26.10.157|3156|United States|Canton|MCNC|
+|10|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
 |11|152.26.10.157|3156|United States|Canton|MCNC|
-|12|152.26.10.157|3156|United States|Canton|MCNC|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|200.59.186.177|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|103.160.205.230|8080|Indonesia|Pendaleman|PRIME|
-|19|185.82.99.110|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|20|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|37.237.224.164|8080|Iraq|Baghdad|EarthLinkTelecommunications|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
