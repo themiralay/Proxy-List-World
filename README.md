@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|36.50.92.109|1111|Indonesia|Cigunung|PT Ring Media Nusantara|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|146.103.115.143|8443|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|180.194.229.147|8081|Philippines|Lucena City|Digitel Mobile Philippines Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
