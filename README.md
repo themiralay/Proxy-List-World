@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|9|152.26.10.157|3156|United States|Canton|MCNC|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|152.26.10.157|3156|United States|Canton|MCNC|
-|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|49.48.201.112|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|12|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|15|152.26.10.157|3156|United States|Canton|MCNC|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|41.254.48.192|1978|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
