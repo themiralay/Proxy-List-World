@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|159.89.198.231|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
 |12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
