@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|193.30.14.251|999|Ecuador|Paccha|Eliana Vanessa Morocho Oña|
-|20|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|20|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
