@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|146.103.115.143|8443|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|146.103.115.143|8443|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|109.195.228.60|3128|Russia|Rostov-on-Don|JSC "ER-Telecom Holding"|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
