@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|152.26.10.157|3156|United States|Canton|MCNC|
-|7|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|152.26.10.157|3156|United States|Canton|MCNC|
-|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|103.169.254.45|6080|Indonesia|Bondowoso|PT Master Star Network|
-|17|103.171.31.77|8080|Indonesia|Depok|MORATELINDONAP|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|152.26.10.157|3156|United States|Canton|MCNC|
+|12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|171.245.63.85|8080|Vietnam|Haiphong|Viettel Corporation|
+|16|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|17|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|18|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|19|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
 
 
 
