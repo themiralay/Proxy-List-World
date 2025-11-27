@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|152.26.10.157|3156|United States|Canton|MCNC|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|119.92.145.246|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|10|152.26.10.157|3156|United States|Canton|MCNC|
+|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|152.26.10.157|3156|United States|Canton|MCNC|
+|16|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
