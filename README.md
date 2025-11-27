@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|7|152.26.10.157|3156|United States|Canton|MCNC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|152.26.10.157|3156|United States|Canton|MCNC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |13|152.26.10.157|3156|United States|Canton|MCNC|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|119.93.153.224|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|119.93.153.224|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|110.44.126.27|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
 
 
 
