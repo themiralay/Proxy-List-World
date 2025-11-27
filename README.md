@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|103.15.214.233|8080|Indonesia|Gresik|PT. Java Digital Nusantara|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|223.205.121.114|8081|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|103.188.52.59|8080|Indonesia|Ciputat|PRIMACOM|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|218.145.239.160|8561|South Korea|Gangnam-gu|Korea Telecom|
+|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|175.208.250.204|8754|South Korea|Songpa-gu|Korea Telecom|
 
 
 
