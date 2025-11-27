@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|7|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|5|103.247.21.229|3231|Indonesia|Purbalingga|PT wifian Solution|
+|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|7|103.247.23.117|8080|Indonesia|Kroya|PT wifian Solution|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |12|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|45.144.52.234|3128|Finland|Helsinki|H2nexus LTD|
-|18|152.26.10.157|3156|United States|Canton|MCNC|
-|19|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.133.27.159|8085|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|14|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|15|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|16|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|18|103.184.54.9|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
+|19|152.26.10.157|3156|United States|Canton|MCNC|
+|20|161.248.190.102|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
 
 
 
