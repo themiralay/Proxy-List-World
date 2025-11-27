@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
 |12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|172.82.64.79|3128|United States|Secaucus|Massivegrid LTD|
-|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|201.182.248.149|8080|Colombia|Taminango|SP SISTEMAS PALACIOS LTDA|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|36.147.78.166|80|China|Guangzhou|China Mobile|
+|16|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|177.200.80.174|8080|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|18|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|19|14.224.218.210|8080|Vietnam|Ho Chi Minh City|VNPT|
+|20|193.92.149.38|18080|Greece|Athens|Nova Telecommunications & Media Single Member S.A|
 
 
 
