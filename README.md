@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|8|157.66.37.76|8585|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|13|103.76.108.227|80|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.156.96.67|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|202.58.77.233|8008|Indonesia|Kediri|PT Data Buana Nusantara|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 |16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|200.189.216.154|8080|Brazil|Taboão da Serra|Level 3 Communications, Inc.|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|121.101.129.78|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
