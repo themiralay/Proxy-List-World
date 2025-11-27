@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
 |9|103.249.133.226|10808|France|Paris|Hypercore Ltd|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|152.26.10.157|3156|United States|Canton|MCNC|
 |11|152.26.10.157|3156|United States|Canton|MCNC|
-|12|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|152.26.10.157|3156|United States|Canton|MCNC|
-|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|16|103.18.232.4|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|121.165.161.240|8864|South Korea|Songpa-gu|Korea Telecom|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|94.25.35.237|3128|Russia|Moscow|Rostelecom Nets|
 
 
 
