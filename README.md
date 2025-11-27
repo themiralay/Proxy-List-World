@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|4|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|3|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Canton|MCNC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|10|152.26.10.157|3156|United States|Canton|MCNC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|110.136.122.240|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|175.208.129.130|8586|South Korea|Seoul|Korea Telecom|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|9|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|152.26.10.157|3156|United States|Canton|MCNC|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
+|13|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|19|38.194.246.34|999|Mexico|León|Cogent Communications|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
