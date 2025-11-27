@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|11|36.50.92.176|8080|Indonesia|Cigunung|PT Ring Media Nusantara|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|16|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|2.57.242.217|1080|Finland|Helsinki|Hostkey B.V.|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
