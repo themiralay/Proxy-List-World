@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|181.10.138.226|8083|Argentina|Rosario|Telecom Argentina S.A.|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|9|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|16|172.82.64.79|3128|United States|Secaucus|Massivegrid LTD|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|179.189.120.147|3128|Brazil|Teresina|IP CARRIER BRASIL|
 
 
 
