@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|13|27.147.131.225|410|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|18|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|19|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
