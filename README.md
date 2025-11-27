@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|12|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|18|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
