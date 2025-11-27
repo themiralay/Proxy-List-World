@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|12|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|103.154.230.86|8090|Indonesia|Bilo|DIGITNET|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
