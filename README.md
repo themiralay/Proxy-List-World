@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|18|41.254.48.192|1978|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|172.82.64.79|3128|United States|Secaucus|Massivegrid LTD|
 
 
 
