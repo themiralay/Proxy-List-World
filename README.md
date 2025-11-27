@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|152.26.10.157|3156|United States|Canton|MCNC|
-|10|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|11|138.207.148.138|3131|United States|Miami Beach|Breezeline|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|152.26.10.157|3156|United States|Canton|MCNC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|167.71.70.78|10808|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|6|96.30.116.11|8293|Thailand|Din Daeng|Symphony Communication Public Company Limited|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|138.207.148.138|3131|United States|Miami Beach|Breezeline|
+|10|152.26.10.157|3156|United States|Canton|MCNC|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|152.26.10.157|3156|United States|Canton|MCNC|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|103.249.133.226|10808|France|Paris|Hypercore Ltd|
+|15|103.171.255.245|8080|Indonesia|Sleman|ZKI|
 |16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|103.242.105.70|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|103.227.187.1|6080|Indonesia|Wirodayan|PT Master Star Network|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
 
 
 
