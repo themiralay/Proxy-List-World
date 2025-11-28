@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|5|222.105.104.35|8118|South Korea|Jeonju|Korea Telecom|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|103.165.155.163|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
 |10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|181.209.114.194|999|Argentina|Buenos Aires|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|181.198.115.179|999|Ecuador|El Reventador|Telconet S.A|
-|16|43.252.107.191|1111|Indonesia|Ponorogo|PT Lintas Data Prima|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
-|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|12|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|13|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
