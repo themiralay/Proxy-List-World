@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|112.78.181.92|3128|Indonesia|Jakarta|BIZNET|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|147.75.34.93|80|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|45.122.122.71|8080|India|Delhi|FusionNet|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|152.26.10.157|3156|United States|Lenoir|MCNC|
+|10|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
