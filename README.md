@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|147.78.180.125|8085|United States|New York|PureVoltage Hosting Inc.|
-|8|147.78.180.156|8085|United States|New York|PureVoltage Hosting Inc.|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|103.187.86.166|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|7|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.187.86.166|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
