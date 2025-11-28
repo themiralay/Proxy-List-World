@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|19|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|10|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|18|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
