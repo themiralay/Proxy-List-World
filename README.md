@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|4|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|15|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|16|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|122.3.121.231|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|19|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
