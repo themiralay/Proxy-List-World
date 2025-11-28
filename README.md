@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|4|193.202.12.86|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|5|193.202.12.73|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|6|193.202.12.229|8085|United States|Seattle|PureVoltage Hosting Inc.|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|9|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|193.202.12.230|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|9|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
