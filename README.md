@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
-|14|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|4|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.117.100.127|13082|Hong Kong|Ha Kwai Chung|US-DMITINC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|45.122.122.71|8080|India|Delhi|FusionNet|
+|15|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
