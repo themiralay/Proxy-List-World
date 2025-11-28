@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|147.78.180.52|8085|United States|New York|PureVoltage Hosting Inc.|
-|5|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|6|103.76.31.2|8181|Indonesia|Pekanbaru|PT Umzah Sukses Jaringan Andalan|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|193.30.14.251|999|Ecuador|Paccha|Eliana Vanessa Morocho Oña|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|193.202.12.124|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|4|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|5|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|13|103.109.212.75|2215|Bangladesh|Farīdpur|Bismillah Telecom Service|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
 
 
 
