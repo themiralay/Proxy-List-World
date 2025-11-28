@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79610** proxies at the latest update. Usable proxies are below.
+> Scraper found **79642** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37878|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|147.78.180.95|8085|United States|New York|PureVoltage Hosting Inc.|
-|6|147.78.180.23|8085|United States|New York|PureVoltage Hosting Inc.|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|147.78.180.47|8085|United States|New York|PureVoltage Hosting Inc.|
-|9|193.56.20.28|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|45.148.233.250|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|45.148.233.171|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|15|45.148.233.221|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|16|222.127.68.126|8080|Philippines|Lahug|INNOVE|
-|17|45.148.233.231|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|18|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
-|20|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
