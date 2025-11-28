@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|64.110.110.24|1080|Japan|Osaka|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|8|147.78.180.52|8085|United States|New York|PureVoltage Hosting Inc.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|11|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|103.166.158.227|8080|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|7|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|8|193.56.20.11|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|152.70.84.108|8080|Japan|Osaka|Oracle Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
 
 
 
