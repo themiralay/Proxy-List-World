@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|172.235.28.32|3128|India|Chennai|Akamai Technologies, Inc.|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|1|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|64.110.110.24|1080|Japan|Osaka|Oracle Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|103.153.34.2|1111|Indonesia|Pamanukan|JMExpress|
+|13|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|14|49.0.26.43|8181|Indonesia|Randuboto|SIMS Jabar Banten Medianet|
+|15|172.235.28.32|3128|India|Chennai|Akamai Technologies, Inc.|
+|16|103.133.61.183|8080|Indonesia|Bangunrejo|TLINK|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|202.51.206.50|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|103.132.52.42|8080|Indonesia|Wonopringgo|PT Adeaksa Indo Jayatama|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
