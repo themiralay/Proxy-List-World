@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|45.122.122.71|8080|India|Delhi|FusionNet|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|152.26.10.157|3156|United States|Lenoir|MCNC|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|16|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
