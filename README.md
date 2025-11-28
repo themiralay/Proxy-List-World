@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|193.56.20.102|8085|United States|Seattle|PureVoltage Hosting Inc.|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.148.233.250|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|17|45.148.233.231|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|18|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|19|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|182.53.23.92|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
