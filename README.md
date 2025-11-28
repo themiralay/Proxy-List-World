@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|152.26.10.157|3156|United States|Lenoir|MCNC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|7|103.178.87.50|8080|Indonesia|Cibeber|PT Adhi Pradana Makayasa|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.68.214.129|1111|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|16|85.117.63.91|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|17|103.238.232.198|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
