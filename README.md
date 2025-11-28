@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|188.166.224.19|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|188.166.224.19|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|45.185.160.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|115.147.165.113|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|18|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
