@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|182.53.240.179|8080|Thailand|Rayong|TOT Public Company Limited|
-|18|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|5|144.31.76.84|8080|United States|Salt Lake City|Ace Data Centers II, L.L.C.|
+|6|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
