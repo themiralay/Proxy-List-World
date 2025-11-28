@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|193.56.20.196|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|193.56.20.28|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|9|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|5|147.78.180.47|8085|United States|New York|PureVoltage Hosting Inc.|
+|6|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|10|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
 |13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|18|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
-|19|103.132.54.18|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
-|20|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
