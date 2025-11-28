@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|193.56.20.45|8085|United States|Seattle|PureVoltage Hosting Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.155.190.130|8080|Indonesia|Blitar|Trisula Media Data|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|103.94.126.250|8080|Indonesia|Kubangkepuh|ICONPLN|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|193.56.20.81|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|7|193.56.20.137|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|8|193.202.12.220|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|121.167.99.92|8565|South Korea|Gangdong-gu|Korea Telecom|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
