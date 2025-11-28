@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|103.238.232.198|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|10|172.235.28.32|3128|India|Chennai|Akamai Technologies, Inc.|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|202.58.77.194|8031|Indonesia|Kediri|PT Data Buana Nusantara|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|104.237.232.172|3128|United States|Buffalo|DedFiberCo|
-|19|104.237.232.172|3128|United States|Buffalo|DedFiberCo|
-|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.181.255.69|1111|Indonesia|Purwodadi Grobogan|PT Giga Digital Nusantara|
+|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|14|38.183.183.114|999|Peru|Huaura|Forza Bussines S.A.C|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|157.66.138.79|1080|Indonesia|Bogor|PT Neo Fiber Teknologi|
 
 
 
