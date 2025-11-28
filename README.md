@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|11|47.179.58.156|8080|United States|Montclair|Frontier Communications of America, Inc.|
+|12|103.122.0.151|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
+|16|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|17|157.20.252.30|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|45.122.122.71|8080|India|Delhi|FusionNet|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
