@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|152.26.10.157|3156|United States|Lenoir|MCNC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|36.37.86.26|9812|Indonesia|Jakarta Pusat|LINTASARTA|
-|12|47.179.58.156|8080|United States|Montclair|Frontier Communications of America, Inc.|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|167.249.52.6|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|18|101.255.122.82|8090|Indonesia|Jakarta|PT Remala Abadi|
-|19|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|202.162.199.102|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|13|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|14|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|17|45.185.160.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
