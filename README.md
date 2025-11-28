@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|160.187.174.115|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|13|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|18|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|19|38.10.129.181|999|Dominican Republic|Baní|Liberty Technology SRL|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|12|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|103.54.36.57|1116|Bangladesh|Dhaka|Race Online Limited|
+|16|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|19|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|181.176.168.27|999|Peru|Chilete|VIETTEL PERÚ S.A.C.|
 
 
 
