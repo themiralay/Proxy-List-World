@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
 |12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|15|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|181.188.203.104|999|Ecuador|Montalvo|Ufinet Panama S.A.|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|8.243.126.25|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|18|38.49.30.45|10808|United States|Los Angeles|Cogent Communications|
+|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
