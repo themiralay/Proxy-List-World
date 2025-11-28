@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|103.182.184.130|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|9|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|38.156.23.36|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
 |12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
