@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|152.26.10.157|3156|United States|Lenoir|MCNC|
-|20|202.5.60.29|6969|Bangladesh|Sonargaon|BBTS-NEW|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|103.117.100.127|13082|Hong Kong|Ha Kwai Chung|US-DMITINC|
+|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|45.122.122.71|8080|India|Delhi|FusionNet|
+|16|27.147.134.209|411|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|19|218.145.239.160|8561|South Korea|Gangnam-gu|Korea Telecom|
+|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 
 
 
