@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |7|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|8|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|9|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |11|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|104.248.140.185|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|13|104.248.140.185|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|193.56.20.45|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|193.56.20.119|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|103.122.64.201|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|20|193.56.20.202|8085|United States|Seattle|PureVoltage Hosting Inc.|
 
 
 
