@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|193.56.20.175|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|6|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|9|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
