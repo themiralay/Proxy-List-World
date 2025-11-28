@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|74.119.194.225|2094|United States|Secaucus|WorkTitans B.V.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|103.182.184.130|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|12|181.188.203.104|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|13|43.252.236.165|8080|Indonesia|Caringin|NET|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|182.253.40.149|8080|Indonesia|Klatakan|BIZNET|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|152.26.10.157|3156|United States|Lenoir|MCNC|
+|13|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
+|14|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
