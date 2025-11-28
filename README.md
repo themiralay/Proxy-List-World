@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79676** proxies at the latest update. Usable proxies are below.
+> Scraper found **41777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37899|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40493|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|10|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|160.187.174.115|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|18|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|103.54.36.57|1116|Bangladesh|Dhaka|Race Online Limited|
+|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|13|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|14|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|18|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|19|38.10.129.181|999|Dominican Republic|Baní|Liberty Technology SRL|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
