@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.117.100.127|13082|Hong Kong|Ha Kwai Chung|US-DMITINC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|202.5.60.29|6969|Bangladesh|Sonargaon|BBTS-NEW|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|45.122.122.71|8080|India|Delhi|FusionNet|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|202.5.60.29|6969|Bangladesh|Sonargaon|BBTS-NEW|
+|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
 |14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |18|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
