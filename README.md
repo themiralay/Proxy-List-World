@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |11|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|159.192.102.249|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|20|144.31.76.84|8080|United States|Salt Lake City|Ace Data Centers II, L.L.C.|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
