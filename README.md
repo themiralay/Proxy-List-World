@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|223.204.195.82|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|15|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
