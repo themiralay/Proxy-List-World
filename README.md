@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|193.56.20.175|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|5|193.56.20.78|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|6|147.78.180.47|8085|United States|New York|PureVoltage Hosting Inc.|
-|7|147.78.180.119|8085|United States|New York|PureVoltage Hosting Inc.|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|147.78.180.52|8085|United States|New York|PureVoltage Hosting Inc.|
-|10|147.78.180.87|8085|United States|New York|PureVoltage Hosting Inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|147.78.180.23|8085|United States|New York|PureVoltage Hosting Inc.|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|152.26.10.157|3156|United States|Lenoir|MCNC|
+|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|14|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|18|193.56.20.80|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
