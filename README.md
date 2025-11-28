@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|10|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|103.178.86.86|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
