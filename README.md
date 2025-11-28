@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|14|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|155.212.37.254|8085|The Netherlands|Eefde|Fast Servers (Pty) Ltd|
-|18|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|152.26.10.157|3156|United States|Lenoir|MCNC|
+|2|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|16|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|147.78.180.119|8085|United States|New York|PureVoltage Hosting Inc.|
+|20|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
