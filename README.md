@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|115.147.165.114|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|16|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|1.20.207.58|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|20|181.188.255.182|999|Ecuador|Quito|Otecel S.A|
 
 
 
