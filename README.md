@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79633** proxies at the latest update. Usable proxies are below.
+> Scraper found **79677** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37899|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37943|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40466|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|10|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|14|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 
 
 
