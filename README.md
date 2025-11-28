@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|16|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|3|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|7|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|12|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|103.76.107.3|8085|Indonesia|Patuk|PT Geka Solusi Utama|
 
 
 
