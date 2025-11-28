@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|193.56.20.68|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|17|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|18|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|19|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|20|147.78.180.156|8085|United States|New York|PureVoltage Hosting Inc.|
 
 
 
