@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|7|193.56.20.78|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|8|193.56.20.99|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|193.56.20.175|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|12|193.56.20.206|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|13|193.56.20.137|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|193.56.20.38|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|193.56.20.129|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|20|193.56.20.201|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|3|174.138.18.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
