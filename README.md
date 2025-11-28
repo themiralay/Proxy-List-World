@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|12|104.248.140.185|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|208.109.234.211|8700|United States|Tempe|GoDaddy.com, LLC|
+|7|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|13|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|14|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 |17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|176.88.166.211|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|20|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
 
 
 
