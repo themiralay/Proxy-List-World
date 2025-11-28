@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|1|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|199.217.99.123|2525|United States|Dublin|BL Networks|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|19|103.171.241.9|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|20|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|103.126.119.252|8097|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|15|163.223.119.6|8085|Indonesia|Tanjung Palas|PT Dra Net Solution|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|54.255.224.188|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 
 
 
