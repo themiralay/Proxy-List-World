@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|193.56.20.119|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|223.204.195.82|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|12|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|17|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|167.249.52.98|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|193.202.12.73|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|193.56.20.45|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|8|193.56.20.202|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|9|193.56.20.129|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|10|193.56.20.223|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|193.56.20.137|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|217.219.173.237|8080|Iran|Babol|TCI(Babol)|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
