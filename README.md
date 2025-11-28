@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|152.42.206.102|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|45.122.122.71|8080|India|Delhi|FusionNet|
-|13|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|103.117.100.127|13082|Hong Kong|Ha Kwai Chung|US-DMITINC|
+|7|139.59.240.238|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|103.172.71.25|8080|Indonesia|Karangampel|AZNET|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|15|103.154.52.5|1111|Indonesia|Adipala|WIFIKITA|
+|16|103.163.111.101|1111|Indonesia|Tasikmalaya|PT Galunggung Access Solutions|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 
 
 
