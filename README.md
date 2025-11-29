@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79310** proxies at the latest update. Usable proxies are below.
+> Scraper found **79611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37887|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40454|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|101.51.166.18|8080|Thailand|Pattaya|TOT Public Company Limited|
-|13|181.78.42.59|8084|Peru|Piura|Ufinet Peru S.A.C|
+|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|10|115.178.53.114|8080|Indonesia|Wonoharjo|NOC SIMAYA|
+|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|18|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
