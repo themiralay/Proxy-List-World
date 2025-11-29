@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|9|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|14|204.199.140.14|999|Chile|Talca|Ingbell Chile SPA|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|45.148.233.221|8085|The Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|18|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|103.219.73.79|8097|Indonesia|Serang|Bitech Networks|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
