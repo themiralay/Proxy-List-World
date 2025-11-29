@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|2|182.170.153.129|8080|Japan|Sannomaru|Sony Network Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|45.122.122.71|8080|India|Delhi|FusionNet|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|45.122.122.71|8080|India|Delhi|FusionNet|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|14|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|190.26.255.30|999|Colombia|Kennedy|ETB - Colombia|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
