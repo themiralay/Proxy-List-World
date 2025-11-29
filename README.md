@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|48.218.59.98|2003|Japan|Tokyo|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|12|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|13|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
 |14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|20|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
 
 
 
