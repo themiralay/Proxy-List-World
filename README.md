@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|41.60.235.249|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|19|203.217.169.26|8080|Cambodia|Phnom Penh|S.I Group|
-|20|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
