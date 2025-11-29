@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|11|45.174.241.181|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|14|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|19|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|103.165.155.67|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|8|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|159.224.213.97|8470|Ukraine|Odesa|Triolan|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|147.45.232.203|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
