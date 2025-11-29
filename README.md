@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|9|124.121.2.239|8080|Thailand|Bangkok|TRUEBB|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|110.136.62.50|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|124.121.2.239|8080|Thailand|Bangkok|TRUEBB|
+|18|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
