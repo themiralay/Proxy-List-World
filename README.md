@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|147.78.180.45|8085|United States|New York|PureVoltage Hosting Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|11|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
