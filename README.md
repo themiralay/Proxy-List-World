@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|175.106.15.186|8080|Indonesia|Setia Budi|Quantum Dist Cyber|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
