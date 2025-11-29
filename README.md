@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|195.58.38.78|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|11|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|118.137.63.17|8080|Indonesia|Malang|Linknet-Fastnet ASN|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|54.36.179.47|3128|France|Roubaix|OVH SAS|
 
 
 
