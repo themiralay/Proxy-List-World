@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|13|101.51.166.18|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
