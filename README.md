@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|103.171.83.179|1111|Indonesia|Cikarang|PT Multi Network Indonesia|
+|7|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|67.43.236.19|17681|Canada|Montreal|GloboTech Communications|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|12|152.26.10.157|3156|United States|Lenoir|MCNC|
+|13|103.171.255.60|8080|Indonesia|Sleman|ZKI|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|67.43.236.19|17681|Canada|Montreal|GloboTech Communications|
+|20|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 
 
 
