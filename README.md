@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|103.48.71.210|83|India|Hyderabad|Country Online Services PVT LTD|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|38.10.129.181|999|Dominican Republic|Baní|Liberty Technology SRL|
-|14|38.12.32.174|10808|United States|San Jose|Cogent Communications|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|38.10.129.181|999|Dominican Republic|Baní|Liberty Technology SRL|
+|12|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|20.64.104.35|3128|United States|San Antonio|Microsoft Corporation|
+|15|103.171.161.96|9090|Indonesia|Jakarta|MYREPUBLIC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|223.25.110.250|8090|Indonesia|Purbalingga|SinergiNet|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|103.239.253.66|8080|Bangladesh|Bhātāra|Carnival Internet|
 
 
 
