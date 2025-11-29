@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|163.223.78.179|9090|Indonesia|Jombang|PT Big Network Indonesia|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|2|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|1.161.194.81|8082|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|1.161.194.81|8082|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
+|12|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|157.66.20.96|8090|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
+|15|163.223.78.179|9090|Indonesia|Jombang|PT Big Network Indonesia|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
