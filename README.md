@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|10|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|203.150.128.176|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|193.56.20.44|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|3|193.56.20.212|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|193.56.20.19|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|18|103.219.73.79|8097|Indonesia|Serang|Bitech Networks|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
