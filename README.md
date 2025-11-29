@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|193.56.20.75|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
 
 
 
