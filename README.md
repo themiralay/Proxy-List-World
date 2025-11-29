@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|103.48.68.154|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
 
 
 
