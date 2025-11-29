@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|9|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|72.10.160.171|23173|Canada|Montreal|GloboTech Communications|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
 |12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|101.51.166.18|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
