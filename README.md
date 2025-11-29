@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|124.121.2.239|8080|Thailand|Bangkok|TRUEBB|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|183.110.246.99|80|South Korea|Seongnam-si|Korea Telecom|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|16|182.52.66.231|8080|Thailand|Nan|TOT Public Company Limited|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|103.189.197.53|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
