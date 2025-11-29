@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|19|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|20|8.243.126.25|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|154.73.29.205|8080|Libya|Tripoli|Rawafed|
 
 
 
