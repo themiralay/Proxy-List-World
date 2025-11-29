@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|34.100.129.128|8123|India|Mumbai|Google LLC|
-|12|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|11|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|152.26.10.157|3156|United States|Lenoir|MCNC|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
