@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|2|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|19|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|20|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|16|90.156.197.13|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|170.78.5.214|8080|Brazil|Mombaça|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
