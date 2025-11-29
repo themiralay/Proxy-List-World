@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|48.218.59.98|2003|Japan|Tokyo|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|13|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|14|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|15|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|16|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|17|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|18|190.97.230.97|999|Venezuela|Caracas|Viginet C.A|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
