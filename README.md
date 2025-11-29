@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |14|152.26.10.157|3156|United States|Lenoir|MCNC|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 
 
 
