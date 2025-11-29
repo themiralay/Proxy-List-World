@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|193.56.20.196|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|193.202.12.40|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|193.56.20.44|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|14|193.56.20.71|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|193.56.20.11|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|17|220.89.218.209|8880|South Korea|Daedeok-gu|Korea Telecom|
+|18|193.56.20.44|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|19|45.122.122.71|8080|India|Delhi|FusionNet|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
