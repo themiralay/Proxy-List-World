@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|152.26.10.157|3156|United States|Lenoir|MCNC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|14|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 
 
