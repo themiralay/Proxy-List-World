@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|193.56.20.186|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|152.26.10.157|3156|United States|Lenoir|MCNC|
-|13|45.122.122.71|8080|India|Delhi|FusionNet|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|103.126.86.91|7777|Indonesia|Pacitan|PT. Rasi Bintang Perkasa|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
