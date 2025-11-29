@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|152.26.10.157|3156|United States|Lenoir|MCNC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|103.145.34.145|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|12|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|20|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
 
 
 
