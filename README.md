@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |10|199.217.99.123|2525|United States|Dublin|BL Networks|
 |11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|12|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|5.129.212.118|8090|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|193.56.20.71|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|19|193.56.20.99|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|20|193.56.20.101|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|163.223.78.97|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|193.56.20.200|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|19|193.56.20.129|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|20|193.56.20.187|8085|United States|Seattle|PureVoltage Hosting Inc.|
 
 
 
