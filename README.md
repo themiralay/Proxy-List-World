@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|193.202.12.68|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 
 
 
