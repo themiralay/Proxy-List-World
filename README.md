@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|193.56.20.158|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|6|101.36.122.160|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|193.56.20.175|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|9|34.100.129.128|8123|India|Mumbai|Google LLC|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|193.56.20.137|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|34.100.129.128|8123|India|Mumbai|Google LLC|
+|12|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|175.106.15.186|8080|Indonesia|Setia Budi|Quantum Dist Cyber|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|20|152.26.10.157|3156|United States|Lenoir|MCNC|
 
 
 
