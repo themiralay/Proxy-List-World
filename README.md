@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|152.26.10.157|3156|United States|Lenoir|MCNC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|195.58.38.78|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|10|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|124.121.2.239|8080|Thailand|Bangkok|TRUEBB|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|195.58.38.78|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|152.26.10.157|3156|United States|Lenoir|MCNC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|12|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|185.225.40.214|8085|Syria|Damascus|sy-samaweb|
+|19|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
