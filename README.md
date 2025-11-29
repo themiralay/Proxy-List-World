@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|124.104.96.156|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
 
 
 
