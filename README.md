@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
