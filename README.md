@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.171.255.124|8080|Indonesia|Sleman|ZKI|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|72.10.160.171|23173|Canada|Montreal|GloboTech Communications|
+|6|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|20|88.216.98.225|48852|United States|Chicago|UAB Nacionalinis Telekomunikaciju Tinklas|
 
 
 
