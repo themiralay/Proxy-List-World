@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|72.10.160.171|23173|Canada|Montreal|GloboTech Communications|
-|7|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|10|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
