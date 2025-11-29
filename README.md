@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|103.167.170.186|2112|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
