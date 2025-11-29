@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|152.26.10.157|3156|United States|Lenoir|MCNC|
-|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|19|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|190.26.255.30|999|Colombia|Kennedy|ETB - Colombia|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|12|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|196.64.140.16|10039|Morocco|Beni Mellal|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|15|196.64.143.196|10040|Morocco|Beni Mellal|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
