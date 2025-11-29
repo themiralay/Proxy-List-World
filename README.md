@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79626** proxies at the latest update. Usable proxies are below.
+> Scraper found **79615** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37883|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37872|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40459|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|15|152.26.10.157|3156|United States|Lenoir|MCNC|
-|16|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|19|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|20|199.217.99.123|2525|United States|Dublin|BL Networks|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|10|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|182.52.66.231|8080|Thailand|Nan|TOT Public Company Limited|
+|16|152.26.10.157|3156|United States|Lenoir|MCNC|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
+|20|118.137.63.17|8080|Indonesia|Malang|Linknet-Fastnet ASN|
 
 
 
