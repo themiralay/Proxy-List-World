@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|9|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|103.133.26.72|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
