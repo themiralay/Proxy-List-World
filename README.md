@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|10|115.178.53.114|8080|Indonesia|Wonoharjo|NOC SIMAYA|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.224.124.235|8080|Indonesia|Parung|PT Curug Lintas Indonesia|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|15|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|18|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|19|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 |20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
