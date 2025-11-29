@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|2|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|152.26.10.157|3156|United States|Lenoir|MCNC|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|72.10.164.178|1299|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|15869|Canada|Montreal|GloboTech Communications|
-|20|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.171.83.179|1111|Indonesia|Cikarang|PT Multi Network Indonesia|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|152.26.10.157|3156|United States|Lenoir|MCNC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|152.26.10.157|3156|United States|Lenoir|MCNC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|72.10.164.178|1299|Canada|Montreal|GloboTech Communications|
+|20|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
 
 
 
