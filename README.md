@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|6|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
 |7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|15|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|103.155.167.25|1111|Indonesia|Citeureup|PT Network Lintas Fiberindo|
+|10|186.96.73.181|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|103.153.246.142|8181|Indonesia|Siwa|PRIMAHOME|
+|12|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|13|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|38.156.235.37|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
