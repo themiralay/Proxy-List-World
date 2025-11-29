@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|36.147.78.166|443|China|Guangzhou|China Mobile|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|176.117.104.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|152.26.10.157|3156|United States|Lenoir|MCNC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|152.26.10.157|3156|United States|Lenoir|MCNC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|163.61.187.146|8080|Indonesia|Bogor|PT Timeplus Network Media|
 
 
 
