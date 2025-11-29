@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|193.56.20.97|8085|United States|Seattle|PureVoltage Hosting Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|193.56.20.32|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|152.26.10.157|3156|United States|Lenoir|MCNC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|103.155.198.142|1080|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|45.186.208.34|8080|Venezuela|Maracaibo||
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 
 
 
