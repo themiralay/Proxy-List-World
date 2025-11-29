@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|10|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|182.52.66.231|8080|Thailand|Nan|TOT Public Company Limited|
-|16|152.26.10.157|3156|United States|Lenoir|MCNC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
-|20|118.137.63.17|8080|Indonesia|Malang|Linknet-Fastnet ASN|
+|4|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|152.26.10.157|3156|United States|Lenoir|MCNC|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|54.36.179.47|3128|France|Roubaix|OVH SAS|
+|20|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
 
 
 
