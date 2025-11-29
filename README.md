@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79738** proxies at the latest update. Usable proxies are below.
+> Scraper found **41770** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37968|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40485|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
-|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|13|152.26.10.157|3156|United States|Lenoir|MCNC|
+|14|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|118.137.63.17|8080|Indonesia|Malang|Linknet-Fastnet ASN|
+|17|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
