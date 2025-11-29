@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|103.169.8.93|7777|Indonesia|Magetan|PT Bumi Manusia Network|
-|15|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|19|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|20|77.239.106.3|10808|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
