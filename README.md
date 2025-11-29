@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|3|193.56.20.158|8085|United States|Seattle|PureVoltage Hosting Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|7|154.73.28.145|8080|Libya|Tripoli|Rawafed|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|152.26.10.157|3156|United States|Lenoir|MCNC|
-|11|160.25.222.205|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|12|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
-|13|110.38.226.139|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|14|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|15|54.36.179.47|3128|France|Roubaix|OVH SAS|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|17|152.26.10.157|3156|United States|Lenoir|MCNC|
+|18|152.26.10.157|3156|United States|Lenoir|MCNC|
+|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
