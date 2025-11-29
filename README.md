@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |9|152.26.10.157|3156|United States|Lenoir|MCNC|
-|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 |18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|20|36.95.142.35|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|19|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
