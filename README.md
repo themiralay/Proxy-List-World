@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|152.26.10.157|3156|United States|Lenoir|MCNC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|152.26.10.157|3156|United States|Lenoir|MCNC|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|14|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|6|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|152.26.10.157|3156|United States|Lenoir|MCNC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|124.104.96.156|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|92.112.124.238|8888|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|103.76.108.173|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
 
 
 
