@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|152.26.10.157|3156|United States|Lenoir|MCNC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|51.159.226.86|443|The Netherlands|Haarlem|SCALEWAY|
-|14|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|152.26.10.157|3156|United States|Lenoir|MCNC|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|152.26.10.157|3156|United States|Lenoir|MCNC|
+|6|147.78.180.125|8085|United States|New York|PureVoltage Hosting Inc.|
+|7|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|147.78.180.45|8085|United States|New York|PureVoltage Hosting Inc.|
+|15|152.26.10.157|3156|United States|Lenoir|MCNC|
+|16|103.76.108.227|80|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|17|103.189.250.65|8080|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
+|18|203.150.128.176|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
