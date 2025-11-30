@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|11|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
-|12|124.106.173.56|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|177.240.3.62|999|Mexico|Juchitán de Zaragoza|Mega Cable, S.A. de C.V.|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|20|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
 
 
 
