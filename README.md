@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|202.47.188.186|2010|Indonesia|Jombang|Lintas Data Prima, PT|
 |8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|20|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
+|9|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|103.154.170.249|8080|Indonesia|Tabing|PT Irama Media FlashNet|
+|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 
 
 
