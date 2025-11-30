@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|15|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|20|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
