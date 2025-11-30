@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.93.93.66|8080|Indonesia|Madiun|MYRISE|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.79.1.21|1099|Australia|Brisbane|ERX|
+|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
 |11|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|15|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
