@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|41.216.190.72|8080|Indonesia|Jakarta|Perwira|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|10|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|91.235.66.107|8080|Russia|Moscow|LLC Sistema|
+|19|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
