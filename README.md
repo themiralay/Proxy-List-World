@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|103.166.159.93|8080|Indonesia|Pugeran|PT Timor Lintas Nusantara|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|6|38.191.165.230|8080|Indonesia|Boyolali|PT CYB Media Group|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|109.167.130.186|8080|Russia|St Petersburg|JSC "ER-Telecom Holding"|
+|12|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|13|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|14|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|202.5.58.29|1117|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 
 
 
