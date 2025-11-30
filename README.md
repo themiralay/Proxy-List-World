@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|4|154.18.255.117|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|202.5.58.29|1117|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
