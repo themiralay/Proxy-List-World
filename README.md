@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|3|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|4|103.217.216.3|3125|Indonesia|Cikarang|PT. Infotama Lintas Global|
+|5|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|13|163.61.56.250|8181|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|103.245.16.123|8181|Indonesia|Jakarta|PT Quantum Tera Network|
+|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 
 
 
