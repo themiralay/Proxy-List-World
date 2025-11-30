@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|13|38.7.221.191|8080|Chile|Santiago|Grupo ZGH SPA|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|19|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|20|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|20|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 
 
 
