@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|9|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.93.93.209|8089|Indonesia|Sempu|MYRISE|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
-|15|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|16|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|103.66.47.9|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
+|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
 
 
 
