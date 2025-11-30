@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|112.203.51.44|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|16|138.99.176.86|999|Peru|Lima|NET WIN PERU|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|19|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|20|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
