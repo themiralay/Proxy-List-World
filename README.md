@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|201.143.201.214|8080|Mexico|San Luis Río Colorado|Uninet S.A. de C.V.|
-|9|103.180.118.207|7777|Indonesia|Made|PT Persada Data Multimedia|
-|10|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|103.133.27.11|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |15|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|16|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
+|17|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
