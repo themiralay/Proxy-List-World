@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|9|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
