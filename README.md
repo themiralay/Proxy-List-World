@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|220.89.218.209|8880|South Korea|Daedeok-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|189.157.227.5|8080|Mexico|Rioverde|UNINET|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|160.19.19.139|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|213.74.191.35|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|110.232.92.49|8080|Indonesia|Ciparay|PT. Media Antar Nusa|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
 
 
 
