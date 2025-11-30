@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|13|157.10.184.95|3128|Indonesia|Bekasi|PT Internet Tjepat Indonesia|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|160.191.128.33|1111|Bangladesh|Jessore|Zorn Technologies|
-|19|8.243.126.25|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|163.5.128.161|48852|United States|Chicago|CAMPLINK|
+|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|122.52.141.182|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
