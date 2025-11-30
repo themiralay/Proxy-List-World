@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|12|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|160.19.19.139|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|20|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|41.93.63.66|8080|Tanzania|Dar es Salaam|Tanzania Education And Research Network|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|208.67.28.19|58090|United States|Eagle River|SonicNet Inc.|
 
 
 
