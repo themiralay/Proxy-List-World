@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
 |7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|14|188.235.21.247|8080|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|160.19.18.209|8080|Indonesia|Godean|PT Indo Telemedia Solusi|
+|18|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
