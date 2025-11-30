@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|12|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|3|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
