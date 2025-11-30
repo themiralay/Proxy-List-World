@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|15|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
