@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|20|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|7|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|13|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|14|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|190.52.110.43|999|Venezuela|Chacao|Gold Data Colombia|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
