@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|5|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|14|121.165.161.240|8860|South Korea|Songpa-gu|Korea Telecom|
 |15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
