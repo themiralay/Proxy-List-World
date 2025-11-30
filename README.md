@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 |6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|10|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|18|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
-|19|101.255.208.62|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|7|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|12|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|103.154.170.249|8080|Indonesia|Tabing|PT Irama Media FlashNet|
 
 
 
