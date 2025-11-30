@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|103.83.178.45|8181|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
-|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|17|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|7|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|13|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|15|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|16|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
