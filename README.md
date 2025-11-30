@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|6|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|190.94.198.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|201.143.201.214|8080|Mexico|San Luis Río Colorado|Uninet S.A. de C.V.|
-|12|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.189.123.110|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
+|11|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|189.196.45.158|999|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|16|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|41.33.245.139|1981|Egypt|Cairo|TE Data|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
