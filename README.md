@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|16|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|18|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|19|89.39.83.204|80|Romania|Sfântu Gheorghe|Romarg SRL|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|181.188.255.182|999|Ecuador|Quito|Otecel S.A|
+|20|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 
 
 
