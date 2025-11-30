@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|177.234.247.234|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|20|177.53.153.94|999|Peru|Callao|Moreno Yanoc Nemias Bernardo|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|14|188.235.21.247|8080|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
 
 
 
