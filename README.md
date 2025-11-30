@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|203.190.44.157|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|152.0.253.12|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|189.234.29.131|8888|Mexico|Ciudad Nezahualcoyotl|Uninet S.A. de C.V.|
-|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|15|103.147.246.184|3127|Indonesia|Sekarjalak|PLBNET|
-|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|9|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|157.10.88.117|8080|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|20|37.238.63.44|8080|Iraq|Baghdad|Hulum|
 
 
 
