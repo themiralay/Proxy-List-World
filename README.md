@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
-|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|15|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|27.147.134.209|411|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|15.160.151.84|27147|Italy|Milan|Amazon Technologies Inc|
+|20|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
