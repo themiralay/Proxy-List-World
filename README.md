@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|13|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|121.165.161.240|8864|South Korea|Songpa-gu|Korea Telecom|
-|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|201.71.144.98|8080|Brazil|Cuiabá|Avato Tecnologia S.A|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|8|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|9|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
+|16|191.103.219.225|48612|Colombia|Betulia|EPM Telecomunicaciones S.A. E.S.P.|
+|17|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|103.168.207.42|8080|Bangladesh|Kushtia|DigiCon Telecommunication Ltd|
+|20|45.87.140.155|8080|Russia|Moscow|Teraline Telecom Ltd|
 
 
 
