@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|9|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|11|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
 |13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
