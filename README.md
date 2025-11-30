@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|37.221.16.103|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|20|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|8|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|19|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 
 
 
