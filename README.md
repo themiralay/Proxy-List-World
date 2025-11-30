@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|27.123.222.193|8080|Indonesia|Jakarta|FIBERNET|
-|15|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|209.146.18.132|5050|Philippines|Davao City|Infinivan Incorporated|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|27.147.134.209|411|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
 |20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
