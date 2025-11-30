@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|9|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|102.217.139.31|8180|South Africa|Cape Town|Bluedog Technology|
+|17|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
