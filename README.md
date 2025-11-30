@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|157.10.184.95|3128|Indonesia|Bekasi|PT Internet Tjepat Indonesia|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
+|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|18|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
