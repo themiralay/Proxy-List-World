@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|166.88.7.187|8080|Malaysia|Kuala Lumpur|Ace Data Centers II|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|9|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
 |10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|20|49.148.54.220|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|11|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 
 
 
