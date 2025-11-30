@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|202.5.58.29|1117|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|13|202.5.58.29|1117|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
