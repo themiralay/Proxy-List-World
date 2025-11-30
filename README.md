@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|8|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|14|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|121.165.161.240|8864|South Korea|Songpa-gu|Korea Telecom|
+|5|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|6|222.254.92.108|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
+|11|34.100.129.128|8123|India|Mumbai|Google LLC|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 |17|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|18|34.100.129.128|8123|India|Mumbai|Google LLC|
-|19|168.197.182.222|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
-|20|81.12.106.158|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
