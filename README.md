@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|5|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|17|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|18|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.154.170.249|8080|Indonesia|Tabing|PT Irama Media FlashNet|
+|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
