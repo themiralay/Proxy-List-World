@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.129.202.102|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
-|12|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|13|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|113.11.64.137|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|14|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|15|95.214.123.76|8080|Hungary|Kecskemét|Deltakon Kft.|
+|16|203.189.96.232|80|Japan|Chiyoda City|GMO Internet Group, Inc.|
+|17|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|18|189.157.227.5|8080|Mexico|Rioverde|UNINET|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
