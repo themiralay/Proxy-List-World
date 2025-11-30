@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|15|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
-|16|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
+|6|103.146.52.97|8888|Hong Kong|Mong Kok|Yisu Cloud LTD|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|9|103.126.86.122|8080|Indonesia|Kutoarjo|PT. Rasi Bintang Perkasa|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|13|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
