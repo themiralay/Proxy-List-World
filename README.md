@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|210.79.142.217|9191|Indonesia|Ketanggung|PT Gayatri Lintas Nusantara|
+|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|15|45.167.125.252|2021|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
