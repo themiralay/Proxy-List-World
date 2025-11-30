@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|11|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|41.65.160.173|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|20|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
