@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
 |8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|12|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|11|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |14|103.133.27.11|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|124.106.116.34|1337|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
 
 
 
