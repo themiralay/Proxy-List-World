@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|5|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|3|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|144.79.1.21|1099|Australia|Brisbane|ERX|
+|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
