@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|181.209.81.82|999|Argentina|Gualeguay|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|8.243.126.25|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|13|181.39.27.170|999|Ecuador|San Sebastián de Yuluc|Telconet S.A|
+|14|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|175.137.11.252|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|18|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|154.18.255.117|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
