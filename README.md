@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|6|185.226.117.146|8090|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|8|43.210.30.230|507|Thailand|Bangkok|Amazon.com, Inc.|
-|9|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|18|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|180.194.140.215|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|7|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|8|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|13|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|16|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
