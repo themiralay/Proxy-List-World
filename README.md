@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|88.216.98.124|48852|United States|Chicago|UAB Nacionalinis Telekomunikaciju Tinklas|
-|17|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|20|121.165.161.240|8842|South Korea|Songpa-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|34.100.129.128|8123|India|Mumbai|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
