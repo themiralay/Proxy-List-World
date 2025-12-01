@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|199.217.99.123|2525|United States|Dublin|BL Networks|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|36.147.78.166|80|China|Guangzhou|China Mobile|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|38.180.2.107|3128|Bulgaria|Sofia|M247 Europe SRL|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|166.249.54.64|7234|United States|Chicago|Verizon Business|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|38.180.2.107|3128|Bulgaria|Sofia|M247 Europe SRL|
+|20|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
 
 
 
