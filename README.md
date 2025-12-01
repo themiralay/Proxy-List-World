@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1087|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1087|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1087|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|43.224.116.218|1120|Bangladesh|Dhaka|Next Online Limited|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|11|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 |12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|19|88.216.98.209|48852|United States|Chicago|UAB Nacionalinis Telekomunikaciju Tinklas|
-|20|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
+|15|101.255.165.110|8090|Indonesia|Jakarta|PT Remala Abadi|
+|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
