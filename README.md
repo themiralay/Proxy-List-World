@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1930|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1930|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1930|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1914|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1914|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1914|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|12|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|103.156.16.193|8818|Indonesia|Indramayu|RSTNET|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|13|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|190.2.142.111|12383|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|80.79.6.171|17407|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|190.2.142.30|11515|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
