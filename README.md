@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|10|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
-|11|43.224.118.89|1120|Bangladesh|Dhaka|Next Online|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
+|8|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|19|34.100.129.128|8123|India|Mumbai|Google LLC|
+|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 
 
 
