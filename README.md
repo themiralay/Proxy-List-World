@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|202.58.73.6|1111|Indonesia|Kediri|PT Data Buana Nusantara|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|4|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
 |12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|34.100.129.128|8123|India|Mumbai|Google LLC|
-|18|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|8.243.126.27|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|59.153.18.14|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|19|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|20|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
