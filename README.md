@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|4|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
-|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|8|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
-|9|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|10|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|11|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|20|202.69.38.82|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|15|200.125.170.221|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.35.108.244|2024|Bangladesh|Sirajganj|Ranks ITT|
+|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
