@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|13|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|14|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
-|19|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
-|20|103.153.135.69|8083|Indonesia|Curug|WMINET|
+|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|113.160.235.248|19132|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|12|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|15|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|16|212.252.73.34|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|17|209.62.196.68|8080|United States|Cut Off|EATEL|
+|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|19|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|20|187.189.63.149|8080|Mexico|Juárez|Total Play Telecomunicaciones SA De CV|
 
 
 
