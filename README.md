@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
 |11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|34.100.129.128|8123|India|Mumbai|Google LLC|
+|15|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|89.104.102.209|58080|Uzbekistan|Bukhara|"Uzbektelekom" Joint Stock Company|
 
 
 
