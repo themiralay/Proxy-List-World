@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|2131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|2131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|2131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1993|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1993|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1993|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|199.217.99.123|2525|United States|Dublin|BL Networks|
+|1|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|199.217.99.123|2525|United States|Dublin|BL Networks|
-|5|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
-|6|175.110.113.94|14555|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|190.2.142.111|12383|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|89.38.97.191|12354|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|91.232.105.44|12735|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|217.23.2.4|11198|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|62.112.9.143|12970|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|93.190.142.89|13804|The Netherlands|Naaldwijk|CUSTOMERPANEL|
-|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|91.229.23.171|12378|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|134.119.219.211|15370|France|Strasbourg|velia.net Internetdienste GmbH|
-|20|190.2.142.111|12383|The Netherlands|Naaldwijk|WorldStream B.V.|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|190.2.142.111|12383|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
+|8|175.110.113.94|14555|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|109.236.82.247|12405|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|217.23.2.4|11761|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|109.236.88.139|11378|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
+|15|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|16|91.232.105.90|14474|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|62.112.9.233|12794|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|147.156.28.246|3128|Spain|Valencia|Universidad de Valencia|
 
 
 
