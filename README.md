@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1096|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1096|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1096|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.100.129.128|8123|India|Mumbai|Google LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|199.217.99.123|2525|United States|Dublin|BL Networks|
-|5|175.110.113.94|14555|The Netherlands|Naaldwijk|WorldStream B.V.|
-|6|190.2.142.111|11396|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|89.39.107.139|15664|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|175.110.115.54|12078|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|119.148.46.153|1126|Bangladesh|Dhaka|Agni Systems Limited|
-|15|185.100.232.132|11159|The Netherlands|Naaldwijk|WorldStream B.V.|
-|16|93.190.139.245|13978|The Netherlands|Naaldwijk|WorldStream B.V.|
-|17|80.79.6.171|17407|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|175.110.113.245|16956|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|175.110.113.241|11775|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|72.10.164.178|25077|Canada|Montreal|GloboTech Communications|
+|12|8.243.196.49|999|Ecuador|Quito|CTL Ecuador|
+|13|103.251.8.226|8181|Indonesia|Ubud|PT Trika Global Media|
+|14|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|15|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
+|17|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|18|202.191.125.147|1120|Bangladesh|Dhaka|Bijoy Online Ltd|
+|19|185.200.38.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|103.48.71.210|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
