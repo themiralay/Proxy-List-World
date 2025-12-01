@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|34.100.129.128|8123|India|Mumbai|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|103.245.204.138|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|9|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|12|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
-|13|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|14|43.225.151.174|1120|Bangladesh|Dhaka|Next Online|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|17|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|2|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.225.151.174|1120|Bangladesh|Dhaka|Next Online|
+|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
 |19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.153.247.50|3125|Indonesia|Jakarta|PRIMAHOME|
 
 
 
