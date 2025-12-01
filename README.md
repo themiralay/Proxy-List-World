@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.191.254.133|8080|Indonesia|Rembangan|PT Ayodya Data Internusa|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|11|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|4|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|204.199.139.125|999|Chile|Alhué|Ingbell Chile SPA|
+|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|181.176.168.27|999|Peru|Chilete|VIETTEL PERÚ S.A.C.|
+|19|34.100.129.128|8123|India|Mumbai|Google LLC|
 |20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
