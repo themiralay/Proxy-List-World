@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|34.100.129.128|8123|India|Mumbai|Google LLC|
-|11|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
-|17|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|103.171.183.221|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|7|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|190.52.110.43|999|Venezuela|Chacao|Gold Data Colombia|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|103.167.31.154|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|19|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
