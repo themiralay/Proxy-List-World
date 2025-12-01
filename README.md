@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|3|199.217.99.123|2525|United States|Dublin|BL Networks|
+|4|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|67.43.236.20|7669|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|24817|Canada|Montreal|GloboTech Communications|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|8|91.201.115.84|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|72.10.160.174|24817|Canada|Montreal|GloboTech Communications|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|126.209.2.229|8082|Philippines|Manila|Infinivan Incorporated|
+|15|200.127.68.82|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|20|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
 
 
 
