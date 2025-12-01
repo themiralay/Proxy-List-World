@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|34.100.129.128|8123|India|Mumbai|Google LLC|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|103.156.75.215|9980|Indonesia|Gianyar|PT Trika Global Media|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
