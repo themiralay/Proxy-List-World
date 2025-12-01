@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 |7|34.100.129.128|8123|India|Mumbai|Google LLC|
-|8|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|9|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|11|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|12|103.188.33.74|8085|Indonesia|Ciputat|LINTASARTA|
+|13|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
