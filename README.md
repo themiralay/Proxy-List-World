@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|171.234.50.112|5115|Vietnam|Hanoi|Viettel Corporation|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|10|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
 |13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
 
 
 
