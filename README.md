@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.195.65.136|8181|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.145.54.125|8118|United States|St Louis|Contabo Inc.|
-|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|103.250.68.30|1120|Bangladesh|Dhaka|Next Online Limited|
-|10|103.4.147.205|1120|Bangladesh|Dhaka|Next Online Limited|
-|11|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|183.80.40.51|2107|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|103.250.68.30|1120|Bangladesh|Dhaka|Next Online Limited|
+|9|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
 |12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|103.250.69.226|1120|Bangladesh|Bhātāra|Next Online Ltd.|
-|15|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
-|16|103.4.146.9|1120|Bangladesh|Dhaka|Next Online Ltd|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|103.250.69.145|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|103.250.69.145|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
