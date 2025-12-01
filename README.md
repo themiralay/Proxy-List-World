@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|103.176.96.126|8181|Indonesia|Gombong|PT Global Sarana Elektronika|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
 |10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|186.96.70.5|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|34.100.129.128|8123|India|Mumbai|Google LLC|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
