@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.100.129.128|8123|India|Mumbai|Google LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|125.150.225.113|1080|South Korea|Seongnam-si|Korea Telecom|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|124.107.144.249|8080|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|129.153.107.221|80|United States|Phoenix|Oracle Corporation|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|41.65.160.173|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
