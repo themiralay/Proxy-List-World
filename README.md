@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|113.160.235.248|19132|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|5|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|6|103.151.22.26|8082|Indonesia|Teluknaga|TERABYTE|
+|7|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|8|125.24.145.239|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|103.10.55.174|7653|Bangladesh|Rajshahi|Drik ICT Ltd|
+|17|202.6.206.78|8082|Philippines|Surigao City|JAT I.T. SERVICES|
+|18|122.52.191.68|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
 
 
 
