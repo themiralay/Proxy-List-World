@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|3|199.217.99.123|2525|United States|Dublin|BL Networks|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|34.100.129.128|8123|India|Mumbai|Google LLC|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|1|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|199.217.99.123|2525|United States|Dublin|BL Networks|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|8|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|91.201.115.84|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|17|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|36.147.78.166|443|China|Guangzhou|China Mobile|
+|20|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
 
 
 
