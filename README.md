@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79921** proxies at the latest update. Usable proxies are below.
+> Scraper found **79860** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38064|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38003|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40640|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|49.147.96.107|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|6|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|5|157.66.192.91|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|13|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
 |15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
