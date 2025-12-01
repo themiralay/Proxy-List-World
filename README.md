@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|171.234.50.112|5115|Vietnam|Hanoi|Viettel Corporation|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
+|9|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|10|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
