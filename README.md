@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|6|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|103.245.205.227|1120|Bangladesh|Bhātāra|Next Online Limited|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|13|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|14|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|157.175.152.104|53977|Bahrain|Manama|Amazon.com, Inc.|
-|18|103.178.2.120|8181|Indonesia|Sukabumi|RSTNET|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|5|103.245.205.227|1120|Bangladesh|Bhātāra|Next Online Limited|
+|6|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|157.15.62.100|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|12|154.58.138.137|8082|Indonesia|Rengasdengklok|MEGADATA-ISP|
+|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|103.250.69.203|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|16|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|17|43.224.119.162|1120|Bangladesh|Dhaka|Next Online|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|20|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
 
 
 
