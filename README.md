@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|10|103.250.68.30|1120|Bangladesh|Dhaka|Next Online Limited|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|17|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|18|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|103.250.69.190|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|183.80.40.51|2107|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|7|103.195.65.136|8181|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|8|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|11|103.4.147.201|1120|Bangladesh|Dhaka|Next Online Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
+|14|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|20|103.250.69.226|1120|Bangladesh|Bhātāra|Next Online Ltd.|
 
 
 
