@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|34.100.129.128|8123|India|Mumbai|Google LLC|
-|8|45.122.122.71|8080|India|Delhi|FusionNet|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|2|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
