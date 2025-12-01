@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81162** proxies at the latest update. Usable proxies are below.
+> Scraper found **81194** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1251|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39149|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|6|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|34.100.129.128|8123|India|Mumbai|Google LLC|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|15|59.153.18.14|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|16|38.252.213.62|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|19|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|58.69.78.115|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|14|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
+|17|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|123.200.26.38|5343|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
