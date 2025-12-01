@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|1|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|18|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.195.65.136|8181|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|8|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|11|103.163.134.99|7777|Indonesia|Songgon|PROVITEL|
+|12|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|103.4.147.201|1120|Bangladesh|Dhaka|Next Online Limited|
+|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 |20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
