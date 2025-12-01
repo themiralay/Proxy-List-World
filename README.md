@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
 |9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|94.25.35.236|3128|Russia|Moscow|Rostelecom Nets|
+|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
