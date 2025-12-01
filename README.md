@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.82.135.154|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|5|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|11|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|12|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|13|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|14|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
 
 
 
