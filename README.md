@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|103.25.195.127|8181|Indonesia|Karawang|UNINA|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|2|171.245.63.85|8080|Vietnam|Haiphong|Viettel Corporation|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|34.100.129.128|8123|India|Mumbai|Google LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|43.209.130.76|43249|Thailand|Bangkok|Amazon.com, Inc.|
+|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 |17|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|18|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.178.221.217|8080|Bangladesh|Dhaka|MIR INFO SYSTEMS LTD.|
+|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
 
 
 
