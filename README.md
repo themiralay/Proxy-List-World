@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.245.205.227|1120|Bangladesh|Bhātāra|Next Online Limited|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|43.224.119.162|1120|Bangladesh|Dhaka|Next Online|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|14|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|17|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|9|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|103.250.69.203|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|12|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|13|103.245.205.227|1120|Bangladesh|Bhātāra|Next Online Limited|
+|14|43.224.119.162|1120|Bangladesh|Dhaka|Next Online|
+|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
+|16|177.53.153.90|999|Peru|Callao|Moreno Yanoc Nemias Bernardo|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
