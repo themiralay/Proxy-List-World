@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1999|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1999|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1999|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1870|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1870|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1870|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|2|34.100.129.128|8123|India|Mumbai|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|175.110.113.94|14555|The Netherlands|Naaldwijk|WorldStream B.V.|
-|5|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|6|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|190.2.142.111|11396|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|93.190.141.112|11567|The Netherlands|Naaldwijk|CUSTOMERPANEL|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|89.39.105.228|11579|The Netherlands|Naaldwijk|WorldStream B.V.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|93.190.139.87|12569|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|185.100.232.163|12090|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|62.112.9.143|11743|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|109.236.83.71|11399|The Netherlands|Naaldwijk|WorldStream B.V.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|175.110.113.94|14555|The Netherlands|Naaldwijk|WorldStream B.V.|
+|8|109.236.88.139|11378|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|89.39.107.139|13610|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|12|190.2.142.111|11396|The Netherlands|Naaldwijk|WorldStream B.V.|
+|13|91.229.23.171|12378|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|109.236.82.247|13303|The Netherlands|Naaldwijk|WorldStream B.V.|
+|15|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|93.190.139.87|11823|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|93.190.142.89|13654|The Netherlands|Naaldwijk|CUSTOMERPANEL|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
