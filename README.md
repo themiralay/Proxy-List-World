@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
-|9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|16|157.175.152.104|53977|Bahrain|Manama|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|177.53.153.90|999|Peru|Callao|Moreno Yanoc Nemias Bernardo|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.132.53.47|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|15|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|16|103.250.69.203|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.245.205.227|1120|Bangladesh|Bhātāra|Next Online Limited|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
