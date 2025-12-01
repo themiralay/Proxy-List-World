@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|3|34.100.129.128|8123|India|Mumbai|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |11|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
