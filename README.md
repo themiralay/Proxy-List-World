@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|5|59.153.18.93|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|6|43.224.118.89|1120|Bangladesh|Dhaka|Next Online|
 |7|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
-|8|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
-|9|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|12|103.245.204.138|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
+|12|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|13|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
 |14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|18|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|19|43.224.118.89|1120|Bangladesh|Dhaka|Next Online|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|216.245.140.111|8080|United Kingdom|Manchester|Clouvider Limited|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
