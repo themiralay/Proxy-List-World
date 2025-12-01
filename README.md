@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|203.76.102.150|1116|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|12|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|14|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
