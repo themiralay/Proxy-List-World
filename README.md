@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
 |9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
-|11|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|12|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|10|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
+|11|43.224.118.89|1120|Bangladesh|Dhaka|Next Online|
+|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|13|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|38.242.222.109|8888|France|Lauterbourg|Contabo GmbH|
+|17|103.245.204.138|1120|Bangladesh|Dhaka|Next Online Ltd.|
 |18|149.100.71.94|8181|Indonesia|Batam|PT Mulia Batam Net|
-|19|38.242.222.109|8888|France|Lauterbourg|Contabo GmbH|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
