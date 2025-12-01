@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42635** proxies at the latest update. Usable proxies are below.
+> Scraper found **80580** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37945|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41414|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|2|199.217.99.123|2525|United States|Dublin|BL Networks|
-|3|199.217.99.123|2525|United States|Dublin|BL Networks|
-|4|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|5|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|124.83.118.173|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
-|16|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|17|72.10.164.178|14197|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|9919|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14197|Canada|Montreal|GloboTech Communications|
-|20|45.70.201.66|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|34.100.129.128|8123|India|Mumbai|Google LLC|
+|4|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|11|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|12|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|13|43.225.151.30|1120|Bangladesh|Dhaka|Next Online|
+|14|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|17|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|18|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 
 
 
