@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|199.217.99.123|2525|United States|Dublin|BL Networks|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|41.65.160.173|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|13|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
 
 
 
