@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|49.147.96.107|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|6|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 |9|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
 |10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|13|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
 |15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|18|101.255.105.202|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
