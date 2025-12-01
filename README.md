@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79822** proxies at the latest update. Usable proxies are below.
+> Scraper found **79813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37979|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37970|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40606|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|206.189.23.231|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|34.100.129.128|8123|India|Mumbai|Google LLC|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|212.2.234.165|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|103.176.96.126|8181|Indonesia|Gombong|PT Global Sarana Elektronika|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|186.96.70.5|999|Venezuela|Caracas|Gold Data USA Inc|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
