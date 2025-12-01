@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81194** proxies at the latest update. Usable proxies are below.
+> Scraper found **80982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1239|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39149|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|238|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40611|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|34.100.129.128|8123|India|Mumbai|Google LLC|
-|9|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|58.69.78.115|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|4|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |14|157.230.228.252|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|190.97.241.7|999|Venezuela|Mérida|Viginet C.A|
-|17|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|19|123.200.26.38|5343|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|18|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|19|43.224.116.218|1120|Bangladesh|Dhaka|Next Online Limited|
+|20|121.165.169.217|8050|South Korea|Songpa-gu|Korea Telecom|
 
 
 
