@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|3|34.100.129.128|8123|India|Mumbai|Google LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|10|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|11|103.14.150.22|8080|Bangladesh|Narsingdi|Pioneer Services Limited|
-|12|176.124.219.49|3128|Russia|Moscow|TimeWeb LLC|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|40.192.100.189|8141|India|Hyderabad|Amazon.com, Inc.|
-|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|173.44.175.228|3128|United States|Sarasota|Eonix Corporation|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|20|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
 
 
 
