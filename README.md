@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|940|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|940|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|940|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|77.247.127.43|1080|United States|Ashburn|Clouvider Limited|
-|11|137.59.50.25|1120|Bangladesh|Tongi|Bijoy Online Ltd|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|91.232.105.67|12330|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|89.39.107.139|11483|The Netherlands|Naaldwijk|WorldStream B.V.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|62.112.11.191|15874|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|80.79.6.171|16850|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|190.2.142.111|12532|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|93.190.141.73|11315|The Netherlands|Naaldwijk|CUSTOMERPANEL|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|89.39.107.139|11483|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|91.232.105.67|12330|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|80.79.6.171|16850|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|212.156.17.58|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|10|62.112.11.191|15874|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|93.190.138.216|12118|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|190.2.142.111|12532|The Netherlands|Naaldwijk|WorldStream B.V.|
+|13|62.112.8.211|11719|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|109.236.86.221|11282|The Netherlands|Naaldwijk|WorldStream B.V.|
+|15|109.236.82.247|13303|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|93.190.141.73|11095|The Netherlands|Naaldwijk|CUSTOMERPANEL|
+|17|109.236.87.46|11217|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|89.38.98.64|17383|The Netherlands|Amsterdam|WorldStream B.V.|
+|19|62.112.9.143|13380|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|190.2.142.30|13145|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
