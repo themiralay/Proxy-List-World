@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|34.100.129.128|8123|India|Mumbai|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
-|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|34.100.129.128|8123|India|Mumbai|Google LLC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
 |14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|54.193.94.249|8445|United States|San Jose|Amazon.com, Inc.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|103.85.159.150|19201|Bangladesh|Dhaka|EarthTelecommunication|
+|15|16.79.112.218|29711|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
