@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|17|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|34.100.129.128|8123|India|Mumbai|Google LLC|
+|9|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
+|10|43.224.118.89|1120|Bangladesh|Dhaka|Next Online|
+|11|38.242.222.109|8888|France|Lauterbourg|Contabo GmbH|
+|12|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
+|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|14|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|43.225.148.141|1120|Bangladesh|Tongi|Next Online|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
