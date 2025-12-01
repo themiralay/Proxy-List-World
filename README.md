@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80580** proxies at the latest update. Usable proxies are below.
+> Scraper found **42635** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37945|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41414|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|34.100.129.128|8123|India|Mumbai|Google LLC|
-|4|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|199.217.99.123|2525|United States|Dublin|BL Networks|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
 |6|199.217.99.123|2525|United States|Dublin|BL Networks|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|10|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|11|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|12|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|13|43.225.151.30|1120|Bangladesh|Dhaka|Next Online|
-|14|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|17|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|18|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|11|8.243.126.25|999|Peru|Santa Rosa|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|12|175.137.11.252|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|171.234.50.112|5116|Vietnam|Hanoi|Viettel Corporation|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|87.251.77.176|7658|Germany|Frankfurt Am Main|Miglovets Egor Andreevich|
+|20|72.10.164.178|16831|Canada|Montreal|GloboTech Communications|
 
 
 
