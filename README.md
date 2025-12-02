@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|27.147.222.248|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|17|112.203.51.44|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|6|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|9|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|202.152.139.179|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
 |20|23.94.223.13|3128|United States|Santa Clara|HostPapa|
 
 
