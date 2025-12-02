@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|4|223.204.85.82|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|187.249.115.23|999|Mexico|Centro Municipality|Transtelco Inc|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|102.219.231.22|8080|South Africa|Heidelberg|Soepa Soap Vervaardigers CC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
