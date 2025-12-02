@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|8|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|11|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|12|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|193.181.35.138|8118|Sweden|Stockholm|PVDataNet AB|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
