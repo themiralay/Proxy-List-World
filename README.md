@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|14|59.153.16.167|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|15|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|6|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.100.129.128|8123|India|Mumbai|Google LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|18|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
