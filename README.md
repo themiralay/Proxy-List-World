@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|198.175.205.240|8080|United States|West Monroe|Conterra|
-|14|61.91.202.211|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|103.153.62.89|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|198.175.205.240|8080|United States|West Monroe|Conterra|
-|20|67.43.236.19|20839|Canada|Montreal|GloboTech Communications|
+|17|103.171.82.127|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
+|18|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
+|19|103.187.136.20|3838|Bangladesh|Hājīganj|Times Communication|
+|20|160.25.196.12|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
 
 
 
