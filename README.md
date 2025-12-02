@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|8|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|9|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|34.100.129.128|8123|India|Mumbai|Google LLC|
+|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|19|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|20|23.94.223.13|3128|United States|Santa Clara|HostPapa|
 
 
 
