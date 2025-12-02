@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
 |4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
 |6|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|20|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|34.100.129.128|8123|India|Mumbai|Google LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|17|148.135.116.20|8118|United States|Los Angeles|Multacom Corporation|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
