@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|17|14.241.231.13|8080|Vietnam|Ho Chi Minh City|VNPT|
-|18|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|199.217.99.123|2525|United States|Dublin|BL Networks|
+|13|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
