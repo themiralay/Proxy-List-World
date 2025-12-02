@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|115.147.165.114|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|8|125.24.63.180|8080|Thailand|Tak|TOT Public Company Limited|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|43.225.151.134|1120|Bangladesh|Dhaka|Next Online|
-|17|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|103.242.105.115|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|159.192.57.169|8080|Thailand|Pattaya|CAT Telecom Public Company Limited|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|182.52.27.104|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|223.206.63.64|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|19|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
