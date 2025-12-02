@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|8|198.175.205.240|8080|United States|West Monroe|Conterra|
-|9|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
-|11|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|9|198.175.205.240|8080|United States|West Monroe|Conterra|
+|10|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|18|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
