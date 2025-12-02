@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|199.217.99.123|2525|United States|Dublin|BL Networks|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|164.163.134.226|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
