@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|7|101.51.174.180|8080|Thailand|Pattaya|TOT Public Company Limited|
-|8|103.242.105.115|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|223.205.66.24|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|49.48.52.35|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|19|135.125.97.184|38833|France|Wattrelos|OVH SAS|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|7|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|135.125.97.184|38833|France|Wattrelos|OVH SAS|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|1.20.169.188|8080|Thailand|Pattaya|TOT Public Company Limited|
+|13|171.6.20.218|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|223.205.191.175|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|15|181.188.203.96|999|Ecuador|Montalvo|Ufinet Panama S.A.|
+|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|17|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|223.204.85.82|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 
 
 
