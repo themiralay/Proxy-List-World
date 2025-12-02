@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.175.100.146|8181|Indonesia|Karawang|NARANET|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|16|34.100.129.128|8123|India|Mumbai|Google LLC|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.24.130.148|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|157.20.219.189|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|7|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|10|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|94.72.109.169|8080|United Kingdom|Portsmouth|Contabo GmbH|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|15|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|19|163.61.134.145|8081|Indonesia|Tangerang|PT Lentera Abadi Solusinet|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
