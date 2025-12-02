@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|34.100.129.128|8123|India|Mumbai|Google LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|124.83.106.240|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|7|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|119.148.8.173|16343|Bangladesh|Dhaka|Agni Systems Limited|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|103.139.138.121|8080|Indonesia|Blega|PT. TOBA JAYA NET|
-|19|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|17|194.124.36.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|160.19.19.139|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
 
 
 
