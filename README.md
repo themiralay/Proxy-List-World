@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|10|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|11|34.100.129.128|8123|India|Mumbai|Google LLC|
-|12|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|13|167.250.23.220|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|36.147.78.166|80|China|Guangzhou|China Mobile|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|102.219.231.22|8080|South Africa|Heidelberg|Soepa Soap Vervaardigers CC|
 
 
 
