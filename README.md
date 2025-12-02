@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|2|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
