@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|12|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|7|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
