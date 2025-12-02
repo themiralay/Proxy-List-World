@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|199.217.99.123|2525|United States|Dublin|BL Networks|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|11|103.48.71.166|82|India|Hyderabad|Country Online Services PVT LTD|
-|12|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|157.66.221.103|39099|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 |13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|103.131.19.42|8181|Indonesia|Batang|PT Global Media Data Prima|
-|15|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|198.175.205.240|8080|United States|West Monroe|Conterra|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|49.48.98.31|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
 
 
 
