@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|12|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|10|199.217.99.123|2525|United States|Dublin|BL Networks|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
+|16|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|17|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
 
 
 
