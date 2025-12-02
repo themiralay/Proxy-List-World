@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|34.100.129.128|8123|India|Mumbai|Google LLC|
-|8|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|12|38.52.209.229|999|Guatemala|Chiquimula|Central De Redes Y Comunicaciones De Guatemala S.A|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|34.100.129.128|8123|India|Mumbai|Google LLC|
+|12|43.225.151.134|1120|Bangladesh|Dhaka|Next Online|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|199.217.99.123|2525|United States|Dublin|BL Networks|
-|19|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|19|190.97.239.40|999|Venezuela|Caracas||
+|20|72.10.160.93|31795|Canada|Montreal|GloboTech Communications|
 
 
 
