@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|16|34.100.129.128|8123|India|Mumbai|Google LLC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|177.93.48.137|999|Colombia|Managrú|TV AZTECA SUCURSAL COLOMBIA|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|15|34.100.129.128|8123|India|Mumbai|Google LLC|
+|16|103.247.23.53|4317|Indonesia|Wonosobo|PT wifian Solution|
+|17|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|177.12.91.194|999|Chile|San Carlos|AKY TELECOM SPA|
+|20|198.175.205.240|8080|United States|West Monroe|Conterra|
 
 
 
