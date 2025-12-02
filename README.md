@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|9|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|10|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|37.59.110.73|80|France|Roubaix|OVH ISP|
-|13|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|17|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|18|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|19|103.250.69.226|1120|Bangladesh|Bhātāra|Next Online Ltd.|
-|20|103.4.146.9|1120|Bangladesh|Dhaka|Next Online Ltd|
+|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|13|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
