@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|49.49.56.60|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|184.22.129.220|8080|Thailand|Hat Yai|AIS-Fibre|
-|12|223.206.61.42|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|171.4.69.56|8080|Thailand|Sung Men|Triple T Broadband Public Company Limited|
-|14|125.25.133.152|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|223.206.63.64|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|34.100.129.128|8123|India|Mumbai|Google LLC|
-|18|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|171.5.114.181|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|223.206.63.64|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|15|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|16|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|18|199.217.99.123|2525|United States|Dublin|BL Networks|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
