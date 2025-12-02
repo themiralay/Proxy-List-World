@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|7|199.217.99.123|2525|United States|Dublin|BL Networks|
-|8|103.245.206.54|1120|Bangladesh|Dhaka|Next Online Limited|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|198.175.205.240|8080|United States|West Monroe|Conterra|
-|12|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|13|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|14|199.217.99.123|2525|United States|Dublin|BL Networks|
-|15|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
-|16|175.137.11.252|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|17|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|103.230.63.86|1120|Bangladesh|Chittagong|Next Online Ltd|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|199.217.99.123|2525|United States|Dublin|BL Networks|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|43.224.118.130|1120|Bangladesh|Dhaka|Next Online|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|199.217.99.123|2525|United States|Dublin|BL Networks|
+|12|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
+|19|199.217.99.123|2525|United States|Dublin|BL Networks|
+|20|103.30.29.196|1120|Bangladesh|Green Model Town|Broad Band Telecom Services Ltd|
 
 
 
