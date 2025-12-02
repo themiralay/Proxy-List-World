@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|10|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|20.64.104.35|3128|United States|San Antonio|Microsoft Corporation|
-|16|20.64.104.35|3128|United States|San Antonio|Microsoft Corporation|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|4|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.64.104.35|3128|United States|San Antonio|Microsoft Corporation|
+|14|20.64.104.35|3128|United States|San Antonio|Microsoft Corporation|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
