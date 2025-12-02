@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.100.129.128|8123|India|Mumbai|Google LLC|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.100.129.128|8123|India|Mumbai|Google LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|97.79.251.186|80|United States|Dallas|Spectrum|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
