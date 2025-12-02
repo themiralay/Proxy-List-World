@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|15|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|103.146.185.140|1111|Indonesia|Wonogiri|YAMNET|
+|6|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|16|193.181.35.138|8118|Sweden|Stockholm|PVDataNet AB|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|103.167.172.2|8080|India|Noida|Gungun Fiber Broadband|
+|19|188.72.43.129|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
+|20|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
