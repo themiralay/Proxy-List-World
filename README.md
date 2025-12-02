@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
+|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|6|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
 |7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|34.100.129.128|8123|India|Mumbai|Google LLC|
-|9|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|198.175.205.240|8080|United States|West Monroe|Conterra|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|45.198.10.3|8090|Indonesia|Jakarta|PT Jaringan Lintas Artha|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|45.174.253.5|999|Mexico|Cancún|Digitcenter de México, S.A. de C.V.|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|198.175.205.240|8080|United States|West Monroe|Conterra|
 |19|199.217.99.123|2525|United States|Dublin|BL Networks|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
