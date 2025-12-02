@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|199.217.99.123|2525|United States|Dublin|BL Networks|
-|7|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|14|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|15|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|16|198.175.205.240|8080|United States|West Monroe|Conterra|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|103.245.206.54|1120|Bangladesh|Dhaka|Next Online Limited|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|10|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|198.175.205.240|8080|United States|West Monroe|Conterra|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|20|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
 
 
 
