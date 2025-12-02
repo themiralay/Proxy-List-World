@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|34.100.129.128|8123|India|Mumbai|Google LLC|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
-|13|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|58.187.104.67|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|8|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|17|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|18|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|19|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|20|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
