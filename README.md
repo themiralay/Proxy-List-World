@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|7|43.225.151.30|1120|Bangladesh|Dhaka|Next Online|
-|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|9|124.158.144.30|8080|Indonesia|Cikarang|PT iForte Global Internet|
-|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|11|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|15|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|6|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|164.92.222.241|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|11|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|15|199.217.99.123|2525|United States|Dublin|BL Networks|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|20|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|17|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
