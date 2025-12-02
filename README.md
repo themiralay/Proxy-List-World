@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
 |7|34.100.129.128|8123|India|Mumbai|Google LLC|
-|8|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|160.191.128.33|1111|Bangladesh|Jessore|Zorn Technologies|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
 |13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|17|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 |18|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|20|199.217.99.123|2525|United States|Dublin|BL Networks|
 
 
 
