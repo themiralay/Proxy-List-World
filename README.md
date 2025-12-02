@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|199.217.99.123|2525|United States|Dublin|BL Networks|
+|9|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
 |12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|103.154.230.100|8090|Indonesia|Bilo|DIGITNET|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
-|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
