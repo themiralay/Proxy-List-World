@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|202.191.125.147|1120|Bangladesh|Dhaka|Bijoy Online Ltd|
-|6|223.204.85.82|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|187.249.115.23|999|Mexico|Centro Municipality|Transtelco Inc|
-|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|1|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|34.100.129.128|8123|India|Mumbai|Google LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
 |13|199.217.99.123|2525|United States|Dublin|BL Networks|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 
 
 
