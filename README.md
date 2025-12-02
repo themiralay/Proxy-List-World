@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|8|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|34.100.129.128|8123|India|Mumbai|Google LLC|
-|11|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|12|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|8|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
+|9|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|10|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|11|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|34.100.129.128|8123|India|Mumbai|Google LLC|
+|15|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|18|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
