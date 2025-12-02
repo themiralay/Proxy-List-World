@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|8|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
 |9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
-|16|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.155.64.182|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|10|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
