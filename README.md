@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|199.217.99.123|2525|United States|Dublin|BL Networks|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|203.150.128.182|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|7|199.217.99.123|2525|United States|Dublin|BL Networks|
+|8|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|9|199.217.99.123|2525|United States|Dublin|BL Networks|
+|10|47.129.154.60|8083|Singapore|Singapore|Amazon Technologies Inc|
+|11|171.6.93.169|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|13|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|124.121.111.220|8080|Thailand|Bangkok|TRUEBB|
+|16|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|17|124.121.111.220|8080|Thailand|Bangkok|TRUEBB|
+|18|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|190.97.239.40|999|Venezuela|Caracas||
+|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
 
 
 
