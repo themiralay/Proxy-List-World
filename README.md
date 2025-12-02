@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.100.129.128|8123|India|Mumbai|Google LLC|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 |14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |15|199.217.99.123|2525|United States|Dublin|BL Networks|
 |16|199.217.99.123|2525|United States|Dublin|BL Networks|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|198.175.205.240|8080|United States|West Monroe|Conterra|
-|20|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|198.175.205.240|8080|United States|West Monroe|Conterra|
 
 
 
