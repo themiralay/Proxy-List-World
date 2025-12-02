@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|11|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|12|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|13|198.175.205.240|8080|United States|West Monroe|Conterra|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|18|185.125.201.171|8880|The Netherlands|Amsterdam|Mamaev|
-|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|14.225.215.161|8888|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|8|198.175.205.240|8080|United States|West Monroe|Conterra|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|11|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|188.72.43.129|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
 
 
 
