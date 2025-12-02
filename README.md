@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|138.68.188.168|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|199.217.99.123|2525|United States|Dublin|BL Networks|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|34.100.129.128|8123|India|Mumbai|Google LLC|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|109.122.197.54|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|199.217.99.123|2525|United States|Dublin|BL Networks|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|199.217.99.123|2525|United States|Dublin|BL Networks|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
