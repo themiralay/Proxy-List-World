@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|45.122.122.71|8080|India|Delhi|FusionNet|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|14.235.61.57|8080|Vietnam|Hanoi|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|6|45.122.122.71|8080|India|Delhi|FusionNet|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |10|199.217.99.123|2525|United States|Dublin|BL Networks|
-|11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|12|199.217.99.123|2525|United States|Dublin|BL Networks|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|173.44.175.229|3128|United States|Sarasota|Eonix Corporation|
-|16|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|13|199.217.99.123|2525|United States|Dublin|BL Networks|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
