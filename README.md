@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|8|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|15|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|16|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|7|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.19.19.247|8818|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
