@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|17|115.127.181.26|6969|Bangladesh|Dhaka|BRACNet Limited|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|38.41.12.91|999|Venezuela|Caracas|MDS Telecom LLC|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 |18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|20|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|19|102.212.44.137|12354|South Africa|Johannesburg|OM-SN-44/24|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
