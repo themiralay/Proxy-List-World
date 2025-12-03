@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|135.125.97.184|38833|France|Wattrelos|OVH SAS|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
-|13|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|101.255.122.170|8080|Indonesia|Jakarta|PT Remala Abadi|
-|16|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|18|170.239.43.130|4601|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|115.127.180.190|6969|Bangladesh|Dhaka|BRACNet Limited|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|12|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|13|135.125.97.184|38833|France|Wattrelos|OVH SAS|
+|14|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|115.127.176.182|6969|Bangladesh|Dhaka|BRACNet Limited|
+|18|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
