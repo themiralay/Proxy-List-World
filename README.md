@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.250.68.30|1120|Bangladesh|Dhaka|Next Online Limited|
-|17|89.163.135.59|16022|Germany|Frankfurt am Main|WIIT AG|
-|18|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|202.5.58.29|1117|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|11|60.54.47.75|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|13|119.148.46.153|1126|Bangladesh|Dhaka|Agni Systems Limited|
+|14|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|17|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|18|103.124.251.12|8081|Bangladesh|Jessore|Earth Telecommunication|
+|19|89.163.135.59|16018|Germany|Frankfurt am Main|WIIT AG|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
