@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|20|43.224.116.22|1120|Bangladesh|Dhaka|Next Online Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|12|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|14|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|17|193.108.112.37|3129|Albania|Tirana|Baxet Group Inc.|
+|18|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|19|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
