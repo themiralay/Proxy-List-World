@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|183.80.40.51|2039|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|17|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|180.149.232.33|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|115.178.49.238|8085|Indonesia|Margabakti|NOC SIMAYA|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.249.122.198|8080|India|Chennai|Airconnect Services|
+|9|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|43.225.151.134|1120|Bangladesh|Dhaka|Next Online|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
