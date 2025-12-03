@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|13|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|14|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|9|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|10|103.245.204.138|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|16|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
