@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|103.122.65.242|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|103.250.70.193|1120|Bangladesh|Gaibandha|Next Online Ltd|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|183.80.40.51|2082|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|17|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
 
 
 
