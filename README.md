@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|160.19.19.247|8818|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|11|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|38.194.224.134|1452|Mexico|Tecozautla|IENTC S de RL de CV|
+|18|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
