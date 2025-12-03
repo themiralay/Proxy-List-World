@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|11|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|12|103.230.63.86|1120|Bangladesh|Chittagong|Next Online Ltd|
-|13|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|122.252.182.238|8080|Cambodia|Phnom Penh|Phnom Penh Cable TV|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|115.127.182.62|6969|Bangladesh|Dhaka|BRACNet Limited|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|10|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|11|103.171.83.179|1111|Indonesia|Cikarang|PT Multi Network Indonesia|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|34.100.129.128|8123|India|Mumbai|Google LLC|
+|19|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
+|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
 
 
 
