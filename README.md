@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
 |2|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|3|129.153.107.221|80|United States|Phoenix|Oracle Corporation|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|94.231.192.76|8080|Turkey|Beyoğlu|E Sim international LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|172.82.64.79|3128|United States|Secaucus|Massivegrid LTD|
+|12|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 |15|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|16|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|167.249.52.27|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|147.75.34.105|443|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
