@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|34.100.129.128|8123|India|Mumbai|Google LLC|
+|10|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|183.80.40.51|2039|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
