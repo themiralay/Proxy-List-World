@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|6|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|34.100.129.128|8123|India|Mumbai|Google LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|206.189.23.231|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|19|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|202.58.77.233|8008|Indonesia|Kediri|PT Data Buana Nusantara|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|12|172.172.209.40|3128|United States|Boydton|Microsoft|
+|13|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|103.153.202.125|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|17|34.100.129.128|8123|India|Mumbai|Google LLC|
+|18|115.127.181.70|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|115.127.178.30|6969|Bangladesh|Dhaka|BRACNet Limited|
+|20|206.189.23.231|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
