@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|12|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|16|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|17|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|13|115.127.181.130|6969|Bangladesh|Dhaka|BRACNet Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|18|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|19|34.100.129.128|8123|India|Mumbai|Google LLC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
