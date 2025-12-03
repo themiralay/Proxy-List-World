@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|7|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|43.224.116.218|1120|Bangladesh|Dhaka|Next Online Limited|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|135.125.97.184|38833|France|Wattrelos|OVH SAS|
-|12|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
-|13|43.224.116.222|1120|Bangladesh|Dhaka|Next Online Limited|
-|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|45.115.113.182|4334|Bangladesh|Farīdpur|Drik ICT Ltd|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|12|38.194.250.66|999|Mexico|Molino los Arcos|IENTC S de RL de CV|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|78.12.220.164|9401|Mexico|Querétaro City|Amazon.com|
 
 
 
