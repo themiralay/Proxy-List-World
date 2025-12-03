@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|135.125.97.184|38833|France|Wattrelos|OVH SAS|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|43.224.116.65|1120|Bangladesh|Dhaka|Next Online Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|115.127.182.130|6969|Bangladesh|Dhaka|BRACNet Limited|
-|20|94.25.35.237|3128|Russia|Moscow|Rostelecom Nets|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|6|103.36.11.245|8181|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|11|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|115.127.181.14|6969|Bangladesh|Dhaka|BRACNet Limited|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|43.224.116.222|1120|Bangladesh|Dhaka|Next Online Limited|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|135.125.97.184|38833|France|Wattrelos|OVH SAS|
 
 
 
