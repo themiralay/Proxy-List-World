@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|9|45.122.122.71|8080|India|Delhi|FusionNet|
-|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|15|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|9|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|17|112.201.241.84|8082|Philippines|Valenzuela|Philippine Long Distance Telephone Co.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
