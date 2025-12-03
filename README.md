@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
 |2|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|7|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|8|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|3|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|176.100.60.249|3128|Russia|Volodarskiy|PE Scherban Evgeniy Aleksandrovich|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|16|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|183.80.40.51|2117|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|38.191.211.253|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|183.80.40.51|2117|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|17|72.10.160.170|20743|Canada|Montreal|GloboTech Communications|
+|18|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|34.100.129.128|8123|India|Mumbai|Google LLC|
+|20|72.10.164.178|24577|Canada|Montreal|GloboTech Communications|
 
 
 
