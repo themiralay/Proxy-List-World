@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
 |11|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|12|171.238.88.111|2097|Vietnam|Ninh Bình|Viettel Corporation|
-|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|36.147.78.166|80|China|Guangzhou|China Mobile|
-|16|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|72.10.160.170|20743|Canada|Montreal|GloboTech Communications|
-|20|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|36.147.78.166|80|China|Guangzhou|China Mobile|
+|14|89.163.135.59|16013|Germany|Frankfurt am Main|WIIT AG|
+|15|181.188.255.180|999|Ecuador|Quito|Otecel S.A|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|18|72.10.160.170|20743|Canada|Montreal|GloboTech Communications|
+|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|20|89.163.135.59|16013|Germany|Frankfurt am Main|WIIT AG|
 
 
 
