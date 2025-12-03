@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|89.163.135.59|16010|Germany|Frankfurt am Main|WIIT AG|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|12|89.163.135.59|16013|Germany|Frankfurt am Main|WIIT AG|
 |13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|188.235.21.247|8080|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|15|72.10.160.90|9583|Canada|Montreal|GloboTech Communications|
-|16|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|17|167.249.52.19|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|104.250.52.139|2080|Hong Kong|Chai Wan Kok|Kingsoft cloud corporation limited|
+|14|147.75.34.105|443|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|89.163.135.59|16013|Germany|Frankfurt am Main|WIIT AG|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|72.10.164.178|2493|Canada|Montreal|GloboTech Communications|
+|18|183.80.40.51|2039|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
