@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|4|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|220.81.123.23|48678|South Korea|Suseong-gu|Korea Telecom|
+|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|34.100.129.128|8123|India|Mumbai|Google LLC|
-|14|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|15|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|16|181.129.185.132|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|103.87.170.86|32650|India|Alwar|Tejays Industries Pvt Ltd|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
+|16|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|17|223.205.138.221|8080|Thailand|Sam Ngao|Triple T Broadband Public Company Limited|
+|18|103.193.144.41|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
