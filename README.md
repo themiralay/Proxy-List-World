@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|115.127.181.70|6969|Bangladesh|Dhaka|BRACNet Limited|
-|11|115.127.182.66|6969|Bangladesh|Dhaka|BRACNet Limited|
-|12|45.122.122.71|8080|India|Delhi|FusionNet|
-|13|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|15|103.133.26.117|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|18|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
+|19|115.127.181.70|6969|Bangladesh|Dhaka|BRACNet Limited|
+|20|115.127.179.122|6969|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
