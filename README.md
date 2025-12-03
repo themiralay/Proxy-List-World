@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|34.100.129.128|8123|India|Mumbai|Google LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|103.173.72.34|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|183.80.40.51|2107|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|10|34.100.129.128|8123|India|Mumbai|Google LLC|
+|11|43.225.151.137|1120|Bangladesh|Dhaka|Next Online|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
