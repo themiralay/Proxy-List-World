@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|115.127.181.26|6969|Bangladesh|Dhaka|BRACNet Limited|
-|8|115.127.182.10|6969|Bangladesh|Dhaka|BRACNet Limited|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|11|43.225.151.134|1120|Bangladesh|Dhaka|Next Online|
-|12|115.127.178.34|6969|Bangladesh|Dhaka|BRACNet Limited|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
-|15|115.127.181.86|6969|Bangladesh|Dhaka|BRACNet Limited|
-|16|115.127.181.10|6969|Bangladesh|Dhaka|BRACNet Limited|
-|17|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|20|115.127.178.158|6969|Bangladesh|Dhaka|BRACNet Limited|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|115.127.180.70|6969|Bangladesh|Dhaka|BRACNet Limited|
+|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|115.127.178.42|6969|Bangladesh|Dhaka|BRACNet Limited|
+|14|34.100.129.128|8123|India|Mumbai|Google LLC|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|17|80.66.89.15|3128|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|19|115.127.179.62|6969|Bangladesh|Dhaka|BRACNet Limited|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
