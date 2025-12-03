@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|9|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|10|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|183.80.40.51|2082|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|160.22.90.91|8818|Indonesia|Karangsembung|PT Lintas Data Kita|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|10|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|19|194.182.80.201|3128|Czechia|Prague|INTERNET CZ, a.s.|
-|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|134.236.58.129|8080|Thailand|Surin|CAT-BB|
 
 
 
