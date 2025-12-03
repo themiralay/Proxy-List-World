@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|15|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|17|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|31.220.22.125|3128|United States|Phoenix|Hostinger International Limited|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
