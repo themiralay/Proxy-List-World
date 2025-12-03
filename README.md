@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|34.100.129.128|8123|India|Mumbai|Google LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|103.171.83.23|7777|Indonesia|Cikarang|PT Multi Network Indonesia|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
