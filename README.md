@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|183.80.40.51|2107|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|9|160.25.155.72|7777|Indonesia|Kuningan|Indonesia Network Information Center|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|34.100.129.128|8123|India|Mumbai|Google LLC|
-|15|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
-|20|115.127.181.70|6969|Bangladesh|Dhaka|BRACNet Limited|
+|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|34.100.129.128|8123|India|Mumbai|Google LLC|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|183.80.40.51|2047|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
