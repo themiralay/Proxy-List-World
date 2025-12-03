@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.100.129.128|8123|India|Mumbai|Google LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|17|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|18|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
 |19|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|20|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
