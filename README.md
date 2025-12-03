@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|9|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|15|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.100.129.128|8123|India|Mumbai|Google LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|147.185.221.19|14365|United States|Eugene|Developed Methods LLC|
+|18|103.110.10.218|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
