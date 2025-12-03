@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|43.225.151.134|1120|Bangladesh|Dhaka|Next Online|
-|8|34.100.129.128|8123|India|Mumbai|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|34.100.129.128|8123|India|Mumbai|Google LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|193.108.112.37|3129|Albania|Tirana|Baxet Group Inc.|
-|12|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|13|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|15|135.181.177.112|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|103.133.26.117|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
