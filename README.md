@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|23.94.223.13|3128|United States|Santa Clara|HostPapa|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|19|115.127.181.86|6969|Bangladesh|Dhaka|BRACNet Limited|
-|20|115.127.182.10|6969|Bangladesh|Dhaka|BRACNet Limited|
+|7|115.127.178.226|6969|Bangladesh|Dhaka|BRACNet Limited|
+|8|115.127.178.62|6969|Bangladesh|Dhaka|BRACNet Limited|
+|9|115.127.180.36|6969|Bangladesh|Dhaka|BRACNet Limited|
+|10|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|11|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|103.250.69.190|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|18|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
+|19|103.162.54.147|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
