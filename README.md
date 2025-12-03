@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|43.252.106.5|3128|Indonesia|Temanggung|PT Lintas Data Prima|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|103.153.149.200|8181|Indonesia|Pringalot|JARINGANKU|
+|8|103.156.74.154|1111|Indonesia|Banjar Seribatu|PT Trika Global Media|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |11|198.177.125.226|3128|United States|Phoenix|Namecheap, Inc.|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|20|183.80.40.51|2082|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|15|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|17|43.252.106.5|3128|Indonesia|Temanggung|PT Lintas Data Prima|
+|18|115.127.180.98|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
 
 
 
