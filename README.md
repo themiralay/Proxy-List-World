@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|182.253.73.13|443|Indonesia|Labansari|BIZNET|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|9|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|160.22.90.91|8818|Indonesia|Karangsembung|PT Lintas Data Kita|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|19|103.10.52.222|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|20|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|6|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|7|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|182.253.73.13|443|Indonesia|Labansari|BIZNET|
+|10|58.187.104.67|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|103.133.27.42|8090|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
