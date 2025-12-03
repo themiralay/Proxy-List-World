@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.242.104.178|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|103.189.197.190|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|14|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|103.204.208.211|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
