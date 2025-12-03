@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|10|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|135.125.97.184|38833|France|Wattrelos|OVH SAS|
-|15|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|198.145.118.250|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|78.12.220.164|9401|Mexico|Querétaro City|Amazon.com|
+|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|45.227.195.121|8082|Brazil|Concórdia|Mhnet Telecom|
 
 
 
