@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|5|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 |7|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|11|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|12|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|212.192.31.241|20245|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|8|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|201.159.111.121|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|19|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
