@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|20|204.199.140.15|999|Chile|Talca|Ingbell Chile SPA|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|12|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
+|18|210.87.74.85|9090|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|19|115.127.181.70|6969|Bangladesh|Dhaka|BRACNet Limited|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
