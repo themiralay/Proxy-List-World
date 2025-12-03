@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|49.0.33.133|1116|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|14|115.127.178.54|6969|Bangladesh|Dhaka|BRACNet Limited|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|46.28.88.19|8080|Russia|Moscow|Avantel Moscow set|
-|20|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|34.100.129.128|8123|India|Mumbai|Google LLC|
+|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|49.0.33.133|1116|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|14|102.209.56.21|80|Kenya|Nairobi|Vijiji Connect LTD|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
