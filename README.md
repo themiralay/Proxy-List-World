@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|6|58.187.104.67|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|11|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|19|181.129.185.132|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|160.19.19.247|8818|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|13|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|15|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|16|34.100.129.128|8123|India|Mumbai|Google LLC|
+|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
