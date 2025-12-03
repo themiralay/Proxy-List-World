@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|165.101.231.104|8080|Indonesia|Cirebon|PT Anugerah Cimanuk Raya|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|171.245.63.85|8080|Vietnam|Haiphong|Viettel Corporation|
+|15|34.100.129.128|8123|India|Mumbai|Google LLC|
+|16|207.154.196.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|103.165.64.74|83|India|Ahīwāra|Deepnet|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|23.94.223.13|3128|United States|Santa Clara|HostPapa|
+|20|23.94.223.13|3128|United States|Santa Clara|HostPapa|
 
 
 
