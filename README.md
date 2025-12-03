@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|8|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|15|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
 |16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |17|103.171.161.96|9090|Indonesia|Jakarta|MYREPUBLIC|
-|18|54.74.104.194|45318|Ireland|Dublin|Amazon.com, Inc.|
+|18|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
 |19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
