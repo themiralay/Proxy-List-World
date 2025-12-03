@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|103.173.72.34|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|115.127.179.98|6969|Bangladesh|Dhaka|BRACNet Limited|
-|11|103.118.85.144|8080|Bangladesh|Rangpur City|Abuzz IT Limited|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|14|183.80.40.51|2068|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|138.128.245.29|8888|United States|Santa Clara|Kamatera|
+|15|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|34.100.129.128|8123|India|Mumbai|Google LLC|
-|18|115.127.180.150|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
 
 
 
