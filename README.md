@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|10|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|12|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|13|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|14|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|15|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|20|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 
 
 
