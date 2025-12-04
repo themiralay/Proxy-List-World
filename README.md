@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|202.191.127.96|1120|Bangladesh|Dhaka|BIJOY|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|103.167.68.255|3125|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|203.175.100.146|8181|Indonesia|Karawang|NARANET|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|101.255.119.25|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|17|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|45.189.252.218|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|20|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
