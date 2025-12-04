@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|188.166.247.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|181.78.223.37|3129|Mexico|Lázaro Cárdenas|Ufinet Mexico S. De R.l. De C.V|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|43.224.116.218|1120|Bangladesh|Dhaka|Next Online Limited|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|17|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
+|18|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 
 
 
