@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.223.32.72|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|159.223.32.72|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|5|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|124.106.173.56|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|104.243.46.122|3128|United States|Miami|ReliableSite.Net LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|37.59.112.197|80|France|Roubaix|OVH ISP|
-|14|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|20|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|7|104.243.46.122|3128|United States|Miami|ReliableSite.Net LLC|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|15|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|18|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
