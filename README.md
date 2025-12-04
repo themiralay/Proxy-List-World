@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79075** proxies at the latest update. Usable proxies are below.
+> Scraper found **79170** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37718|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37813|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40116|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 |8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|10|157.15.66.105|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|103.197.47.42|8080|Pakistan|Lahore|Netsol Technologies Limited|
-|17|164.138.205.10|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|168.195.214.41|8800|Brazil|Arapiraca|UP TECNOLOGIA LTDA|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|109.224.242.151|8080|Turkey|Antakya|Mario Enrique Lopez Guzman|
+|16|177.234.199.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|210.87.125.58|1080|Indonesia|Temenggungan|CV Brawijaya Giga Network|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
