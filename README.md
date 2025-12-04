@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.247.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|171.238.88.27|2093|Vietnam|Ninh Bình|Viettel Corporation|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|54.245.138.232|3128|United States|Portland|Amazon.com, Inc.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|212.175.61.31|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
+|19|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
