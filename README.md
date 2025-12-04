@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.93.139.196|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
 |9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|13|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|18|157.254.37.238|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|19|20.223.127.248|3128|Ireland|Dublin|Microsoft Corporation|
-|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|13|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|17|103.105.76.216|8090|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|18|103.117.58.230|8085|Indonesia|Cirebon|PT Jaringan Multimedia Cirebon|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
