@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|5|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|9|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|10|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|16|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|20|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|14|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|15|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|16|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|189.112.56.60|3128|Brazil|Maceió|ALGAR TELECOM S/A|
 
 
 
