@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
