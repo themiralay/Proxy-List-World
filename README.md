@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|7|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|12|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|13|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|14|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|16|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|157.230.31.114|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|7|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|8|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|10|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|13|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|15|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|17|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|19|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|20|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
