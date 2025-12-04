@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|11|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|155.133.7.49|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|18|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
