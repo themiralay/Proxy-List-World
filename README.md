@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|220.89.218.209|8880|South Korea|Daedeok-gu|Korea Telecom|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|43.224.118.130|1120|Bangladesh|Dhaka|Next Online|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|17|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
