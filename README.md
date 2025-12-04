@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|9|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|6|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|7|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|10|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|11|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
 |12|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|13|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|14|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|18|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
