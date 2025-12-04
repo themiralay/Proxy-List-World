@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41418** proxies at the latest update. Usable proxies are below.
+> Scraper found **79376** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37958|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40166|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.172.71.141|3127|Indonesia|Karawang|AZNET|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|16|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|17|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|6|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|12|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|16|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|20|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
