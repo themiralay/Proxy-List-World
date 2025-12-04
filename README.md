@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|12|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|17|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
 
 
 
