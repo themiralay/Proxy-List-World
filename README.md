@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|2|43.162.113.43|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|14|202.178.125.136|8080|Cambodia|Battambang|Cambodia Data Communication|
-|15|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|43.162.113.43|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|8|209.38.220.132|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|10|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|38.77.82.130|999|Mexico|Apaseo el Grande|JUAN FRANCISCO RAMÍREZ CERVANTES|
+|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|15|185.200.37.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |17|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|19|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|121.165.161.154|8384|South Korea|Songpa-gu|Korea Telecom|
+|18|160.25.196.12|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 
 
 
