@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|18.232.171.52|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|3.108.214.145|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|43.202.18.108|3128|South Korea|Seoul|Amazon.com, Inc.|
-|10|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|11|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
-|12|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|13|13.214.186.22|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|13.211.229.51|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|18|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|65.0.57.2|3128|India|Mumbai|Amazon.com|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|43.202.18.108|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|13.214.186.22|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|6|50.17.146.59|3128|United States|Ashburn|Amazon.com|
+|7|44.192.54.217|3128|United States|Ashburn|Amazon.com|
+|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|9|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|10|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|11|54.116.2.109|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|18.232.171.52|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|65.0.57.2|3128|India|Mumbai|Amazon.com|
+|20|13.201.246.143|3128|India|Mumbai|Amazon.com, Inc.|
 
 
 
