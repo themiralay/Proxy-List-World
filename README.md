@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
 |7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|74.50.77.58|9090|United States|Englewood Cliffs|Interserver, Inc|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|19|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|20|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|13|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|18|92.86.207.198|8080|Romania|Târgovişte|Romtelecom|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
