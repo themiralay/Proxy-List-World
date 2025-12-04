@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|150.31.45.98|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|4|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|7|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|5|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|6|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
 |9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|11|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|185.200.37.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|18|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|10|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|11|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
 
 
 
