@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79101** proxies at the latest update. Usable proxies are below.
+> Scraper found **79086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40116|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|15|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
-|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
+|16|166.249.54.64|7234|United States|Chicago|Verizon Business|
+|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|160.119.228.146|12354|South Africa|Johannesburg|Web Squad Connect|
 
 
 
