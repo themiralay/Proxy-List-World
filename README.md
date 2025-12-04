@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|38.77.82.130|999|Mexico|Apaseo el Grande|JUAN FRANCISCO RAMÍREZ CERVANTES|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.177.178.194|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|12|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|13|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|49.48.119.63|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|132.255.23.183|999|Colombia|Yopal|Media Commerce Partners S.A|
+|10|45.177.178.194|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|11|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|12|102.209.56.21|80|Kenya|Nairobi|Vijiji Connect LTD|
+|13|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
