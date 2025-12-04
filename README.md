@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.202.18.108|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|13.214.186.22|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|8|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|3.108.214.145|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|18.232.171.52|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|54.116.2.109|3129|South Korea|Seoul|Amazon.com, Inc.|
-|15|13.201.246.143|3128|India|Mumbai|Amazon.com, Inc.|
-|16|44.192.54.217|3128|United States|Ashburn|Amazon.com|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|43.202.18.108|3128|South Korea|Seoul|Amazon.com, Inc.|
+|5|13.214.186.22|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|6|18.232.171.52|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|201.159.99.37|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|15|44.192.54.217|3128|United States|Ashburn|Amazon.com|
+|16|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
 |17|65.0.57.2|3128|India|Mumbai|Amazon.com|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|13.201.246.143|3128|India|Mumbai|Amazon.com, Inc.|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|157.230.31.114|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
