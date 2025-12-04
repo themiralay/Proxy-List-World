@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|188.166.183.208|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|8|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|16|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|188.166.183.208|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|103.151.119.41|8080|Bangladesh|Khulna|Cogent Broadband|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
