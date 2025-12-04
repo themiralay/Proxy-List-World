@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79295** proxies at the latest update. Usable proxies are below.
+> Scraper found **79263** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37750|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|155.133.7.49|3128|Japan|Tokyo|Contabo Asia Private Limited|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|103.122.1.26|8080|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|18|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|19|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|20|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
 
 
 
