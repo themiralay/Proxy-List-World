@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
-|13|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|14|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|17|103.193.144.16|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|203.150.128.252|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|9|103.56.92.67|1935|Indonesia|Semarang|Argon Data Communication|
+|10|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|206.84.201.101|999|Peru|Ventanilla|Cogent Communications|
+|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|19|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
