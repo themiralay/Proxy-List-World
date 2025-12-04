@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|2|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
 |5|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
-|6|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|10|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|11|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|12|223.204.86.61|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |13|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|14|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
-|15|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
-|16|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|19|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|165.232.181.166|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|20|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
