@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
 |7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|13|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|14|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
-|16|190.61.98.107|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|17|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|18|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|19|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|20|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|13|176.117.105.28|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
