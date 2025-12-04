@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
-|16|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|160.119.228.146|12354|South Africa|Johannesburg|Web Squad Connect|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|10|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|11|115.147.34.75|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.122.122.71|8080|India|Delhi|FusionNet|
+|14|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|20|193.43.145.124|8080|Syria|Tallbīsah|Syrian Telecom|
 
 
 
