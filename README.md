@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|139.59.235.243|3128|Singapore|Singapore|DIGITALOCEAN|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|4|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|6|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|13.135.58.159|3128|United Kingdom|London|Amazon.com|
 |11|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|12|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|18|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
-|19|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|103.40.156.44|3128|Bangladesh|Bhātāra|A S M MAHBUB ULLAH|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|18|80.210.54.52|3128|Iran|Tehran|TIC|
+|19|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
 |20|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 
 
