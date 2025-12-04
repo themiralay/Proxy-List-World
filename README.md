@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|49.151.187.192|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|13|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|16|177.234.199.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|10|157.15.66.105|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|103.197.47.42|8080|Pakistan|Lahore|Netsol Technologies Limited|
+|17|164.138.205.10|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
