@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|14|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
-|17|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|45.122.122.71|8080|India|Delhi|FusionNet|
+|10|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
+|11|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
+|12|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|13|189.50.45.46|1995|Brazil|Goiânia|Total Telecom LTDA-ME|
+|14|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|15|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|171.234.50.255|5116|Vietnam|Hanoi|Viettel Corporation|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|201.143.201.214|8080|Mexico|San Luis Río Colorado|Uninet S.A. de C.V.|
+|20|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
 
 
 
