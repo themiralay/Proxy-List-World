@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|18|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|19|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.177.178.194|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|14|210.87.74.105|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|15|103.87.202.198|1111|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|18|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|19|45.122.122.71|8080|India|Delhi|FusionNet|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
