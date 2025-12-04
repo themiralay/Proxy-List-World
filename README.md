@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|103.87.202.198|1111|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|11|13.246.35.124|240|South Africa|Johannesburg|Amazon Technologies Inc|
-|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|17|103.81.220.143|8080|Indonesia|Bandung|STARNET|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|45.174.253.5|999|Mexico|Cancún|Digitcenter de México, S.A. de C.V.|
-|20|37.237.225.218|8081|Iraq|Baghdad|EarthLink Ltd.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|6|157.20.207.119|8082|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|7|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|149.86.142.195|8085|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|10|177.93.48.137|999|Colombia|Managrú|TV AZTECA SUCURSAL COLOMBIA|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|185.200.37.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|121.165.161.154|8251|South Korea|Songpa-gu|Korea Telecom|
+|14|45.124.15.90|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|15|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|58.8.255.80|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
