@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|5|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
 |9|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|10|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
 |12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |13|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|15|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|15|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|45.122.122.71|8080|India|Delhi|FusionNet|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
