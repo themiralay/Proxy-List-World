@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|11|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|10|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
 |13|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|14|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
-|15|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|16|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|20|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|15|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|35.152.164.181|3128|Italy|Milan|Amazon.com, Inc.|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|13.135.58.159|3128|United Kingdom|London|Amazon.com|
 
 
 
