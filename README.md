@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|14|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|18|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|19|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|103.133.25.247|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|5|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|14|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
