@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|103.247.23.117|8080|Indonesia|Kroya|PT wifian Solution|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|13.135.58.159|3128|United Kingdom|London|Amazon.com|
-|14|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|38.199.66.58|999|Colombia|Soacha|TV COLOMBIA DIGITAL SAS|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|175.158.63.166|1111|Indonesia|Teluknaga|CBNNAP|
+|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|11|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|12|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|14|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
