@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|19|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|20|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|7|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|202.40.186.66|43773|Bangladesh|Bhātāra|Ranks ITT|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|13|115.147.165.114|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|16|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|17|103.154.230.100|8090|Indonesia|Bilo|DIGITNET|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|201.20.95.226|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 
 
 
