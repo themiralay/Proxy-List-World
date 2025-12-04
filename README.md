@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
 |9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|11|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|12|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |17|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
