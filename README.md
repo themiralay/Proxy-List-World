@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|9|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|10|37.59.112.197|80|France|Roubaix|OVH ISP|
-|11|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|12|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|45.144.234.129|53764|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|13.135.58.159|3128|United Kingdom|London|Amazon.com|
+|13|18.101.159.101|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|45.123.142.83|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|16|167.249.52.99|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
