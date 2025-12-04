@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|103.154.230.100|8090|Indonesia|Bilo|DIGITNET|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|209.38.220.132|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
+|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|9|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|13|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|14|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|16|209.38.220.132|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|18|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
