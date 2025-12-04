@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|103.175.202.163|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|78.13.218.250|3128|Mexico|Querétaro City|Amazon.com|
-|13|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|14|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|16|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|56.125.114.136|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.189.252.58|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|8|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|12|50.17.146.59|3128|United States|Ashburn|Amazon.com|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|35.154.6.165|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|157.20.207.61|9090|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|19|202.43.122.156|1111|India|Wardha|RailTel Corporation|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
