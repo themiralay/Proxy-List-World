@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79185** proxies at the latest update. Usable proxies are below.
+> Scraper found **41429** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37756|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40162|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
-|12|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|3|44.230.28.1|3128|United States|Portland|Amazon.com, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.148.76.176|3128|United States|Portland|Amazon.com, Inc.|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|44.224.217.197|3128|United States|Portland|Amazon.com, Inc.|
+|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|9|54.172.142.238|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|3.17.149.62|3128|United States|Dublin|Amazon.com, Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|103.166.158.33|8080|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|157.230.31.114|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
