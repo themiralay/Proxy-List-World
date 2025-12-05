@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|11|42.114.172.226|2113|Vietnam|Hanoi|FPT Telecom Company|
-|12|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|15|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|16|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
+|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
