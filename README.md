@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|8|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|14|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|38.156.72.42|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|191.5.38.6|54121|Brazil|Brumadinho|Sempre Telecomunicacoes Ltda|
+|18|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|19|103.173.138.215|8080|Indonesia|Bayunglincir|PT Serayu Multi Connection|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
