@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|14|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|38.194.231.70|999|Mexico|Tepexi|IENTC S de RL de CV|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
 
 
 
