@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79327** proxies at the latest update. Usable proxies are below.
+> Scraper found **79436** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37741|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37850|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40333|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|10|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|13|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|38.194.231.70|999|Mexico|Tepexi|IENTC S de RL de CV|
-|17|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|200.24.138.73|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|17|190.93.191.19|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|20|43.224.118.154|1120|Bangladesh|Dhaka|Next Online|
 
 
 
