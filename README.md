@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|14|181.188.203.80|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|17|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|20|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|103.67.80.153|8080|Indonesia|South Tangerang|PT Komunikasi Profesional Indonesia|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|18|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|103.76.151.74|8089|Indonesia|Kediri|PT. Java Digital Nusantara|
 
 
 
