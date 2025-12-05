@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.36.11.119|8181|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|17|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|59.153.19.170|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|17|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|18|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
+|19|43.224.119.98|1120|Bangladesh|Dhaka|Next Online|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
