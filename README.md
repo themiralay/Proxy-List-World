@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|8|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|9|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|15|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|38.199.66.59|999|Colombia|Soacha|TV COLOMBIA DIGITAL SAS|
-|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|20|159.65.11.208|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|14.224.200.249|1452|Vietnam|Ho Chi Minh City|VNPT|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|12|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|45.177.178.194|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|16|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|18|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|181.78.73.49|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
