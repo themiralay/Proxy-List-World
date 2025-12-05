@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|13|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
