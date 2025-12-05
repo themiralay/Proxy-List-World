@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|160.19.19.109|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|103.76.31.2|8181|Indonesia|Pekanbaru|PT Umzah Sukses Jaringan Andalan|
-|16|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|17|103.156.75.84|8081|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|18|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|218.145.239.196|8787|South Korea|Gangnam-gu|Korea Telecom|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
 
 
 
