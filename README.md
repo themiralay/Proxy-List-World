@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|13|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|14|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|15|179.49.203.187|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
