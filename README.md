@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|8|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|10|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|38.199.66.61|999|Colombia|Soacha|TV COLOMBIA DIGITAL SAS|
+|9|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|103.4.146.49|1120|Bangladesh|Dhaka|Next Online Ltd|
+|13|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|17|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|19|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
