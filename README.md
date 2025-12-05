@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|6|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |11|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.250.70.46|1120|Bangladesh|Gaibandha|Next Online Ltd|
-|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|19|212.252.73.66|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
