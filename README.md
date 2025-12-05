@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|13|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|42.114.172.226|2113|Vietnam|Hanoi|FPT Telecom Company|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|8|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|13|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
