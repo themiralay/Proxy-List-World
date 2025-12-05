@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|10|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
