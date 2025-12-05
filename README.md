@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|152.42.171.233|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|9|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|10|110.74.215.170|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|18|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|19|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|175.106.15.189|8080|Indonesia|Setia Budi|Quantum Dist Cyber|
+|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|13|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|17|103.30.29.115|1120|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|20|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
