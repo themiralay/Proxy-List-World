@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |9|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|44.193.200.192|3128|United States|Ashburn|Amazon.com|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|12|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|15|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |17|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|103.160.182.87|9090|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|20|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|103.184.54.7|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
 
 
 
