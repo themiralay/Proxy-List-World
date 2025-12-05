@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|13|103.156.75.84|8081|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|14|139.59.222.40|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|17|43.224.119.98|1120|Bangladesh|Dhaka|Next Online|
-|18|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
