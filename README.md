@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|190.12.150.219|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|180.211.93.34|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
-|20|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|121.167.212.146|8089|South Korea|Songpa-gu|Korea Telecom|
+|14|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|17|59.153.19.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|18|204.199.140.19|999|Chile|Talca|Ingbell Chile SPA|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
