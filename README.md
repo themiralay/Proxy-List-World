@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|43.252.106.5|3128|Indonesia|Temanggung|PT Lintas Data Prima|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|107.175.212.52|3128|United States|Buffalo|HostPapa|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|182.170.153.129|8080|Japan|Sannomaru|Sony Network Communications Inc.|
+|6|222.105.104.35|8118|South Korea|Jeonju|Korea Telecom|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|182.170.153.129|8080|Japan|Sannomaru|Sony Network Communications Inc.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|186.67.47.230|999|Chile|Santiago|Entel Chile S.A.|
+|19|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
