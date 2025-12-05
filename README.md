@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|160.191.167.216|39212|Vietnam|Ho Chi Minh City|Huy Hoang Electronics and Telecommunications Company Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|202.47.189.137|8080|Indonesia|Madiun|Lintas Data Prima, PT|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|103.153.135.69|8083|Indonesia|Curug|WMINET|
+|18|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
 
 
 
