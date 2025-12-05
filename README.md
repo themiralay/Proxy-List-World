@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|103.245.204.138|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
-|17|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|13|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|103.118.29.195|60002|Vietnam|Liên Chiểu|Interdigi Joint Stock Company|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|74.50.77.58|9090|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
