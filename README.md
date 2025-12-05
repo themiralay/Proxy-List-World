@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|8|59.153.18.93|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|9|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|103.139.139.46|8080|Indonesia|Soba|PT. TOBA JAYA NET|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|177.234.194.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
