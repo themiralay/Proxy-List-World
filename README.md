@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|15|200.24.138.73|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|190.93.191.19|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|20|43.224.118.154|1120|Bangladesh|Dhaka|Next Online|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|202.43.162.2|8080|Indonesia|Kampunglio|Dwi Tunggal Putra|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
+|11|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|15|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|18|103.124.251.12|8081|Bangladesh|Jessore|Earth Telecommunication|
+|19|38.188.165.38|999|Dominican Republic|Santo Domingo|Onered Jwg532 SRL|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
