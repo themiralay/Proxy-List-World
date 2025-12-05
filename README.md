@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|4|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|5|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|16|180.211.93.34|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|17|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
+|18|121.167.212.146|8089|South Korea|Songpa-gu|Korea Telecom|
+|19|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
