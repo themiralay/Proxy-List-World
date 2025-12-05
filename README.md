@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|13|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|16|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|17|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|202.58.77.77|1111|Indonesia|Kediri|PT Data Buana Nusantara|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|8|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|42.114.172.226|2113|Vietnam|Hanoi|FPT Telecom Company|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|152.70.84.108|8080|Japan|Osaka|Oracle Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
