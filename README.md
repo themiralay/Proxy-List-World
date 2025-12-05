@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|14|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|38.52.220.58|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|43.252.238.166|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
+|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|19|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
