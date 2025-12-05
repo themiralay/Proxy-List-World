@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|220.81.123.23|48678|South Korea|Suseong-gu|Korea Telecom|
-|13|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|59.153.19.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|20|103.191.196.33|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|5|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|9|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|10|103.76.148.222|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.42.243.177|8080|Indonesia|Comal|PT Merdeka Media Teknologi|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|213.74.163.181|8080|Türkiye|Muratpaşa|Superonline Iletisim Hizmetleri A.S.|
+|15|103.36.8.53|3125|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|16|43.224.116.218|1120|Bangladesh|Dhaka|Next Online Limited|
+|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|19|103.145.109.2|3125|Indonesia|Jakarta|PT Gonet Teknologi Indonesia|
+|20|121.167.212.146|8089|South Korea|Songpa-gu|Korea Telecom|
 
 
 
