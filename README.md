@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|13|122.52.191.68|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|175.208.236.55|8007|South Korea|Songpa-gu|Korea Telecom|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|103.61.5.25|3125|Indonesia|Tanjung Balai|PT Dunia Tak Terbatas|
 |19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|181.78.200.125|999|Ecuador|Vinces|Ufinet Panama S.A.|
+|20|103.105.78.229|3125|Indonesia|Bojonegoro|PT. Garuda Media Telematika|
 
 
 
