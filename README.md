@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|2|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|11|109.122.197.81|10808|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.54.170.90|8888|Netherlands|Amsterdam|Microsoft Corporation|
-|15|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|110.44.126.27|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|103.173.72.24|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|19|42.114.172.226|2113|Vietnam|Hanoi|FPT Telecom Company|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
