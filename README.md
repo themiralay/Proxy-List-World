@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|13|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|19|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|14|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|15|18.224.22.88|3128|United States|Dublin|Amazon.com, Inc.|
+|16|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|19|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
