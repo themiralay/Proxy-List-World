@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|10|42.114.172.226|2113|Vietnam|Hanoi|FPT Telecom Company|
 |11|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|172.172.209.40|3128|United States|Boydton|Microsoft|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|103.152.238.146|1080|Indonesia|Batukarut|APRIN|
-|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|18|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
