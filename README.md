@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|9|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|10|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|13|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|18|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|20|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|200.26.187.158|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|18|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|19|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
