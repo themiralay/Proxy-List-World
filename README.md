@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.202.89.230|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|72.10.160.91|9537|Canada|Montreal|GloboTech Communications|
-|10|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|103.76.109.123|8080|Indonesia|Utan|PT Mahawira Nusantara Grup|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|19|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|101.109.245.157|3128|Thailand|Bangkok|TOT Public Company Limited|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|15|8.212.130.94|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|19|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
