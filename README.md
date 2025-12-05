@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
 |12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|14|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|18|144.31.0.47|10808|Poland|Warsaw|H2nexus LTD|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
