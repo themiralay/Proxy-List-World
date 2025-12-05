@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|175.208.236.55|8007|South Korea|Songpa-gu|Korea Telecom|
-|20|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|19|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|20|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
 
 
 
