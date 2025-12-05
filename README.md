@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|65.21.69.44|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.157.200.126|3128|Pakistan|Lahore|Logitech Cable (Private) Limited|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|43.162.117.120|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
