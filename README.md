@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|171.5.189.131|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
+|11|222.127.76.123|8082|Philippines|Lahug|INNOVE|
 |12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|49.151.214.148|8082|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|13|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|14|202.191.127.106|1120|Bangladesh|Dhaka|BIJOY|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|202.191.127.8|1120|Bangladesh|Dhaka|BIJOY|
+|17|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|18|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
