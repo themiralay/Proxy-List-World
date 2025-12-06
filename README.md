@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|15|80.210.54.52|3128|Iran|Tehran|TIC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|204.199.140.27|999|Chile|Talca|Ingbell Chile SPA|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|6|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|8|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|72.10.164.178|19603|Canada|Montreal|GloboTech Communications|
+|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|20|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
 
 
 
