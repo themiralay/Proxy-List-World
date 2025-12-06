@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|103.18.77.25|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
 |6|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |8|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|9|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|10|103.82.23.118|5201|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|11|103.82.23.118|5201|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|17|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 |18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|103.82.23.118|5201|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|19|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
 |20|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 
 
