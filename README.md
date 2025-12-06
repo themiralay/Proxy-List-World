@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|9|49.205.160.115|8080|India|Nellore|ACT Fibernet|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|13|43.224.118.155|1120|Bangladesh|Dhaka|Next Online|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|182.253.109.51|8080|Indonesia|Semarang|Biznet Metronet|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|15|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|43.224.118.155|1120|Bangladesh|Dhaka|Next Online|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
