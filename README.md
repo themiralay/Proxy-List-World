@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|20|103.250.69.226|1120|Bangladesh|Bhātāra|Next Online Ltd.|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|163.61.57.253|8080|Indonesia|Subang|PT Koneksi Indonesia Lintas Arta|
+|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
