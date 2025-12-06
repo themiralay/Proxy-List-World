@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|43.202.18.108|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|3.36.157.142|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|2|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|3|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|4|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|7|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|8|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|14|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|15|103.133.68.53|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|16|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|17|218.89.134.230|3333|China|Xichang|Chinanet|
+|18|72.10.160.90|3623|Canada|Montreal|GloboTech Communications|
+|19|37.111.51.146|8080|Myanmar|Nyaung-U|Atom Myanmar Limited|
+|20|103.13.204.11|8090|Indonesia|Guyangan|PT JARINGANKU SARANA NUSANTARA|
 
 
 
