@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|14|223.206.214.184|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|72.10.164.178|11319|Canada|Montreal|GloboTech Communications|
-|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|17|193.107.170.193|8080|Ukraine|Volodymyr|PE UAinet|
-|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.30.30.5|10521|Bangladesh|Narsingdi|Broad Band Telecom Services Ltd|
-|20|114.142.181.76|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|18|72.10.164.178|11319|Canada|Montreal|GloboTech Communications|
+|19|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|36.147.78.166|80|China|Guangzhou|China Mobile|
 
 
 
