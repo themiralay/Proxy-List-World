@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|3|74.208.127.51|8080|United States|Washington|IONOS SE|
 |4|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|6|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|11|74.208.127.51|8080|United States|Washington|IONOS SE|
+|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
