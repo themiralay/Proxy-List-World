@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|175.208.236.55|8007|South Korea|Songpa-gu|Korea Telecom|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|72.10.160.90|7543|Canada|Montreal|GloboTech Communications|
-|13|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|14|103.187.86.14|8085|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|15|59.153.19.2|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|16|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|19|67.43.228.252|5125|Canada|Montreal|GloboTech Communications|
-|20|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|13|220.89.218.209|8880|South Korea|Daedeok-gu|Korea Telecom|
+|14|202.191.127.106|1120|Bangladesh|Dhaka|BIJOY|
+|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|16|177.39.72.73|8080|Brazil|Araranguá|Sul Online Telecom Ltda - EPP|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
