@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |6|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|58.8.255.80|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|20|170.0.11.11|8080|Colombia|Fonseca|Guajiranet ISP S.A.S.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|147.75.34.105|443|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|157.10.88.117|8080|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|17|45.114.144.192|32650|India|Jaipur|Tejays Dynamic Limited|
+|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
