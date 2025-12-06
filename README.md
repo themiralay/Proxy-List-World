@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|74.208.127.51|8080|United States|Washington|IONOS SE|
-|8|180.190.188.183|8082|Philippines|Lahug|Globe Telecom|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|16|36.147.78.166|443|China|Guangzhou|China Mobile|
-|17|74.208.127.51|8080|United States|Washington|IONOS SE|
-|18|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
-|19|193.107.170.193|8080|Ukraine|Volodymyr|PE UAinet|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
+|10|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
+|11|103.18.77.25|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
