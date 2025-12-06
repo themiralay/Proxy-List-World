@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80344** proxies at the latest update. Usable proxies are below.
+> Scraper found **80292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38548|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40516|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|10|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|11|103.18.77.25|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|9|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
+|16|103.18.77.25|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|18|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
 
 
 
