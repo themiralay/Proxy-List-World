@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|171.6.102.171|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|9|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|11|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|14|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|16|102.212.44.151|12354|South Africa|Johannesburg|OM-SN-44/24|
-|17|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|193.43.149.13|8080|Syria|Latakia|Syrian Telecom|
-|19|180.194.140.215|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|9|171.6.102.171|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|190.60.36.83|999|Colombia|Mompós|IFX NETWORKS COLOMBIA|
+|12|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|16|201.143.201.214|8080|Mexico|San Luis Río Colorado|Uninet S.A. de C.V.|
+|17|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
 |20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
