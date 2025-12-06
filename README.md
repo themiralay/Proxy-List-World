@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|7|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|8|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
 |9|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|12|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
 |17|72.10.164.178|1057|Canada|Montreal|GloboTech Communications|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
