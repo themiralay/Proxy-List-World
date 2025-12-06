@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|10|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|202.5.60.42|63636|Bangladesh|Sonargaon|BBTS-NEW|
-|18|72.10.160.90|16375|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|33211|Canada|Montreal|GloboTech Communications|
-|20|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|6|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|11|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
