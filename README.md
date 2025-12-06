@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|10|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|119.18.147.118|1201|Bangladesh|Chittagong|BBTS Network|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
 |14|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|182.253.109.51|8080|Indonesia|Semarang|Biznet Metronet|
-|17|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
