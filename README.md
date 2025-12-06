@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|13|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|19|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|20|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.160.90|1237|Canada|Montreal|GloboTech Communications|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
 
 
 
