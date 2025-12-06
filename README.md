@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |7|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|9|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|223.206.214.184|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|16|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
-|17|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|38.250.230.193|999|Peru|El Porvenir|LOA NETWORK JL S.A.C.|
+|14|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|15|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|16|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|202.58.73.246|1111|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
