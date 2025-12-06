@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|101.255.137.2|80|Indonesia|Jakarta|PT Remala Abadi|
-|7|81.180.92.198|8080|Romania|Bucharest|GOODNET|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|74.208.127.51|8080|United States|Washington|IONOS SE|
 |10|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|13|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|114.142.181.76|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|103.146.38.29|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|18|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|20|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|223.206.214.184|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|14|74.208.127.51|8080|United States|Washington|IONOS SE|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|185.82.99.110|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
+|17|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|18|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
