@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |10|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|19|113.23.200.86|8081|Malaysia|Klang|Extreme Broadband|
-|20|43.224.116.222|1120|Bangladesh|Dhaka|Next Online Limited|
+|11|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|12|43.224.119.98|1120|Bangladesh|Dhaka|Next Online|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.54.36.57|1116|Bangladesh|Dhaka|Race Online Limited|
+|20|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
