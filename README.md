@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80073** proxies at the latest update. Usable proxies are below.
+> Scraper found **80074** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38487|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40309|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|7|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
-|13|74.208.127.51|8080|United States|Washington|IONOS SE|
-|14|193.107.170.193|8080|Ukraine|Volodymyr|PE UAinet|
-|15|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|67.43.236.18|18683|Canada|Montreal|GloboTech Communications|
+|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|8.212.175.74|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|192.145.173.101|8080|Somalia|Mogadishu|Hormuud Telecom Somalia INC|
+|13|67.43.236.18|18683|Canada|Montreal|GloboTech Communications|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|185.82.99.110|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
+|17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|18|148.230.23.2|999|Guatemala|Guatemala City|Navega.com S.A.|
+|19|3.36.157.142|3129|South Korea|Seoul|Amazon.com, Inc.|
+|20|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
 
 
 
