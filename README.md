@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |2|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|36.147.78.166|80|China|Guangzhou|China Mobile|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|5|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|170.245.132.85|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|9|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|11|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|12|138.128.245.29|8888|United States|Santa Clara|Kamatera|
+|13|181.78.27.33|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|14|103.227.187.13|6080|Indonesia|Wirodayan|PT Master Star Network|
+|15|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|36.147.78.166|80|China|Guangzhou|China Mobile|
+|18|202.65.129.129|8080|India|Hyderabad|Pioneer Elabs Ltd.|
 |19|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
 |20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
