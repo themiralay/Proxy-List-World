@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
 |2|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|101.255.137.2|80|Indonesia|Jakarta|PT Remala Abadi|
-|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|6|81.180.92.198|8080|Romania|Bucharest|GOODNET|
 |7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|10|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|18|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
-|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|20|200.125.170.26|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|9|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
+|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|16|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|167.249.52.106|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|18|167.249.52.214|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
