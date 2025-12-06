@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
-|8|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|97.79.251.186|80|United States|Dallas|Spectrum|
-|14|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|15|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|17|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|18|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|19|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|20|121.167.212.146|8089|South Korea|Songpa-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|7|202.191.127.106|1120|Bangladesh|Dhaka|BIJOY|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|121.167.212.146|8089|South Korea|Songpa-gu|Korea Telecom|
+|12|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|13|34.45.207.111|9080|United States|Council Bluffs|Google LLC|
+|14|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|202.58.77.28|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|18|59.153.18.62|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|115.127.44.14|1040|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
