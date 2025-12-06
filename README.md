@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|5|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|43.224.119.98|1120|Bangladesh|Dhaka|Next Online|
-|8|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|103.82.23.118|5249|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|13|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|218.89.134.230|3333|China|Xichang|Chinanet|
-|16|67.43.236.18|29395|Canada|Montreal|GloboTech Communications|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|43.224.119.98|1120|Bangladesh|Dhaka|Next Online|
+|11|13.36.243.194|8072|France|Paris|Amazon Technologies Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|218.89.134.230|3333|China|Xichang|Chinanet|
 |17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|147.75.34.103|10012|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 |20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
