@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
 |10|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.80.228.97|8080|Sweden|Stockholm|Aeza International LTD|
-|18|103.54.36.90|1116|Bangladesh|Dhaka|Race Online Limited|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 
 
 
