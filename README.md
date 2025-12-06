@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
 |2|52.77.235.189|80|Singapore|Singapore|Amazon.com, Inc.|
 |3|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |7|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|8|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|9|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
 |10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|78.100.216.154|8080|Qatar|Doha|Ooredoo-Broadband|
-|13|175.208.236.55|8007|South Korea|Songpa-gu|Korea Telecom|
-|14|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|125.167.152.87|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|20|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
+|11|101.255.137.2|80|Indonesia|Jakarta|PT Remala Abadi|
+|12|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|13|44.239.103.14|80|United States|Portland|Amazon.com, Inc.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|103.82.23.118|5198|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
