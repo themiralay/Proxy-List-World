@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|2|52.77.235.189|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|1|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|3|52.77.235.189|80|Singapore|Singapore|Amazon.com, Inc.|
+|4|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
 |5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|7|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|9|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|17|36.147.78.166|80|China|Guangzhou|China Mobile|
-|18|36.147.78.166|80|China|Guangzhou|China Mobile|
-|19|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|81.180.92.198|8080|Romania|Bucharest|GOODNET|
+|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|18.216.151.186|80|United States|Dublin|Amazon.com, Inc.|
+|13|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|43.224.116.222|1120|Bangladesh|Dhaka|Next Online Limited|
+|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|20|43.224.116.22|1120|Bangladesh|Dhaka|Next Online Limited|
 
 
 
