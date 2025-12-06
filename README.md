@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|5|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|103.155.197.103|8080|Indonesia|Margahayukencana|JEMBATANDATA|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|9|44.193.200.192|3128|United States|Ashburn|Amazon.com|
+|10|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|12|80.190.83.71|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|78.12.223.246|9081|Mexico|Querétaro City|Amazon.com|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|138.117.231.133|999|Guatemala|Huehuetenango|Fibernet S.A|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
