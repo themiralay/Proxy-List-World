@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|47.79.145.29|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |5|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|8|158.69.212.238|3128|Canada|Montreal|OVH SAS|
+|9|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
 |10|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|11|4.149.153.123|3128|United States|Quincy|Microsoft Corporation|
-|12|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|13|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|59.153.18.62|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|11|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|15|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
