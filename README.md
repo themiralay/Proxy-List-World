@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|4|177.240.3.62|999|Mexico|Juchitán de Zaragoza|Mega Cable, S.A. de C.V.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|12|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|13|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|14|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|14.103.9.129|7890|China|Beijing|BITNET|
-|16|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|18|112.78.139.222|8080|Indonesia|Jakarta|BIZNET|
-|19|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|20|202.195.196.12|80|China|Zhenjiang|East China Shipbuilding Insititue|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|81.180.92.198|8080|Romania|Bucharest|GOODNET|
+|17|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|20|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
 
 
 
