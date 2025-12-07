@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|6|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|13.53.171.132|8080|Sweden|Stockholm|Amazon Technologies Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|14|202.215.0.203|8080|Japan|Chiyoda City|TINet Internet Service|
-|15|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
-|16|72.10.164.178|8563|Canada|Montreal|GloboTech Communications|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|89.189.64.20|8080|Yemen|Sanaa|AS30873 YemenNet|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|7|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
+|8|13.53.171.132|8080|Sweden|Stockholm|Amazon Technologies Inc.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.112.45.43|8085|Indonesia|Mekarjaya Satu|PT.Globalnet Multi Data|
+|11|202.215.0.203|8080|Japan|Chiyoda City|TINet Internet Service|
+|12|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|62.193.108.144|1976|Egypt|Giza|Etisalat|
+|20|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 
 
 
