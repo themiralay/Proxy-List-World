@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|6|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 |7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|9|74.208.127.51|8080|United States|Washington|IONOS SE|
+|8|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|9|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 |10|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|11|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|12|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|13|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|11|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |14|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|17|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
-|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|16|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
+|17|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|18|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|20|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 
 
 
