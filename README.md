@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
+|5|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |8|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|10|103.146.38.29|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
 |11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|13|103.146.38.29|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|14|85.98.163.125|8080|Turkey|Ankara|Turk Telekomunikasyon A.S|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
 |19|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|20|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|20|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
 
 
 
