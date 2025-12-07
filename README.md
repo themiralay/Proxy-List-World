@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.162.63.100|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|2|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|9|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |10|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|11|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|190.97.230.98|999|Venezuela|Caracas|Viginet C.A|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|16|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.252.237.111|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|162.223.89.83|3128|United States|Buffalo|ColoUp|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|11|104.168.142.208|3128|United States|Seattle|Hostwinds LLC.|
+|12|103.162.63.100|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|17|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|18|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
