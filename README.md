@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
-|7|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|10|223.206.12.16|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|147.75.34.103|10030|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|49.0.27.167|8080|Indonesia|Bluri|SIMS Jabar Banten Medianet|
+|4|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|5|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|74.208.127.51|8080|United States|Washington|IONOS SE|
+|11|54.249.209.225|8080|Japan|Tokyo|Amazon.com, Inc.|
+|12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|13|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|14|111.125.194.10|1452|India|Anand|INPL's|
+|15|36.147.78.166|443|China|Guangzhou|China Mobile|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |17|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|18|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|19|200.189.216.154|8080|Brazil|Taboão da Serra|Level 3 Communications, Inc.|
-|20|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 
 
 
