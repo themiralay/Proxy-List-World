@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|2|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|3|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
-|7|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
-|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|41.57.136.174|8080|South Africa|Pretoria|SCR PTA C|
-|14|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
-|15|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|5|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|10|103.162.63.100|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|103.160.202.180|8080|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |18|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|19|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|142.93.100.82|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
