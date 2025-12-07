@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|49.151.178.41|8082|Philippines|Plaridel|Philippine Long Distance Telephone Co.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
-|10|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|11|223.25.100.236|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|12|74.208.127.51|8080|United States|Washington|IONOS SE|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|15|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|103.70.44.6|8080|India|Kharagpur|Meghbela Cable & Broadband Services (P) Ltd|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
