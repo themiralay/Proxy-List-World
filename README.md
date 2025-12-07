@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79668** proxies at the latest update. Usable proxies are below.
+> Scraper found **79623** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38084|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38045|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40364|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|12|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|13|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|74.208.127.51|8080|United States|Washington|IONOS SE|
+|13|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
