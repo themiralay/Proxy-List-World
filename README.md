@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|2|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 |5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|14|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|103.250.70.63|1120|Bangladesh|Gaibandha|Next Online Ltd|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|103.156.74.154|1111|Indonesia|Banjar Seribatu|PT Trika Global Media|
 
 
 
