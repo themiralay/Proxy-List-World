@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|1|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|4|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|8|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|18|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|19|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|20|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|19|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|20|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 
 
 
