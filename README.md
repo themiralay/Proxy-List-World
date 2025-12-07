@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,23 +39,23 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|12|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
-|14|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|15|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|16|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|17|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|3|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|13|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|14|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
+|15|218.89.134.230|3333|China|Xichang|Chinanet|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
 |18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
 |20|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
