@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|15|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|5|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|14|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|20|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 
 
 
