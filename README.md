@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|3|159.65.5.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|3|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.65.5.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|8|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|9|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|15|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|16|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|8|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|14|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|17|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
