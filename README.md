@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|6|49.48.45.226|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|11|223.205.65.141|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|14|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|103.153.191.10|8080|Indonesia|Kambingan|WANET|
-|16|219.92.213.98|8080|Malaysia|Kuala Lumpur|TMnet|
-|17|103.161.109.110|8080|Indonesia|Jakarta|PT Asia Central Telematika|
-|18|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|223.205.64.65|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|114.142.181.76|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|201.71.144.98|8080|Brazil|Cuiabá|Avato Tecnologia S.A|
+|15|223.205.65.141|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|114.142.181.76|8080|Japan|Kanazawa|NSK Co., Ltd.|
 
 
 
