@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|14|74.208.127.51|8080|United States|Washington|IONOS SE|
-|15|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
