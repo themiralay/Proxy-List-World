@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79994** proxies at the latest update. Usable proxies are below.
+> Scraper found **79956** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38249|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38211|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40456|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|5|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|10|103.146.38.29|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|14|85.98.163.125|8080|Turkey|Ankara|Turk Telekomunikasyon A.S|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|19|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|20|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.65.5.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|9|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|80.210.54.52|3128|Iran|Tehran|TIC|
+|15|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|19|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|20|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
