@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|8|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|9|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|43.202.18.108|3129|South Korea|Seoul|Amazon.com, Inc.|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|15|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|18|15.206.25.229|80|India|Mumbai|Amazon Technologies Inc.|
+|19|45.177.178.194|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|20|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+
 
 
 ## Contributing
