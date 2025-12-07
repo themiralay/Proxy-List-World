@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|7|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|11|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|14|160.19.19.101|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|15|103.56.81.35|8080|Indonesia|Cimahi|PT Jaringan Citra Mandiri|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|72.10.160.172|4733|Canada|Montreal|GloboTech Communications|
+|1|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|3|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|5|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|9|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|13|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|131.72.69.209|8080|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
+|19|81.180.92.198|8080|Romania|Bucharest|GOODNET|
 |20|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
 
 
