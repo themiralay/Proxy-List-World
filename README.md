@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|6|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|12|103.39.51.184|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
+|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
 |13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|103.162.63.100|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|74.208.127.51|8080|United States|Washington|IONOS SE|
+|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|43.252.237.111|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|18|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|19|103.82.23.118|5236|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|20|43.224.116.65|1120|Bangladesh|Dhaka|Next Online Limited|
 
 
 
