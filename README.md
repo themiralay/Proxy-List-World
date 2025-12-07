@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|49.48.45.226|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|10|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|11|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|12|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|36.75.52.130|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|36.75.52.130|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|103.157.78.122|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|15|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|17|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
 |18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
