@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|9|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|10|57.129.29.184|1080|Germany|Frankfurt am Main|OVH SAS|
-|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|12|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|103.56.81.35|8080|Indonesia|Cimahi|PT Jaringan Citra Mandiri|
-|14|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|10|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 |16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
-|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|18|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|19|152.70.98.46|8888|Japan|Tokyo|Oracle Corporation|
+|20|81.180.92.198|8080|Romania|Bucharest|GOODNET|
 
 
 
