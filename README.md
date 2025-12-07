@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|9|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.96.245|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|74.208.127.51|80|United States|Washington|IONOS SE|
-|18|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|19|113.11.64.18|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|160.19.19.226|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|1|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|11|134.209.96.245|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|119.93.87.65|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
