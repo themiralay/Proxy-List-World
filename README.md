@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|9|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
 |10|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|11|157.20.244.78|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|174.129.234.143|80|United States|Ashburn|Amazon.com, Inc.|
-|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|174.129.234.143|80|United States|Ashburn|Amazon.com, Inc.|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
