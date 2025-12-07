@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|204.44.87.247|8888|United States|Los Angeles|HostPapa|
 |6|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|7|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|10|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|16|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|19|36.147.78.166|443|China|Guangzhou|China Mobile|
-|20|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|10|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|11|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|81.180.92.198|8080|Romania|Bucharest|GOODNET|
+|17|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|175.208.236.55|8082|South Korea|Songpa-gu|Korea Telecom|
+|19|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
