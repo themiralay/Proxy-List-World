@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|103.157.78.122|8080|Indonesia|Jakarta|PT Super Media Indonesia|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|14|114.142.181.76|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|36.75.52.130|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
