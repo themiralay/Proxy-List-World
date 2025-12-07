@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|3|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|10|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|11|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|12|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|103.157.78.122|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|9|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|17|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|18|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
