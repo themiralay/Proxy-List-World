@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.145.54.125|8118|United States|St Louis|Contabo Inc.|
-|3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|6|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|209.145.54.125|8118|United States|St Louis|Contabo Inc.|
-|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|74.208.127.51|8080|United States|Washington|IONOS SE|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
 |17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
+|18|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|20|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
