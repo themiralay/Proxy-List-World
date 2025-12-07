@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |4|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|5|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|18|171.7.100.202|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|20|202.51.206.50|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
+|10|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|16|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|202.51.206.50|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|19|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|20|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 
 
 
