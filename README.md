@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|103.177.199.101|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|5|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|43.225.151.129|1120|Bangladesh|Dhaka|Next Online|
-|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|43.230.211.244|8080|Bangladesh|Shibganj|Md Abul Kashem|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
