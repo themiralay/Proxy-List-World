@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.157.78.122|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|3|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|43.225.151.82|1120|Bangladesh|Dhaka|Next Online|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|8|49.48.45.226|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|16|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 
 
 
