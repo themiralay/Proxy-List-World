@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|10|103.180.118.184|8080|Indonesia|Made|PT Persada Data Multimedia|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|18|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|19|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|20|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
+|16|212.252.73.34|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|74.208.127.51|8080|United States|Washington|IONOS SE|
+|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
