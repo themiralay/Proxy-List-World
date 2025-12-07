@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|12|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|74.208.127.51|8080|United States|Washington|IONOS SE|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.169.38.242|8080|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
+|20|103.82.23.118|5261|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
 
 
 
