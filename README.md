@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42278** proxies at the latest update. Usable proxies are below.
+> Scraper found **80132** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38240|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2734|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40588|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|49.0.26.43|8181|Indonesia|Randuboto|SIMS Jabar Banten Medianet|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|11|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 |12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.250.70.61|1120|Bangladesh|Gaibandha|Next Online Ltd|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|43.230.211.244|8080|Bangladesh|Shibganj|Md Abul Kashem|
+|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
