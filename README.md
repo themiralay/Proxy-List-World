@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|7|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|11|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|16|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|16|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
