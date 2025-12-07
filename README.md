@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|138.128.245.29|8888|United States|Santa Clara|Kamatera|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|10|43.165.187.118|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|18|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|5|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|103.177.199.101|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
