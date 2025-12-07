@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|74.208.127.51|8080|United States|Washington|IONOS SE|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|74.208.127.51|8080|United States|Washington|IONOS SE|
+|10|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|20|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
 
 
 
