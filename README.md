@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
-|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|47.130.173.17|80|Singapore|Singapore|Amazon Technologies Inc|
+|3|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|8|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|7|14.224.57.211|8080|Vietnam|Vinh|VNPT|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
 |10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|13|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|19|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|74.208.127.51|8080|United States|Washington|IONOS SE|
+|20|74.208.127.51|8080|United States|Washington|IONOS SE|
 
 
 
