@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79342** proxies at the latest update. Usable proxies are below.
+> Scraper found **41288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38054|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40046|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|3|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
 |6|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
 |7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|17|167.249.52.91|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|9|74.208.127.51|8080|United States|Washington|IONOS SE|
+|10|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|11|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|12|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|13|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|14|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|17|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
+|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
