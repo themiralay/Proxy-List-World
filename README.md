@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|2|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|5|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|6|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|218.89.134.230|3333|China|Xichang|Chinanet|
-|10|72.10.160.172|12607|Canada|Montreal|GloboTech Communications|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|15|81.180.92.198|8080|Romania|Bucharest|GOODNET|
-|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|17|43.224.119.163|1120|Bangladesh|Dhaka|Next Online|
-|18|57.128.188.167|9158|United Kingdom|Erith|OVH SAS|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|35.169.198.189|80|United States|Ashburn|Amazon.com, Inc.|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|9|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|103.56.81.35|8080|Indonesia|Cimahi|PT Jaringan Citra Mandiri|
+|15|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|218.89.134.230|3333|China|Xichang|Chinanet|
+|18|81.180.92.198|8080|Romania|Bucharest|GOODNET|
+|19|43.225.151.30|1120|Bangladesh|Dhaka|Next Online|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
