@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|74.208.127.51|8080|United States|Washington|IONOS SE|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|13|36.64.86.11|8080|Indonesia|Enrekang|PT. Telekomunikasi Indonesia|
-|14|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|103.126.119.191|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|16|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|15|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
