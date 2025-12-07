@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|2|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|103.169.38.242|8080|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|212.252.73.34|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|11|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|16|131.255.227.104|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|14|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
