@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|1|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|177.240.3.62|999|Mexico|Juchitán de Zaragoza|Mega Cable, S.A. de C.V.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|11|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Việt Trì|VNPT|
+|8|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|15|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|20|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
 
 
 
