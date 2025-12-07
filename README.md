@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|204.44.87.247|8888|United States|Los Angeles|HostPapa|
 |3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|5|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|188.126.85.122|8080|Sweden|Stockholm|GleSYS AB|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|78.39.177.76|8070|Iran|Tehran|Telecommunication Company of Iran|
-|14|3.138.155.72|80|United States|Dublin|Amazon.com, Inc.|
-|15|175.208.236.55|8091|South Korea|Songpa-gu|Korea Telecom|
-|16|74.208.127.51|80|United States|Washington|IONOS SE|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|19|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|13.215.198.118|80|Singapore|Singapore|Amazon Technologies Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|223.206.12.16|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|8|103.92.218.121|9514|Bangladesh|Paltan|Md Rezaul Karim|
+|9|175.208.236.55|8091|South Korea|Songpa-gu|Korea Telecom|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|74.208.127.51|80|United States|Washington|IONOS SE|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
