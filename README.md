@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|7|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
-|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|16|14.224.57.211|8080|Vietnam|Vinh|VNPT|
-|17|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
