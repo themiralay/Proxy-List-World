@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|44.200.8.242|80|United States|Ashburn|Amazon.com|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|5.129.218.95|8080|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
 |11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|164.92.163.109|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|20|103.195.100.154|8080|United States|Miami|ReliableSite.Net LLC|
+|12|43.207.128.251|8080|Japan|Tokyo|Amazon.com, Inc.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
