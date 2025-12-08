@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|74.208.127.51|8080|United States|Washington|IONOS SE|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |9|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|10|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|14|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|15|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
+|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|11|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
+|15|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|16|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|20|103.56.92.67|1935|Indonesia|Semarang|Argon Data Communication|
 
 
 
