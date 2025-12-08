@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|7|163.5.196.171|3128|The Netherlands|Amsterdam|STALLIONDC Limited|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|11|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|24.248.184.51|8080|United States|Phoenix|Cox Communications Inc.|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|9|163.5.196.171|3128|The Netherlands|Amsterdam|STALLIONDC Limited|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
