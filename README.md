@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|1|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|7|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|11|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
 |17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
