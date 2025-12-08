@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|180.194.140.215|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|74.208.127.51|8080|United States|Washington|IONOS SE|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|74.208.127.51|8080|United States|Washington|IONOS SE|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|119.93.33.130|8082|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
+|18|74.208.127.51|8080|United States|Washington|IONOS SE|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
