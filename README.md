@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|195.133.8.14|8080|Kazakhstan|Astana|MTFINANCE|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
