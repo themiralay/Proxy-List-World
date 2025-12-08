@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|10|43.252.106.5|3128|Indonesia|Temanggung|PT Lintas Data Prima|
-|11|90.156.194.70|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|103.154.77.192|8085|Indonesia|Sleman|T2NET|
-|15|157.66.251.14|8097|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|112.198.128.35|8081|Philippines|Nasugbu|Globe Telecom|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
+|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|17|41.216.186.146|7777|Indonesia|Jakarta|FASTHOSTING|
+|18|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|20|170.239.42.204|4601|Brazil|Dourados|M. DANTAS E CIA LTDA ME|
 
 
 
