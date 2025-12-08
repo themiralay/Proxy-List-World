@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|4|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|5|72.10.160.90|6273|Canada|Montreal|GloboTech Communications|
+|2|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|3|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|5|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 |6|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
-|7|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
-|8|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|9|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|10|218.89.134.230|3333|China|Xichang|Chinanet|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
-|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
-|20|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|7|218.89.134.230|3333|China|Xichang|Chinanet|
+|8|72.10.160.90|6273|Canada|Montreal|GloboTech Communications|
+|9|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
+|11|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|12|125.27.42.134|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|17|160.20.38.74|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|18|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
