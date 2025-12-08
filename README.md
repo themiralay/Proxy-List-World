@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
-|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|3|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|4|175.208.129.130|8609|South Korea|Songpa-gu|Korea Telecom|
-|5|103.109.212.85|8428|Bangladesh|Farīdpur|Bismillah Telecom Service|
-|6|72.10.160.170|32961|Canada|Montreal|GloboTech Communications|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|112.209.14.126|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|72.10.160.90|5791|Canada|Montreal|GloboTech Communications|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|175.208.129.130|8609|South Korea|Songpa-gu|Korea Telecom|
-|13|175.208.129.130|8609|South Korea|Songpa-gu|Korea Telecom|
-|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|17|218.89.134.230|3333|China|Xichang|Chinanet|
-|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|175.208.129.130|8609|South Korea|Songpa-gu|Korea Telecom|
+|1|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|2|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|3|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
+|4|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|5|103.38.101.194|1111|Indonesia|Tulangan Utara|LAXONET|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|72.10.160.90|6273|Canada|Montreal|GloboTech Communications|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|10|115.79.57.201|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|11|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
+|12|175.208.129.130|8647|South Korea|Songpa-gu|Korea Telecom|
+|13|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|222.59.173.105|45124|China|Nanjing|China Mobile Communications Corporation|
+|16|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
+|20|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
