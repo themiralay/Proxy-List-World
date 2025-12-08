@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.155.167.53|8080|Indonesia|Serpong|PT Network Lintas Fiberindo|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|103.154.77.192|8085|Indonesia|Sleman|T2NET|
-|12|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|13|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|185.222.162.11|8080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|19|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|20|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|16|188.136.208.253|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
+|18|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|167.249.52.115|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
 
 
 
