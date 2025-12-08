@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|112.198.128.35|8081|Philippines|Nasugbu|Globe Telecom|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.125.17.98|8080|Indonesia|Jakarta|JAVAMEDIA|
-|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|13|101.255.151.30|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
-|17|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|103.54.36.57|1116|Bangladesh|Dhaka|Race Online Limited|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|83.171.252.150|8080|Russia|Moscow|Miranda-Media Ltd|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
 
 
 
