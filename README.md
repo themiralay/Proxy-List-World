@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
+|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|11|41.216.186.146|7777|Indonesia|Jakarta|FASTHOSTING|
-|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|17|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|16|45.189.252.246|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|74.208.127.51|8080|United States|Washington|IONOS SE|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
