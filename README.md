@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|2|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|3|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|4|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|1|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|2|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|3|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|72.10.164.178|25543|Canada|Montreal|GloboTech Communications|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|102.212.45.58|12354|South Africa|Johannesburg|OM-SN-45/24|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
-|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|67.43.236.18|7891|Canada|Montreal|GloboTech Communications|
-|14|74.208.127.51|80|United States|Washington|IONOS SE|
-|15|121.167.212.146|8008|South Korea|Songpa-gu|Korea Telecom|
-|16|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|17|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
-|18|3.36.157.142|3129|South Korea|Seoul|Amazon.com, Inc.|
-|19|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|12|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
+|13|218.145.239.196|8842|South Korea|Gangnam-gu|Korea Telecom|
+|14|121.167.212.146|8022|South Korea|Songpa-gu|Korea Telecom|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|20|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
 
 
 
