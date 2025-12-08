@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|43.162.118.156|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|124.104.96.156|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|13|74.208.127.51|8080|United States|Washington|IONOS SE|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 
 
 
