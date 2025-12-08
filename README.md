@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|51.79.241.31|3128|Singapore|Singapore|OVH SAS|
-|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|9|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|130.61.120.40|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|160.187.174.115|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|70.172.220.169|8123|United States|Manchester|Cox Communications Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|11|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|92.241.103.197|8080|Russia|Smolensk|SMOLTELECOM|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
