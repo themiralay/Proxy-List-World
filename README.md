@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|74.208.127.51|8080|United States|Washington|IONOS SE|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|193.43.140.84|8080|Syria|Jayrūd|Syrian Telecom|
-|17|164.163.134.227|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|103.154.77.192|8085|Indonesia|Sleman|T2NET|
-|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|20|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|186.33.40.17|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
+|10|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|193.43.140.84|8080|Syria|Jayrūd|Syrian Telecom|
+|13|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
+|14|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
+|18|119.148.9.238|16345|Bangladesh|Dhaka|Agni Systems Limited|
+|19|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
+|20|103.154.77.192|8085|Indonesia|Sleman|T2NET|
 
 
 
