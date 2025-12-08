@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79828** proxies at the latest update. Usable proxies are below.
+> Scraper found **79856** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38059|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40501|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|2|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|3|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|72.10.164.178|25543|Canada|Montreal|GloboTech Communications|
-|6|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
-|13|218.145.239.196|8842|South Korea|Gangnam-gu|Korea Telecom|
-|14|121.167.212.146|8022|South Korea|Songpa-gu|Korea Telecom|
-|15|74.208.127.51|8080|United States|Washington|IONOS SE|
-|16|175.208.236.55|8006|South Korea|Songpa-gu|Korea Telecom|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|20|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|1|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|2|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|3|72.10.160.173|12991|Canada|Montreal|GloboTech Communications|
+|4|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
+|5|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|9|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
+|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|11|218.145.239.196|8128|South Korea|Gangnam-gu|Korea Telecom|
+|12|72.10.160.170|13613|Canada|Montreal|GloboTech Communications|
+|13|49.157.152.44|8082|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|17|147.75.34.103|10006|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
