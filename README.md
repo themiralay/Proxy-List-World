@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|2|72.10.160.94|4803|Canada|Montreal|GloboTech Communications|
-|3|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
-|7|180.1.209.195|8080|Japan|Yokohama|NTT Communications Corporation|
-|8|54.249.209.225|8080|Japan|Tokyo|Amazon.com, Inc.|
-|9|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
-|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|13|203.190.44.157|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
-|14|202.151.13.169|8080|Indonesia|Bogor|MEGAVISION|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|74.208.127.51|8080|United States|Washington|IONOS SE|
-|17|181.78.202.29|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|18|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
-|19|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|54.249.209.225|8080|Japan|Tokyo|Amazon.com, Inc.|
+|6|203.171.252.7|8080|Cambodia|Phnom Penh|MEKONGNET|
+|7|202.151.13.169|8080|Indonesia|Bogor|MEGAVISION|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|38.52.135.96|8181|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|10|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|11|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|13|94.155.175.135|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|17|219.95.123.240|8080|Malaysia|Kajang|TMnet|
+|18|72.10.160.90|6273|Canada|Montreal|GloboTech Communications|
+|19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|121.167.212.146|8022|South Korea|Songpa-gu|Korea Telecom|
 
 
 
