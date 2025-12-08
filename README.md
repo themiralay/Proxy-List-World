@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|4|189.7.153.8|8080|Brazil|Piracicaba|Claro NXT Telecomunicacoes Ltda|
-|5|218.89.134.230|3333|China|Xichang|Chinanet|
-|6|38.250.155.130|999|Peru|Ayacucho|Cogent Communications|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|8.210.148.99|1122|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|119.93.53.24|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|20|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|3|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|216.146.18.253|8080|United States|Midlothian|Fast Lane Internet|
+|8|119.93.53.24|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|11|3.36.157.142|3129|South Korea|Seoul|Amazon.com, Inc.|
+|12|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|13|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|58.63.109.230|10817|China|Guangzhou|Chinanet|
+|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|20|102.0.16.226|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 
 
 
