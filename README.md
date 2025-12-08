@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|88.99.26.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |11|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|13|188.81.57.23|8080|Portugal|Viana do Castelo|MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|74.208.127.51|8080|United States|Washington|IONOS SE|
 |18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|19|74.208.127.51|8080|United States|Washington|IONOS SE|
-|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|98.147.60.146|48678|United States|Honolulu|Spectrum|
 
 
 
