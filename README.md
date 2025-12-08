@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|16|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|17|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|18|74.208.127.51|8080|United States|Washington|IONOS SE|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |20|199.217.98.100|2525|United States|Dublin|BL Networks|
 
 
