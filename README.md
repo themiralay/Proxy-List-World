@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|9|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|103.245.205.173|1120|Bangladesh|Bhātāra|Next Online Limited|
-|18|38.199.66.58|999|Colombia|Soacha|TV COLOMBIA DIGITAL SAS|
-|19|185.143.145.189|9090|Ukraine|Kyiv|Neth LLC|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|14|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
