@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|5|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|1|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|62.210.37.74|8012|France|Paris|Online S.A.S.|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|12|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|74.208.127.51|8080|United States|Washington|IONOS SE|
-|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|20|190.90.252.241|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|74.208.127.51|8080|United States|Washington|IONOS SE|
+|10|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
+|15|103.180.118.107|7100|Indonesia|Bojonegoro|PT Persada Data Multimedia|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|174.129.234.143|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
