@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|2|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|3|72.10.160.173|12991|Canada|Montreal|GloboTech Communications|
-|4|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
-|5|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
-|10|167.114.65.167|8888|Canada|Montreal|OVH SAS|
-|11|218.145.239.196|8128|South Korea|Gangnam-gu|Korea Telecom|
-|12|72.10.160.170|13613|Canada|Montreal|GloboTech Communications|
-|13|49.157.152.44|8082|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|17|147.75.34.103|10006|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|1|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|2|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|3|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|4|147.75.34.103|9400|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|147.75.34.103|9400|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|72.10.160.170|13613|Canada|Montreal|GloboTech Communications|
+|9|147.75.34.103|9400|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|147.75.34.103|9400|The Netherlands|Zoetermeer|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|14|103.178.2.120|8181|Indonesia|Sukabumi|RSTNET|
+|15|181.209.108.226|999|Argentina|El Hoyo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|19|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
