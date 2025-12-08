@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 |20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
