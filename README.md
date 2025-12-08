@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|8|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|12|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|77.110.105.74|54052|Russia|Moscow|Aeza International LTD|
+|10|74.208.127.51|8080|United States|Washington|IONOS SE|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|13|36.88.137.114|8080|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
 |14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|74.208.127.51|8080|United States|Washington|IONOS SE|
-|17|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
-|18|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|190.90.252.241|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|19|181.209.81.82|999|Argentina|Gualeguay|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
