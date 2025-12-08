@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|9|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|45.12.129.42|80|Lithuania|Vilnius|WorkTitans B.V.|
 |18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
