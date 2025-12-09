@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|8|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|199.217.98.100|2525|United States|Dublin|BL Networks|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|199.217.98.100|2525|United States|Dublin|BL Networks|
+|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 |15|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
-|16|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|18|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|121.167.212.149|8802|South Korea|Songpa-gu|Korea Telecom|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
