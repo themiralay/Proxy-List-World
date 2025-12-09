@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|6|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|5|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|11|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|14|43.210.30.230|25085|Thailand|Bangkok|Amazon.com, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|19|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 
 
 
