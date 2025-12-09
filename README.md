@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|199.217.98.100|2525|United States|Dublin|BL Networks|
 |17|199.217.98.100|2525|United States|Dublin|BL Networks|
-|18|199.217.98.100|2525|United States|Dublin|BL Networks|
-|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|18|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|19|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
