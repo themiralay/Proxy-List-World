@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|74.208.127.51|80|United States|Washington|IONOS SE|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|74.208.127.51|80|United States|Washington|IONOS SE|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|193.42.125.156|10808|Russia|Moscow|Beget LLC|
-|14|43.210.30.230|25085|Thailand|Bangkok|Amazon.com, Inc.|
-|15|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
-|16|38.199.30.195|999|Colombia|Armenia|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|12|43.210.30.230|25085|Thailand|Bangkok|Amazon.com, Inc.|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|16|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
 |17|43.202.18.108|3129|South Korea|Seoul|Amazon.com, Inc.|
-|18|72.10.160.170|32821|Canada|Montreal|GloboTech Communications|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|19|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|20|72.10.160.170|32821|Canada|Montreal|GloboTech Communications|
 
 
 
