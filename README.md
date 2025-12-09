@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41838** proxies at the latest update. Usable proxies are below.
+> Scraper found **80310** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38472|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40560|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|121.101.129.150|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|45.32.94.217|8888|United States|Los Angeles|The Constant Company|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|74.208.127.51|443|United States|Washington|IONOS SE|
+|17|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|19|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
