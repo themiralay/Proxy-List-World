@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|2|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|8|193.42.125.156|10808|Russia|Moscow|Beget LLC|
-|9|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |14|199.217.98.100|2525|United States|Dublin|BL Networks|
 |15|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|16|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|199.217.98.100|2525|United States|Dublin|BL Networks|
+|16|199.217.98.100|2525|United States|Dublin|BL Networks|
+|17|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
 |18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
