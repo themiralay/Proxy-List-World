@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|129.153.107.221|80|United States|Phoenix|Oracle Corporation|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|213.171.25.72|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
 |20|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
 
 
