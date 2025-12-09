@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|199.217.98.100|2525|United States|Dublin|BL Networks|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|17|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|199.217.98.100|2525|United States|Dublin|BL Networks|
+|20|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
 
 
 
