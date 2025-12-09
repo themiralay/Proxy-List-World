@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|3|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|43.210.30.230|25085|Thailand|Bangkok|Amazon.com, Inc.|
+|9|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
+|11|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |12|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|36.147.78.166|80|China|Guangzhou|China Mobile|
 |19|72.10.160.170|5045|Canada|Montreal|GloboTech Communications|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
