@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|199.217.98.100|2525|United States|Dublin|BL Networks|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|199.217.98.100|2525|United States|Dublin|BL Networks|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|18|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|199.217.98.100|2525|United States|Dublin|BL Networks|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
