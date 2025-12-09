@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|2|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|3|74.208.127.51|8080|United States|Washington|IONOS SE|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|8|74.208.127.51|8080|United States|Washington|IONOS SE|
 |9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|193.42.125.156|10808|Russia|Moscow|Beget LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|74.208.127.51|8080|United States|Washington|IONOS SE|
+|20|193.42.125.156|10808|Russia|Moscow|Beget LLC|
 
 
 
