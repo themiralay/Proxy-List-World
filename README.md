@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|199.217.98.100|2525|United States|Dublin|BL Networks|
-|11|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|218.145.239.196|8787|South Korea|Gangnam-gu|Korea Telecom|
+|6|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|199.217.98.100|2525|United States|Dublin|BL Networks|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|89.43.133.174|8080|Syria|Damascus|Turk Telekom International HU Kft|
+|13|103.230.63.66|1120|Bangladesh|Chittagong|Next Online Ltd|
 |14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|15|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
-|16|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|17|124.16.100.155|26001|China|Haidian|CNIC-CAS|
-|18|103.145.34.145|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|20|167.114.65.167|8888|Canada|Montreal|OVH SAS|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|17|182.170.153.129|8080|Japan|Sannomaru|Sony Network Communications Inc.|
+|18|157.119.50.142|8082|Bangladesh|Tongi|Kamal Hossain|
+|19|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|20|118.179.93.246|19201|Bangladesh|Mymensingh|Amber IT Limited|
 
 
 
