@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|18|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
 
 
 
