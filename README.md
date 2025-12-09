@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|8|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|14|199.217.98.100|2525|United States|Dublin|BL Networks|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|199.217.98.100|2525|United States|Dublin|BL Networks|
-|18|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|19|202.215.0.203|8080|Japan|Chiyoda City|TINet Internet Service|
-|20|47.243.27.70|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
+|16|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
+|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
 
 
 
