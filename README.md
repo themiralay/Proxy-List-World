@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|199.217.98.100|2525|United States|Dublin|BL Networks|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|199.217.98.100|2525|United States|Dublin|BL Networks|
-|14|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|15|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|16|62.146.235.7|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|70.172.220.169|8123|United States|Manchester|Cox Communications Inc.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|10|199.217.98.100|2525|United States|Dublin|BL Networks|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|74.208.127.51|8080|United States|Washington|IONOS SE|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|74.208.127.51|8080|United States|Washington|IONOS SE|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|199.217.98.100|2525|United States|Dublin|BL Networks|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
