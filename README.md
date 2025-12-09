@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|74.208.127.51|443|United States|Washington|IONOS SE|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |7|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 |8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|74.208.127.51|443|United States|Washington|IONOS SE|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|17|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|17|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|8.220.185.24|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
