@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|74.208.127.51|8080|United States|Washington|IONOS SE|
-|17|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|20|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|20|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
 
 
 
