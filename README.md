@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.81.131|3128|Japan|Yokohama|InfoSphere|
+|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|124.158.153.218|8180|Indonesia|Sedatiagung|PT iForte Global Internet|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
