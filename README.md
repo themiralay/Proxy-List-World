@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |6|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|203.190.44.157|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|199.217.98.100|2525|United States|Dublin|BL Networks|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|199.217.98.100|2525|United States|Dublin|BL Networks|
+|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
