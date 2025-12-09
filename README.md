@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|206.189.84.100|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 |11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
