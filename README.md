@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|7|171.232.47.17|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|20|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
