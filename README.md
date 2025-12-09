@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|112.203.36.133|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|129.153.107.221|80|United States|Phoenix|Oracle Corporation|
-|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|83.6.84.237|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|20|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|14|47.84.70.29|8888|Singapore|Singapore|Alibaba.com LLC|
+|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|16|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
