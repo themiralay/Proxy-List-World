@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|14|199.217.98.100|2525|United States|Dublin|BL Networks|
-|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|20|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|8|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|199.217.98.100|2525|United States|Dublin|BL Networks|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|36.147.78.166|80|China|Guangzhou|China Mobile|
+|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
 
 
 
