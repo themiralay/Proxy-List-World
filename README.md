@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80307** proxies at the latest update. Usable proxies are below.
+> Scraper found **80275** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38314|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|10|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|199.217.98.100|2525|United States|Dublin|BL Networks|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|103.230.63.86|1120|Bangladesh|Chittagong|Next Online Ltd|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|199.217.98.100|2525|United States|Dublin|BL Networks|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|17|74.208.127.51|8080|United States|Washington|IONOS SE|
 |18|67.43.236.20|21919|Canada|Montreal|GloboTech Communications|
-|19|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|20|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|103.230.63.86|1120|Bangladesh|Chittagong|Next Online Ltd|
+|20|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
 
 
 
