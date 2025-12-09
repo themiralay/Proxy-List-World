@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80541** proxies at the latest update. Usable proxies are below.
+> Scraper found **80537** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38458|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38454|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40822|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
 |8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|130.193.57.247|1080|Russia|Moscow|Yandex enterprise network|
-|12|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|13|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|14|199.217.98.100|2525|United States|Dublin|BL Networks|
-|15|218.145.239.196|8989|South Korea|Gangnam-gu|Korea Telecom|
-|16|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|103.125.16.13|8080|Indonesia|Jakarta|JAVAMEDIA|
-|19|190.2.214.137|9992|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|199.217.98.100|2525|United States|Dublin|BL Networks|
+|13|199.217.98.100|2525|United States|Dublin|BL Networks|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|18|59.153.19.170|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
 
 
 
