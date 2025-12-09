@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|17|18.188.141.177|1145|United States|Dublin|Amazon.com, Inc.|
-|18|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|43.210.30.230|25085|Thailand|Bangkok|Amazon.com, Inc.|
-|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|5|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
