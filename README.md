@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|8.220.185.24|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |11|199.217.98.100|2525|United States|Dublin|BL Networks|
-|12|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|13|3.36.157.142|3129|South Korea|Seoul|Amazon.com, Inc.|
-|14|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|12|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
+|13|89.43.133.174|8080|Syria|Damascus|Turk Telekom International HU Kft|
+|14|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 |15|67.43.236.18|29771|Canada|Montreal|GloboTech Communications|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|211.175.140.8|8000|South Korea|Gwangmyeong|Korea Telecom|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|43.202.18.108|3129|South Korea|Seoul|Amazon.com, Inc.|
-|20|218.89.134.230|3333|China|Xichang|Chinanet|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|174.129.234.143|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
