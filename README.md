@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|20.223.127.248|3128|Ireland|Dublin|Microsoft Corporation|
-|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|10|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.84.177.36|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
