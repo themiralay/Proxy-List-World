@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|202.90.71.158|3128|French Polynesia|Papeete|ONATI|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 |18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|185.175.254.69|8080|Albania|Tirana|Digicom SHPK|
 
 
 
