@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|199.217.98.100|2525|United States|Dublin|BL Networks|
-|15|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|170.246.183.250|3128|Argentina|Presidencia Roque Sáenz Peña|AIQUEL EDUARDO RAUL (CABLE VISION SP)|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|74.208.127.51|8080|United States|Washington|IONOS SE|
+|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|18|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|19|199.217.98.100|2525|United States|Dublin|BL Networks|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
