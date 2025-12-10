@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|19|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
