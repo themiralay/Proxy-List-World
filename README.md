@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|7|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|16|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|20|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
 
 
 
