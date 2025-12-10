@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|51.255.46.151|3128|France|Roubaix|OVH SAS|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|91.107.162.123|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|51.255.46.151|3128|France|Roubaix|OVH SAS|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|34.236.148.220|10081|United States|Ashburn|Amazon.com, Inc.|
+|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
+|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 
 
 
