@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|2|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|192.76.150.90|8900|The Netherlands|Alkmaar|The Infrastructure Group B.V.|
-|10|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|13|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|170.246.183.250|3128|Argentina|Presidencia Roque Sáenz Peña|AIQUEL EDUARDO RAUL (CABLE VISION SP)|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|17|199.217.98.100|2525|United States|Dublin|BL Networks|
-|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|18|170.246.183.250|3128|Argentina|Presidencia Roque Sáenz Peña|AIQUEL EDUARDO RAUL (CABLE VISION SP)|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 
 
 
