@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|14|43.225.151.194|1120|Bangladesh|Dhaka|Next Online|
-|15|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|43.225.151.194|1120|Bangladesh|Dhaka|Next Online|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|74.208.127.51|8080|United States|Washington|IONOS SE|
+|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
