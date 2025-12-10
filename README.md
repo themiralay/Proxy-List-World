@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
-|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.65.238.25|3129|Brazil|Vinhedo|Oracle Corporation|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
