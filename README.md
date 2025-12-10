@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
