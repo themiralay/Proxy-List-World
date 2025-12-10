@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|206.237.31.132|1080|Hong Kong|Kwun Tong|Cogent Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|8|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
