@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|182.170.153.129|8080|Japan|Sannomaru|Sony Network Communications Inc.|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|13|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|199.217.98.100|2525|United States|Dublin|BL Networks|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
