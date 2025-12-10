@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|37.59.112.197|80|France|Roubaix|OVH ISP|
-|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|165.232.77.140|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
 |20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
