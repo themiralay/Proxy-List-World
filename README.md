@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|6|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|51.255.46.151|3128|France|Roubaix|OVH SAS|
+|15|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
 |16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|19|51.255.46.151|3128|France|Roubaix|OVH SAS|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
