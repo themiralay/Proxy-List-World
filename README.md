@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
-|10|130.131.155.173|80|United States|Des Moines|Microsoft Corporation|
-|11|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|130.131.155.173|80|United States|Des Moines|Microsoft Corporation|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|13|103.146.185.140|1111|Indonesia|Wonogiri|YAMNET|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|19|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|20|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
 
 
 
