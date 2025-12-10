@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80401** proxies at the latest update. Usable proxies are below.
+> Scraper found **80383** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38596|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40507|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|51.255.46.151|3128|France|Roubaix|OVH SAS|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|74.208.127.51|8080|United States|Washington|IONOS SE|
-|12|124.121.2.214|8080|Thailand|Bangkok|TRUEBB|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|87.251.66.73|8080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|212.227.87.124|2080|Spain|Madrid|IONOS SE|
+|9|74.208.127.51|8080|United States|Washington|IONOS SE|
+|10|51.255.46.151|3128|France|Roubaix|OVH SAS|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|19|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|20|74.208.127.51|8080|United States|Washington|IONOS SE|
 
 
 
