@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|6|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
-|7|3.138.155.72|80|United States|Dublin|Amazon.com, Inc.|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|209.62.196.68|8080|United States|Cut Off|EATEL|
-|16|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
-|17|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
+|6|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|188.235.21.247|8080|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|101.128.107.36|1111|Indonesia|Parung|CBN|
+|19|202.191.124.141|25256|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
