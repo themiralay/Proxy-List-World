@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 |8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|14|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
