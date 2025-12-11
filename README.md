@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|12|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|17|103.177.199.98|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|18|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|131.255.227.104|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
