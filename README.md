@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|13|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|14|103.154.73.11|8080|Indonesia|Jakarta|Media Infrastruktur Teknik|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
+|13|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
 |18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 
 
 
