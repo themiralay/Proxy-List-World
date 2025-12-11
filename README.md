@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|47.236.130.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|47.236.130.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
+|7|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|10|119.93.53.24|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|13|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
