@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.154.73.11|8080|Indonesia|Jakarta|Media Infrastruktur Teknik|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|11|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|18|103.4.147.205|8585|Bangladesh|Dhaka|Next Online Limited|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
+
 
 
 ## Contributing
