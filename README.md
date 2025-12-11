@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|16|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|18|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|19|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
