@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|5|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|5|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|8|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.202.18.108|3129|South Korea|Seoul|Amazon.com, Inc.|
-|13|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
-|14|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|15|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|97.79.251.186|80|United States|Dallas|Spectrum|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
