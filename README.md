@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.145.96.50|3128|Singapore|Singapore|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
 |6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|175.208.236.114|8704|South Korea|Songpa-gu|Korea Telecom|
+|14|170.246.183.250|3128|Argentina|Presidencia Roque Sáenz Peña|AIQUEL EDUARDO RAUL (CABLE VISION SP)|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|19|170.246.183.250|3128|Argentina|Presidencia Roque Sáenz Peña|AIQUEL EDUARDO RAUL (CABLE VISION SP)|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
