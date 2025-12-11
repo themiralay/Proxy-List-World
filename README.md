@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|11|217.174.106.15|8118|Russia|Moscow|E-Style ISP|
-|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
-|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|20|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|13|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|16|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|17|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
