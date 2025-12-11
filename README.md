@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|68.183.65.150|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|20|69.6.203.184|3128|Mexico|Apodaca|Oracle Corporation|
+|6|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|181.204.190.236|999|Colombia|Cali|Colombia Móvil|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|209.62.196.68|8080|United States|Cut Off|EATEL|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 
 
 
