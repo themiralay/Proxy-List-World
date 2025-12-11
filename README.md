@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|165.101.231.50|8090|Indonesia|Cirebon|PT Anugerah Cimanuk Raya|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|18|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|19|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|11|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
+|16|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |20|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
 
 
