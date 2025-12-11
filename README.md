@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|15.206.25.229|80|India|Mumbai|Amazon Technologies Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|10|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|11|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|16|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
+|1|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|102.66.104.162|8865|South Africa|Hoedspruit|Herotel|
+|16|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
 |17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
 
 
 
