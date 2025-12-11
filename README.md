@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|9|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|16|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|193.42.125.156|10808|Russia|Moscow|Beget LLC|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|103.153.247.50|3125|Indonesia|Jakarta|PRIMAHOME|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
