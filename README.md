@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|11|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|19|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|20|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|10|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|12|43.248.13.30|8080|Pakistan|Lahore|Ebone Network (PVT.) Limited|
+|13|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
 
 
 
