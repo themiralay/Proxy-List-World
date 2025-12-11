@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|206.189.133.22|80|India|Bengaluru|DigitalOcean, LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|84.247.173.203|31280|Germany|Düsseldorf|Contabo GmbH|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|17|176.124.219.49|3128|Russia|Moscow|TimeWeb LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.179.58.156|8080|United States|Montclair|Frontier Communications of America, Inc.|
+|9|206.189.133.22|80|India|Bengaluru|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|84.247.173.203|31280|Germany|Düsseldorf|Contabo GmbH|
+|17|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
