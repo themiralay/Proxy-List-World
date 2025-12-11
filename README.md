@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|19|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
+|6|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|58.136.171.22|8080|Thailand|Bangkok|AIS-Fibre|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|103.195.65.254|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
