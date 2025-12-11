@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|166.249.54.64|7234|United States|Chicago|Verizon Business|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|179.49.201.196|999|Ecuador|Quito|ZAMBRANO CARREÑO HUMBERTO ALEJANDRO|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|165.101.231.50|8090|Indonesia|Cirebon|PT Anugerah Cimanuk Raya|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |13|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
 
 
 
