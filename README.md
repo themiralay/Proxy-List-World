@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|6|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
 |7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|12|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|9|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|10|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|13|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|20|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
