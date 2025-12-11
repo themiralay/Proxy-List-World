@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|15.204.151.144|3128|United States|Reston|OVH SAS|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|186.67.94.10|999|Chile|Providencia|Entel Chile S.A.|
-|13|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|103.76.108.91|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|16|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|15.204.151.144|3128|United States|Reston|OVH SAS|
-|19|103.133.25.247|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|20|209.145.54.125|8118|United States|St Louis|Contabo Inc.|
+|3|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|4|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|15.168.235.57|391|Japan|Osaka|Amazon Technologies Inc.|
+|6|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|10|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 
 
 
