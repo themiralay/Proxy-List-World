@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|6|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|222.252.144.246|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|217.174.106.15|8118|Russia|Moscow|E-Style ISP|
+|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.169.254.45|6080|Indonesia|Jekulo|PT Master Star Network|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
