@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|2|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|47.236.119.15|10800|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|9|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|10|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|47.236.130.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|47.236.119.15|10800|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|38.51.206.146|999|Venezuela|Maracaibo|Tecnoven Services C.A|
+|19|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
 |20|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
 
 
