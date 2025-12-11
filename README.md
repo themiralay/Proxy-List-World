@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81335** proxies at the latest update. Usable proxies are below.
+> Scraper found **81484** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38923|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39072|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41127|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|1|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|12|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|17|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|103.153.247.50|3125|Indonesia|Jakarta|PRIMAHOME|
-|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
