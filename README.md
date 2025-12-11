@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |6|15.168.235.57|391|Japan|Osaka|Amazon Technologies Inc.|
-|7|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|9|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|195.133.8.14|8080|Kazakhstan|Astana|MTFINANCE|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
+|20|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
 
 
 
