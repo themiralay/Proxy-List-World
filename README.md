@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
-|12|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
-|13|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|47.236.130.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|5|46.30.45.211|80|The Netherlands|Amsterdam|EUROBYTE|
+|6|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|17|103.120.76.190|1111|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
+|18|162.212.153.22|8888|United States|Robbins|tzulo, inc.|
+|19|103.31.133.102|8080|Indonesia|Palembang|PT Arthatama Adhiprima Persada|
+|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
