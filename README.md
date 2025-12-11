@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|7|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|15.204.151.144|3128|United States|Reston|OVH SAS|
-|13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|14|15.204.151.144|3128|United States|Reston|OVH SAS|
-|15|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|9|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|10|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|11|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|12|15.168.235.57|391|Japan|Osaka|Amazon Technologies Inc.|
+|13|103.119.63.144|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
