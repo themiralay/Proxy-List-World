@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|12|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
-|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|14|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|19|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
-|20|107.173.50.105|50005|United States|Buffalo|HostPapa|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|12|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
+|15|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
+|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|17|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
