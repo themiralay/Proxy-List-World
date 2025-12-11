@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
-|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|165.101.231.50|8090|Indonesia|Cirebon|PT Anugerah Cimanuk Raya|
-|17|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
-|18|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|103.149.238.10|8080|Indonesia|Purwodadi Grobogan|PT BITNIAGA CIPTA GEMILANG|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|5|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|8|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|10|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|11|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|12|166.249.54.64|7234|United States|Chicago|Verizon Business|
+|13|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|16|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|165.101.231.50|8090|Indonesia|Cirebon|PT Anugerah Cimanuk Raya|
 
 
 
