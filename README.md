@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|4|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|6|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|9|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 |10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|41.33.126.133|1981|Egypt|Cairo|TE Data|
-|19|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
