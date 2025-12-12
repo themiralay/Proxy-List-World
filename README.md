@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|5|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
-|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|6|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|8|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
 
 
 
