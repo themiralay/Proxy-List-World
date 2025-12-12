@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|43.217.158.81|41804|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|107.148.21.48|12345|United States|Los Angeles|PEG TECH INC|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |16|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|17|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|18|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
-|19|38.194.224.134|1452|Mexico|Tecozautla|IENTC S de RL de CV|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|17|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
