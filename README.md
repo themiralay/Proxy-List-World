@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|1|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|8|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|202.175.221.171|8080|Philippines|Makati City|Eastern Telecoms Philippines, Inc|
-|12|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|103.177.199.98|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
