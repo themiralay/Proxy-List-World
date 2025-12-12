@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|20|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
