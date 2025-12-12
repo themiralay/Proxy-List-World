@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|23.140.244.33|8888|Hong Kong|Hong Kong|VoltNet inc|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|14|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|15|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
-|18|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|200.24.159.230|8080|Ecuador|Cuenca|Ufinet Panama S.A.|
+|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|16|103.156.75.81|8081|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|17|200.24.159.230|8080|Ecuador|Cuenca|Ufinet Panama S.A.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|20|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
