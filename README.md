@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|103.193.144.13|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|9|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|181.174.231.30|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|14|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|98.91.112.114|80|United States|Ashburn|AT&T Corp.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
