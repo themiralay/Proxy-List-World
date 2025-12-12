@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|202.180.21.213|80|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|17|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.87.148.99|8181|Indonesia|Demak|Lintas Data Prima, PT|
 
 
 
