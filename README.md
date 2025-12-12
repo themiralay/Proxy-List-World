@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|17|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|18|193.42.125.156|10808|Russia|Moscow|Beget LLC|
-|19|201.182.150.184|999|Ecuador|San Lucas|Ufinet Panama S.A.|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|20|193.42.125.156|10808|Russia|Moscow|Beget LLC|
 
 
 
