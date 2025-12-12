@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|3|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|17|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|2|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|9|185.238.169.111|50080|The Netherlands|Meppel|Scalaxy B.V.|
+|10|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|11|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|12|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|17|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|107.148.21.105|12345|United States|Los Angeles|PEG TECH INC|
 
 
 
