@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
 |4|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|5|103.133.61.221|8181|Indonesia|Bangunrejo|TLINK|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|7|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|193.42.125.156|10808|Russia|Moscow|Beget LLC|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|149.28.228.223|9091|United States|Piscataway|The Constant Company|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|151.245.215.27|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|202.180.21.213|80|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|103.48.69.70|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
