@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81477** proxies at the latest update. Usable proxies are below.
+> Scraper found **81509** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38964|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|103.247.23.118|8080|Indonesia|Wonosobo|PT wifian Solution|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|14|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.247.23.118|8080|Indonesia|Wonosobo|PT wifian Solution|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|19|103.109.212.14|2254|Bangladesh|Dhaka|Bismillah Telecom Service|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
