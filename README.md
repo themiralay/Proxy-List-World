@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|7|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|11|204.199.139.76|999|Chile|Alhué|Ingbell Chile SPA|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
+|11|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
 |12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|15|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|59.153.18.93|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|59.153.18.93|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
 
 
 
