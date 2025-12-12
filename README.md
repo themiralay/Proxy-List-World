@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|4|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|5|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|10|190.6.54.12|6969|Venezuela|Caracas|Net Uno, C.A.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|160.19.18.195|1111|Indonesia|Godean|PT Indo Telemedia Solusi|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|131.100.19.5|4321|Brazil|Colinas do Tocantins|Cleyton De Sales Costa - ME|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
