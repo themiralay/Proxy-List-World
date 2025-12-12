@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|68.183.180.48|444|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|5|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |16|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
-|17|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|101.255.211.41|1111|Indonesia|Bekasi|PT Remala Abadi|
+|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
