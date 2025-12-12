@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|17|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
