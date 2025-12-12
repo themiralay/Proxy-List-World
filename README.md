@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|11|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|14|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|15|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|16|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|59.153.18.174|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
