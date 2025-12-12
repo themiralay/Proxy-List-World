@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|19|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|17|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|19|202.93.247.42|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
