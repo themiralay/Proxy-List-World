@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|103.124.138.76|1111|Indonesia|Pasarkemis|Global Media Data Prima|
-|3|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|4|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|11|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|115.127.178.118|2026|Bangladesh|Dhaka|BRACNet Limited|
-|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|103.153.246.142|8181|Indonesia|Siwa|PRIMAHOME|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|15|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|16|103.153.134.150|8080|Indonesia|Cikupa|WMINET|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|218.89.134.230|3333|China|Xichang|Chinanet|
 
 
 
