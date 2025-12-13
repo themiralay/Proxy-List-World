@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81564** proxies at the latest update. Usable proxies are below.
+> Scraper found **81482** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38910|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38828|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41314|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|7|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|16|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|219.95.123.240|8080|Malaysia|Kajang|TMnet|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|200.24.159.230|8080|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|115.127.180.122|2026|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
