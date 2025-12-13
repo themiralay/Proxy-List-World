@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 |7|217.76.55.8|8888|France|Lauterbourg|Adept AB|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|12|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|19|47.236.119.15|10800|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|11|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|149.28.228.223|9091|United States|Piscataway|The Constant Company|
+|14|149.28.228.223|9091|United States|Piscataway|The Constant Company|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|18|184.82.16.116|8080|Thailand|Phaya Thai|AIS-Fibre|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
 
 
 
