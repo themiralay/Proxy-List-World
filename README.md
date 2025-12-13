@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|159.65.11.208|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|6|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
 |7|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|8|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 |15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
