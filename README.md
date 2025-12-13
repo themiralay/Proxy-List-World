@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|9|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|10|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|62.60.131.26|8888|Iran|Tehran|Feo Prest SRL|
-|13|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|15|103.54.80.152|8085|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|17|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|47.236.119.15|10800|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|17|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
+|18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
 |19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
 |20|164.92.119.198|1080|United States|Santa Clara|DigitalOcean, LLC|
 
