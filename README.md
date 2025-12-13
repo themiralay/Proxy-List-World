@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|189.148.9.181|8080|Mexico|Tapachula|UNINET|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|125.25.50.12|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|171.6.25.103|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|49.228.134.184|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|49.48.52.240|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|182.53.77.159|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|125.25.146.89|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|125.25.146.89|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
