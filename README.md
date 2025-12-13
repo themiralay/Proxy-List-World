@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|193.227.240.180|1087|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
-|6|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|12|185.172.212.233|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
-|13|3.145.57.2|80|United States|Dublin|Amazon.com, Inc.|
-|14|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|19|18.188.193.233|9000|United States|Dublin|Amazon.com, Inc.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|102.66.104.162|8865|South Africa|Hoedspruit|Herotel|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|193.109.78.195|1080|Russia|Moscow|First Server Limited|
+|19|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
 |20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
