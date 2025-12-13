@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|10|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
+|12|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.24.159.230|8080|Ecuador|Cuenca|Ufinet Panama S.A.|
+|17|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
