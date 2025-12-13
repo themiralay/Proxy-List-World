@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|12|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|38.255.85.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |15|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|113.177.204.26|8080|Vietnam|Hanoi|VNPT|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|45.233.90.10|443|Brazil|Cruz do Espírito Santo|D.R SERVICOS DE COMUNICACAO LTDA - ME|
-|19|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|103.230.63.66|1120|Bangladesh|Chittagong|Next Online Ltd|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|102.66.104.162|8865|South Africa|Hoedspruit|Herotel|
+|20|103.155.197.103|8080|Indonesia|Margahayukencana|JEMBATANDATA|
 
 
 
