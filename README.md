@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
 |5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|6|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|7|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
 |12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
-|16|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|59.153.18.62|1121|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|13|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|219.95.123.240|8080|Malaysia|Kajang|TMnet|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
