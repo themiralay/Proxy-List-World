@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|20|35.183.64.191|29715|Canada|Toronto|Amazon Technologies Inc.|
+|9|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|123.18.222.191|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|181.78.200.125|999|Ecuador|Vinces|Ufinet Panama S.A.|
+|19|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
