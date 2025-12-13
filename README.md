@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|2|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|62.60.131.26|8888|Iran|Tehran|Feo Prest SRL|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|43.159.32.146|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
