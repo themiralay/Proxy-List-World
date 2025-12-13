@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|193.109.78.195|8080|Russia|Moscow|First Server Limited|
-|15|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|203.217.169.26|8080|Cambodia|Phnom Penh|S.I Group|
-|19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|20|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.96.194.191|3128|United States|Boydton|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|18.188.193.233|9000|United States|Dublin|Amazon.com, Inc.|
+|8|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|9|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|10|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|190.3.81.105|8080|Argentina|Godoy Cruz|Techtel LMDS Comunicaciones Interactivas S.A.|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|19|43.225.151.174|1120|Bangladesh|Dhaka|Next Online|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
