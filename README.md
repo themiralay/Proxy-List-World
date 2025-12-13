@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|6|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|3|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|14|202.154.18.56|8080|Indonesia|Made|DIGITNET|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
