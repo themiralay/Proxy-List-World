@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
 |3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|182.53.77.159|8080|Thailand|Uttaradit|TOT Public Company Limited|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|170.64.233.94|8080|Australia|Sydney|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|125.25.146.89|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|195.158.1.5|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|182.53.77.159|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|125.163.142.130|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|19|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|20|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
 
 
 
