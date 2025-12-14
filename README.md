@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|161.35.174.49|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|209.146.18.132|5050|Philippines|Davao City|Infinivan Incorporated|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|14.167.185.248|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
 |8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|10|193.43.145.124|8080|Syria|Tallbīsah|Syrian Telecom|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|15|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|18|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|193.43.145.124|8080|Syria|Tallbīsah|Syrian Telecom|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|16|193.108.112.37|3129|Albania|Tirana|Baxet Group Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|20|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
