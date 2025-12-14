@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|8|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|195.178.103.7|80|Romania|Cluj-Napoca|BTS TELECOM & Hosting SRL|
-|18|115.127.178.54|2026|Bangladesh|Dhaka|BRACNet Limited|
-|19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.168.254.26|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
