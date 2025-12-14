@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
-|14|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|7|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|10|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|204.44.87.247|8888|United States|Los Angeles|HostPapa|
 |18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|19|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|20|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|20|187.19.201.217|8080|Brazil|Venha-Ver|Brisanet Servicos De Telecomunicacoes S.A|
 
 
 
