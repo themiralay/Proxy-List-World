@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|3|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|4|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|112.204.248.185|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|149.78.206.146|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|5|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|6|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|10|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|14.167.185.248|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
 |13|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|14|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
+|20|117.176.208.234|6666|China|Chengdu|China Mobile communications corporation|
 
 
 
