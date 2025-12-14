@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|103.171.161.96|9090|Indonesia|Jakarta|MYREPUBLIC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |8|201.218.150.4|999|Peru|Punta Colorada|M & B Soluciones Peru S.A.C.|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|190.119.76.148|8080|Peru|Lima|America Movil Peru S.A.C.|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|109.111.166.40|8080|Russia|Osinniki|Siberian Networks Novokuznetsk|
-|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|18|36.255.84.69|82|India|Bengaluru|Gatik Business Solutions|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
