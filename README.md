@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|18|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|19|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
