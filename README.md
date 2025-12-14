@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|6|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|7|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|161.35.174.49|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|14.167.185.248|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|101.108.15.2|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|16|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|49.147.70.206|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
