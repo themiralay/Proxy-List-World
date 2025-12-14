@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|14.167.185.248|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|14|185.20.216.230|8088|Ukraine|Kyiv|Protelecom LLC|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|18|149.78.206.146|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|103.171.255.59|8080|Indonesia|Sleman|ZKI|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|151.245.215.22|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|11|149.78.206.146|3600|Brazil|Porto Seguro|Netcenter Telecom|
+|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|20|117.172.240.184|6666|China|Chengdu|China Mobile communications corporation|
 
 
 
