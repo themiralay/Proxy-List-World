@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|16|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|19|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|20|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.179.218.14|1080|Indonesia|Ciruas|WIMATE|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|103.16.118.78|8070|Indonesia|Ponorogo|CV Trustnet Media|
+|18|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|20|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
