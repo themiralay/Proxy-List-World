@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.245.204.187|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|36.255.84.69|82|India|Bengaluru|Gatik Business Solutions|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|9|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|10|84.255.40.228|8998|Malta|Msida|Melita plc|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|8|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
