@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|115.127.179.170|2026|Bangladesh|Dhaka|BRACNet Limited|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|7|157.254.37.238|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|17|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|18|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|103.247.23.118|8080|Indonesia|Wonosobo|PT wifian Solution|
+|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|157.254.37.238|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|19|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
