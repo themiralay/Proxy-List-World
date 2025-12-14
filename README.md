@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|193.108.112.37|3129|Albania|Tirana|Baxet Group Inc.|
-|13|103.251.8.226|8181|Indonesia|Ubud|PT Trika Global Media|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|14|193.108.112.37|3129|Albania|Tirana|Baxet Group Inc.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
