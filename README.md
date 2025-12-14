@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|18|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|103.87.148.99|8181|Indonesia|Demak|Lintas Data Prima, PT|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|17|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|20|217.76.55.8|8888|France|Lauterbourg|Adept AB|
 
 
 
