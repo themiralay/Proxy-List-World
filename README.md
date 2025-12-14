@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|4|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|17|204.199.139.71|999|Chile|Alhué|Ingbell Chile SPA|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|179.49.237.6|999|Chile|Pirque|Sitelco SPA|
-|20|47.236.130.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|8|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|17|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|18|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
