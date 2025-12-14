@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|202.5.36.118|21225|Bangladesh|Comilla|BBTS-NEW|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|18|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|19|109.122.17.129|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|10|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|34.173.73.208|14|United States|Council Bluffs|Google LLC|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
