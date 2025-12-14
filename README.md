@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|13|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|7|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|16|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|19|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|20|217.76.55.8|8888|France|Lauterbourg|Adept AB|
 
 
 
