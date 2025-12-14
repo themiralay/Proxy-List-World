@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|13|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|14.167.185.248|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|5|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|15|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
 
 
 
