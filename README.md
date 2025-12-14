@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 |4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|12|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|19|185.86.195.166|8080|Armenia|Yerevan|Ucom CJSC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
