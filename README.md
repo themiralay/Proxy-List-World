@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|10|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|13|103.250.70.14|1120|Bangladesh|Gaibandha|Next Online Ltd|
-|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|17|43.225.151.14|1121|Bangladesh|Dhaka|Next Online|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|16|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|17|190.128.134.66|999|Paraguay|Villa Elisa|Telecel S.A.|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
