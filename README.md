@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|14|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|18|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|7|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|36.147.78.166|443|China|Guangzhou|China Mobile|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
