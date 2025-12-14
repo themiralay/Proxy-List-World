@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
-|8|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|10|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
+|3|209.146.18.132|5050|Philippines|Davao City|Infinivan Incorporated|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|161.35.174.49|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|16|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|68.183.180.48|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|18|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 
 
 
