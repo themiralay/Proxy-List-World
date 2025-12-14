@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|202.5.37.155|21225|Bangladesh|Comilla|BBTS-NEW|
-|7|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.135.36.240|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|5|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|9|195.211.71.185|443|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
+|10|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|11|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|12|147.45.136.77|5222|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
+|18|173.249.205.117|8888|United States|Atlanta|tzulo, inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
