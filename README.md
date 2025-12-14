@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|3|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |5|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|6|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|7|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|115.127.179.170|2026|Bangladesh|Dhaka|BRACNet Limited|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |9|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|149.28.228.223|9091|United States|Piscataway|The Constant Company|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|80.190.83.72|8080|United Kingdom|Portsmouth|Contabo GmbH|
-|16|72.10.160.170|28051|Canada|Montreal|GloboTech Communications|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|19|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
-|20|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|52.203.62.58|80|United States|Ashburn|Amazon.com, Inc.|
+|15|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
+|16|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.133.27.143|8080|Indonesia|Kedungwuni|PT PHATRIA INTI PERSADA|
+|19|124.158.160.61|8080|Indonesia|Jakarta|ICON+|
+|20|157.66.3.34|1111|Indonesia|Cileungsir|PT Ashyla Karya Abadi|
 
 
 
