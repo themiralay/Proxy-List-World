@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|3|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|4|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|5|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |8|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|12|186.190.224.86|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|103.189.249.140|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|116.203.47.187|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|11|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
+|12|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|16|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
+|19|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
