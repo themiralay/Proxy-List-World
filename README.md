@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |10|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
-|17|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|18|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|12|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
