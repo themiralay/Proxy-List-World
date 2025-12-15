@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|6|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
 
