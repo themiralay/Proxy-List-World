@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|19|54.249.209.225|8080|Japan|Tokyo|Amazon.com, Inc.|
-|20|72.10.164.178|30663|Canada|Montreal|GloboTech Communications|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|3|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|19|69.75.140.157|8080|United States|Garden Grove|Spectrum|
+|20|179.189.125.222|8080|Brazil|Parnaíba|IP CARRIER BRASIL|
 
 
 
