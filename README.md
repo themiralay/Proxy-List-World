@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|10|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|11|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
