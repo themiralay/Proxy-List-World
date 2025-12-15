@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|6|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|10|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
 |18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|202.5.33.33|21225|Bangladesh|Chittagong|BBTS-NEW|
+|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 
 
 
