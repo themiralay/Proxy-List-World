@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|13|202.47.188.189|8080|Indonesia|Jombang|Lintas Data Prima, PT|
-|14|176.117.105.123|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|203.150.128.183|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|103.167.4.10|8080|Indonesia|Wedoro|PT iForte Global Internet|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|8.218.238.34|8855|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
