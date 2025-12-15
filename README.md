@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|3|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|69.75.140.157|8080|United States|Garden Grove|Spectrum|
-|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|49.228.134.184|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|12|103.172.42.105|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|10|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|14|103.148.192.189|3128|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|19|69.75.140.157|8080|United States|Garden Grove|Spectrum|
+|20|114.42.131.41|8080|Taiwan|Nantou City|Chunghwa Telecom Co., Ltd.|
 
 
 
