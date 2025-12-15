@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|11|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|18|177.22.250.160|8080|Brazil|Monteiro|Proxxima Telecomunicacoes Ltda|
-|19|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|20|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|15|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
