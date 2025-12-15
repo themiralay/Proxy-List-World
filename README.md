@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|207.177.122.144|8080|United States|Burlington|Aureon Network Services|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|207.248.3.81|999|Chile|Graneros|Grupo Metrowan Telecom SPA|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|45.177.178.17|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|18|177.234.233.91|999|Ecuador|Cayambe|Ufinet Panama S.A.|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|190.111.218.142|999|Argentina|San Juan Bautista|CPS|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|10|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|11|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
