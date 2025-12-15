@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|9|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
+|13|212.227.231.183|8080|Spain|Madrid|IONOS SE|
 |14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|212.227.231.183|8080|Spain|Madrid|IONOS SE|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
