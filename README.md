@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|5|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
 |6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |9|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.81.158.130|8080|India|Jandiāla Gurū|Digitax India Communications Pvt Ltd.|
-|14|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|17|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|14|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|16|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|17|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|18|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|19|4.145.96.50|3128|Singapore|Singapore|Microsoft Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
