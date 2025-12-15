@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|222.252.144.246|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|160.22.221.15|8080|Indonesia|Tegal|PT Tomihonk Network Nusantara|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|202.5.33.33|21225|Bangladesh|Chittagong|BBTS-NEW|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|15|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|202.5.33.33|21225|Bangladesh|Chittagong|BBTS-NEW|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.199.30.195|999|Colombia|Armenia|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|217.76.245.80|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|20|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
