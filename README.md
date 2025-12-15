@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|170.84.147.206|8087|Brazil|Piracuruca|Direct Telecom Ltda|
-|8|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|13|166.108.197.69|12308|Singapore|Singapore|Huawei International Pte. LTD|
-|14|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|15|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|16|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|17|177.130.104.86|33333|Brazil|Presidente Epitácio|Vero S.A|
-|18|202.5.33.129|21225|Bangladesh|Chittagong|BBTS-NEW|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|196.251.222.229|8103|South Africa|Brits|Info-Gro (PTY) Ltd|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|17|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|18|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
+|19|217.219.173.237|8080|Iran|Babol|TCI(Babol)|
+|20|154.159.247.119|8080|Kenya|Maragua|Airtel KE Mobile & Fixed Internet|
 
 
 
