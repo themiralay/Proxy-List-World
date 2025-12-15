@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|38.51.207.184|999|Venezuela|Maracaibo|Tecnoven Services C.A|
-|8|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|17|20.54.170.90|8888|Netherlands|Amsterdam|Microsoft Corporation|
-|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
