@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|181.188.203.88|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|10|36.95.55.207|3128|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|12|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|24.199.107.98|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
