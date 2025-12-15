@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|38.156.23.36|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|7|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|45.174.174.44|999|Mexico|Rioverde|Azahel Enrique Garcia Salazar|
+|10|38.172.131.203|999|Peru|Lima|Conex TV E.I.R.L|
+|11|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|143.244.143.104|8080|India|Bengaluru|DigitalOcean, LLC|
+|18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|19|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
