@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|74.211.111.13|1080|United States|Los Angeles|IT7 Networks Inc|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|10|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
-|14|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|107.174.242.87|8118|United States|Seattle|HostPapa|
-|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|212.227.231.183|8080|Spain|Madrid|IONOS SE|
-|19|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|38.199.66.59|999|Colombia|Soacha|TV COLOMBIA DIGITAL SAS|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|7|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|8|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|9|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|103.231.239.6|58080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|14|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|137.59.51.243|1120|Bangladesh|Dhaka|Bijoy Online Ltd|
+|17|18.191.200.48|3128|United States|Dublin|Amazon.com, Inc.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.162.66.10|8080|India|Pune|Imperium Digital Network|
 
 
 
