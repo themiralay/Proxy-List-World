@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|4|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|8|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|9|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|163.172.176.48|3128|France|Paris|Online S.A.S.|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|11|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 
 
 
