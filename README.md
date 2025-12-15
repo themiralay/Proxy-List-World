@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|163.172.176.48|3128|France|Paris|Online S.A.S.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|15|151.245.215.30|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|16|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|12|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|45.178.55.2|999|Argentina|Benito Juárez|Globalweb S.R.L.|
+|19|101.255.164.213|8090|Indonesia|Jakarta|PT Remala Abadi|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
