@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81187** proxies at the latest update. Usable proxies are below.
+> Scraper found **81155** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38728|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
-|5|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|6|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|7|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|9|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
 |10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|12|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|14|103.189.249.140|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|18|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|38.252.213.35|999|Peru|San Ramón|Telcom Mikrotik Peru S.A.C|
+|12|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|115.127.178.34|2026|Bangladesh|Dhaka|BRACNet Limited|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|91.209.77.93|3128|Czechia|České Budějovice|Host-Telecom.com s.r.o.|
+|19|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|122.54.226.216|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
