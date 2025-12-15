@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|163.172.176.48|3128|France|Paris|Online S.A.S.|
-|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|14|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|20|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|4|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|5|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|13|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|14|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|204.44.87.247|8888|United States|Los Angeles|HostPapa|
+|18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
