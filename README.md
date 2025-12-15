@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|101.255.164.213|8090|Indonesia|Jakarta|PT Remala Abadi|
-|18|103.247.23.28|9223|Indonesia|Wonosobo|PT wifian Solution|
-|19|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|9|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
