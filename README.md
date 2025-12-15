@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|6|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|13|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|20|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
 
 
 
