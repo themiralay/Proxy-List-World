@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|9|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
+|7|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|163.172.176.48|3128|France|Paris|Online S.A.S.|
 |10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|36.110.143.55|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|20|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
+|19|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|20|94.19.75.239|8080|Russia|St Petersburg|SkyNet LLC|
 
 
 
