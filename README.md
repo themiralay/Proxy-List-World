@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|158.160.81.185|1080|Russia|Moscow|Yandex.Cloud LLC|
-|19|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|20|45.188.125.49|999|Mexico|Nacajuca|Digy Networks S.A De C.V.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|43.135.29.109|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|58.69.194.136|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|14|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|17|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|18|163.172.176.48|3128|France|Paris|Online S.A.S.|
+|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|94.237.32.211|1080|Finland|Helsinki|UpCloud Ltd|
 
 
 
