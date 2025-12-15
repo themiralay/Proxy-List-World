@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|4|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|69.75.140.157|8080|United States|Garden Grove|Spectrum|
-|8|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|6|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|12|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
