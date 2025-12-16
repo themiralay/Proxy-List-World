@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
 |2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|13|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|177.200.80.174|8080|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|18|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|203.177.220.122|8080|Philippines|Taguig|Globe Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|201.182.248.149|8080|Colombia|Taminango|SP SISTEMAS PALACIOS LTDA|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|115.127.179.94|2026|Bangladesh|Dhaka|BRACNet Limited|
+|17|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
+|18|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|19|121.101.132.99|1080|Indonesia|Godean|PT SELARAS CITRA TERABIT|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
