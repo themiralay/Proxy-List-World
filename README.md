@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
 |7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|45.174.241.241|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
-|14|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|18|36.95.155.74|3126|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|19|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|45.174.241.241|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
+|17|103.148.192.189|3128|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|18|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
 
 
 
