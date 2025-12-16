@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|202.58.77.114|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|125.26.4.219|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
-|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|18|41.139.220.125|8080|Kenya|Nairobi|Converged services Western|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|14|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|119.93.87.65|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|20|91.121.63.51|1080|France|Roubaix|OVH SAS|
 
 
 
