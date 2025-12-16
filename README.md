@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|12|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|17|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|102.210.56.58|8080|Kenya|Nairobi|Syokinet Solutions Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|38.156.237.214|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|13|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|119.93.87.65|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
 
 
 
