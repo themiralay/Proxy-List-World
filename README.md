@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|181.78.74.170|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|181.78.74.170|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|217.76.55.8|8888|France|Lauterbourg|Adept AB|
 
 
 
