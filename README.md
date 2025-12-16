@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|103.239.41.111|8085|Indonesia|Pamulang|PT Data Telematika Indonesia|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|43.225.148.26|1120|Bangladesh|Tongi|Next Online|
-|15|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|66.211.155.34|8080|United States|Yarmouth|FirstLight Fiber|
+|13|212.227.231.183|80|Spain|Madrid|IONOS SE|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|16|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
 |17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|103.162.154.3|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
-|19|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|18|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|19|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|20|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
 
 
 
