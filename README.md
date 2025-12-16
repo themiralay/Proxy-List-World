@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|8|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|91.216.48.8|8080|Russia|Moscow|Druzhba-Monolit LLC|
+|12|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
