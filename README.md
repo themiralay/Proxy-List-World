@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81335** proxies at the latest update. Usable proxies are below.
+> Scraper found **81336** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38797|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41234|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|181.78.74.170|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|13|181.78.74.170|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 
 
 
