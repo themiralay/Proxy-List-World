@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|119.93.87.65|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
+|4|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|5|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|15|102.210.56.58|8080|Kenya|Nairobi|Syokinet Solutions Limited|
 |16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
