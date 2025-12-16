@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
+|1|119.95.170.135|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
 |2|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|3|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|115.127.179.170|2026|Bangladesh|Dhaka|BRACNet Limited|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|12|191.102.123.196|999|Colombia|Funza|TV AZTECA SUCURSAL COLOMBIA|
+|13|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|15|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|16|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|18|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|20|14.241.130.94|1452|Vietnam|Da Nang|VNPT|
 
 
 
