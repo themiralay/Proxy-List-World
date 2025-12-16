@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|181.78.74.174|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|45.123.142.13|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|18|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|212.227.231.183|443|Spain|Madrid|IONOS SE|
+|16|138.117.231.133|999|Guatemala|Huehuetenango|Fibernet S.A|
+|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 
 
 
