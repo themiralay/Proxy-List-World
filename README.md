@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|103.154.73.11|8080|Indonesia|Jakarta|Media Infrastruktur Teknik|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|14.241.130.94|1452|Vietnam|Da Nang|VNPT|
+|1|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|4|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|5|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|115.127.179.170|2026|Bangladesh|Dhaka|BRACNet Limited|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|18|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|19|81.0.50.19|8080|Spain|Priego de Córdoba|MasMovil Access Network|
-|20|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|20|103.156.14.26|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
 
 
 
