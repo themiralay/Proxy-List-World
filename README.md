@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|4|13.212.186.221|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|212.227.231.183|8080|Spain|Madrid|IONOS SE|
-|13|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|200.24.159.230|8080|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 
 
 
