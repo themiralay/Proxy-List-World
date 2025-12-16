@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
-|4|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|182.253.38.179|3128|Indonesia|Semarang|BIZNET|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|9|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|1|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|8|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|13|182.253.38.179|3128|Indonesia|Semarang|BIZNET|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|36.253.18.38|8181|Nepal|Patan|Ncell Pty. Ltd.|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
