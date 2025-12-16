@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|181.78.74.174|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|14|89.109.23.80|3128|Russia|Kstovo|PJSC Rostelecom|
-|15|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|20|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|89.109.23.80|3128|Russia|Kstovo|PJSC Rostelecom|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
