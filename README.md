@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|11|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|212.252.73.34|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|20|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|10|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|103.148.192.189|3128|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|15|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
