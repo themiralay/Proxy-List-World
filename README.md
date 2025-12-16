@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|143.244.143.104|8080|India|Bengaluru|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|43.135.170.188|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
-|8|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|15|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|7|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|16|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|17|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|95.164.51.147|3000|United States|Newark|BohoBeach ISP|
+|20|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
