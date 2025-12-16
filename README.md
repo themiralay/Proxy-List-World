@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.182.39.51|8080|Vietnam|Hanoi|VNPT|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|101.255.211.41|1111|Indonesia|Bekasi|PT Remala Abadi|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|3.110.230.219|80|India|Mumbai|Amazon Technologies Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|124.6.164.126|8082|Philippines|Lahug|INNOVE|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|103.69.150.140|1080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
 |15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|193.227.240.147|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|124.105.180.29|8082|Philippines|Polomolok|Philippine Long Distance Telephone Co.|
+|18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|177.93.49.203|999|Colombia|Puerto Yuca|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
