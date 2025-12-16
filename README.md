@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|14|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|37.79.248.2|8090|Russia|Moscow|PJSC Rostelecom|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|37.79.248.2|8090|Russia|Moscow|PJSC Rostelecom|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
