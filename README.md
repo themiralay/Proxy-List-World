@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|193.227.240.147|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|16|14.182.39.51|8080|Vietnam|Hanoi|VNPT|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.182.39.51|8080|Vietnam|Hanoi|VNPT|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|36.67.114.94|8187|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|193.227.240.147|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
