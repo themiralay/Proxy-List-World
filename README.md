@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|3|13.212.186.221|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |7|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|157.15.63.126|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|17|137.59.51.123|1120|Bangladesh|Dhaka|Bijoy Online Ltd|
 |18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|19|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|20|20.27.219.85|8080|Japan|Osaka|Microsoft Corporation|
+|19|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
