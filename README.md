@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
 |2|106.10.55.212|1121|South Korea|Seongnam-si|NBP|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
-|13|103.242.105.111|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|19|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|52.201.85.24|80|United States|Ashburn|Amazon.com, Inc.|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
