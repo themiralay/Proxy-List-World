@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
