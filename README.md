@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|101.32.34.4|8118|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|103.189.254.28|2222|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|17|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
-|18|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.187.136.20|3838|Bangladesh|Hājīganj|Times Communication|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|203.177.220.122|8080|Philippines|Taguig|Globe Telecom|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|7|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|34.234.201.164|80|United States|Ashburn|Amazon.com, Inc.|
+|15|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|16|45.190.76.115|999|Mexico|Zapopan|Meta Networks SA De CV|
+|17|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|18|103.169.41.212|8080|Indonesia|Medan|Telnet Indonesia|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 
 
 
