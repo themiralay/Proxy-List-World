@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81242** proxies at the latest update. Usable proxies are below.
+> Scraper found **81281** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38716|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38755|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41251|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.182.39.51|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|18.188.193.233|9000|United States|Dublin|Amazon.com, Inc.|
-|13|162.240.154.26|3128|United States|Provo|Unified Layer|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|17|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|18.188.193.233|9000|United States|Dublin|Amazon.com, Inc.|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|95.164.33.99|3000|Ukraine|Kyiv|BohoBeach ISP|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|38.156.14.19|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|18|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|19|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
