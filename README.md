@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|5|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|1|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|14.182.39.51|8080|Vietnam|Hanoi|VNPT|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|12|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|19|36.213.26.49|7897|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|20|181.79.234.90|999|Honduras|Dulce Nombre|Redes y Telecomunicaciones|
+|7|181.78.74.170|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|82.115.24.134|9090|Germany|Nuremberg|BitCommand LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
