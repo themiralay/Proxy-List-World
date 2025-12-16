@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|157.20.207.61|9090|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|11|183.88.212.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|15|103.217.216.40|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|18|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|19|20.96.194.191|3128|United States|Boydton|Microsoft Corporation|
-|20|20.96.194.191|3128|United States|Boydton|Microsoft Corporation|
+|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|103.165.155.68|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|8|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|15|31.7.70.215|3128|Iran|Tehran|Asiatech Data Transmission company|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|19|103.239.41.111|8085|Indonesia|Pamulang|PT Data Telematika Indonesia|
+|20|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
