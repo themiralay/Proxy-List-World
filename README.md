@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
-|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|185.32.5.72|8090|Poland|Szczecin|AS Consulting Sp. z o. o.|
-|20|37.79.248.2|8090|Russia|Moscow|PJSC Rostelecom|
+|1|143.244.143.104|8080|India|Bengaluru|DigitalOcean, LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|8|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|37.79.248.2|8090|Russia|Moscow|PJSC Rostelecom|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|52.202.30.36|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
