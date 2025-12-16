@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|12|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |16|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|17|146.196.40.165|8080|Indonesia|Cikarang|UNINA|
-|18|81.12.106.158|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|45.174.94.26|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |20|44.213.1.118|80|United States|Ashburn|Amazon.com|
 
 
