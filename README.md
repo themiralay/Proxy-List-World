@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|17|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|121.101.132.99|1080|Indonesia|Godean|PT SELARAS CITRA TERABIT|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.160.40.10|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|202.179.69.216|58080|India|Pune|Ankhnet|
+|9|38.156.237.214|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|177.200.80.174|8080|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 
 
 
