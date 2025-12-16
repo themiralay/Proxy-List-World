@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.245.204.85|1120|Bangladesh|Dhaka|Next Online Ltd.|
-|12|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|3|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|181.204.123.68|999|Colombia|Barranquilla|Colombia Móvil|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|212.252.73.34|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|17|160.22.198.4|8082|Indonesia|Sidorejo|PT Ganesha Data Nusantara|
+|18|183.88.212.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
