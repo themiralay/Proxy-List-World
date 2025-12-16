@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|43.208.25.125|14|Thailand|Bangkok|Amazon.com, Inc.|
-|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|103.119.63.144|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|5|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|6|124.105.180.29|8082|Philippines|Polomolok|Philippine Long Distance Telephone Co.|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
 |17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.171.183.222|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|119.214.232.23|1080|South Korea|Deungchon-dong|Korea Telecom|
+|20|103.122.65.242|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
 
 
 
