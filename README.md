@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|181.129.185.130|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|212.227.231.183|80|Spain|Madrid|IONOS SE|
-|17|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
