@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81285** proxies at the latest update. Usable proxies are below.
+> Scraper found **81253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38727|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|9|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|10|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|202.58.77.7|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|143.244.143.104|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|95.217.117.168|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
+|17|38.156.14.19|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|20|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
