@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|2|159.223.32.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
 |7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|9|122.3.77.27|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |11|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
-|12|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|13|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|14|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|212.227.231.183|80|Spain|Madrid|IONOS SE|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|44.213.1.118|80|United States|Ashburn|Amazon.com|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|13|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|17|44.213.1.118|80|United States|Ashburn|Amazon.com|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|116.254.113.86|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|20|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
 
 
 
