@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|3|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
-|4|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.135.20.157|2764|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|12|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
-|13|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|18|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|162.251.108.145|3128|United States|Phoenix|Hostiserver Ltd|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|24.172.82.94|53281|United States|Indian Trail|Spectrum|
+|16|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|17|103.122.1.14|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|18|74.249.180.117|3128|United States|Des Moines|Microsoft Corporation|
+|19|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
 
 
 
