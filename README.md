@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|37.228.137.183|10808|Iran|Tehran|Parsan Lin Co. PJS|
-|17|193.227.240.147|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|13|190.238.171.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|15|37.228.137.183|10808|Iran|Tehran|Parsan Lin Co. PJS|
+|16|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|17|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
