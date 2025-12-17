@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|164.92.137.207|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|103.171.183.245|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|45.174.191.19|20183|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|15|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|16|204.44.87.247|8888|United States|Los Angeles|HostPapa|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|164.138.205.120|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|9|143.244.143.104|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|15|164.92.137.207|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
