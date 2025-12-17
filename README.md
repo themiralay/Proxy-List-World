@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
 |7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|91.98.161.148|9191|Germany|Nuremberg|Hetzner Online GmbH|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|103.161.30.29|83|India|Andhra Pradesh|Venkata Sai Internet Pvt Ltd|
-|20|94.131.8.178|8888|Greece|Athens|WorkTitans B.V.|
+|8|117.247.233.50|8080|India|Agra|BSNL Internet|
+|9|43.208.25.125|14|Thailand|Bangkok|Amazon.com, Inc.|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|91.98.161.148|9191|Germany|Nuremberg|Hetzner Online GmbH|
+|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|15|72.10.160.94|30339|Canada|Montreal|GloboTech Communications|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|183.232.248.102|7897|China|Guangzhou|China Mobile Communications Corporation|
+|20|45.225.207.182|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
 
 
 
