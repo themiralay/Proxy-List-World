@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|38.156.14.20|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|179.189.48.253|8080|Brazil|Sinop|Avato Tecnologia S.A|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|9|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|10|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|20.27.219.85|8080|Japan|Osaka|Microsoft Corporation|
+|19|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|20|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
 
 
 
