@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|43.225.185.4|8000|Indonesia|Batam|SOLNET|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
