@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
-|16|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|146.190.106.32|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
