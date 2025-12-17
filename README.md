@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.171.241.58|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
 |8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|91.98.161.148|9191|Germany|Nuremberg|Hetzner Online GmbH|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|103.171.241.58|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|13|3.15.101.97|3128|United States|Dublin|Amazon.com, Inc.|
-|14|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|18|3.15.101.97|3128|United States|Dublin|Amazon.com, Inc.|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|54.249.209.225|8080|Japan|Tokyo|Amazon.com, Inc.|
+|20|91.98.161.148|9191|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
