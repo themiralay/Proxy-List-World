@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|20|162.223.89.83|3128|United States|Buffalo|ColoUp|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|19|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|20|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
 
 
 
