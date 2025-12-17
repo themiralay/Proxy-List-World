@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|7|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|19|82.26.150.55|1080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|20|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.27.219.85|8080|Japan|Osaka|Microsoft Corporation|
+|5|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|15|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
