@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|87.236.38.23|1080|Iran|Tehran|Tose Ertebatat Avid Mehregan Co.pjsc|
 |20|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
 
 
