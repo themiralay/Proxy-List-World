@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|110.232.92.49|8080|Indonesia|Ciparay|PT. Media Antar Nusa|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|103.79.155.140|8080|Indonesia|Jakarta|MORATELINDO|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|3.232.220.76|80|United States|Ashburn|Amazon Technologies Inc.|
-|15|176.236.227.98|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|41.128.72.149|1981|Egypt|Cairo|LINKdotNET AS number|
-|18|164.138.205.10|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|176.236.227.98|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|15|103.68.214.108|8080|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|16|34.39.246.220|3128|Brazil|Sao Paulo|Google LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|8.243.197.200|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
