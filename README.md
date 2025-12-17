@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
 |3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|176.117.105.21|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|137.59.50.1|1120|Bangladesh|Tongi|Bijoy Online Ltd|
-|16|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
-|17|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|115.127.179.150|2026|Bangladesh|Dhaka|BRACNet Limited|
+|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|9|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|186.96.50.113|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
