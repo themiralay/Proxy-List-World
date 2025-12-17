@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |2|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
-|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|103.151.246.30|7777|Indonesia|Mamuju|MANAKARRANET|
-|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|103.168.26.2|8080|Indonesia|Baturaden|PT Globus Melia Indotama|
-|20|103.144.102.60|8181|Indonesia|Karangsembung|PANDAWANET|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|12|101.255.150.129|7777|Indonesia|Jakarta|PT Remala Abadi|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|103.151.226.55|8080|Indonesia|Pameungpeuk|URBANACCESS|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|217.219.173.237|8080|Iran|Babol|TCI(Babol)|
+|20|103.208.100.74|7777|Indonesia|Mungkid|PT Tidar Lintas Nusa|
 
 
 
