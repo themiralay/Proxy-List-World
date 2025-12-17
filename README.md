@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
-|16|154.127.219.242|999|Angola|Luanda|TV CABO ANGOLA LDA|
-|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.161.30.29|83|India|Andhra Pradesh|Venkata Sai Internet Pvt Ltd|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|35.160.130.222|3128|United States|Portland|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|3.15.101.97|3128|United States|Dublin|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|67.43.236.20|17147|Canada|Montreal|GloboTech Communications|
+|20|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
 
 
 
