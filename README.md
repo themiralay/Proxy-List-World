@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|5|103.193.144.99|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|103.125.17.19|8080|Indonesia|Jakarta|JAVAMEDIA|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|217.76.55.8|8888|France|Lauterbourg|Adept AB|
-|18|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|217.76.55.8|8888|France|Lauterbourg|Adept AB|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|103.35.108.244|2024|Bangladesh|Sirajganj|Ranks ITT|
+|16|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|17|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
