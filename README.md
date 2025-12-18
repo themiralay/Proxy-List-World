@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|5|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|101.255.210.10|8090|Indonesia|Bekasi|PT Remala Abadi|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|103.99.39.80|8888|India|Noida|Om Telentia Pvt Limited|
 |15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.187.86.166|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
