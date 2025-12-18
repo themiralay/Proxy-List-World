@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|7|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.16.118.78|8070|Indonesia|Ponorogo|CV Trustnet Media|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|6|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
+|8|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|9|20.27.219.85|8080|Japan|Osaka|Microsoft Corporation|
 |10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |11|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|12|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|15|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|19|136.49.42.0|8888|United States|Austin|Google Fiber Inc.|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|15|212.227.231.183|80|Spain|Madrid|IONOS SE|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
+|18|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|19|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
