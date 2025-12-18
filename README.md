@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|190.97.239.40|999|Venezuela|Caracas||
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|14|43.208.25.125|14|Thailand|Bangkok|Amazon.com, Inc.|
-|15|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
