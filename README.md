@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|201.77.111.112|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|157.66.2.153|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|20|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
 
 
 
