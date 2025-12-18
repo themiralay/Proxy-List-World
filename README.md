@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|4|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|13.211.26.10|80|Australia|Sydney|Amazon Technologies Inc.|
 |6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|8|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|10|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|119.18.144.12|8585|Bangladesh|Chittagong|BBTS Network|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|11|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|14|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|119.18.144.12|8585|Bangladesh|Chittagong|BBTS Network|
+|16|138.121.15.230|999|Colombia|Cartagena|Liberty Networks De Colombia|
+|17|94.131.8.178|8888|Greece|Athens|WorkTitans B.V.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|137.184.14.135|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
