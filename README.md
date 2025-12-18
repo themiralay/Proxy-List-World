@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81062** proxies at the latest update. Usable proxies are below.
+> Scraper found **81080** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38728|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38746|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41061|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.179.129.98|60000|Brazil|Recife|Servlink Telecom Ltda - ME|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|101.255.210.10|8090|Indonesia|Bekasi|PT Remala Abadi|
-|18|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|124.120.232.122|8080|Thailand|Khlong Luang|TRUEBB|
+|11|101.255.210.10|8090|Indonesia|Bekasi|PT Remala Abadi|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.179.129.98|60000|Brazil|Recife|Servlink Telecom Ltda - ME|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
