@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|212.2.248.245|3128|India|Mumbai|Civo India Pvt Limited|
-|10|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.208.25.125|14|Thailand|Bangkok|Amazon.com, Inc.|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 
 
 
