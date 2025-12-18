@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
 |5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|8|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
