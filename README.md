@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|188.132.222.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|177.234.245.231|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
