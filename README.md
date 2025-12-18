@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|85.90.197.62|1080|Greece|Thessaloniki|Green Floid LLC|
-|16|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|2|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
