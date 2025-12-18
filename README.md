@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.187.162.216|8080|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|201.77.111.112|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
