@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|146.56.117.33|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.179.129.98|60000|Brazil|Recife|Servlink Telecom Ltda - ME|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|17|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|34.225.220.214|80|United States|Ashburn|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|18|45.179.129.98|60000|Brazil|Recife|Servlink Telecom Ltda - ME|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
