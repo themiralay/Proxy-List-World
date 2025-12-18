@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|10|212.227.231.183|80|Spain|Madrid|IONOS SE|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|119.18.144.131|8585|Bangladesh|Chittagong|BBTS Network|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|16|43.225.151.129|1121|Bangladesh|Dhaka|Next Online|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
