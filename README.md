@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+
 
 
 ## Contributing
