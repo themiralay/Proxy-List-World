@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|19|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|20|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
 
 
 
