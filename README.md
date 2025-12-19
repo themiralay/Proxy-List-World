@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.13|3128|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |7|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|8|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|18|103.178.3.246|8080|Indonesia|Tuliskriyo|RSTNET|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|8|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|11|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|13|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|103.133.27.159|8085|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
 
 
 
