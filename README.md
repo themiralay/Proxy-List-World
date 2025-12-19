@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|2|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|116.80.64.13|3128|Japan|Yokohama|InfoSphere|
-|9|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|15|212.227.231.183|8080|Spain|Madrid|IONOS SE|
-|16|103.178.3.246|8080|Indonesia|Tuliskriyo|RSTNET|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|116.80.64.13|3128|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
