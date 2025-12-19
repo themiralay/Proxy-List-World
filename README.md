@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|2|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|5|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|7|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|142.171.198.186|8888|United States|Los Angeles|Multacom Corporation|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|10|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|13|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
