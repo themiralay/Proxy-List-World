@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|3|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|43.224.118.206|1120|Bangladesh|Dhaka|Next Online|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|163.227.146.10|8181|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|20|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|2|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|15.204.151.144|3128|United States|Reston|OVH SAS|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|43.224.118.206|1120|Bangladesh|Dhaka|Next Online|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
