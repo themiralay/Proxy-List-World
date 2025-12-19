@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|6|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|7|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|43.208.25.125|14|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
