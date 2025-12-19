@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|16|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
+|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
 |17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |18|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
 
 
 
