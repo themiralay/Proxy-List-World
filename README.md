@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|124.83.124.120|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|89.169.178.144|3128|Russia|Moscow|Yandex.Cloud LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
-|18|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|19|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|212.2.253.184|3128|India|Mumbai|Civo India Pvt Limited|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|13|89.169.178.144|3128|Russia|Moscow|Yandex.Cloud LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
+|16|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
