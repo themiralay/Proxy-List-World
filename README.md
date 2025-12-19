@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **42624** proxies at the latest update. Usable proxies are below.
+> Scraper found **42638** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38836|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38850|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2498|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.13|3128|Japan|Yokohama|InfoSphere|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|8|113.164.135.164|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|36.50.92.145|8080|Indonesia|Cigunung|PT Ring Media Nusantara|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|11|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|18|103.178.3.246|8080|Indonesia|Tuliskriyo|RSTNET|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
