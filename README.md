@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|5|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|8|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|20|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|156.226.174.73|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
