@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|212.227.231.183|8080|Spain|Madrid|IONOS SE|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|16|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|4|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
+|10|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|212.227.231.183|8080|Spain|Madrid|IONOS SE|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
