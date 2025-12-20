@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|7|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
