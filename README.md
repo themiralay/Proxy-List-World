@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|7|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |8|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|13|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|89.104.71.36|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |18|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|80.190.83.72|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
