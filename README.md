@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
-|19|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
-|20|43.224.116.22|1120|Bangladesh|Dhaka|Next Online Limited|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
