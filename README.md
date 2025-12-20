@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81168** proxies at the latest update. Usable proxies are below.
+> Scraper found **42357** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38811|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41076|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.168.149.72|3128|Indonesia|Pematangsiantar|TORSADA|
 |5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|6|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|7|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|8|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
 |10|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|160.187.174.214|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|17|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|20|78.12.220.164|32090|Mexico|Querétaro City|Amazon.com|
 
 
 
