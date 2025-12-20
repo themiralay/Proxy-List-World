@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|6|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|8|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|14|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|135.181.160.100|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|14|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
