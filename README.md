@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|10|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|11|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|12|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|7|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|9|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|192.67.197.107|8888|Germany|Berlin|IONOS SE|
+|16|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
