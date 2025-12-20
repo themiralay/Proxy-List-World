@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|49.144.20.17|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|5|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|6|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
