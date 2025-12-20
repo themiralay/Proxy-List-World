@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|15.204.236.81|8888|United States|Reston|OVH SAS|
-|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|14|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|15|178.237.252.136|8080|Russia|Khimki|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
-|16|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|17|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|177.62.74.197|8888|Brazil|Americana|Vivo|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|47.81.14.7|3128|Thailand|Bangkok|Alibaba.com LLC|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|13|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|14|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|17|15.204.236.81|8888|United States|Reston|OVH SAS|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
