@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81359** proxies at the latest update. Usable proxies are below.
+> Scraper found **81262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38861|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41196|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41099|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |9|139.177.229.249|8080|United States|Palo Alto|Bytedance Inc.|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
-|15|103.109.212.14|2254|Bangladesh|Dhaka|Bismillah Telecom Service|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|189.50.45.46|1995|Brazil|Goiânia|Total Telecom LTDA-ME|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|15|185.249.225.238|8081|France|Lauterbourg|Contabo GmbH|
+|16|212.227.231.183|8080|Spain|Madrid|IONOS SE|
 |17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|192.67.197.107|8888|Germany|Berlin|IONOS SE|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
