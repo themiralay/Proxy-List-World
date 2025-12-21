@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81590** proxies at the latest update. Usable proxies are below.
+> Scraper found **81622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|924|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|924|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|924|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|922|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|922|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|922|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39136|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|14.180.25.168|8080|Vietnam|Hanoi|VNPT|
-|5|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|7|139.177.229.207|8080|United States|Palo Alto|Bytedance Inc.|
-|8|139.177.229.130|8080|United States|Palo Alto|Bytedance Inc.|
-|9|139.177.229.11|8080|United States|Palo Alto|Bytedance Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|139.177.229.25|8080|United States|Palo Alto|Bytedance Inc.|
-|12|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|13|139.177.229.149|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.105|8080|United States|Palo Alto|Bytedance Inc.|
-|15|139.177.229.247|8080|United States|Palo Alto|Bytedance Inc.|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|139.177.229.229|8080|United States|Palo Alto|Bytedance Inc.|
-|18|139.177.229.219|8080|United States|Palo Alto|Bytedance Inc.|
-|19|139.177.229.131|8080|United States|Palo Alto|Bytedance Inc.|
-|20|139.177.229.78|8080|United States|Palo Alto|Bytedance Inc.|
+|5|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|139.177.229.105|8080|United States|Palo Alto|Bytedance Inc.|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|139.177.229.130|8080|United States|Palo Alto|Bytedance Inc.|
+|10|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|139.177.229.206|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.247|8080|United States|Palo Alto|Bytedance Inc.|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|139.177.229.66|8080|United States|Palo Alto|Bytedance Inc.|
+|16|139.177.229.8|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.78|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.37|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.125|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.206|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
