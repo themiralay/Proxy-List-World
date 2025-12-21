@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|770|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|770|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|770|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|748|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|748|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|748|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|4|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|139.177.229.112|8080|United States|Palo Alto|Bytedance Inc.|
-|10|139.177.229.194|8080|United States|Palo Alto|Bytedance Inc.|
-|11|139.177.229.139|8080|United States|Palo Alto|Bytedance Inc.|
-|12|139.177.229.177|8080|United States|Palo Alto|Bytedance Inc.|
-|13|139.177.229.138|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.207|8080|United States|Palo Alto|Bytedance Inc.|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|139.177.229.166|8080|United States|Palo Alto|Bytedance Inc.|
-|17|139.177.229.208|8080|United States|Palo Alto|Bytedance Inc.|
-|18|139.177.229.191|8080|United States|Palo Alto|Bytedance Inc.|
-|19|139.177.229.100|8080|United States|Palo Alto|Bytedance Inc.|
-|20|139.177.229.193|8080|United States|Palo Alto|Bytedance Inc.|
+|1|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|139.177.229.133|8080|United States|Palo Alto|Bytedance Inc.|
+|4|139.177.229.187|8080|United States|Palo Alto|Bytedance Inc.|
+|5|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|6|139.177.229.207|8080|United States|Palo Alto|Bytedance Inc.|
+|7|139.177.229.116|8080|United States|Palo Alto|Bytedance Inc.|
+|8|139.177.229.103|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.177.229.18|8080|United States|Palo Alto|Bytedance Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|139.177.229.194|8080|United States|Palo Alto|Bytedance Inc.|
+|12|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.177.229.201|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.186|8080|United States|Palo Alto|Bytedance Inc.|
+|15|139.177.229.138|8080|United States|Palo Alto|Bytedance Inc.|
+|16|139.177.229.195|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.193|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.181|8080|United States|Palo Alto|Bytedance Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|139.177.229.157|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
