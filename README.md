@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.177.229.115|8080|United States|Palo Alto|Bytedance Inc.|
-|2|139.177.229.142|8080|United States|Palo Alto|Bytedance Inc.|
-|3|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|139.177.229.101|8080|United States|Palo Alto|Bytedance Inc.|
-|6|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.177.229.124|8080|United States|Palo Alto|Bytedance Inc.|
-|8|139.177.229.143|8080|United States|Palo Alto|Bytedance Inc.|
-|9|139.177.229.19|8080|United States|Palo Alto|Bytedance Inc.|
-|10|139.177.229.212|8080|United States|Palo Alto|Bytedance Inc.|
-|11|139.177.229.210|8080|United States|Palo Alto|Bytedance Inc.|
-|12|139.177.229.16|8080|United States|Palo Alto|Bytedance Inc.|
-|13|139.177.229.169|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.147|8080|United States|Palo Alto|Bytedance Inc.|
-|15|139.177.229.168|8080|United States|Palo Alto|Bytedance Inc.|
-|16|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|17|139.177.229.204|8080|United States|Palo Alto|Bytedance Inc.|
-|18|139.177.229.181|8080|United States|Palo Alto|Bytedance Inc.|
-|19|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|20|139.177.229.180|8080|United States|Palo Alto|Bytedance Inc.|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|139.177.229.114|8080|United States|Palo Alto|Bytedance Inc.|
+|4|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.177.229.138|8080|United States|Palo Alto|Bytedance Inc.|
+|6|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|7|139.177.229.152|8080|United States|Palo Alto|Bytedance Inc.|
+|8|23.92.29.77|51300|United States|Atlanta|Akamai Technologies, Inc.|
+|9|139.177.229.132|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.142|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.143|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.13|8080|United States|Palo Alto|Bytedance Inc.|
+|13|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
+|14|139.177.229.149|8080|United States|Palo Alto|Bytedance Inc.|
+|15|104.248.151.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|139.177.229.206|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.139|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.118|8080|United States|Palo Alto|Bytedance Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|139.177.229.117|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
