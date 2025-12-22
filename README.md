@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81665** proxies at the latest update. Usable proxies are below.
+> Scraper found **81656** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|958|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|958|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|958|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|998|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|998|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|998|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39177|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|39168|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|337|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40925|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.253.164|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.180.25.168|8080|Vietnam|Hanoi|VNPT|
-|7|139.177.229.206|8080|United States|Palo Alto|Bytedance Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|139.177.229.156|8080|United States|Palo Alto|Bytedance Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|139.177.229.192|8080|United States|Palo Alto|Bytedance Inc.|
-|12|139.177.229.76|8080|United States|Palo Alto|Bytedance Inc.|
-|13|139.177.229.107|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.8|8080|United States|Palo Alto|Bytedance Inc.|
-|15|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|16|14.228.106.39|8080|Vietnam|Haiphong|VNPT|
-|17|139.177.229.135|8080|United States|Palo Alto|Bytedance Inc.|
-|18|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|139.177.229.230|8080|United States|Palo Alto|Bytedance Inc.|
+|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|3|14.180.25.168|8080|Vietnam|Hanoi|VNPT|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|6|139.177.229.24|8080|United States|Palo Alto|Bytedance Inc.|
+|7|139.177.229.216|8080|United States|Palo Alto|Bytedance Inc.|
+|8|139.177.229.219|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.177.229.131|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.177|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.232|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.230|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.207|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.62|8080|United States|Palo Alto|Bytedance Inc.|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|139.177.229.167|8080|United States|Palo Alto|Bytedance Inc.|
+|17|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|18|139.177.229.245|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.125|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.215|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
