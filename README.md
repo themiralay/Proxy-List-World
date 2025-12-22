@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1227|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.177.229.173|8080|United States|Palo Alto|Bytedance Inc.|
+|6|139.177.229.142|8080|United States|Palo Alto|Bytedance Inc.|
+|7|139.177.229.233|8080|United States|Palo Alto|Bytedance Inc.|
+|8|139.177.229.147|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.177.229.206|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.53|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.20|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.140|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.60|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.24|8080|United States|Palo Alto|Bytedance Inc.|
+|15|139.177.229.224|8080|United States|Palo Alto|Bytedance Inc.|
+|16|139.177.229.190|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.131|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.165|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.187|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.78|8080|United States|Palo Alto|Bytedance Inc.|
+
 
 
 ## Contributing
