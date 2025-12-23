@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81527** proxies at the latest update. Usable proxies are below.
+> Scraper found **81525** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1187|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38985|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|306|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|304|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41010|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|3|139.177.229.231|8080|United States|Palo Alto|Bytedance Inc.|
-|4|139.177.229.60|8080|United States|Palo Alto|Bytedance Inc.|
-|5|139.177.229.127|8080|United States|Palo Alto|Bytedance Inc.|
-|6|139.177.229.138|8080|United States|Palo Alto|Bytedance Inc.|
-|7|139.177.229.226|8080|United States|Palo Alto|Bytedance Inc.|
-|8|139.177.229.196|8080|United States|Palo Alto|Bytedance Inc.|
-|9|139.177.229.245|8080|United States|Palo Alto|Bytedance Inc.|
-|10|139.177.229.52|8080|United States|Palo Alto|Bytedance Inc.|
-|11|139.177.229.186|8080|United States|Palo Alto|Bytedance Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|139.177.229.232|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.34|8080|United States|Palo Alto|Bytedance Inc.|
-|15|139.177.229.188|8080|United States|Palo Alto|Bytedance Inc.|
-|16|139.177.229.76|8080|United States|Palo Alto|Bytedance Inc.|
-|17|139.177.229.169|8080|United States|Palo Alto|Bytedance Inc.|
-|18|139.177.229.181|8080|United States|Palo Alto|Bytedance Inc.|
-|19|139.177.229.64|8080|United States|Palo Alto|Bytedance Inc.|
-|20|139.177.229.217|8080|United States|Palo Alto|Bytedance Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|139.177.229.47|8080|United States|Palo Alto|Bytedance Inc.|
+|4|139.177.229.63|8080|United States|Palo Alto|Bytedance Inc.|
+|5|139.177.229.12|8080|United States|Palo Alto|Bytedance Inc.|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.177.229.254|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.177.229.88|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.64|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.105|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.26|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.84|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.60|8080|United States|Palo Alto|Bytedance Inc.|
+|15|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|16|139.177.229.169|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.232|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.107|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.224|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.143|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
