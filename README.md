@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|139.177.229.5|8080|United States|Palo Alto|Bytedance Inc.|
-|5|139.177.229.31|8080|United States|Palo Alto|Bytedance Inc.|
-|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|7|139.177.229.135|8080|United States|Palo Alto|Bytedance Inc.|
-|8|139.177.229.56|8080|United States|Palo Alto|Bytedance Inc.|
-|9|139.177.229.44|8080|United States|Palo Alto|Bytedance Inc.|
-|10|139.177.229.181|8080|United States|Palo Alto|Bytedance Inc.|
-|11|139.177.229.244|8080|United States|Palo Alto|Bytedance Inc.|
-|12|139.177.229.209|8080|United States|Palo Alto|Bytedance Inc.|
-|13|139.177.229.102|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.235|8080|United States|Palo Alto|Bytedance Inc.|
-|15|139.177.229.168|8080|United States|Palo Alto|Bytedance Inc.|
-|16|139.177.229.248|8080|United States|Palo Alto|Bytedance Inc.|
-|17|139.177.229.194|8080|United States|Palo Alto|Bytedance Inc.|
-|18|139.177.229.64|8080|United States|Palo Alto|Bytedance Inc.|
-|19|139.177.229.193|8080|United States|Palo Alto|Bytedance Inc.|
-|20|139.177.229.141|8080|United States|Palo Alto|Bytedance Inc.|
+|3|139.177.229.234|8080|United States|Palo Alto|Bytedance Inc.|
+|4|139.177.229.175|8080|United States|Palo Alto|Bytedance Inc.|
+|5|139.177.229.102|8080|United States|Palo Alto|Bytedance Inc.|
+|6|139.177.229.248|8080|United States|Palo Alto|Bytedance Inc.|
+|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|8|139.177.229.134|8080|United States|Palo Alto|Bytedance Inc.|
+|9|139.177.229.181|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.81|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.66|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.168|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.40|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.179|8080|United States|Palo Alto|Bytedance Inc.|
+|15|139.177.229.16|8080|United States|Palo Alto|Bytedance Inc.|
+|16|139.177.229.48|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.172|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.216|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.160|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.207|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
