@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.177.229.247|8080|United States|Palo Alto|Bytedance Inc.|
-|2|139.177.229.202|8080|United States|Palo Alto|Bytedance Inc.|
-|3|139.177.229.157|8080|United States|Palo Alto|Bytedance Inc.|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|3|139.177.229.172|8080|United States|Palo Alto|Bytedance Inc.|
 |4|139.177.229.69|8080|United States|Palo Alto|Bytedance Inc.|
-|5|139.177.229.60|8080|United States|Palo Alto|Bytedance Inc.|
-|6|139.177.229.186|8080|United States|Palo Alto|Bytedance Inc.|
-|7|139.177.229.165|8080|United States|Palo Alto|Bytedance Inc.|
-|8|139.177.229.172|8080|United States|Palo Alto|Bytedance Inc.|
+|5|139.177.229.62|8080|United States|Palo Alto|Bytedance Inc.|
+|6|139.177.229.67|8080|United States|Palo Alto|Bytedance Inc.|
+|7|139.177.229.118|8080|United States|Palo Alto|Bytedance Inc.|
+|8|139.177.229.88|8080|United States|Palo Alto|Bytedance Inc.|
 |9|139.177.229.52|8080|United States|Palo Alto|Bytedance Inc.|
-|10|139.177.229.155|8080|United States|Palo Alto|Bytedance Inc.|
-|11|139.177.229.145|8080|United States|Palo Alto|Bytedance Inc.|
-|12|139.177.229.98|8080|United States|Palo Alto|Bytedance Inc.|
-|13|139.177.229.115|8080|United States|Palo Alto|Bytedance Inc.|
-|14|139.177.229.215|8080|United States|Palo Alto|Bytedance Inc.|
-|15|139.177.229.88|8080|United States|Palo Alto|Bytedance Inc.|
-|16|139.177.229.194|8080|United States|Palo Alto|Bytedance Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|139.177.229.83|8080|United States|Palo Alto|Bytedance Inc.|
-|19|139.177.229.250|8080|United States|Palo Alto|Bytedance Inc.|
-|20|139.177.229.242|8080|United States|Palo Alto|Bytedance Inc.|
+|10|139.177.229.196|8080|United States|Palo Alto|Bytedance Inc.|
+|11|139.177.229.242|8080|United States|Palo Alto|Bytedance Inc.|
+|12|139.177.229.209|8080|United States|Palo Alto|Bytedance Inc.|
+|13|139.177.229.250|8080|United States|Palo Alto|Bytedance Inc.|
+|14|139.177.229.98|8080|United States|Palo Alto|Bytedance Inc.|
+|15|139.177.229.105|8080|United States|Palo Alto|Bytedance Inc.|
+|16|139.177.229.247|8080|United States|Palo Alto|Bytedance Inc.|
+|17|139.177.229.241|8080|United States|Palo Alto|Bytedance Inc.|
+|18|139.177.229.226|8080|United States|Palo Alto|Bytedance Inc.|
+|19|139.177.229.155|8080|United States|Palo Alto|Bytedance Inc.|
+|20|139.177.229.215|8080|United States|Palo Alto|Bytedance Inc.|
 
 
 
