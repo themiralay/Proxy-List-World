@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|15.204.236.81|8888|United States|Reston|OVH SAS|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|15.204.236.81|8888|United States|Reston|OVH SAS|
-|16|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|18|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|1|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|2|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.76.10.39|8118|United States|Piscataway|The Constant Company|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|15.204.236.81|8888|United States|Reston|OVH SAS|
 
 
 
