@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
 |7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|38.156.238.68|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
-|11|103.133.26.117|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|157.90.213.139|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|126.209.2.229|8082|Philippines|Manila|Infinivan Incorporated|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|202.58.77.77|1111|Indonesia|Kediri|PT Data Buana Nusantara|
-|19|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|157.90.213.139|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
