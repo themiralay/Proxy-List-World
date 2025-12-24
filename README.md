@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|3|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.193.145.155|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|19|103.86.117.13|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|157.90.213.139|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|103.193.145.185|8181|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
 
 
 
