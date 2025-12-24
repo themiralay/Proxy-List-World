@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|123.253.224.64|10999|Hong Kong|Shek Kip Mei|Kmnix LLC|
+|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|13|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|16|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|17|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
-|18|114.129.19.139|8080|Indonesia|Bualu|PT Hipernet Indodata|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
