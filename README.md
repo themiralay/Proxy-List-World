@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.194.175.181|7777|Indonesia|Sempu|MYNET|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.171.31.77|8080|Indonesia|Depok|MORATELINDONAP|
+|18|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
