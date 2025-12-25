@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|103.133.24.5|8080|Indonesia|Cikampek|PT PHATRIA INTI PERSADA|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |9|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|15.204.236.81|8888|United States|Reston|OVH SAS|
-|15|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|11|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|14|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|15|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|15.204.236.81|8888|United States|Reston|OVH SAS|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 
 
