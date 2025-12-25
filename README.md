@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|11|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|115.75.184.174|8080|Vietnam|Quận Một|VIETELxdsl|
 |14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|115.75.184.174|8080|Vietnam|Quận Một|VIETELxdsl|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
