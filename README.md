@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|5|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |16|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|20|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|19|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
