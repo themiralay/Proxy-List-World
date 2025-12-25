@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|16|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|19|15.204.236.81|8888|United States|Reston|OVH SAS|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|13|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|15|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
