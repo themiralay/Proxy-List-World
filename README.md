@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|166.249.154.135|3128|United States|Utica|Verizon Business|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
