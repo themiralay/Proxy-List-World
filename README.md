@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|15.204.236.81|8888|United States|Reston|OVH SAS|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|15.204.236.81|8888|United States|Reston|OVH SAS|
+|17|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
 
 
 
