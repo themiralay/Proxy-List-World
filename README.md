@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|18|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|19|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|16|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
