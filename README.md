@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|8|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |10|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
 |11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|15.204.236.81|8888|United States|Reston|OVH SAS|
-|15|172.233.174.59|3128|United States|Miami|Akamai Technologies, Inc.|
-|16|169.63.230.169|8081|United States|Dallas|SoftLayer|
-|17|61.29.96.146|80|Australia|Hawthorn|AAPT Limited|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|104.248.210.118|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|132.255.23.183|999|Colombia|Yopal|Media Commerce Partners S.A|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|16|172.233.174.59|3128|United States|Miami|Akamai Technologies, Inc.|
+|17|166.249.154.135|3128|United States|Utica|Verizon Business|
+|18|169.63.230.169|8081|United States|Dallas|SoftLayer|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
