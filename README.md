@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|5|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|6|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|15.204.236.81|8888|United States|Reston|OVH SAS|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|172.233.174.59|3128|United States|Miami|Akamai Technologies, Inc.|
-|15|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|16|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|18|15.204.151.144|3128|United States|Reston|OVH SAS|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|5|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|47.251.58.84|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|13|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|172.233.174.59|3128|United States|Miami|Akamai Technologies, Inc.|
+|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|18|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|19|115.127.178.74|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
