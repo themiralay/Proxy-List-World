@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|11|136.49.37.227|8888|United States|Austin|Google Fiber Inc.|
-|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|14|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|3|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|171.228.166.97|1001|Vietnam|Hanoi|Viettel Corporation|
+|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
 |15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|15.204.236.81|8888|United States|Reston|OVH SAS|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|41.65.160.173|1977|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
