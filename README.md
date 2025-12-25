@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|7|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|13|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|15|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|203.150.113.12|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|19|115.127.178.42|2589|Bangladesh|Dhaka|BRACNet Limited|
-|20|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|103.230.63.65|1120|Bangladesh|Chittagong|Next Online Ltd|
+|20|147.45.60.60|80|Estonia|Tallinn|GCS SER|
 
 
 
