@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |4|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|17|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
+|20|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
 
 
 
