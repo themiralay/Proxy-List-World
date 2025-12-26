@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|115.178.53.114|8080|Indonesia|Wonoharjo|NOC SIMAYA|
-|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|2|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|5|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
