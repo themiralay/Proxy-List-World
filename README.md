@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |16|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
 |17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
