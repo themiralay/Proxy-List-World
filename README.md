@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|107.172.234.212|3128|United States|Santa Clara|HostPapa|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|15.235.40.75|3128|Canada|Montreal|OVH SAS|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|12|103.169.255.194|8080|Indonesia|Kendalrejo|PT Master Star Network|
-|13|115.127.181.98|2589|Bangladesh|Dhaka|BRACNet Limited|
-|14|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|15|107.172.234.212|3128|United States|Santa Clara|HostPapa|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|18|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|16|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|160.25.35.211|8080|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
 
 
 
