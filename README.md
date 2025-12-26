@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81447** proxies at the latest update. Usable proxies are below.
+> Scraper found **81460** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38883|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38896|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41189|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.65.128.52|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|8.220.140.243|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|3|122.54.198.112|3128|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|4|107.172.234.212|3128|United States|Santa Clara|HostPapa|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
