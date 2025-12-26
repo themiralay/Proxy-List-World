@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
 |8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|43.230.131.157|8080|Indonesia|Gubengairlangga|Internet Ini Saja|
-|11|107.172.234.212|3128|United States|Santa Clara|HostPapa|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|9|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|107.172.234.212|3128|United States|Santa Clara|HostPapa|
 |15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|19|67.43.236.18|10447|Canada|Montreal|GloboTech Communications|
+|20|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
