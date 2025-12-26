@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|15|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|16|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
