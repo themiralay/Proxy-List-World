@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|15.204.236.81|8888|United States|Reston|OVH SAS|
-|11|91.228.147.92|8888|Ukraine|Kyiv|Internet Invest, Ltd.|
-|12|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|13|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|12|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
 |17|8.243.68.11|8080|Colombia|Bogotá|CTL Colombia|
-|18|166.249.154.135|3128|United States|Utica|Verizon Business|
-|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|170.106.175.48|80|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|43.135.170.188|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
