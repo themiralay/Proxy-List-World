@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|107.172.234.212|3128|United States|Santa Clara|HostPapa|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.169.38.240|8080|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|107.172.234.212|3128|United States|Santa Clara|HostPapa|
-|14|103.159.96.146|3128|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|15|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|103.109.212.75|2215|Bangladesh|Farīdpur|Bismillah Telecom Service|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|19|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|183.97.65.162|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|15.204.236.81|8888|United States|Reston|OVH SAS|
+|16|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|18|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|107.172.234.212|3128|United States|Santa Clara|HostPapa|
 
 
 
