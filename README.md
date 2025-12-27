@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|13.212.96.245|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|18|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
