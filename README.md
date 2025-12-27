@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|7|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|20|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|16|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
