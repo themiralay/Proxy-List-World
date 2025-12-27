@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81224** proxies at the latest update. Usable proxies are below.
+> Scraper found **42493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38731|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41160|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|18|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|212.34.153.180|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|212.34.153.180|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|80.85.247.161|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
