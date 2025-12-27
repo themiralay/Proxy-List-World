@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|15.204.236.81|8888|United States|Reston|OVH SAS|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|20|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|15.204.236.81|8888|United States|Reston|OVH SAS|
+|13|15.204.236.81|8888|United States|Reston|OVH SAS|
+|14|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|45.174.241.181|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
+|19|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
