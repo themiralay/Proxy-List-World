@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
-|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|154.19.38.197|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|15.204.236.81|8888|United States|Reston|OVH SAS|
-|20|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|16|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
