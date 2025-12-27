@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38779|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38737|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41118|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41160|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|16|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|18|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|15.204.236.81|8888|United States|Reston|OVH SAS|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
+|12|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|91.84.111.136|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|80.85.246.140|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|212.34.153.180|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
