@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|14|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|18|15.204.236.81|8888|United States|Reston|OVH SAS|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|112.78.133.58|8080|Indonesia|Ponorogo|BIZNET|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
