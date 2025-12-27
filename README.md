@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|12|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|13|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|15.204.236.81|8888|United States|Reston|OVH SAS|
+|13|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|16|15.204.236.81|8888|United States|Reston|OVH SAS|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
-|20|15.204.236.81|8888|United States|Reston|OVH SAS|
+|18|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 
 
 
