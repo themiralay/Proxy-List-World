@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **43173** proxies at the latest update. Usable proxies are below.
+> Scraper found **43136** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38930|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38893|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|128|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2889|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|154.19.38.119|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|20|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|103.230.63.66|1120|Bangladesh|Chittagong|Next Online Ltd|
+|5|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|103.66.47.166|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|10|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|12|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|13|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|110.159.123.225|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
