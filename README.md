@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|5|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |6|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.193.144.5|8181|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|15.204.236.81|8888|United States|Reston|OVH SAS|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|18|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
