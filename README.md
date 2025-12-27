@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.230.63.66|1120|Bangladesh|Chittagong|Next Online Ltd|
-|5|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.66.47.166|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|10|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|12|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|13|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|110.159.123.225|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|20|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|8|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|15.204.236.81|8888|United States|Reston|OVH SAS|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
+|15|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|18|110.159.123.225|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
