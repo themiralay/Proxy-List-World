@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|18|212.34.132.22|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
