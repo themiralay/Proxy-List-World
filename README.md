@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|6|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|7|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|12|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|87.120.166.178|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|18|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
