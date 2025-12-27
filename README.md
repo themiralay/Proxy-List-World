@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81279** proxies at the latest update. Usable proxies are below.
+> Scraper found **81353** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38831|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41118|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|7|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|19|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|185.143.228.128|1080|United States|Dallas|HIVELOCITY, Inc.|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
