@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|5|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|6|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|15|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|16|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|115.127.181.86|2589|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
