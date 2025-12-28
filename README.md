@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|5|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |12|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|13|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|103.48.71.2|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
