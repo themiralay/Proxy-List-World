@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|3|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|9|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+
 
 
 ## Contributing
