@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|2|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|62.60.151.128|80|Sweden|Stockholm|Aeza International LTD|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|80.85.246.214|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|41.65.160.172|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|18|212.34.154.131|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|212.34.155.126|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|212.34.140.200|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|14|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|80.85.245.37|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|18|212.34.146.152|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|212.34.140.200|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|212.34.153.180|5555|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
