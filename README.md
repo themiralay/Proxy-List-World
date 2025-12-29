@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|8.212.160.196|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
+|9|170.9.253.20|8888|United States|Chicago|Oracle Corporation|
 |10|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
 |11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|16|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|17|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|160.22.118.118|39114|Vietnam|An Hải|Sandclock Service Trading Company Limited|
+|15|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|16|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|17|43.225.151.30|1121|Bangladesh|Dhaka|Next Online|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
