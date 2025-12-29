@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|103.132.41.192|8080|Indonesia|Wonosobo|PT Kalimasada Inti Sarana|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |10|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|43.225.151.30|1121|Bangladesh|Dhaka|Next Online|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|205.237.104.203|3128|France|Paris|ESTOXY OU|
 
 
 
